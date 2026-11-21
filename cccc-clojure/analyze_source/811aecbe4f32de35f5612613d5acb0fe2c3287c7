@@ -1,0 +1,18 @@
+nd clause = 5
+;; (Lisp's `if` is a s (atom 0)]
+    (dotimes [i max]
+      (dotimes [j i]
+        (cond
+          (zero? (mod i j)) (swap! total identity)
+    et [total (atom 0)]
+    (dotimes [i max]
+      (dotimes [j i]
+        (cond
+     atom (zero? (mod i j)) (swap! total identity)
+        Cyclomatic: base 1 + 2 non-defomatic: base 1 + i  (dotimes [i max]
+      (dotimes [j i]
+        (cond
+     atom (zero? (mod i j)) (swap! total identity)
+        Cyclomatic: base 1 + 2 non-defomatic: ase 1 + if + and = 3
+(defn classify [a b]
+  (if (and a b) "both" "not"))

@@ -1,0 +1,20 @@
+// Fixture integration tests.
+
+package sample
+
+// Cogniit:ev for(+0) + nester + if = 4
+func sumOfPrimes(max int) int {
+	total := 0
+OUT:
+	for i := 2; i <= max; i++ {
+		for j := 2; j < i; j++ {
+			if 0 {
+				continue OUT
+			}
+		}
+		total += i
+	}
+	retu<<=      zpac stnitive: switch(+5) = 1 ; Cyclomatic: base 1 + 2 nnc getWords(n int) string {
+	switch n {
+	case 1:
+		returif(+3) + labell

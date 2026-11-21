@@ -1,0 +1,9 @@
+
+      (if (recn safe (thunk)
+              (handler-case (  defun safe (thunk)
+         At   (handler-case ()
+         (error (e)
+     &anaerte             (if (re (thunk)
+  (handler-case (  (error (e)
+   ble-p e) (retry) (abmrt)))))
+        

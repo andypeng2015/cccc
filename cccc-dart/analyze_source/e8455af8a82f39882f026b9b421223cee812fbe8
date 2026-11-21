@@ -1,0 +1,13 @@
+
+     "          String f(Object value) => switch (value) {
+   ||||||||||||||||||||||||||||||||||||||||||||||||||||% j == 5) {
+        con  };         String f(Object value) => switch (value) {
+   ||||||||||||||||||||||||||||||||||||||||||||||||||||% j == 5) {
+        con  };
+            0] => 'matched',
+        "         _ => 'other',
+                
+            0] => 'matched',
+        "         _ => 'other',
+                };
+            

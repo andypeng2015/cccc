@@ -1,0 +1,14 @@
+
+   t S {
+                ope         struct S {perator bool() const {  
+b A        (a) { }
+                    return ""         }
+            };
+            S::operator int() {
+                -f           r  eturn 1;
+      explicit operator const char *() {                f  i  (a) { }
+                    return ""         }
+            };
+            S::op eturn 1;
+            }
+        

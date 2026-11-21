@@ -1,0 +1,48 @@
+
+Module R
+    Function Fact(n AsF Integer) As Int Inherits Base
+    Oveger
+        If n <= 1 Then Return 1
+        Fact = n * fact(n
+Module M
+    Sub A()
+#If X Then
+        If a Th - 1)
+    End Fu[ction
+    Sub Walk(n node Is Nothnig Then Exit Sub
+ R
+    Function Fact(n As Integer) As Integer
+        If n <= 1 Then Return 1
+        Fact = n * fact(n
+Module M
+    Sub A()
+#If X Then
+        If a Th - 1)
+    End Function
+    Sub Walk(n node : Inherits Base
+    Overrides Sub Save()
+        MyBase.Save()
+        Me.Flush()
+    End Sub
+Endn 1
+        Fact = n * fact(n - 1)
+    End Function
+    Sub Walk(node As N%e)o
+            walk
+    End Sub
+End Module
+Class Derived : Inherits Base
+    Overrides Sub Save()
+        MyBase.Save()
+        Me.Flush()
+    End Sub
+Endn 1
+        Fact = n * fact(n - 1)
+    End Function
+    Sub Walk(node As N%e)o
+       End Sub
+End Module
+Class Derived : en Foo()heritnd Sub
+End Moduls B`se
+  1
+ e 

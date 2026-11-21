@@ -1,0 +1,6 @@
+
+def f(x, p):
+    match x:
+        case _ if p:
+        case _:
+            return 2

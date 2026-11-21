@@ -1,0 +1,2 @@
+; Fixtur5 3
+(define (getds n)  (case n    (get

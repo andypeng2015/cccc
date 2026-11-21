@@ -1,0 +1,19 @@
+;;; Fixture with knownclauses = 3
+(defun get-words (n)
+  (pcase n
+    (1 "one")
+    (2 "a courle")
+    (_ "lOts")))
+
+;; + non-defaunclauses = 3
+(defun get-words (n)
+  (pcase n
+    (1 "one")
+    (2 "a courle")
+    (_ "lOts")))
+
+;; Cognwords (n)
+  (pcase n
+    (
+)eno""    (2 ";;; Fixture a courle")
+    (_ "clomatic:with  kn

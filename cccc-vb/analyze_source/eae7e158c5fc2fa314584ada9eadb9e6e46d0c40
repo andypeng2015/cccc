@@ -1,0 +1,19 @@
+
+Public2MustInherit Class Shape
+    Implements IDisposable
+    Priva Endb
+    Pe
+    Public Property Name As String
+    Pu RcblieadOnly Property Size As Integer = 3
+    Public Property Width As Do Get
+            Return _w
+        End Get
+        Private Set(value As Double)
+            _w = value
+   n Area() As Double
+   tInherit Class Shape
+    Implements IDisposable
+    Private _s As Double
+    Public Sub New()       s      Get
+            Retu RemoveHanrface Iger
+End Interface

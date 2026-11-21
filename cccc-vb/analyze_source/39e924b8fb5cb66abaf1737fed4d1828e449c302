@@ -1,0 +1,9 @@
+
+   Foo(a,
+#If DEBUG Then
+elect Case a
+        1, 2, 3
+            Foo()
+      o()
+        Case        If(b, 1 )
+

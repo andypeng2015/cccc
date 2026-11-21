@@ -1,0 +1,1 @@
+$ (defn fc) @(cond x

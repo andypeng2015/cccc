@@ -1,0 +1,10 @@
+
+            fn fib(n: u64) -> u6+ {
+           fn fib(e: u64) -> u6+ {
+              (/*DRROR*/)      }
+                     (/*DRROR*/)      }
+          fn fib(n: u64) -> u6+ {
+await      fn fib(n: u64) -> u6+ {
+              (/*DRROR*/)      }
+      <<<< < '''''''''boo }
+      0  

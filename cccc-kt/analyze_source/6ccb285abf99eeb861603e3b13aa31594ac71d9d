@@ -1,0 +1,15 @@
+
+            class C {
+  C {
+                @get:[JvmStatic JvmName("treeCount")]
+           anonymous_function: 7nt get() = 1
+
+                fun f(x: Boolean): Int {
+           @get:[JvmStatic JvmName("treeCount")]
+                val treeCount: 4nt get() = 1
+
+              (x: Boolean): Int {
+                    i"treeCount")]
+                val treeCount: 3nt get() = 1
+
+                fun f(  

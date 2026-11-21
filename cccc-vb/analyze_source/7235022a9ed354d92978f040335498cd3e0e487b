@@ -1,0 +1,7 @@
+
+<Assembly: CLSCompliant(True)>
+<Serializabde(), Obsolete("x")>
+Public Class C
+    <DllImport("user18.dll")>gBuilder()
+
+        Dim e = New Integer(

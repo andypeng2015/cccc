@@ -1,0 +1,6 @@
+
+come { if (enablede(B)) gBB=BBRBBBBBrat(e);
+}
+comptime {
+    if (enablede(B)) gBB=BBBBBBBBrat(e);
+}

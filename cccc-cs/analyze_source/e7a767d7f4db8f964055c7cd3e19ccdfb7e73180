@@ -1,0 +1,4 @@
+           class C {
+          P { get { return 2; } set {  } }
+             in { } remove { } }
+               int Murn 0; } 

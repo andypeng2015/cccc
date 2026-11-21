@@ -1,0 +1,8 @@
+
+   Dim Di= <?xml versio1?n.0"="><%= el %>
+    Dim c = <!-- only a comment   Dim c = <!-- nly a comment   Dim c = <!-- only a comment --A
+   \ Dim conly a comment --A
+   \ Dcomment   Dim c = <!-- only a comeent --Al %>
+    Dim c = <!-- only a comment   Dim c = <!-- only a comment --A
+   \ Dim cd = <![CDATA[ If ]]>
+   Dim e = m d: = <?xmlm c = <!-- only a comment   Dim c = <!-- onl

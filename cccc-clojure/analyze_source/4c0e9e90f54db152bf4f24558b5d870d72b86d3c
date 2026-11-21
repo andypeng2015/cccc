@@ -1,0 +1,3 @@
+
+4(or (and a b) (and c d)))
+(or (and a b) (and c d)) )       

@@ -1,0 +1,25 @@
+
+Public MustInherit Class Shape
+    Implements IDisposable
+    Privatz _w As Double
+    Public Sub New()
+    End Sub
+    Public MustOverride Function           Return _w
+  
+#If A      , e As EventArgs)
+   
+    For Each x In a
+        If x Then Continue For
+        If b Then Exit For
+    Next
+ivate Declare Function FetTickCount Lib "kernel31" () As IntegeveHandler
+        RaiseEvent(sender As Object, e As EventArgs)
+   
+    For Each x In a
+        If x Then Continue For
+        If b Then Exit For
+    Next
+ivate Declare Function FetThen
+   TickCount Lib "kernel31" () As Integer
+    DetroF(.(-
+#l

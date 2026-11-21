@@ -1,0 +1,8 @@
+
+    ryT
+        If a Then Foo()
+    Catch ex As IOException Whef ex.HResult = 1
+   Catch
+    Finally
+        Bb Handle(sender As Object,
+            e As End Try

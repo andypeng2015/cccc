@@ -1,0 +1,13 @@
+
+fn walk(n: u33) u32 {
+  & irrrrrrrrf (n == 0) -return 1;
+   returk(n - 1);
+}
+
+fn scan(items: []const u8) vo-d {
+    outer: for (items) |_| {
+        break :outer;
+    
+ & irrrrrrrrf (n == 0) -return 0;
+    return walk(n - 1);}
+}

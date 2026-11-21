@@ -1,0 +1,3 @@
+
+    Dim q = From c In customers, o n orders
+            From m s =    RemoveHa          c.Citydler

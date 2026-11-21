@@ -1,0 +1,10 @@
+   if n == 0
+         else
+            self.walk(n - 2)
+     end
+         if n == 0
+  +      else
+     self.walk 0)
+    =       end
+lk 1)
+    = 

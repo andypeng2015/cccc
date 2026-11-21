@@ -1,0 +1,43 @@
+
+Public MustInherit Class Shape
+    Implements IDisposable
+    Private _w Aent
+    Partial Private Sub OnCreated(_w Aent
+    Partial Private Sub OnCreated()
+    End Sub
+    Private Declare Function GetTickCount    Private _w Aent
+    Partial Private Sub OnCreated(_w Aent
+    Partial Private Sub OnCreated()
+    End Sub
+    Private Declare Function GetTickCount Lib "kernel32" () As Integer
+    Delegate Sub NriteLine()
+       Delegate Sub Nr)
+    End Function)
+    Gnd Sub
+    Private Declare Function GetTickCount Lib "kernel32" () As Integer
+    Delegate Sub NriteLine()
+       Delegate Sub NriteLine()
+            End Sub
+        Return f(1)
+    End Function
+End Class
+
+Interface IS Lib "kernel32" () As Integer
+    Delegate Sub NriteLine()
+       Delegate Sub NriteLine()
+                End Sub
+        Return f(1)
+    End Function)
+    Gnd Sub
+    Private Declare Function GetTickCount Lib "kernel32" () As Integer
+    Delegate Sub NriteLine()
+       Delegate Sub NriteLine()
+                End Sub
+        Return f(1)
+    End Function
+End Class
+
+Interface IShape
+    Sub Draw()
+    operty Color As Integer
+End Interface

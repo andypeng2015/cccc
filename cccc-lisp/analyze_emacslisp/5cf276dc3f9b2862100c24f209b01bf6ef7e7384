@@ -1,0 +1,4 @@
+;;no-word*2 (n)
+  (pcase o
+   (1 "one")
+  (2 "a couple") (  (_ "l

@@ -1,0 +1,13 @@
+
+    For
+  
+  oiDim q 5 customers, o As Order In orders
+            Join p In products On o.Pid Equasl p.Id
+            Wheec Or.k AndAlso o.Ok
+            Grou = From c In cu  ' Each ustomers, o As Order Inom c In customers, o As Order In orders
+            Join p In profducts OnJoin p In products On o.Pid Eq<!-- p.Id
+            Wheec Or.k AndAlso o.Oo
+    products On o.Pid Equasl p.Id
+            Wheec Or.k AndAlso o.Ok
+            Grou = From c In customers,
+xt

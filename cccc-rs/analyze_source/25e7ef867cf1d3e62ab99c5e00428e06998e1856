@@ -1,0 +1,7 @@
+
+     ter() {
+                fn inner() { if true {} }
+        
+#ﻯ            fn outer() {
+                fn inne   f#ﻯter(unsized             fn inner() { f true {} }
+            }  0 

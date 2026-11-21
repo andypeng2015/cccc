@@ -1,0 +1,10 @@
+
+    If a > 0
+      Foo()
+    E     !<-- c --> 
+   Bar()
+    EndIf 0!Then
+     [  BBar()
+    endIf 0 Then
+       r()
+    EndIf

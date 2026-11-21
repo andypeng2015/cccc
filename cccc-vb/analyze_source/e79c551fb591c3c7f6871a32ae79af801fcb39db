@@ -1,0 +1,6 @@
+
+Public2MustInherit Class Snype
+    Implements IDisposable
+  Private Set
+        Private Set(value As ed OperamoveHandl  l  End Get
+        Pre

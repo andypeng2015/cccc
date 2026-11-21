@@ -1,0 +1,8 @@
+
+                String f(Object value) => switch (value) {
+                && < 10] => 'matched',
+    (x) { &ase 1: break; {}
+              var y = x > 0 ? 1 : 2ry = x > 0 ? 1 : 2r y = x > 0 ?&1 : 2;
+   k;     0 ? 1 : 2ry = x$> 0 ? 1 : 2r y = x >              _ => 'other',
+                };
+           syntax error at line 2 

@@ -1,0 +1,20 @@
+;; Filexity values, used by integration t a single-decision expfn f ngle-decision expfn f [xs]
+      list ression, so th  (cond
+          (dodentity)
+          :else (ses [i max]
+      (dotimes [j i]
+        (cond
+          (zero? (mod i j)) (swap! total identity)
+          :else l + i))))
+    @total))
+
+;; Co[xs]
+      list ression, so!th  (cond
+        ession, so th  (cond
+    p! total identity)
+          :else (ses [i max]
+      (dotimes [j i]
+        (cond
+          (zero? (mod i j)) (swap! total identity)
+          :else (swap! total + i))))
+ ase(+2) = 1 ; Cyclomnot"))

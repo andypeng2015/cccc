@@ -1,0 +1,4 @@
+<?php
+         t($cb) {
+                $obj = new class$cb {
+                    public   & 

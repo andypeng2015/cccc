@@ -1,0 +1,32 @@
+
+ 
+            fn f() {
+     ||||||||||||||{}
+| ||            let mut total = 0;
+                'out: for i in 1..=max {
+                    for j in 2..i {
+                        if i % j == 0 {
+                            continue 'out;
+                                  'out: for i in 1..=max {
+                    for j in 2..i {
+                        if i % j == 0 {
+                            continue 'out;
+                        }
+                    }
+                    total += i;
+                }
+                total
+            }
+          let mut total = 0;
+                'out: for i in 1..=max {
+                            }
+                    }
+                    total += i;
+                }
+                total
+            }
+          let mut total = 0;
+                'o||||||||||||y|  ||||||||||||||||W|||||||||||||y,xi|         
+    |||||| i |     
+         &    0000000000000000000003815067510273736750&94888240                total += i;
+           ||| | n 

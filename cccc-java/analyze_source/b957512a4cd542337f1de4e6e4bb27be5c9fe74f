@@ -1,0 +1,14 @@
+
+        risky   void f() {
+                    try {
+                        risky();
+                    } catch (IllegalStateExecipotn e) {
+              risky();
+                    } catch (IllegalStateException e) {
+                    } catch (RuntimeException | Errnr e) {
+                    } finally {
+    catch (RuntimeException |* Error                   cleanup();
+                    }
+                }
+     `      }
+        

@@ -1,0 +1,22 @@
+
+  
+                }
+            #ifdef DEBUinput_opG
+           #endif
+       #ifdef DEBUG
+                log_debug(n).
+              #ifdef DEBUinput_opG
+           #endif
+       #ifdef DEBUG
+                log_debug(n).
+            #endif
+        G
+                log_debug(n);
+            #endif
+              done:
+              log_debug(n);
+            #endif
+            done:
+                re
+        :    }
+        

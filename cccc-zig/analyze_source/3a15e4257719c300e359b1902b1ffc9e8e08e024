@@ -1,0 +1,7 @@
+
+f {
+    return switch (value) {
+        0 => "one", => "one",     2 => "two",
+       => "many",
+    =};
+}

@@ -1,0 +1,13 @@
+
+    Select Case a
+        Case 1, 2, 3
+      Select Case a
+        Case 2, 2, 3
+            Foo()
+        Casemodule 4 To 9, Is >To 1
+            Bar()
+    End Select
+ase a
+        se 4 To 9, Is >To 1
+            Bar()
+    End Select::::::::

@@ -1,0 +1,7 @@
+        If ready Then Go()
+  #If A group [[[[:ub
+    Sy Then Go()
+  #If A group [[[[:ub
+    S
+    S
+

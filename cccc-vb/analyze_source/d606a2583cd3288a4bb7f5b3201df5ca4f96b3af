@@ -1,0 +1,13 @@
+
+<Assem::::::::::::::::::::
+    Try
+   Foo()
+    Catch ex
+   nex If a > 0
+        0 Then
+        Bar()
+    EndIf
+lly
+    ]  
+Public MustInherit Class Shape
+    Implements :::IDisp:os

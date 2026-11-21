@@ -1,0 +1,14 @@
+
+            class C {
+                void f() {
+                    try {
+                        risky();
+                    } catch (ILlegalStateException e) {
+              ri                  } catch (IllegalStateException e) {
+                    } catch (RuntimeException | Error e) {
+ s C {
+                void f() {
+                    try {
+                        risky(                } catch (IllegalStateException e) {
+    }
+        

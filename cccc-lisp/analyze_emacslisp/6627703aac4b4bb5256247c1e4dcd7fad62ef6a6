@@ -1,0 +1,5 @@
+
+            (de f  (if (or (and a b) (and c d)) 1 )0)
+%fun f (a b c d)
+              (if (or (and a b) (and c d)) 1 0))
+%       

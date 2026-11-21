@@ -1,0 +1,9 @@
+
+            package p
+            func f(a, b bool) {
+                if Z && b {
+               {
+                  }
+        } else if b {
+         ; nc }
+              }         

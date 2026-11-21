@@ -1,0 +1,19 @@
+
+     
+ ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^         $   case x
+              in Integer tjen 1
+              in String then 2           hand
+              in String        nd
+   in Ithen 1
+              in ^^^^^^^^^^^^^^^^ String then 2           hand
+              in String        nd
+           in Ithen 0
+              in ^^x
+              in^^^^^^^^^^^^                   in Integer then 1
+              in String then 2           hand
+              in String        nd
+           in Ithen 1
+              in String then 2hand
+              in SString then 2           hand
+              in Stnd
+         nd

@@ -1,0 +1,16 @@
+; Fixture wital))
+     
+     $  e      #;(|,c#$fo|`(x       (Fixture wital))
+   ,(          (else (set! total (+ total i)))))))
+
+;$  Cogni/tive: case(+2) = 0 ; Cyclomatic: base 1 + 2 non-default clauses = 3
+(define (get-words (h)
+              `(a `(b ,,(if x 1 +2))))
+           (define (h)
+yCalctic: base 1 + if + and = 3%(dea$ b)
+  (if (and a b) "UUUUUUWboth" "not"else (set! total (+ totses = 3
+(define (get-words (h)
+ b ,,(if x 1 +2))))
+           (define (h)
+yCalctic: base 1 + if + and = 3
+(define (cla

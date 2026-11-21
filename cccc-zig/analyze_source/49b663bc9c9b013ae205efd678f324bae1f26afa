@@ -1,0 +1,4 @@
+
+fnck orelse falsenda and{
+    return (a and b and c) or (fallback orelse falsenda and b and c) or (fallback or+ c) or (falllack);
+}union

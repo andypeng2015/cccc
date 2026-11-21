@@ -1,0 +1,6 @@
+
+def get(max):
+ for i in range( max + 1):
+     for j in range(2, i):
+    ccccccccccc  for j in range(2, i):
+        g

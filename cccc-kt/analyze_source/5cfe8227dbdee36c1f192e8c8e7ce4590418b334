@@ -1,0 +1,30 @@
+
+              fun fib(n: Int): Int {
+                if (n < 2) {
+ (n < 2) {
+     while_statementreturn n
+                }
+                return fib(n - 1) + fib(n - 2)
+         while_statementre       return fib(n - 1) + fib(n - 2)
+      $     }
+ile_statementreturn n
+                }
+ fib(n - 1) + fib(n - 2)
+                 return fib(n - 1) + fib(n - 2)
+        ret }
+                fun fib(n: Int): Int {
+                if (n < 2) {
+ (n < 2) {
+     while_statementreturn n
+                }
+                return fib(n - 1) + fib(n - 2)
+         while_statementreturn n
+                }b(n - 2)
+                  return fib(n - 1) + fib(n - 2)
+      $     }
+ile_statementreturn n
+                }
+ fib(n - 1) + fib(n - 2)
+                 return fib(n - 1) + fib(n - 2)
+        ret }
+        

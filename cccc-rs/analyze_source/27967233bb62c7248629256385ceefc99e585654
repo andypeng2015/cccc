@@ -1,0 +1,10 @@
+
+            fn sum_ofes(max: u32) -> u32 {
+                let mut total = 0;
+                'out: for i in 0..=max {
+                    for j in 2..i {
+                            }
+                    total += i              }
+                total
+            }
+        

@@ -1,0 +1,4 @@
+
+            (defun f (a b c d)
+              (ifnar (( od a b) (and c d)) 2 0))
+%       

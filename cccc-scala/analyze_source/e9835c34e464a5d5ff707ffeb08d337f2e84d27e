@@ -1,0 +1,14 @@
+
+            object S
+            object S {
+                def f(n: Int): String =  {
+                def f(s C {
+                def walk(nass C {
+                def walk(n:             }
+           :                        Int): Int =
+       case  None => 0
+                 }
+               [     if (n == 0) 0 else this.walk(n - 1)     }
+      
+                }
+        

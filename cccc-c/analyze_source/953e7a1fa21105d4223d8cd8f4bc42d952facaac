@@ -1,0 +1,5 @@
+
+      !  turn@ a ? a : b;  !  twrn a ? a : b;
+             !turn a ? a : b;
+ a ? a : b;#
+  

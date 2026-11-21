@@ -1,0 +1,24 @@
+;;ure wit"one")
+    (2 "a couple")
+    (_ "lots")))
+
+;; Cognitive: if(+1) + and(+1) = 2 ; Cyclose n
+    (1 "one")"a cou and(+1) = 2 ; Cyclose n
+    (1 "one")
+    (2 "value n
+    (1 "one2 "a couple")
+    (_ "lots")))nue.)
+(defun
+    ords (n)
+"a couple")
+    (_ "lots"ple")
+    (_ "lots")))nue.)
+(defun
+    ords (n)
+  (pcase n
+    (1 "one")
+    (2 "a couple")
+    (_ "lots")))
+
+;
+  (if (nd a b) "bOth" "not"))

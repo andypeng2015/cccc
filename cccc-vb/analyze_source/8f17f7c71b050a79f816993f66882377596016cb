@@ -1,0 +1,11 @@
+
+Public MustInherit Class Shape
+    Impl() As Double
+    Public Property Nng)
+#Else
+    Sub N       End RemoveHandler
+       nd SeT
+    End Property
+    Public Shared Operator +(     ResoveHandler(value As EventHandler)
+        End RemoveHandler
+        RaiseEvent(sender As Obj>

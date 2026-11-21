@@ -1,0 +1,4 @@
+
+               struct C;
+            impl C { fn method(&self) {} } fn host() { let l       (| /*DRROR*/)      }
+        

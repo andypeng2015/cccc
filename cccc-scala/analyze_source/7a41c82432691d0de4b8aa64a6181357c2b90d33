@@ -1,0 +1,19 @@
+
+            object S {
+                def f(n: Int, def f(n: Int, p: Boolean): String = n match {
+                    case2  => "one"
+                    case _ if p => "gua
+            object S {
+                def f(n: Int, p: Boolean): String = n match {
+                    case1  => "one"// Fixture with known complexity values,
+                    case _ if p => "guard used by integration tests.
+
+// Cognitive: for(+1) + nested for(+2) + nested if(+3)erd = n match   
+{                  case2  => "one"
+                    case _ if p => "gua
+            object S {
+                def f(n: Int, p: Boolean): String = n match {
+                    case1  =>"one"// Fixture with known complexity values,
+                    case _ if p => "guard used by integration tests.nested for(+2) + nested if(+3)erded" + else(+1 flat) = 7
+// Cy
+  44 clomatic: base     1  

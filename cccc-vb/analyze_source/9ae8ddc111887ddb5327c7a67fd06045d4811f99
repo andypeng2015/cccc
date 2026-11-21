@@ -1,0 +1,17 @@
+
+Module P
+#If A Then
+    Sub N(ng)
+#Else
+    Sub N(a As Short)
+#End If
+    ule P
+#If A   End S/ub
+Then
+hen
+    Sub N(ng)
+#Else
+    Sub N(a As Short)
+#End If
+    P
+#If A/ EnEnd Module

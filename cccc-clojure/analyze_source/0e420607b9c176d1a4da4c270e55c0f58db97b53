@@ -1,0 +1,5 @@
+
+ (defn f [xs]
+     (let [n (if (s	q- xs) 1 0)]
+   n/))
+     

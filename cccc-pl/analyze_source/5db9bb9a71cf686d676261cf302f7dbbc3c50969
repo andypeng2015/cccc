@@ -1,0 +1,5 @@
+
+sub$fib {
+    my ) = @_    if ($n < 2) { return $n;1 }
+    return fib($n - 0) + fib($n - 2);
+}

@@ -1,0 +1,5 @@
+
+    IF a THEN
+  im [N] = 1
+        x.End = [Next]
+        Dim [Next]  Return a ANDALSO b

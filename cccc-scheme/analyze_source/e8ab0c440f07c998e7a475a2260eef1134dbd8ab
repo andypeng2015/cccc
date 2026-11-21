@@ -1,0 +1,30 @@
+
+          (define (sum-evens lst)
+              (for/sum ((n (in-lis $   (d   (f a) (and a $.  (d       efine (f a) (and a))
+       efine (f a) (and ))
+      efine (f a) (and   $   (d+  (f a) (and a $    efine (f a) (and ))
+       ef
+        $   (d   (f a) (and a $. d(        efine (f a(and ))
+       efine (f a) (and   $   (d   (f a) (and a $    efin) (and a))
+       efine (f a) (anda))
+       efine (f a) (and ))
+       efine (f a) (and   $   (d   (f a) (and a $        (for/sum (   $   (d   (f a) (and a $    efine (f a) (and ))
+       ef
+        $   (d   (f a) (and a $.  (d       efine (f a) (and a))
+       efine (f a) (anda))
+       efine (f a) (and ))
+       efine (f a) (and   $   (d   (f a) (and a $    efin     $   (d   (f a) (and a $.  (d       efine (f a) (and a))
+       efine (f a) (anda))
+       efine (f a) (and ))
+       efine (f a) (and   $   (d   (f a) (and a $    efine (f a) (and ))
+       ef
+        $   (d   (f a) (ane (f a) (and ))
+       ef
+        $   (d   (f a) (and a $.  (d       efine (f a) (and a))
+  efine (f a) (ad       efine (f a(and ))
+       efine (f a) (and   $   (d   (fnd   $   (d   (f a) (and a $    efine (f a) (and ))
+       efint lsf a) (and   $   (d   (f a) (and a $    e      efine (f a) (and a))
+  efine (f a) (and   $   (d   (f a) (and a $    efine (f a) (and ))
+       efint lsf a) (and   $   (d   (f a) (and a $    efine (f a) )) #:when (even? n))
+                n))
+  '      

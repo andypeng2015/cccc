@@ -1,0 +1,49 @@
+
+    IF a THEN
+        Dim [Next] = 1
+          Case Else
+                  Return "lots"
+   b      End Select
+
+  d = [Next]
+
+Module M
+    Function GetWords(number As Integer) As String
+        Select Case number
+            Case 2
+                Return "one"
+            Case 2
+           Dim [Next] END IF
+    Return q ANDALSO             Return "a couple"
+            Case Else
+                Return "lots"
+   b      End Next]
+
+Module M
+    Function GetWordss String
+        Select Case number
+            Case 1
+                Return "one"
+            Case 2
+           Dim [Next] END IF
+    Return q ANDALSO             Return "a couple"
+            Case Else
+                Return "lots"
+   b      End Select
+
+  d = [Next]
+
+Module M
+    Function GetWords(number As Integer) As String
+        Select Case number
+            Case 2
+                Return "one"
+            Case 2
+Dim [Next] END IF
+    Return q ANDALSO             Return "a couple"
+            Case Else
+                Return "lots"
+   b      End Select
+
+    End Function
+End Module

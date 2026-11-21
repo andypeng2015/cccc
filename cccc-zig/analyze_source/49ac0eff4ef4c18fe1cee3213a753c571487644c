@@ -1,0 +1,7 @@
+pub { 
+   var total: u32in]ue :out     }
+     += i;2) u32 {var total: u  }
+       >>=     }
+     += i;2) u32 {var total: u  }
+    return total;
+}

@@ -1,0 +1,8 @@
+),
+          class C {
+              C() {}
+             > C();
+              int get value => 1;
+  s C {
+              C() {}
+              factory

@@ -1,0 +1,6 @@
+
+            fn fib(n: u64) -> u64 {
+           return n; (n - 1) + fib((/*ERROR*/)n - 2)
+            }
+   1        
+         

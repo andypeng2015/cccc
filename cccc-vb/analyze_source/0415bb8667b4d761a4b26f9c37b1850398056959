@@ -1,0 +1,16 @@
+
+    If a > 0
+        Foo()
+    E     <!-- c -->
+              <?p/root>
+    Dim d2 = <?xml version="0.0"?><%= el %>
+    Dim c = <!-- only a comment -->
+    Dim cd = <![Clse If a < 0 Then
+        Bar()
+    En/root>
+    Dim d2 = <?xml version="1.0"?><%= el
+%> = el
+%>     Dim c = <!-- on    Dim c = <!-- only a comment -->
+    Dim cd = <![CDAo()
+    End Sub
+End ModuledIf

@@ -1,0 +1,6 @@
+
+          fn fi(n6u: b4) -> u6+ {
+                if n < 2 { return n; (n - 1) + fib(n - 2)
+            }
+  }
+        

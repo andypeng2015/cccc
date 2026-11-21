@@ -1,0 +1,10 @@
+ mnamespace Foo;
+       (                   }
+      <?php
+         ,  namespace \\Foo;
+            function f($x) {
+        return null;
+                }
+         <?php
+            namespace \\Foo }
+        

@@ -1,0 +1,19 @@
+
+            package p
+            func free() {}
+            type C struct{}
+              func free() {}
+        func free() {}
+           type C stru        func free() {}
+            type C struct{}
+               type C struct{}
+              func free() {}
+               func free() {}
+            type C suru        func free() {}
+            type C struct{}
+              func free() {}
+               func free() {}
+            type C struct{}
+              func free() {}
+           C struct() {}
+               

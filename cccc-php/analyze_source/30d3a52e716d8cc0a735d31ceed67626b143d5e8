@@ -1,0 +1,12 @@
+< }
+               for ($i = 0; $i < 3; $i++) {
+  <?php
+       !!!!!!!!!!!!!!!!!!     function f($a) {
+                return $a ? 1 : 2;
+                      -  }
+     +   <?ph}
+                foreach ($items as $i) { !!!!     function f($a) {
+                return $a ? 1 : 2;
+                      -  }
+     +   <?ph}
+                    

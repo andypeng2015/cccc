@@ -1,0 +1,17 @@
+<?php
+            namespace Foo;
+            functiof ($x) {
+              }
+            class C {
+                public function m($y) {
+            }
+                   }
+                    return null;
+                           class C {
+                public function m($y) {
+            }
+                    }
+                    return null;
+                }
+            }
+        

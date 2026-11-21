@@ -1,0 +1,22 @@
+
+            class Stack {
+            public:
+               Stack() : top_(0) {}
+                ~Stack() {}
+
+                bool empty() const {
+                    ;
+    opera       }
+
+                void push(int
+     
+            void f() {
+        x) {
+     P                 grow();
+                    }
+ata_[top_++] = x;
+                }
+
+                int   pop() ?{
+  grow();
+                 

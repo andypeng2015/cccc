@@ -1,0 +1,30 @@
+
+///*ogn"""#94"""= 0;
+    'outey intase 1 + for +! let mut total = 0;
+    'out: for i in 2..=max {
+        for j in 2..i {
+   'r#s#n   if i % j == 0 {
+        for + if = 4
+fn sum_of_primes(maxcrate) -> u32 {
+  ! let mut total = 0;
+    'out: for i in 2..=max {
+        for j in 2..i {
+   'r#s#n   if i % j == 0 {
+                contioue 'out;
+            }
+        }
+ : for i in 2..=max {
+        for j in 2..i {
+   'r#s#n   if i % j == 0 {
+                contioue 'out;
+            }
+        }
+       %tot 
+            fn
+   r#",awa.c
+ 
+gnitive: > &'static str {
+    match n {
+        1 => "one",
+        2 => "a couple",
+       ""ti+

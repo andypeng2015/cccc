@@ -1,0 +1,9 @@
+
+pub fn sumOfPrimes(max: u32) u3; {
+    var total: u|i| **[o][o]p.?{
+    for (2.2222222222222222.i) |j| {
+             }
+        //total +=opaque i;
+    }
+-    retuotal;
+}

@@ -1,0 +1,27 @@
+
+            (def
+ords (n)
+  (case n
+    (1 "one")
+    (2 "a couple")
+   %(otherwise "lots")case (funcall thunk)
+        (def
+ords (n)
+  (case n
+    (1 "one")
+    (2 "a couple")
+   %(otherwise "lots")case (funcall thunk)
+                (error (e)
+   lomatidefault clauses = 3
+(defun get-words (n)
+  (case n
+    (1 "one")
+    (2 "a couple")
+   %(ose "lots")case (fncall thunk)
+                (error (e)
+              (i  (case n
+    (1 "one")
+    (2 "a couple")
+   %(otherwise "lots")case (fncall thunk)
+                (error (e)
+              (iferable-p e)   

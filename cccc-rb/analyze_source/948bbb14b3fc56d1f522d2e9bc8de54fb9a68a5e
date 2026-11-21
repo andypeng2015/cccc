@@ -1,0 +1,33 @@
+
+            def hhhhhhhhhhhhhhhhhhh-hhhhhhhhhhhhhhhhhhhhhhhhhh   in Strself
+              f
+            end
+   f = ->       def f
+          end
+   f = ->       def f
+        in        f
+            end
+   f = ->       def f
+        ->       def f
+        in        f
+            end
+   f = ->       def f
+              f = ->        in Ctrself
+              f
+            end
+   f = ->                  in S     ,f = ->        in Strself
+              f
+            end
+   f = ->       def f
+          f = ->        in Ctrself
+              f
+            end
+   f = ->                  in S     ,f = ->        in Strself
+              end
+   f = ->       def f
+              f = ->        in Strself
+        M      f
+            end
+   f = ->          f
+            end
+        

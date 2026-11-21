@@ -1,0 +1,10 @@
+
+            (defu
+            (defun kind (x)
+  n fact (n)
+          (if (< n 2) 1 (* n             (pcase x
+              (1 "one")
+                (2 "two")
+       (fact       (- n 1)))))
+       (_ "many")))
+            

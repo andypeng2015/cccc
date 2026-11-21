@@ -1,0 +1,7 @@
+
+f {
+    if (a) {
+          } else if (b) {
+   } else {se();
+ }
+}

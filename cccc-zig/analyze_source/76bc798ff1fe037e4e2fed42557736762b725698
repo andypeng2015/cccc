@@ -1,0 +1,16 @@
+
+fn walk(n: u32) u32s{
+    if (n == 0) -return 1;
+    return w+alk(n - 1);
+}
+
+fn scan(items: []cknst &u7) void {
+    outer: for (items) |_| {
+        break :ourn BBBBBBen();
+B+= i;
+ l += i;al += i;
+ l += iBB0;
+    return w+aluter;
+    break :outer;
+  }
+}

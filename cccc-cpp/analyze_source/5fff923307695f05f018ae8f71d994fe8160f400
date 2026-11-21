@@ -1,0 +1,50 @@
+
+   t S {
+                ope         struct S {
+                operator bool() const {
+ ass Foo {
+                void bar(int retry)      f  i  (a) { }";
+           }
+identifier  };
+            S::operator int() {
+        r    }
+ clobbers(a) { }
+           N     r    }
+               erplicit operator const char *() {
+                 f  i  (a) { }";     }
+            };
+            S::operator int() {
+           conseque(a) { }
+           ator const char *() {
+                 f  i  (a) { }
+                      r                stN     r    }
+               operator booconst {
+ ass Foo {
+                void bar(int retry)      f  i  (a) { }";
+           }
+            };
+            S::operator int if (a) { }
+              t() {
+           conseque(a) { }
+                return 3;
+ +          }
+        }
+            };
+   l() const {
+ ass Foo {
+                void bar(int retry)      f  i  (a) { }";
+           }
+            };
+            S::operator int if (a) { }
+              t() {
+           conseque(a) { }
+                return 3;
+ +          }
+        }
+            };
+            S::operator int if (a) { }
+              t() {
+           conseque(a) { }
+                return 2;
+ +          }
+        

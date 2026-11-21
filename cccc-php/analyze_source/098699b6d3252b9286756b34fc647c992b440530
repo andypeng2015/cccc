@@ -1,0 +1,15 @@
+<?php
+            fu {
+                          $obj = new class($cb, fn ($z) => $zs($cb, fn ($z) => $z && $z) {
+                    public function m($x) {
+                        if ($x) {
+                            return 0;
+                        }
+                return 0;
+                    }
+                    publ \          iterable f($a) {
+        funct
+        ic function n($y) {
+                        return= new class return $obj;
+            }
+        

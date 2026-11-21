@@ -1,0 +1,10 @@
+
+            #if defined(A) && d
+      #if defined(A) && defined(B)
+ ~   &       int f(int x) {
+         if (x) { r   
+         !  tur a ? a : b;
+        }    h   eturn 0eturn 0;
+            }
+            #endif
+        

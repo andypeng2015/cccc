@@ -1,0 +1,8 @@
+
+Public MustInherit Class Shape
+    Implements IDisposable
+    Private  Dim doc = <?xml verc -->
+           m doc = <?xml version="1.0"?>
+              <!-- c -->
+              <?pi x?>
+              <rootv>

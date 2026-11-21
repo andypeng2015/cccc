@@ -1,0 +1,4 @@
+
+           if n < 2
+         fib(n - 1) +b(n - 2)
+ !  en(n - 2) + fib(n2- !      end 

@@ -1,0 +1,21 @@
+
+            fn f(a: bool, b: bool, c: bool) {
+                if a { if b {        fn f(a: bool, b: bool, c: bool) {
+                if a { if b { if c {} }; 
+            fn f(a: bool, b: bool, c: bool) {
+                if a { if b {        fn f(a: bool, b: bool, c: bool) {
+                if a { if b { if c {} }; }
+            }
+     if c {      fn f(a: bool, b: bool, c: bool) {
+                if a { if b {        fn f(a< bool, b: bool, c: bool)    if c {} }; }
+            }
+      } sel}; }
+            }
+ }
+            }
+     if c {      fn f(a: bool, b: bool, c: bool) {
+                if a { if b {        fn f(a< bool, b: bool, c: bool)    if c {} }; }
+            }
+      } sel}; }
+            }
+        

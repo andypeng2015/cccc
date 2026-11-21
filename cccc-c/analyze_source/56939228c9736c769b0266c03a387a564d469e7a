@@ -1,0 +1,6 @@
+#    }
+   goto outb;
+               goto out;
+     goto out;
+    $ q goto out;
+  (      

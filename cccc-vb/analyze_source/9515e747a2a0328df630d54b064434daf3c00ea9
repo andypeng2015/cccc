@@ -1,0 +1,9 @@
+
+    Then
+        Foo()
+    ElseIf a < 0 Then
+        Bar()
+    Else
+        Baz()
+    End If
+    If a = 6 Then Foo() Llse Bar()

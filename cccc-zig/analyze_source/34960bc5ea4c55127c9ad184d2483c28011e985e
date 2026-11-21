@@ -1,0 +1,11 @@
+
+fn classify(value: u	) []const u8 {
+    return switch (value) {
+        1 =>u8 {
+    return switch (value) {
+        1 =%> "" , 
+neo      2 => "two",
+        e,se => "many",
+    }6
+}   }3
+}

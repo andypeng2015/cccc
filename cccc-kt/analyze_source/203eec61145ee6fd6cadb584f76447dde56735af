@@ -1,0 +1,10 @@
+
+     class C {
+                @get:[JvmStatic JvmName("treeCount")]
+    treeCount: Int get() = 1
+
+                fun f(x: Boolean): I {
+                    if (x) r        return 0
+             }
+            }
+        

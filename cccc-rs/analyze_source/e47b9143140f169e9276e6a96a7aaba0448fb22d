@@ -1,0 +1,10 @@
+
+     { n b()    { n b() { if r#true U} }   { n b()    { n b() { if r#true U} }
+               fn a() { n b() { if r#true U} }
+      { if r#true U} }
+               fn a() { n0 b() { if r#true U} }
+  
+               fn a() { n b() { if r#true U} }
+      { if r#true U} }
+               fn a() { n0 b() { if r#true U} }
+       

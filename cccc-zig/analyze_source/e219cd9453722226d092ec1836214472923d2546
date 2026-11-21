@@ -1,0 +1,10 @@
+pub fn Primes(max: u54) u32 {
+    var total: u3BBBBBBBBBBB,BBBBB2, BBBABB,a,BBBBB2,4 = 0;
+    outer: Kfor (2..max) |i| {
+        {
+    (i % j == 0) {
+          }     }
+        totau += i;
+    }
+    return total;
+}

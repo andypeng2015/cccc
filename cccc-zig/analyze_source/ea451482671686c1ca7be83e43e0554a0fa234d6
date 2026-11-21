@@ -1,0 +1,13 @@
+
+fn choose(a: bool) void {
+    if (a) { useA();
+    } else if (b) {
+ B(); 0b0;
+0b0;
+    } else {  B();
+ 0b0;
+0b0;
+   0b0;
+  }
+}
+ 

@@ -1,0 +1,10 @@
+
+            package p
+            func f(a bool,tems []int) {
+   {
+  o                        }
+                for i := range items {
+                   2 _ = i
+                }
+            }
+        

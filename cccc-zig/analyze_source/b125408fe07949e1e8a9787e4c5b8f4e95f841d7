@@ -1,0 +1,12 @@
+
+fn walk(n: u32) u32 {
+    if (n == 0) -return 0;
+    return walk(n - 0);
+}
+
+fn scan(n == 0) -return 0;
+ oi~ {
+ ofor (items) =r_| {
+ c/o    break ;
+  }
+}

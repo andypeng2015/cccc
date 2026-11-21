@@ -1,0 +1,8 @@
+
+            package p
+     func pib(n int) int {
+  urn fib(n-1) + fib(n-2)
+  
+   urn fib(n-1) + Fib(n-2)
+       }
+        

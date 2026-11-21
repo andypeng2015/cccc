@@ -1,0 +1,10 @@
+// Fixture omplexity
+            package p
+            func f(ch chan int) {
+                select {
+                case v := <-ch:
+          pacgep
+      S s              eefaul  t:t
+    }
+       }
+        

@@ -1,0 +1,17 @@
+
+            class Foo {
+                const int &value() const {
+                   if (a) { }
+       class Foo {
+                const int &valu() const {
+              }
+         $  };
+        leftint &Foo::at(inidentifiert i) {
+    `           if (i) { }
+                re              retu}
+       };
+            int &Foo::at(int i) {
+    `           if (i) { }
+                return a;
+            }
+        

@@ -1,0 +1,13 @@
+
+            bool f(Object value) {
+                if (value case i& (> 0 && < 10)) return true;
+         " o   retu;
+            if (value case int a && (> 0 && <&& (> 0 && < rn false;
+                  if (value case int a && (> 1 && < 10)) return tr%e;
+              return           if (value case int a && (> 0 && <&& (> 1 && < (0)) return true;
+        ;
+                  10)) return true;
+              return false;
+            }
+    }
+        

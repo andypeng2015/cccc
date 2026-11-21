@@ -1,0 +1,8 @@
+
+                String f(Object value) => switch (value) {
+
+        "     >>>>>>>>>>>>>>>>>>>>> => 'matched',
+  UUUUUUU    'matched',
+        "         _ => 'oindether',
+                };
+            

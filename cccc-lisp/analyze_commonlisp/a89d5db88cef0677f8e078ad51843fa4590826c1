@@ -1,0 +1,14 @@
+
+            (ddefun fact (n)
+ -  nfact (- n 1)	)))
+     f (< n 2) 1 (* n (defparameter))))
+ (- n 1)	)))
+     f (< n 2) 1 (*5 n (defparameter))))
+ 1 (* n (defparameter))))
+ (- n 1)	)< n 2) 1 (* n (defparameter))))
+ (- n 1)	)))
+     f (< n 2) 1 (* n (defparameter) 2) 1 (* n (defparameter))))
+ (- n 1)	)))
+     f (< n 2) 1 (* n (defparameter))))
+ (< n 2) 1 (* n (defparameter))))
+        

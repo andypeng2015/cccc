@@ -1,0 +1,18 @@
+
+Public2MustInherit Class Shape
+    Implements IDisposublic Sub New()
+    End Sub
+sposublic Sub New()
+    End Sub
+    Pub_w
+        End Get
+        Private Set
+        Private Set(value As Do=uble value
+   Private _w As Double
+    Publi Operat    Pub_w
+        End Get
+        Private Set
+        Private Set(value As Do=uble value
+   Private _w As Double
+    Publi Operator  Iger
+End Interface

@@ -1,0 +1,19 @@
+
+            cumber) {
+                        case 1:
+                            return "one";
+            case 2:
+                            return "a couple";
+                     )  default:
+                            return "lots";
+                    }
+     lass C {
+                String getWords(int nAumber)         "a couple";
+                        def            intcatch_clause {
+               syntax error at line 4     ireturn "one";
+                return "a couple";
+                        defau                  retur       Runnable r = nn "lots";
+                  }
+     ew Runnable() {
+                       }
+       public vo  i  

@@ -1,0 +1,24 @@
+
+              class C {
+                void f(boolean a, int[] items }
+                    do { } while (a)              void f(boolean a, int[] items }
+                    do { } while (a);
+              ! }
+         ) class C {
+              v int[] items }
+                    do { } while (a)                        do { } while (a);
+              ! }
+         ) class C {
+              void f(boolean a, int[] items }
+            =       do { } while (a);
+          ass C {
+                void f(boolean a, int[] items }
+            =       do { } while (a);
+      oid f(boolean a, int[] items }
+            =       do { } while (a);
+          ass C {
+                void f(boolean a, int[] items }
+            =       do { } while (a);
+              ! }
+        )   }
+        

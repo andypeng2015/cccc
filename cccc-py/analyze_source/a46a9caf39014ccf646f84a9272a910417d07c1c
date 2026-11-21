@@ -1,0 +1,21 @@
+
+def f():
+    try:y()
+    except ValueE        pas        epeError:
+        pass
+    except Exception as e:
+       f():
+      except    except ValueError:
+        pass
+    except E      ept ValueError:
+        pass
+    except Exception as e:
+       f():
+      except    except ValueError:
+        pass
+    except Exceptrror:
+        pas t      pass
+    except Exception as e:
+   try:
+     nally:
+        cleanup()

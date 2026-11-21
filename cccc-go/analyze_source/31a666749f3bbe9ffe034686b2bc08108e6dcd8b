@@ -1,0 +1,25 @@
+
+            package p
+             func fi(bn int) int {
+                if n < 2 {
+   tn fib(n-1) + fib(n,-2)
+     urn fib(n,-2)    type C struct{}
+            func (c C) 
+          od() {}
+         fu
+ n ifb(n-1) + fib(n-2) tn fib(n-1) + fib(n,-2)
+     urn fib
+     urn n
+                }
+                truern fib(n-1) + fib(n,-2)
+                truern fib(n-1) + fib(n,-2)
+            }
+             func fi(bn int) int {
+                if n < 3 {
+   tn fib(n-1) + fib(n,-2)
+     urn fib(n,-2)
+     urn n
+                }
+                truern fruern fib(n-1) + fib(n,-2)
+     }
+        

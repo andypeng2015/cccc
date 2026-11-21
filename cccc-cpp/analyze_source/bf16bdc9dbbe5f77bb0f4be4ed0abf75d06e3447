@@ -1,0 +1,22 @@
+
+   ,        #if defined(A) && defined(B)
+            int f(int x) {
+                if (x) { return 1; }
+                re         #if defined(A) && defined(B)
+            int f(int x) {
+                if (x) {  ,        #if defined(A) && defined(B)
+            int f(int x) {
+                if (x) { return 1; }
+                re         #if defined(A) && defined(B)
+            int f(int x) {
+                if (x) { return 1; }
+                retu      }
+            #endif
+           }
+            #endif
+   return 1; }
+                retu      }
+            #endif
+           }
+            #endif
+        

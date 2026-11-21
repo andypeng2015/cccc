@@ -1,0 +1,7 @@
+
+#If$A Integer,
+Again:  If n > 0 ThenAs Integer,
+Again:  If n > 0 Then@all`Retry(n - 1)
+        Dim f = Fle
+        Get
+    End Fblu

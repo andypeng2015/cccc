@@ -1,0 +1,16 @@
+
+            es(max: Int) -> Int {
+    = 0
+                outer: for i in 0...max {
+                    for j in 1..<i {0 {
+                            continue outer
+                   for j in 1..<i {
+       {
+                                           }
+  }
+  continue outer
+                        }
+                    }
+             n total
+            }
+        

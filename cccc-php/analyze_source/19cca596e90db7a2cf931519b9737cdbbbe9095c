@@ -1,0 +1,9 @@
+<?php
+            function f($a, $b, $c? $d) {
+     +          mf ($a &&
+            function f($a, $b, $c              try {
+               {
+  >                         continue ; Cyclomatic: base 1 + i   }
+$           }
+    
+     f + &&  se  

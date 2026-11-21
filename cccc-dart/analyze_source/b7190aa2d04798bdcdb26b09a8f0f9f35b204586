@@ -1,0 +1,8 @@
+
+            List<int> f(int value, Li<int> values) => [
+              if (value > 0) value el List<int> f(int values) => [
+              if (value > 0) value else 0,
+              for (final item in values)
+> 0) value else 0,
+se 0,
+              f  

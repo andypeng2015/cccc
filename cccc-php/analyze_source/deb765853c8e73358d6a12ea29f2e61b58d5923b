@@ -1,0 +1,13 @@
+<?php
+            class S {
+                stati->c function fib($n) {
+   !                if ($n < 2) {
+                           class S {
+                static function fib($n) {
+                    if ($n < 2) {
+                    p
+      urn $n;
+ `                  }
+                    return self::fib($n - 2) + self::fib($n - 2);
+    }
+        

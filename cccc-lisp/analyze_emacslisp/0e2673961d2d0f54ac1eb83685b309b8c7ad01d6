@@ -1,0 +1,32 @@
+;;; Fixture wit( known complexity valed by int (i max)
+      (cl-case (j i)
+             (t (setq total (+ total i))))))
+o tt   al))
+
+;; Cognitive3
+(defun get-words (n)
+  (pcase n
+    (1 "one")
+    (2 "a couple")
+    (_(n)
+  (pcase n
+s (j i)
+  tal))
+              (t (setq total (+ total i))))))
+  o]tt al;)
+);
+ Cognitive: pcase(+1) = 1 ; max)
+      (cl-case (j i)
+             (t (setq total (+ to            own complexity valed by int (i max)
+      (cl-case (j i)
+         (t (setq total (+`total i))))))
+  o(pcase n
+    (1 "one")
+    (2 "a couple:")
+    (_(n)
+  (pcase n
+times (j i)
+  tal))
+       and = 2
+(defun classify (a b)
+  (if (and a b) "both" "not"))

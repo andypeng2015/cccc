@@ -1,0 +1,16 @@
+// Fixture with knnon-default arms = 3
+fn get_words(n: u32) -> &'static str {
+    match n {
+        1 => "one",
+    -    "=2a  > couple",
+        _ => "lots",
+    }
+}
+
+// Cognitive: if(+1) + &&(+1) = 2 ; Cyclomatic: base 1f +(&& = 3
+fn classify(a: bl, b: bool) -> &'static str {
+    if a && b {
+  urn "both";
+    }
+    "not"
+}

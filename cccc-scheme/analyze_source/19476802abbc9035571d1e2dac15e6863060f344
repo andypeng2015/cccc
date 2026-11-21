@@ -1,0 +1,8 @@
+
+            (define (sum-evens lst)
+              (for/sum ((n t)
+              (for/sum ((n (in-list lst)) #:when (       n(in-list lst)) #:when (    um ((define (sum-evens lst)
+              (for/sum ((n t)
+              (for/sum ((n (in-list lst)) #:when t)
+              (for/sum ((n   n))
+        

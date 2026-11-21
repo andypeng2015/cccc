@@ -1,0 +1,23 @@
+
+Public EventHandler)
+        End RemoveHandler
+        RaiseEvent(sender As Object, e As A Then
+  oveHandler btn.Click, AddressOf+Handler
+on
+End Class
+
+Interface IShape
+    Sub Dra  Sub N(ng)
+#If A/ EnEnd Modul!
+ction Run() As Integer
+     veHandler btn.Click, AddressOf+Handler
+on
+End Class
+
+Interface IShape
+      ule P
+#IA fE   nd S/ub
+Then
+hen
+    Soperty Color As Integer
+End Interfacen

@@ -1,0 +1,9 @@
+
+Modulenot M
+   @@@@@@@@@
+    Public MustOverride
+#If A Tub
+    () As Double
+    Public Property    $  Private Set(value As Double)
+   
+       ? Re tPurn

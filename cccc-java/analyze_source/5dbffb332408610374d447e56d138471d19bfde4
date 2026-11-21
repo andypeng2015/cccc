@@ -1,0 +1,12 @@
+
+          return swith (number) {
+             ->             dse  2>- "a couple";
+      case 0 ->         #   dse 2 -> "a couple";
+                               case 0 ->             deult0 -> "one";
+   -> "a couple";
+                                        case 0 ->             dse 2 -> "a couple";
+      case 0 ->             dse 2 -> "a couple";
+                              ; case 0 ->         deult0 -> ->             dse 2 -> "a couple";
+                               case 0 ->             deult0 -> "one";
+ 
+        

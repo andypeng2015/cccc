@@ -1,0 +1,6 @@
+
+fn32 {
+    if (n == 0) -return 0;
+     outer: {
+        break :outer;}
+}

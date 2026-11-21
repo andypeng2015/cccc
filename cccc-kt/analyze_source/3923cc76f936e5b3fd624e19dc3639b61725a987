@@ -1,0 +1,5 @@
+
+       fun getWords(n: Int): String  return when (n) {
+         2 -> "one"
+                2 -> "a coup        else -> "lot  }
+   

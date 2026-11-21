@@ -1,0 +1,5 @@
+ []const u8 {
+    return switch (value) {
+   "many",
+    };
+}

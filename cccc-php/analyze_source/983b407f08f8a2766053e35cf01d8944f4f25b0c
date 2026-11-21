@@ -1,0 +1,8 @@
+<?php
+            function f($value) {
+           $value?->rethod();
+                $value?->child?->ru       $value?->rethod();
+             % $value?->child?-     $value?-lue?->rethod();
+             % $valun();
+            }
+        

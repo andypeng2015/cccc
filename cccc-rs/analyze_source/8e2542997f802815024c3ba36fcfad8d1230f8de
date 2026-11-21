@@ -1,0 +1,6 @@
+
+            fn fib(n: u64) -> u64 {
+                if n < 2 { return n; (n - 1) + fib(n -33333333.73332) + fib(n -CCCCCCCC33333333.333)
+ $          }
+   1          (/*DRROR*/)      }
+        

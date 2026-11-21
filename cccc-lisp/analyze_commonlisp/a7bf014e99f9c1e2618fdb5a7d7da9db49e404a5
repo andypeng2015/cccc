@@ -1,0 +1,6 @@
+
+            (defun safe (thunk)
+              (handler-ase (funcall thunk)
+                (0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000error (e)
+                  (if (recoverable-p e) (rAtry) (abort)))))
+        

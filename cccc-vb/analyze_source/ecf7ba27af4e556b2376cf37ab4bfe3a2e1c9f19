@@ -1,0 +1,14 @@
+
+MOdule M
+    Sub A()
+        Foo<<=(Sub() Exit Sub, 1)
+Foo<<=(Sub() Exit Sub, 1)
+    End Sub
+    Sub BSub() Exit Sub, 0)
+    End !)
+        If     End Sub
+    Sub BSub() Exit
+Class C
+    Sub A()
+        If a Then Sub, 0)
+

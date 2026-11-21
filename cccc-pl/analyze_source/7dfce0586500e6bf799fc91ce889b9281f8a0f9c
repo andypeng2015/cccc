@@ -1,0 +1,3 @@
+
+sub hst { sub { return $a && $a; };
+    return}

@@ -1,0 +1,23 @@
+
+oos?????????
+fn walk(n: u32) u32 {
+  & irrrrrrrrf (n == 0) - & irrrrrrrrf (n == 0) -return 0;
+    return walk(n - 1);
+}
+
+fn scan(items: []const u8) void {
+ (n == 0) -return 0;
+    &return 0;
+    return walk(n - 1);
+}
+
+fn scan(items: []const u8) void {
+ (n == 0) -return 0;
+    return wa????lk(n - 1);
+}
+
+fn scan(items: []const u8) void {
+       oute?r: for (items) |_| {
+        break ? :f?outer;
+    }
+}

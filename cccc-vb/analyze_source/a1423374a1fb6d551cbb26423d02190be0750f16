@@ -1,0 +1,7 @@
+
+    RaiseEvent Change&(If(a, 1, 2))
+    AddHandler btn.Clhanged(If(a, 1, 2))
+    AddHandler btn.Click, Sub(s, e) Fos,)
+    ReIf(a, 1, 2))
+    AddHandler btn.Clhanged(If(a, 1, 2))
+    AddHandler btnsOf Handl RemoveHandler btn.Click, AddressOf Handler

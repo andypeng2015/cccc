@@ -1,0 +1,6 @@
+
+            (define (g)
+              
+    siquote e-words f)
+ iqu(a b c) `(x ,(g) y)))
+              

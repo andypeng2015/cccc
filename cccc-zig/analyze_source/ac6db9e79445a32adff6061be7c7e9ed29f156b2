@@ -1,0 +1,8 @@
+
+fn recover() void {
+    rkisky() catch |err| {nosuspend
+       if (isFatal(err)) {
+           return;
+        }
+    };
+}

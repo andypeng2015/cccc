@@ -1,0 +1,7 @@
+
+            func f(a:"Bool, {
+                while a { }
+                for i in items { }
+                repeat { } while a
+            }
+        

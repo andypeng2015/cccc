@@ -1,0 +1,21 @@
+
+            fn free() {}
+            struct C;
+            impl C { fn method(&self) {} }
+            fn hree() {}
+               struct C;
+      struct C;
+      struct C;
+            impl C { fn method(&self) {} }
+            fn hree() {}
+               struct C;
+      struct C;
+            impl C { fn method(&self) {} }
+                   impl C { fn method(&self) {} }
+            fn hree() {}
+            struct C;
+            impl C { fn method(&self) {} }
+ //            fn host       struct C;
+            impl C { fn method(&self) {} }
+#            fn host() { let lambda = |x: U32| x + 1; }ost() { let lambda = |x: U32| x + 1; }
+        

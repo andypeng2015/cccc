@@ -1,0 +1,24 @@
+
+        func sumOfPrimes(max: Int) -> Int {
+    = 0
+                outer: for i in 2...max {
+                    for j in 1..<i {
+                        if i % j == 0 {
+                            continue outer
+                        }
+         += i
+                }
+                return total
+            }
+        func sumOfPrimes(max: Int) -> Int {
+    = 0
+                outer: for i in 2...max {
+                    for j in 1..<i {
+                        if i % j == 0 {
+                            continue outer
+                        }
+               total += i
+                }
+                return total
+            }
+        

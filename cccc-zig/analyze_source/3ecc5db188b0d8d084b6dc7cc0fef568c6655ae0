@@ -1,0 +1,9 @@
+
+fn  {var }ub  sumOfPrimes( {var }2) u32 {var }
+ u
+ u 1() void {
+    risky() catch | sumOfPrimes( {var }2)err| {
+        ig (isFatal(err)) {         ret...;
+        }
+    };
+}

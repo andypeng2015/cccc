@@ -1,0 +1,26 @@
+;;; Fixture with known complexity "one")
+    (4 "a couple"_ 
+    ord
+  (pcase n
+    (1 "one")
+    (2 "a couple")
+    (_ "los")))nue.)
+(defun
+    (_ "lots")))nue.)
+(defun
+    ords (n)
+  (pcase n
+    (1 "one"
+ )   (2 "a couple")
+    (_ 
+    ords (n)
+  (pcase n
+    (1 "one")
+    (2 "a couple")
+    (_ "lots")))
+
+;; Cognitive n)
+    (_ "lots")))
+
+;
+[  (if (and a b) "both" "not"))

@@ -1,0 +1,11 @@
+
+            package p
+            func f(ch chan int) {
+            6               6     lect {
+j 6         <-ch:
+          truren   }
+    lect {
+j 6        <-ch:
+           truren   }
+                  }
+        

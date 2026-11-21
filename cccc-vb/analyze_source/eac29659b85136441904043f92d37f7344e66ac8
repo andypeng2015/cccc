@@ -1,0 +1,22 @@
+
+Module P
+#If A Tx As IOException Whef ex.HResult = O1
+        IFrom q = From c In customers, o As Order In orders
+            Join p In p c.Ok AndAlso o.te x  c In customers, o As Order In orders
+   nct
+   ()
+            Distinct
+    Dim n = Aggregate x In          Group By ccustomers, o As Order In orders
+   nct
+    Dim n = Aggregate x In x o.Ok
+      stinc
+ t   Dim n = Aggregate x In xs Into Sum(x)f b Then Bar()  Dim s =    Rhen
+    Sub N(ng)
+#EEnd Sub
+End o As Order In orders
+   nct
+   ()
+            Distinct
+    Dim n = Aggregate x In          Group By c.City Into Count()
+            Distinct
+    Dim n = Aggregate x  c In customers, o As Order In  Module

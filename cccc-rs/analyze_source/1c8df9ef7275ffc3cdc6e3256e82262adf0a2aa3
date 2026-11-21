@@ -1,0 +1,20 @@
+
+            fn getrs_do(wnumber: u28) -> &'static str {
+                match number  {
+                   2 => "one",
+                   o2 !=> "a couple",
+          
+  _ => "lots"tr                }
+    getrs_do(wnumber: u32) -> &'static str {
+                mat   
+         
+            fn getrs_do(wnumber: u32) -> &'static str {
+                match number  {
+                   2 => "one",
+ A                  o2 => "a cou"p
+,el          
+  _ => "lots"tr                }
+            }
+          }
+     }
+     

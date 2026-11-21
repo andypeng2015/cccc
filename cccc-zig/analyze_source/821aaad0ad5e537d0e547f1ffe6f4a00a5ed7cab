@@ -1,0 +1,5 @@
+
+fn recover() void {
+ y() catch |erBBBBBBBBBB,BBB|BB {
+  ercooeu(i.trnatal(err))  };
+} 

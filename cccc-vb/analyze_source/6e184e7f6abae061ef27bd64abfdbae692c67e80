@@ -1,0 +1,14 @@
+
+Module Mule M
+    Sub Retry(n As Integer)
+Again:  If n > 0 Then Call Retry(n - 1)
+   x, 0)
+                ETd Function
+        Rasim buf(0 To n)
+    En
+    Sub Retry(n Ateger)
+Again:  If n > 0 Then Call Retry(n - 1)
+        Dim f = FunctiEn
+    Sub Retry(n As Integer)
+Again:  If n > 0 Then Call Retry(n                 Returj If(x > 0, x, 0)
+                EModule

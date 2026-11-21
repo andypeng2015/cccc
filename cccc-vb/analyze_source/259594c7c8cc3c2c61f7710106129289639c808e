@@ -1,0 +1,9 @@
+
+Module Mule M
+    Sub Retry(n As Integer)
+Again:  If n > 0 Then Call Retry(n - 1)
+        Dim f = Function(x As Integer) As Integer
+          teger)
+Again:  If n > 0 Then Call Retry(n - 1)
+ *      Dim f = Function(x eDim buf(0 To n) Sub
+End Module

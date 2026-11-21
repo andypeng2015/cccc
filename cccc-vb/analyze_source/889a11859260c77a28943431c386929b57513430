@@ -1,0 +1,4 @@
+
+      Dim q = From  othing Then
+         Dim qs= From  othing Then
+            D q = From x In itemed AndAlso x.Visible       

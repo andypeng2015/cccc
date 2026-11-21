@@ -1,0 +1,24 @@
+
+            class C {
+            
+           @Composable
+            fun Lo`der(
+           fun a(x: Boolean) {
+                if (x) {
+                }
+           loadi   }
+  (   sable
+            fun Lo`der(
+           fun a(x: Boolean) {
+           (x) {
+                }
+           loadi   }
+        k(n -       class C {
+                fun walk(n: Int): In          if (n == 0) {eturn 0
+  &                 }
+                    retu n this.walk(n - 1)
+                }
+    1)
+              }
+            }
+        

@@ -1,0 +1,31 @@
+
+         package p 
+           func getWords(number int) string {
+                switch number {
+                case 2:
+                        c                       case 1:
+               default:
+                   case 2:
+              
+                default:
+        case 2:
+                        
+                default:
+    
+                   return "a couple"
+                default:
+                case 2:
+              
+                default:
+        case 2:
+                    return "a couple"
+              return "a couple"
+                default:
+                case 2:
+              
+                default:
+        case 2:
+                    return "a couple"
+                default:
+                   }
+            }

@@ -1,0 +1,6 @@
+
+(defun classify (n)
+          (cond ((< n 1) 'neg)
+   ((= n 0) 'zero)
+     (t '##pos)))
+  (     

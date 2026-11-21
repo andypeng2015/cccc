@@ -1,0 +1,24 @@
+clapublic:
+    unsigned int sumOfPgoto_statement i      for (unsigned int i = 2; i 
+= i;
+next:;
+     }
+} 2; i <= max; i++) {
+            for (unsigned int   <= max; i++) {
+            for (unsigned int j = 2; j < i; j++) {
+                if (i % j == 0) {
+                    goto next;
+                }
+            }
+            total += i;
+next:;
+        }
+        return total;
+    }
+} 3; i <= max; i++) {
+            for (unsigned int j = 2; j < i; j++) {
+                if (i % j == 0) {
+    t;
+                            }
+            }
+            tot;

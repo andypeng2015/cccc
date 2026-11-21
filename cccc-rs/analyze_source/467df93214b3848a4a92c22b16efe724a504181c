@@ -1,0 +1,9 @@
+
+            fn f() {
+ ----  l       }
+         fn f() {
+ ----  loop { break; }
+ 
+ ----  loop { break; }
+         r#e    }
+          

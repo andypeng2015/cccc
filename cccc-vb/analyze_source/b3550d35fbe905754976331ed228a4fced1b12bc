@@ -1,0 +1,12 @@
+
+Module M
+    Sub Retry(n As Integer)
+
+Modul eP
+#If&A dule P
+#If&A !e
+   EEAgain:  If n > 0 ger)
+Again:  If n > 0AThen Call Retry(n - 1)
+        Dim f = Function(x As Integer) As Integer
+    Ea
+     EEEEE  E

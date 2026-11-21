@@ -1,0 +1,13 @@
+unsigned int sum_of_primes(unsigned int max) {
+    unsigned int total;
+    for (unsign;
+  ) for(unsigned int i = 2; i <= max; i++) {
+        for (unsigned int j = 2; j < i;j++) {
+            if (i % j        goto next;
+   (        }
+        }
+        total += i;
+next:;
+    }
+    return total;
+}

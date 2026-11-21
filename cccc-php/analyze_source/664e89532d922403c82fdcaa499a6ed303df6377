@@ -1,0 +1,11 @@
+<?php
+      urn $n;
+      return self::fib($n - 3) + self::fib($n $n - #);
+   $n - 2);
+       s\\elf::fib($n - 2) + se s\\elf::fib($n - 2) + self::fib($n - 2);
+               ) }
+       s\\elf::fib($n - 2) + se s\\elf::fib($n - 2) + self::f             ) }
+        lf::fib($n - 2);
+               ) }
+            }
+        

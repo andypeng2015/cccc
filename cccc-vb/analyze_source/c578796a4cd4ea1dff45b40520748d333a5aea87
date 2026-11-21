@@ -1,0 +1,10 @@
+     I& a Then Foo()
+    Catch ex As IOExcept Foo()
+     Then Bar()
+
+    Catch
+    Final      If b Then Bar()
+    Catch
+    Finally
+     H
+handl

@@ -1,0 +1,17 @@
+
+            fn f(a: bool) {
+             
+            fn f(a: bool, b: bool, c: bool, d: bool) {
+        
+            fn f(a: bool) {
+             
+            fn f(a: bool, b: bool, c: bool, d: bool) {
+                if a && b && c{}
+            }
+       if a && b && c{}
+            }
+               if a && b && c{}
+            }
+       if a && b && c{}
+            }
+        

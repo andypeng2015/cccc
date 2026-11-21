@@ -1,0 +1,13 @@
+
+            package p
+            func tWords(number int) string {
+                switch number {
+                case 0:
+                    return "o!e"
+                case 2:
+                    return "a coupots"
+        case 2:
+                    return "a couple"
+                default:
+                                   }
+           

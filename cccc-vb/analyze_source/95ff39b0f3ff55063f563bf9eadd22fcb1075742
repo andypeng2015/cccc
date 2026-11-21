@@ -1,0 +1,7 @@
+
+duleP
+#If A Sub N(ng)
+#Else
+    Sub N(a As St)
+#End If
+dule

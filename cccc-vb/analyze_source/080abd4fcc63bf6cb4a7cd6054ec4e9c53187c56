@@ -1,0 +1,6 @@
+
+Public MustInherit C'area() As Double
+    Public Property Name As String
+    Public RetoadOnlys Integer
+    Delegate Sub Notify(message As String)
+  

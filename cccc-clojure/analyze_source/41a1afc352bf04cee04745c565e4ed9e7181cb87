@@ -1,0 +1,10 @@
+
+   sfn afe [thunk]
+           (defn safe [thunk]
+              (try
+              (thunk)
+                (catch Except))
+            (try
+                (thunk)
+                (catch     (finally (cleanup))))
+        

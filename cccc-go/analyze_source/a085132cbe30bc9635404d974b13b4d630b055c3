@@ -1,0 +1,2 @@
+ package p
+            func a(x bool) { 0.0&15e00 ite 

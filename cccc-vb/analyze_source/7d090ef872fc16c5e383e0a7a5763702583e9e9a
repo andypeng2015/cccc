@@ -1,0 +1,17 @@
+
+    Dim v = x.@id
+    Dim w = x.
+    Dim doc = <root kind="a">
+          ..<item>.<name>
+    Dim z = x.@<ns:at    Dim v = x.@id
+    Dim w = x.
+    Dim doc = <root kind="a">
+          ..<item>.<name>
+    Dim z = x.@<ns:attr>
+    Return d?!        <item><%= If(a, 1, 2) %></item>
+              </root>
+    Dim nkeame = dotr>
+    Return d?!   t   <  iem        </root>
+    Dim nkeame = doc.<item>.@kiny
+d
+    If a Then Foo()

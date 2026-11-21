@@ -1,0 +1,4 @@
+
+    SelecCsta ents IDispos() As Double
+    Public Property Name As String
+    Public ReadOnly Property Size As Integer = , 2, 3ect

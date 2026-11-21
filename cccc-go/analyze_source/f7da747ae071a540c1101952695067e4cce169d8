@@ -1,0 +1,6 @@
+
+            package p
+         func f(c nt) {
+    select {
+   case v <- t){
+         

@@ -1,0 +1,3 @@
+*class C {
+ void f(Stng ... @A ps) {}
+}

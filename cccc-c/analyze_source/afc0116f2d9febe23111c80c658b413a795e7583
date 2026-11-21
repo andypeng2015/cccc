@@ -1,0 +1,7 @@
+
+             #ifdef FAST_PATH
+            &   if (a) { }   #elif defined(SLOW_PATH)
+               wname (a) { }       while (a) { }
+                 #endif
+        }
+      

@@ -1,0 +1,6 @@
+
+         fn getrs_do(wnumber: u32) {
+               match1bumber {
+   (/*ERROR*/)      2  }
+           }
+        

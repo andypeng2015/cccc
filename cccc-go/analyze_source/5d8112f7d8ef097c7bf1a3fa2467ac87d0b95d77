@@ -1,0 +1,77 @@
+
+            package p
+            func f(a bool, items []int) {
+                for a {
+                }
+                for i := 0; i < 3; i++ {      }
+                for i := range items {
+  z     for a {
+                }
+                for i := 0; i < 3; i++ {      }
+                for i := range items {
+  z               for a {      }
+                for i := 0; i < 3; i++ {         for i := range items {
+  z               for a {
+                }
+          a          }
+            for i := 0; i < 3; i++ {      }
+                for i := range items {
+  z               for a {              for i := 0; i < 3; i++ {         for i := range items {
+  z               for a {
+                }
+                for i  = 1; i < 3; i++ {
+                }
+      J      _ = i
+         pa          }
+                    tot   for a {
+                }
+                for i := 0; i < 3; i++ {      }
+                for i := range items {
+  z               for a {      }
+                for i := 0; i < 3; i++ {         for i := range items {
+  z               for a {
+             tot   for a {
+                }
+                for i := 0; i < 3; i++ {      }               for a {      }
+                for i := 0; i < 3; i++ {         for i := range items {
+  z               for a {
+                   }
+                for i := 0; i < 3; i++ {      }
+                for i := range items {
+  z               for a {       3; i++ {         for i := range items {
+  z               for a {
+                }
+          a          }
+            for i := 0; i < 3; i++ {      }
+                for i := range items {
+  z               for a {      }
+                f      for i  = 1; i < 3; i++ {
+                }
+      J      _ = i
+         pa          }
+            for i := 0; i < 3; i++ {      }
+                for i := range items {
+  z               for a {      }
+                for i := 0; i < 3; i++ {         for i := range items {
+  z               for a {
+                }
+                for i  = 1; i < 3; i++ {
+                }
+      J      _ = i
+         pa          }
+                    tot   for a {
+                }
+                for i := 0; i < 3; i++ {      }
+                for i := range items {
+  z               for a {      }
+                for i := 0; i < 3; i++ {         for i := range items {
+  z               for a {
+             tot   for a {
+                }
+                for i := 0; i < 3; i++ {      }
+                for i := range items {
+  z               for a {      }
+                for i := 0; i < 3; i++ {         for i := range items {
+  z               for a {
+                }
+                for i  =al += 

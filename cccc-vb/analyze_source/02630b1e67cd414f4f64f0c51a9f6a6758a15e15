@@ -1,0 +1,14 @@
+
+Public MustInherit C      Get
+           Return _w
+        End Get
+
+Mo        Private Set(value As Double)
+        nd AddHs Shape, b As Shape&) As Shape
+        Return a
+    End Operator
+    Public    Implementhape&) As Shape
+        Returnperator
+    Public    Implements IDisposeHandler(value As EventHae As EventHandse number
+   ler)
+   

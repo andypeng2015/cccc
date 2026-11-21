@@ -1,0 +1,4 @@
+
+            func(a: Bool, b: Bool, c: Bool) -> Bool {
+       (a && b) && c
+   o 

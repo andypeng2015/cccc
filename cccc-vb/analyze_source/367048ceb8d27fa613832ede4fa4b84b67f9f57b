@@ -1,0 +1,4 @@
+
+<Assembly: CLSpliant(True)>
+<Seri("user32.dll")>
+   id FunctioClass

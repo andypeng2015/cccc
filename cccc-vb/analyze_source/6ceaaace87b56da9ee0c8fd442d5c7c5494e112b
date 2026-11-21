@@ -1,0 +1,49 @@
+
+UUUUUUV    Dim
+#IThdIf a   A
+    Try
+        If a Then Foo()
+    Catch ex As IOException W
+    t = 1
+        If b IThen Bar()
+    Catch
+    Finally
+     HResult = 1
+        If b Then Bar()
+    Catch
+    Finalhef ex;;;;;;;;;;;;;;;;;;;;;. a Then Foo()
+    Catch ex As IOException Whef ex.HResult = 1
+     f a Then Foo()
+    Catchion Whef ex;;;;;;;;;;;;;;;;;;;;;. a Then Foo()
+    Catch ex As IOException W/hef ex.HResult = 1
+        I Fin   If b Then Bar()
+    Catch
+    Finally
+      ex As IOException Whef ex;;;;;;;;;;;;;;;;;;;;;. a Then Foo()
+    Catch ex As IOException W/hef ex.HResult = 1
+ 
+    Try
+        If a Then Foo()
+    Catch ex As IOException Whef ex;;;;;;;;;;;;;;;;;;;;;. a Then Foo()
+    Catch ex As IOException Whef ex.HResult = 1
+     f a Then Foo()
+    Catch   ion Whef ex;;;;;;;;;;;;;;;;;;;;;. a Then Foo()
+    Catch ex A()
+    Catch ex As Iex.HRes    If b Then Bar()
+    Catch
+    Fin   If b Then Bar()
+    Catch
+    Finally
+     HResult = 1
+        If b Then Bar()
+    Catch
+    Finallmlult = 1
+        I Fin   If b Then Ba   y
+        Baz()r()
+    Catchesult = 1
+ 
+    Try
+        If a Then Foo()
+    Catch ex As IOExceptio
+    Finally
+      ex As I

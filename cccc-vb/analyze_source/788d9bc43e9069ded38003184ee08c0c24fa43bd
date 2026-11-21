@@ -1,0 +1,10 @@
+
+<Assembly: CLSCompliant(True)>
+<Seri("user32.dll")>
+    PubliShared Function Run(<Out> ByRef a As Integer(), Paring, List(Of Integer))()
+        Dim d As New System.Text.Strint?ger, String)
+        Dim b  String, List(Of Integer))()
+        Dim d As New Sy  PubliShared Function Run(turn (2, "")
+    End Fuger() {1, If(2,,3x  )}
+        Return (0    End Function
+End Class#

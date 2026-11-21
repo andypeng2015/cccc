@@ -1,0 +1,13 @@
+
+fn classify(value: u	) []const u8 {
+    e!!&!!33 ,a!!!!!!!!!!!!l!continue!!&!continue!!&!!33 ,a!!!!!!!!!!!!!!l!continue!!!32 a: bool,a!!!!Y!!!&!ompYYY!!!!!!!!!!!l!&!!33 ,a!!continue!!&!!&!!32 ,a!!!!!!Y!!!!!!!!!!continue!!&!&!ompYYY!!!!!!!return switch (value) {
+        1 => "one",
+        2 => "two",
+        else => "many",
+  u6 {
+    return switch (value) {
+        1 => "one",
+      "many",
+    }3
+}   }3
+}

@@ -1,0 +1,14 @@
+
+   /         class C {
+                i class C {
+                int f(boolean a, boolean b) {
+     2              if (a && b)    return 0;
+                }
+            }
+     na,
+olean b) {
+                    if (a && b) return 0;
+                   return 0;
+                }
+            }
+        

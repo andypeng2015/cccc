@@ -1,0 +1,17 @@
+
+            object S {
+                def fib(n: Int): Int =
+                    if (n <       object S {
+                def fib(n: Int): Int =
+            
+            object S {
+                def fib(nt =
+                    if (n <       object S {
+     Int): Int =
+                    if (n < 2) n else fib(n - 1) + fib(n - 2)
+   2) n else fib(n - 1) + fib(n - 2)
+            }
+              if (n < 2) n else fib(n - 1) + fib(n - 2)
+   2) n else fib(n - 1) + fib(n - 2)
+            }
+       syntax error at line 4 

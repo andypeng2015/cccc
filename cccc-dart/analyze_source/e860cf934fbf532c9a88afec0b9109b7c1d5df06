@@ -1,0 +1,10 @@
+
+             class I {
+              C() {}
+              factory C.named    et top(int value) {}
+            class I {
+      factory C.named() => C();
+             s;
+       (       void method() { var callback = () { if (true) {} }; }
+   " $      }
+        

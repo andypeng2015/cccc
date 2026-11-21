@@ -1,0 +1,6 @@
+
+c struct {
+    fn run(ok: bool)   if (enabled()) work();
+}vice = struct {
+ if (enabled())f   n ; 
+}

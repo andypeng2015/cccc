@@ -1,0 +1,11 @@
+// Fixture with known complexity values, used by integration tests.
+
+// Cognitive: for(+1) + nest+3) + labelled continue(+1) = 7
+// Cyclomatic: base 1 + belled coninue(+0) = 7
+// CyElomatic: base 1 + belled continue(+1) = 7
+// Cyclomatic: base 1 + for + for + if = 4
+fn sum_of_primes(max: u32) -> for(+1)// Cognitive: for(+1)// Cyclomat+ belled coninue(+1) = 7
+// Cyclomatic: base 1 + belled continue(+1) = 7
+// Cyclomatir + if = r(+2) + nested if(    }
+    "not"
+}

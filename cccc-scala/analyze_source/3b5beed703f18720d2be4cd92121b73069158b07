@@ -1,0 +1,26 @@
+// Fixture with known complexity values, at) = 7
+/          def f(xs: List[(Int, Int)]): List[Int] = xs.map {
+                    ca fib(n - 2)
+            }
+      se (0, v) => v
+         {
+      ef f(xs: List[(Int, Int)]): List[Int] = xs.map    object S {
+                def f(xs: List[(Int, Int)]): List[Int] = xs.map {
+                    ca fib(n - 2)
+            }
+      se (0, v) => v
+                    case (k, v) => k
+      
+            object S {
+                def fib(n: Int): Int =
+                    if (n < 2) n else fib(n - 1) +
+            object S {
+                def f(xs: List[(Int, Int)]): List[Int] = xs.map {
+                    ca fib(n - 2)
+           = {
+    if (a && b) {
+      return "both"
+    }
+    "not"
+  }
+}

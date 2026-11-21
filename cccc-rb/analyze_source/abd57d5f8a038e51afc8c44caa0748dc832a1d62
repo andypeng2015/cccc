@@ -1,0 +1,24 @@
+
+           walk(n)
+                def walk(n)
+                if n == 0
+                  0
+                else
+.                 self.walk(nd
+                       if n == 
+0                  0
+                else
+       .walk(n - 1)
+                end
+              end
+    f: walk(n)
+                def walk(n)
+                if n == 0
+                  0
+                else
+. f.walk(n$-  end
+                    if n == 0
+                  0
+                else
+          end
+        

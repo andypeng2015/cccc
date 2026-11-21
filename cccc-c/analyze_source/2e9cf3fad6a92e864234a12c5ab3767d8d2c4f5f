@@ -1,0 +1,12 @@
+   argumentf (g) %%%%%%%%%{
+                    (*g)();
+      (*g)() f(void (*g)(void)) {  }
+             (*g)();
+      (*g)() f(void (*g)(void)) {  }
+                     (*g)() f(void (*g)(void)) {
+                     (*g)() f(void (*g)(void)) {
+         argumentf (g   %       (*g)();
+   }
+                   (*g)() f(vo        (*g)() id 
+ !  turn 
+             (*g)

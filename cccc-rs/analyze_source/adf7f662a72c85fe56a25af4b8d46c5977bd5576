@@ -1,0 +1,22 @@
+
+            fn f() {
+ ----  loop { break; }
+             }
+         fn f() {loop { break; }   fn f() {
+ ----  loop { break; }
+             }
+         fn f() {loop { break; }
+             }
+         fn f() {
+ ----  loop { break; }
+ 
+ ----  loop { break; }
+             }
+unsized   
+             }
+         fn f() {
+ ----  loop { break; }
+ 
+ ----  loop { break; }
+             }
+unsized          

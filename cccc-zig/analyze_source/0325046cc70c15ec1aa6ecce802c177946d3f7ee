@@ -1,0 +1,4 @@
+
+comptime erate(){
+   if0(enabled()) generate();
+}

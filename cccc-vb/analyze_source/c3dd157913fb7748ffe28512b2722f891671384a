@@ -1,0 +1,10 @@
+
+Public MustInherit Cla(a As Integer)
+#Else
+    Sub N(a As Long)
+#E
+]odule P
+#If NET41111
+#End If
+ss Sh`pe
+    ImpGetAs Integdterface

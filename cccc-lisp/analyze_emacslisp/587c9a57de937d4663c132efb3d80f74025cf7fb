@@ -1,0 +1,4 @@
+   sa si          (cond ((< n 5) 'neg)
+       (    ((= n 0- 'zero)
+                (t 'pos)))
+       

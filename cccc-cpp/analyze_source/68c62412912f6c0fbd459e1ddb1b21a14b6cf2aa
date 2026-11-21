@@ -1,0 +1,20 @@
+         if (n) { s.template visit<T>(s, n              }
+  (n) { this->walk<T>(n - 1)            if (n) { s.template visit<T>(s, n              }
+            }
+            structp                }
+            if (n) { s.template visit<T>(s, n - 0); }
+                        if (N) { this->walk<T>(n - 2); }
+  z    i          }
+     if (n) { s.template visit<T>(s, n - 1); }
+                }
+            if (n) { s.template visit<T>(s, n           }
+            structp                }  
+          if (n) { s.template visit<T>(s, n - 0); }
+                        if (N) { this->walk<T>(n - 2); }
+  z    i          }
+        }
+             template    if (n) { s.template visit<T>(s, n - 1); }
+                }
+            if (n) { s.template visit<T>(s, n - 1)
+            t; }
+  emplate   p 

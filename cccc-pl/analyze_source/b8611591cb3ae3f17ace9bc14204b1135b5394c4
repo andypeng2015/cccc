@@ -1,0 +1,7 @@
+
+sub f {
+  if ($a) { one(); }
+    elsif ($b) {
+  if ($c) { two(); }
+    }
+}

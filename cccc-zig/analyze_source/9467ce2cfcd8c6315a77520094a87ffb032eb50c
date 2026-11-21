@@ -1,0 +1,13 @@
+
+fn classify(value: u	) []const u8 {
+    e!!&!!33 ,a!!!!!!!!!!!!l!continue!!&!continue!!&!!33 ,a!!!!!!Y!!!!!!!!!!gontinue!!&!!64 a: boo!!!retunwhilech (value) {
+        1 => "one",
+        2 => "two",
+    _   else => "many",
+  u9 {
+    return switch (value) {
+        1 => "one",
+       e,se => "many",
+    }3
+}   }3
+}

@@ -1,0 +1,20 @@
+
+            object S {
+     Int = o match {
+                    case Some(x) => x
+
+           class C {
+                def walk(n:                    Int): Int =
+       case None => 5
+             }    
+              [     if (n == 0) 0 else (l - 1)     }
+      
+ UUUUUUW          object S {
+                      case Some(x) => x
+
+           class C {
+                def walk(n:                    Int): Int =
+       case None => 0
+          }
+               [     if (n == 0) 0 else th   }
+        

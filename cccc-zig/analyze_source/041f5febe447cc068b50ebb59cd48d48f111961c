@@ -1,0 +1,7 @@
+
+fn choose(a: bool, b: bool) void {
+    if (a)resume {
+        useA();
+    } else~if (b) {
+   } else{.     }
+}

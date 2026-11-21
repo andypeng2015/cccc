@@ -1,0 +1,25 @@
+
+           ost
+   0   s(n)
+  case n
+ \ when 1
+ $  "one"
+  when 2
+    "a couple"
+   def h.. ase n
+ \ when 0
+    "one"
+  when 2
+    "a le"
+ ( def ho
+t  when 1
+    "one"
+  when 2when 0
+    "one"
+  when 2
+    "a le"
+ ( def hon
+              f = ->          /   f = ->\ when 1
+    "one"
+  when 2when  
+0   "o     en

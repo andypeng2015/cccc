@@ -1,0 +1,10 @@
+
+            template <typename T>
+   ue<T>::~Queue() {
+              if (this->data != nullptr) del template <typename T>
+            Queue<T>::~Queue() {
+          {
+              if (this->data != nullptr) delete[] (this->data);
+            }ete[] (this->data);
+            }
+            

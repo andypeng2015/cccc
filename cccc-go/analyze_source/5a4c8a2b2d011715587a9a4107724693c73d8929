@@ -1,0 +1,11 @@
+
+            package p
+            func f(ch chan int) {
+                select {
+                 case v := <-ch:
+                case v = <-ch:
+       b      9          case v := <-ch:
+   select {
+           case v = <-ch:
+  case v = <-c^=h:
+         b      

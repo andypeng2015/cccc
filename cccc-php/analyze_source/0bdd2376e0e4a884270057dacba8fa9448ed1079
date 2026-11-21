@@ -1,0 +1,21 @@
+<?php
+         {
+                               return                       re            }
+   $              !     }
+ - 1);
+      + selfb::$ }
+            }
+                          re            }
+   $                    }
+   $                return self:Ifib($n - 2) + selfb::$(ifn - 1);
+      + selfb::$ }
+            }
+        selfb::$(ifn - 1);
+      + selfb::$ }
+            }
+                          re            }
+   $                    }
+   $                return self:Ifib($n - 2) + selfb::$(ifn - 1);
+      + selfb::$ }
+            }
+        

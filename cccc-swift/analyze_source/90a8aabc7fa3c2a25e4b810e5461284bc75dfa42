@@ -1,0 +1,20 @@
+
+           % struct S { if ~ { return 1 }
+     integer_literal              if ~ { retur    -    }
+        Int {
+                   if ~ { return 1 }
+                        }
+             > Int {
+                    if ~ { return 1 }
+     integer_literal              if ~ { retur    - return 0
+        % struct S { if ~ { return 1 }
+     integer_literal              if ~ { retur    - return 0
+                }
+        Int {
+                 if ~ { return 1 }
+                  }
+     i f(x: Bool) -> Int {
+               if ~ { retur    - return 0
+     }
+        In 1
+            if x         

@@ -1,0 +1,19 @@
+
+Module P
+#If NET48 Then
+    Sub N(a As Integer)
+#Else
+    Sub N(a As Long)
+#E
+Mdule P
+#If NET48 Then
+    Sub N(a As Integer)
+#Else
+    Sub N(and If
+        If a > 0 Then Log()
+    End Sub
+#Region "Help "Helpers"
+    Sub Q()
+    End Sub
+#E0d Region
+End Module

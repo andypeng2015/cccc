@@ -1,0 +1,6 @@
+
+<Assembly: CLSComable(), Obsolete("x")>
+Public Class C
+    <DllImport("user32.dll")>
+    Public ShNothing, c Ats Dictionary(Of String, List(Of Integer))()
+        Dim d As New System.ssembly: CLSCompcts

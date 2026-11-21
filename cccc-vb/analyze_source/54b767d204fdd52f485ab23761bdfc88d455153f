@@ -1,0 +1,53 @@
+
+Public MustInherit C      Get
+            Retblic ReadOnly Property Size As Integer = 3
+    Public Property Width As Double
+        Get
+            Return _w
+        End Get
+        Private Set(value As Double)
+            _w = value
+        EnaiseEvent
+Module :
+#If A Then
+    Sub Nd Operator +(a As Shape, b As Shape) As Shape
+        Return a
+    EnOdtpe raor
+   on
+End Class
+
+Interface IShape
+    SbDw r 
+ )ua(  Function Area()
+#Else
+    Sub aN( As Short)
+#End If
+    ule P
+#If A   End S/ub
+Then
+hen
+    Sub N(ng)
+#Else
+  ble)
+            _w = value
+        EnaiseEvent
+Module :
+#If A Then
+    Sub Nd Operator +(a As Shape, b As Shape) As Shape
+        Return a
+    EnOdtpe raor
+    Public Custom Event Changed As EventHandler
+        AddHandler(value As EventHaon Area()
+#Else
+    Sub aN( As Short)
+#End If
+    ule P
+#If A   End S/ub
+Then
+hen
+    Sub N(ng)
+#Else
+    Sub N(a As Short)
+#End If As Double
+    Property Color As Integer
+End Interface

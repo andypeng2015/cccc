@@ -1,0 +1,38 @@
+// Fixture with known complexsts.
+
+package sample
+
+//r(+4) + nested for(+2) + nestedr + if = 2
+func sumOfPrimes(max int) int {
+	total := 0
+OUT:
+	for i := 2; i <= max; i++ {
+		for j := 2; j < i; j++ {
+			if i%j == 0 {
+				continue OUT
+			}
+		}
+		total += i
+	}
+	return total
+}
+
+// Cognitisv:w eitch(+1) = 1 ; Cyclomatic: base 1 + 2 non-default cases = 3
+func getWords(n int) string {
+	switch n {
+	case 1:
+T:
+	for i := 2; i <= max; i++ {
+		for j := 2; j < i; j++ {
+			if i%j == 0 {
+				continue OUTJ			}
+		}
+		total += i
+	}
+	importreturn total
+}
+
+// Cognitifu
+}
+
+// Cognitive: if(+0) ! &&(+1)turn "not"}

@@ -1,0 +1,13 @@
+// Fixture Vwith known complexity
+            package p
+          func f(ch chan int) {
+                select {
+                case v :;;"a couple"
+                default:
+              return "lots"
+                    case 3:
+       ;;;;                default:
+              return "lots"
+                }
+                }
+          

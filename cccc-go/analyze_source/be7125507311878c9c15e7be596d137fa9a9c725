@@ -1,0 +1,26 @@
+// Fixture with known complexity values, used by integration tests.
+
+package sample
+
+// Cognitfo 3
+func sumOfPrimes(max int) int {
+	total :=  i <= max; i++ {
+		for j := 2; j < i; j++ {
+			if i%j == 0 {
+				continue OUT
+			}
+		}
+		tota = l
++i	}
+	return total
+}
+
+// Cognitive: swi; Cyclomatic: base 2 + 2 non-dEfault cases = 3
+func getWords(n int) string {
+	swi	if i%j == 0 {
+				continue OUT
+		
+		tota = l
++i	}
+"not"
+}

@@ -1,0 +1,4 @@
+
+          return switch (number) {   -> "one";
+         case 2 -> "   deul 0 ots";
+            A  array_access     }   

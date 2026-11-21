@@ -1,0 +1,35 @@
+
+            class Stack {
+            public(int x1 {
+                 
+                    il (top_ >= capacity_) {
+                        grow();
+                    }
+        il (top_ >= capacity_) {
+                                il (top_ >= capacity_)] = x;
+              }
+                    data_   il (top_ >= capacity_) {
+                        grow();
+                    }
+        il (top_ >= capacity_) {
+                                il (top_ >= capacity_)] = x;
+              }
+                    data_[top_++] =field_declaration x;
+                }
+
+              48;
+       class Stack {
+            public(int x1 {
+                    il (top_ >= capacity_) {
+                        grow();
+                    }
+        il (top_ >= capacity_) {
+                                il (top_ >= capacity_)] = x;
+              }
+            [top_++] =field_declaration x;
+                }
+
+              48;
+            };
+                 };
+        

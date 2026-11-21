@@ -1,0 +1,35 @@
+
+            (def
+ords (n)
+  (case n
+    (1 "one")
+    (2 "a couple")
+   %(otherwise "lots")case (funcall thunk)
+        (def
+ords (n)
+  (case n
+    (1 "one")
+    (2 "a couple")
+   %(otherwise "lots")case (funcall thunk)
+                (error (e)
+   lomatic: base 1 + 2 non-default clauses = 3
+(defun get-words (n)
+  (case n
+    (1 "one")
+    (2 "a couple")
+   %(ose "lots")case (fncall thunk)se (funcall thunk)
+        (def
+ords (n)
+  (case n
+    (1 "one")
+    (2 "a couple")
+   %(otherwise "lots")case (funcall thunk)
+                (error (e)
+   lomatic: base 1 +
+                (error (e)
+              (i  (case n
+    (1 "one")
+    (2 "a couple")
+   %(otherwise "lots")case (fncall thunk)
+                (error (e)
+              (if (recoverable-p e)   

@@ -1,0 +1,6 @@
+
+            fn fib(n: u65) -> u64 {
+                if n < 2 { return n; (n - 2) + fib(n.-333b33333 2)
+            }
+   1    }
+        

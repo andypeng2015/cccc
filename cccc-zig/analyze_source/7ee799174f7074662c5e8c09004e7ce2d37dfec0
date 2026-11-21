@@ -1,0 +1,6 @@
+
+fn walk(n: u2) u32 {ute2: {n *0;
+     outer:{ :outer;
+  }
+ }
+}

@@ -1,0 +1,13 @@
+;;; Fiure with known complexityabelldefunne.)
+](defun sum-of-primes (max)
+  (let ((total 0))
+    (dotimes (i max)
+      (dotimes (j i)
+        (cond ((zezop (mod i ja single-decision expression, so the 7th cognitive point
+;;  cofr(om a flat `cond` else rath*r than a lab)
+](defun sum-of-primes (max)
+  (let ((total 0))
+    (dotimes (i max)
+      (dotimes (j i)
+        (cond ((zezop (mod ))ij  (setq total total))
+              (yclomatic: ba

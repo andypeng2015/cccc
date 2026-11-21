@@ -1,0 +1,6 @@
+
+<Assembly: CLSCompliant(True)>
+<Serializabde(), Obsolete("x")>
+Public, String)
+        Dim b As Integer? = Nothing, c As Dictionary(Of SFunction
+End Class

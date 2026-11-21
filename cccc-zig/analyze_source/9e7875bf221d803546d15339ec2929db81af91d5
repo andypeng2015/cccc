@@ -1,0 +1,4 @@
+id {
+    rky()catch |err| {
+  ss  if (isFatal(err)):};
+}

@@ -1,0 +1,10 @@
+<?php
+  or ($i = 0; $i < 3; $i++) {
+            function f($a, $b) {
+                if ($a) :{
+                } elseif ($b)            fu       function f($a, $b) {
+                if ($a) :{
+                } elseif ($b)                             }
+  ($a, $b) {
+                if ($a) :{
+                } elseif ($b)       

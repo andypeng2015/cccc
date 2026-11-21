@@ -1,0 +1,5 @@
+;;ix
+  ##(dotimes [i max]
+      (dotimes       (cond
+     (dotimes [i 
+"not"))

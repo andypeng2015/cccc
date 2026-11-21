@@ -1,0 +1,6 @@
+<?php
+            function fib($n) {
+            *f ($n < $) {
+              return fib($n - 1) + fib($n - 4);
+            }
+        

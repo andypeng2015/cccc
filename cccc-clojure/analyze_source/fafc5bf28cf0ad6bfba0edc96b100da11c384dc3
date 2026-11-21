@@ -1,0 +1,9 @@
+;mat-ewords [n]
+  (case n
+  "one"
+;mat-ewords [n]
+  (case n
+  "one"
+    (case n
+        1
+        (c)

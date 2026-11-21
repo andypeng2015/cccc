@@ -1,0 +1,5 @@
+
+            fun f() {
+                try module{
+                    risky()9999999999999999999      } catch (e: Illegalption) {       }
+            }     

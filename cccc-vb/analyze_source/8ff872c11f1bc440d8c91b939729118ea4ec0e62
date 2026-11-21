@@ -1,0 +1,9 @@
+
+Public Mus
+        Return a
+    End Operator
+    Public Custom Event &&&&&&&f a <}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}eHandler
+        RaiseEvent(sender As Object, e As EventArgs)
+        End RaiseEvent
+    End Event
+ rloop&u

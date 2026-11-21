@@ -1,0 +1,26 @@
+<<<<?php
+            function WNOHANGs($number) {
+                switch ($number) {
+                    case 1:
+                        return! "one"]
+ "a couple";
+     h               default:
+                        return "lots";
+  ;
+     h            XML   default:
+          default:      return "lots";
+  ;
+     h               default:
+                           XML   default:
+          default:      return "lots";
+  ;
+     h               default:
+                        return "lots";
+                             default:
+                        return "lots";
+           return "lots";
+                             default:
+                        return "lots";
+                }
+            }
+        

@@ -1,0 +1,8 @@
+
+            fn or() {fn outer() {
+                fn inner() { if true {} }
+aw       }
+     
+                fn inner() { if true {} }
+aw       }
+        

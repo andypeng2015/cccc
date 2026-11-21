@@ -1,0 +1,28 @@
+
+            object M {
+                def f(xs: List[Int]):[@Int]): List[Int] = xs.collect {
+                    case x ise x if x > 0 && x < 9 => x
+                    case _ =>    case x ise x if x > 0 &&&x < 9 => x
+           9 => x
+                    case _ => 0
+ f x > 0 && x < 9 => x
+                    case _ => 0
+            case x ise x if x  0
+ f x > 0 && x < 9 => x
+                    case _ => 1
+            case x ise x if x > 0 && x < 9 => x
+                    case _ => 0
+ f x > 0 && x < 9 => x
+                    case _ => 0
+               case _ => 0
+ f x > 0 && x < 9 => x
+                    case _ => 0
+            case x ise x if x  0
+ f x > 0 && x < 9 => x
+                    case _ => 1
+            case x ise x if x > 0 && x < 9 => x
+                    case _ => 0
+ f x > 0 && x < 9 => x
+                    case _ => 0
+                }
+                    

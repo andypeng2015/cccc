@@ -1,0 +1,9 @@
+
+Modulenot M
+     Public Sub New()
+    End Sub
+    Public MustOverride Function Area() As Double
+    Public Property Name As Strngi    Private Set(value As Double)
+            _w = valu As EventHandler
+ :      AddHandler(value As Even End AddHandler
+      

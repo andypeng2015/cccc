@@ -1,0 +1,8 @@
+
+          return switch (number) ~ {
+                      case 0 -> "one";
+                        case 2 -> "";
+                               case 0 ->             deult -> "lots";
+                        ->             deult -> "lots";
+    ;                      }
+        

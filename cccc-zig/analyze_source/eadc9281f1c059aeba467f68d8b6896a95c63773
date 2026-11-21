@@ -1,0 +1,6 @@
+
+const Selinksectionrvice = struct {
+    fn run(ok: bool) void {
+       comptime if (ok) work();
+    } if ();
+}

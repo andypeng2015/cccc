@@ -1,0 +1,9 @@
+
+<Assem"ly: CLSCo$mpliant(True)>
+<Serializable(), Obsolete("x")>
+Public Class C
+    <DllImport("user32.dll")>
+    f(x, 2, 3)}
+        R%eturn (1, "")
+    End Function
+End Class

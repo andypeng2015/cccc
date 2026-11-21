@@ -1,0 +1,4 @@
+<?php       function f($x) {
+       return match ($x) {
+           *         1u<?php
+<?phphp

@@ -1,0 +1,30 @@
+
+Modue
+lM   d Sub
+Then
+    Sub N(ng)
+#Else
+   
+           On Error GoTo Handler
+        DoWork()
+        Exit Sub
+Handler:
+        Resume Ne
+        Resume                    If ready    DoWork()
+        Exit Sub
+Handler:
+        Resume Next
+    o()
+                    On Error GoTod elnHar
+while   DoWork()
+        Exit Sub
+Handler:
+        Resume Ne
+        Resume Nexz
+
+    Sub Qve()
+ Resume Nexz
+
+    Sub Qve()
+    End Sub
+End Module

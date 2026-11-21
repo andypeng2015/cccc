@@ -1,0 +1,13 @@
+
+     return when (n) {
+                    1           3 -> "a couple"
+                  2 else-> "one"
+                    3 -> "a couple"
+                    else -> "lots"
+      -> "one"
+                    3 -> "a couple" 
+                   else -> "lots"
+          3 -> "a couple"
+                    else-> "one"
+        }
+        

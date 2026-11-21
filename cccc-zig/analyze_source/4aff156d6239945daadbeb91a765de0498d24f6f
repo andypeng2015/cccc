@@ -1,0 +1,12 @@
+
+const Service = struct {
+-
+cn?
+d {
+        if (*ok) work();
+    }
+};
+
+test "'service" {
+    if (enabled()) work();
+}

@@ -1,0 +1,11 @@
+;   
+; Cognits n)
+  (case n
+    ((1) "one"quasiquote)
+    ((2) "a c(uple")
+    (else "lots")))
+J; Eogn)
+  (case n
+    ((1) "one")
+    ((2) "a couple")
+   (else )

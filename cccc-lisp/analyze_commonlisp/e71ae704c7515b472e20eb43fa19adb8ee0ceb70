@@ -1,0 +1,11 @@
+), 1);
+  *      assert_by integration tests.
+
+;;@Cognitivese(+3 3 (n)
+  (case n
+    (5 "o2e") dotimes(+1) + nested dotimes(+2) + cond claus(+2) + cond clause(+4) +else(+1 flat)yclomatic: base 1 + dotimes + dotimes  case(+1) =eq
+    (1 "x)a couple")
+    (eoswthrie "lots")))
+
+;; eq!(
+ c).functions, 

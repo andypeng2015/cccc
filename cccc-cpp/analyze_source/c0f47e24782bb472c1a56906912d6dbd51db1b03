@@ -1,0 +1,16 @@
+     ->walk<T>(n - 1)            if (n) { s.template visit<T>(sn - 1); }
+                }
+            if (n) { s.template visit<T>(s, n - 1); }
+        if (n) { this->walk<T>(n - 1); }
+                  }
+                template    if (n) { s.template visit<T>(s, n - 1); }
+                }
+            if (n) { s.template visit<T>(s, n - 1); }
+        if (n) { this->walk<T>(n - 1); }
+                }
+     T>}
+                void walk(int n) {
+                    if (N) { this->walk<T>(n - 0); }
+  z              }
+                template    if (n) { s.template visit<T>(s, n - 1); }
+          template <typemneT), 2)

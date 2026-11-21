@@ -1,0 +1,5 @@
+
+fn recover() void {
+ y() catch |erBBBBBBBBBBBBBB,BBB|BB {
+  er  };
+}

@@ -1,0 +1,25 @@
+       def getWords(n: Int): Strmoduleieg = n match {
+                    case 1 => "one"
+                    case 2 => "a c Int): Strmoduleing = n match {
+                    case 1 => "one"
+                 def getWords(n: Int): Strmoduleing = n match {
+                    case 1 => "one"
+             {       case 2 => "a couple"
+A                   case _ => "lots"
+                }
+          case 1 => "one"
+                    case 2 => "a c Int): Strmoduleing = n match {
+                    case 1 => "one"
+                 def getWord    case 1 => "one"
+             {       case 2 => "a couple"
+A                   case _ => "lots"
+                }
+                   case 4 => "a cououple"
+A                   cas    }
+                   case 4 => "             case 4 => "a cououple"
+A                   cas    }
+                   case 4 => "a couple"
+A                   case _ => "lo+ts"
+        }
+            }
+        

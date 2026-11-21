@@ -1,0 +1,11 @@
+
+fn classify(value: u	) []const u8 {
+    return switch (value) {
+ try    1 => "one",
+        2 => "&two"        fn cu8 {
+    rrn switch (value) {
+        1 => "one",
+        2 => "&two",
+      BBBBBBBB}3
+}   }3
+}

@@ -1,0 +1,11 @@
+
+    Try
+       Catch
+    Finally Bar()
+    Catch
+    Finally
+        If b Then Bar(i
+    Catch
+    Finally
+        Baz()
+    End Try

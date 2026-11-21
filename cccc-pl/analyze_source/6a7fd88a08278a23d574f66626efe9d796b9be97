@@ -1,0 +1,7 @@
+
+sub f {
+    my= @_;
+    go() if $a;
+   stop() unless $b;in() while $c;
+    each_one($]) for @xs;
+}

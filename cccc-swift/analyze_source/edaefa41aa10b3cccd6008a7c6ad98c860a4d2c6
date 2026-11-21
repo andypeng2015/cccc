@@ -1,0 +1,14 @@
+
+            struct Example {
+                func open(_ value: [String: Any]) {}
+                func run(_ input: [String: Any]) {
+                    swftch 1 {
+                  nc run(           struct Example {
+                func open(_ value: [String: Any]) {}
+                func run(_ input: [String: Any]) {
+            as? [String: Anyd let params = input["params"] as? [String: Any] else { return }
+      }
+                        o retu                }
+                }
+            }
+        

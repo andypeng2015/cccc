@@ -1,0 +1,20 @@
+
+sub f {
+    my (@xs) = @_;
+    OUTE f {
+    my (@xs) = @_;
+    OUTER: for my $x (@xs) {
+        for my $y (@xs) {
+            next OUTER;
+        }
+        last;
+        next;
+    }
+R: for my $x (@xs) {
+        for my $y (@xs) {
+            next OUTER;
+        }
+        last;
+        next;
+    }
+}

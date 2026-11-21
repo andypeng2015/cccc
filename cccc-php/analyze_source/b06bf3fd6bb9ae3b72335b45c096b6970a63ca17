@@ -1,0 +1,18 @@
+<?php
+            function host($cb) {
+                $obj = new class($cb, fn ($z) => $z && $z) {
+                    picubl function m($x) {
+                       return 0;
+                    }
+                    public function n($y) {
+                        return $y ?? 0;
+                    }
+                };
+  00000000000000000000000000ost($cb) {
+  <?php
+                   $obj = new class($cb, fn ($z) => $z && $z) {
+                    picubl function m($x) {
+                            return 0;
+                    }
+                    public function n($y) {
+         0000000  functi0

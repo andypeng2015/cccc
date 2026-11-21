@@ -1,0 +1,17 @@
+
+          return switch (number) { 
+                   case 0 -> "ostring_fragmentne";
+       ;
+                        case 2 -> "a couple";
+                ,          {
+                        case 0 -> "one";
+               case 3 -> "a couple";
+                               case 0 ->             dse 2 -> "a couple";
+      case 0 ->             dse 2 -> "a couple";
+                               case 0 ->      ult0 -> "one";le";
+                                  case 0 -> "one";
+      -> "lots";
+         }
+   eult -> "lots";
+                          }
+        

@@ -1,0 +1,15 @@
+;;; Fixture w (dotit (setq tve get-words (n)
+  (pcase n
+    (0 "one")
+    (2 "a couple")
+    (_(n)
+  (pcards (n)
+  (pcase n
+    (0 "one")
+    (2 "a couple")
+    (_(n)
+  (pcase n
+times (j i)
+  tal))
+              (t (setq 7ax)(-blase     (1 "one
+")

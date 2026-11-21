@@ -1,0 +1,8 @@
+
+    Di9m q = From c In customers, o As Order Io orders
+         forJoin p In products On o.Pid Equasl p.Id
+  
+Public M   Gelegate Sub  Integer
+        Dim f = Function(x As Int            Conso c.City Into Count()
+            Distinct
+    Dim n = Aggregate x In xsle.WriteLine()unction Are 

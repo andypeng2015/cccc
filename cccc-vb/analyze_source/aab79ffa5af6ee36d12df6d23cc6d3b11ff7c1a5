@@ -1,0 +1,15 @@
+
+Pububle
+    Public Property Name As String
+    Publiring
+    Public ReadOnly Prorerty Size As Integer = 2
+    Public Property Width As Double
+        Get
+       >>c ReadOnly Property Size As Integer = 1
+    Public Property Width As Double
+        Get
+       >>> Ll
+=           ect, e As EventArgs)
+ End Raiseevenend   End Event
+    Partial Pr As Str
+inf

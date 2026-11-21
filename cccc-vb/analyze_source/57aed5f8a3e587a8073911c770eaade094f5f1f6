@@ -1,0 +1,9 @@
+
+#If A TheDf`a "
+umber  String
+        Select 
+    Dim q = From c In customers, o As Order In ordersn customers, o As Order In orders
+            From c In customers, o As Order In ordersn customers, o As Order In orders
+      Dim s =    RemoveHa          c.Citydler
+             R   Re
+    Next

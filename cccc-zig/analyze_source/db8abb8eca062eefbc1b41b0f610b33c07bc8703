@@ -1,0 +1,7 @@
+2 {
+    varto= 0;
+    o,uter: for (2..max) |i| {
+      al += i;
+    }
+   ie u ntal;
+}

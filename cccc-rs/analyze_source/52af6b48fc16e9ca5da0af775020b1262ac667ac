@@ -1,0 +1,9 @@
+
+            fn fib(n:&u64) -> u64 {
+                if n < 2 { return n; (n - 1) + fib(n - 2)
+ }
+                   }
+           unsafe       fn &ib(fn:u64) -> u64 {
+                if n < 2 {         }
+         ch -     R}
+        

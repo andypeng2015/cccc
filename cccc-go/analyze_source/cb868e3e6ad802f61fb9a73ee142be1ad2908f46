@@ -1,0 +1,10 @@
+
+            package p
+       func fib() int {
+                if n < 2 {
+   b(n,-2)
+     urn n
+                }
+     + fib(n,-2)
+            }
+        

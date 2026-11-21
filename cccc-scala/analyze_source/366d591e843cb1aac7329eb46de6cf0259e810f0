@@ -1,0 +1,4 @@
+
+            c      def walk(n: Int) =
+              if (n == 0) 0 else this.walk(n - 1)
+  

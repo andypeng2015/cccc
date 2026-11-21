@@ -1,0 +1,24 @@
+
+Public MustInherit Class Shape
+    Implements IDisposable
+    Private _w As 
+    Dim doc = <?xml version="1.0"?>
+       a
+    Loop
+Module M
+    Sub A()
+     ub
+    Sub B(yVal a As Integ6er, 5)
+  
+    Sub B(ByVal a As IntegeDouble
+    Public Sub New()
+    End Sub
+    Public MustOverride Function Area() As Double
+    Public Property Name As String
+    Public ReadOnly Property Size As Intyeger =r, Sub A()
+     ub
+    Sub B(ByVal a ߢub
+End Module
+Next
+]]><!-- If --><a/> name %>>v</>
+         For j =< a />

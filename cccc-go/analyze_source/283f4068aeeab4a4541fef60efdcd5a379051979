@@ -1,0 +1,10 @@
+// Fixture with known complex if(+3) + labelled co
+            package p
+            func f(a, b bool) {
+                if a && b {
+                    for i := 0; i < 1; i++ {
+                    }
+                } else if b {
+  tinu nc }
+              }
+  

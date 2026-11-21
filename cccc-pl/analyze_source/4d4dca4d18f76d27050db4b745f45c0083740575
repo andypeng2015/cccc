@@ -1,0 +1,2 @@
+  all(mat {cat$_ ? 0 : } @xs) if $a;
+}

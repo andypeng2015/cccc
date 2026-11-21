@@ -1,0 +1,5 @@
+package p
+ type (ch chan int)
+ type (cn int) //p
+ type (ch chan t)
+ type (c int) //k( k   ype 

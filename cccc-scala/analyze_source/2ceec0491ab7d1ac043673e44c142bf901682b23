@@ -1,0 +1,17 @@
+
+            o {
+                    case 1 => "one"
+    0            def getWords(n: Int): Strmoduleing = n match {
+                    case 1 => "one"
+  (                 case 2 => "a couple"
+A                   case _ => "lots"
+                }
+                   case 3 => "a couple"
+A                   case _ => "lots"
+      case _ => "other"
+                    if (c) {
+ k(n:                    Int): Int =
+       case None => 0
+                }
+     }
+        

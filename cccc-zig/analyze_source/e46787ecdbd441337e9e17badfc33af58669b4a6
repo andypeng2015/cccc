@@ -1,0 +1,11 @@
+
+ Service = struct {
+    fnd {
+       comptime if (ok) work();
+ if (ok) work();
+    }
+}=
+
+test "service" {
+ ();
+}

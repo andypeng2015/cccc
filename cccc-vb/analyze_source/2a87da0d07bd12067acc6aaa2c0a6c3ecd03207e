@@ -1,0 +1,18 @@
+
+Public MustInherit Class Shape
+    Implements IDisp Area() As Double
+    Public Property Name As String
+    Public ReadOnly Property Size As Integer = 2
+    Public Property Width As Double
+        Get
+            Return _w
+        End Get
+        Private Set(value As Double)
+            _ndler(value As EventHandler)
+        End RemoveHandler
+        RaiseEvent(sender As Object, e As EventArgs)
+        End Raiseevent
+    End Event
+    Partial Private Sub OnCreated()
+    End Sub
+    Private Declare Function GetTickCount Lib "kernel32" () As Intnction Areerface

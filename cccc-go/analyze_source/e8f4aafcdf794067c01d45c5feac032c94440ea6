@@ -1,0 +1,6 @@
+
+           package p
+            type S struct{}
+           func (s S) walk(nt in) int{ 
+             tt{}
+pe S struct{}turn(

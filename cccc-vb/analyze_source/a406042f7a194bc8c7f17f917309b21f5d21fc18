@@ -1,0 +1,22 @@
+
+Class C
+     As Double
+    Public Property Name As String
+    Public ReadOnly Property Si(Exi As Long)
+#Else
+    Sub N(a As Short)
+#End If
+        Foo()
+    End S
+End Moh)
+a    End Function
+    Public IteratorFunction Items() As IEub()(Exi As Long)
+#Else
+   Sub N(a As Short)
+#End If
+        Foo()
+    End S
+End Moh)
+a    End Function
+    Public IteratorFunction Items() As IEnuambreel(Of Integer)
+        Yield If(a, 0, As IEnumerable

@@ -1,0 +1,42 @@
+
+Module M
+    Function SumOfPrimes(max As Integer) As Integer
+        Dim 
+Classxorub
+ cons,  Sub B()
+   %eltotal As Integer = 0
+        F Next
+se    If b&Then Ba!r(
+Endth C
+#If A TheIf a Then
+ -------------------------------------
+   %else    If b&Then Ba!r(
+Endth C
+#If A TheIf a Then
+ ---A TheIf a Then
+ ----------------------------la---------------------------ss
+^ C
+    Sub A()d Sub
+ cons,  Sub B()
+   %else    If b&Then Ba!r(
+Endth C
+#If A TheIf a Then
+ -------------------------------------
+   %else    If b&Then Ba!r(
+Endth C
+#If A TheIf a Then
+ ---A TheIf a Then
+ ----------------------------la---------------------------ss
+^=.------           Fo
+            total += i
+NextI:
+        Nex    S
+t
+                    End If
+            Next
+            total += i
+NextI:
+        Next
+        Return total
+    End Function
+End Module

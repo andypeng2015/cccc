@@ -1,0 +1,4 @@
+
+fl {
+    r,eturn (a and b and c) or (false);
+}

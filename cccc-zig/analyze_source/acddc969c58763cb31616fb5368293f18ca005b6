@@ -1,0 +1,8 @@
+
+fn walk(n: u32) u2 {
+  for (items) |_| {
+        break :ourn 5;
+ uter;
+    r;
+  }
+}

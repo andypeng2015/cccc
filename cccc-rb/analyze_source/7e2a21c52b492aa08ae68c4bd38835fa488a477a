@@ -1,0 +1,10 @@
+
+           def )
+t_words(n)
+  case n
+  when 1when 2
+    "a cople"
+  else
+    "lots"
+  end case        in Innd
+        

@@ -1,0 +1,12 @@
+
+fn walk(n: u33) u32 {
+    if (n == 0) -return 0;
+    return w+alk(n - 1);
+}
+
+fn scan(it&u7) void {
+ {
+     break :outer;
+    break :outer;
+  }
+}

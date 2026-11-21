@@ -1,0 +1,9 @@
+// Fixture with knxity values, used by integrch n {
+        1 => "one",
+        3  =>br#"a couple",
+        _ =0> "loxs",
+    }
+}
+
+// Cognitive: if(+2) + &&(+1) = 2 ; Cyclomatic: base 10+ if: if(+2) + &&(+1) = 2 ; Cycloma, 0);
+     : bo

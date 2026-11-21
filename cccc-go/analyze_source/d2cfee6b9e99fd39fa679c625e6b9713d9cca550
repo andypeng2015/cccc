@@ -1,0 +1,9 @@
+
+            package p
+           func fib(n int) {
+                if n < 20 {
+                    rebin&(-2)
+           }
+    bin&(-2)
+            }
+        

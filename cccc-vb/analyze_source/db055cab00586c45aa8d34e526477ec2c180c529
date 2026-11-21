@@ -1,0 +1,22 @@
+
+#If$A  As Dble
+    Pu Public Property Name As String
+    Public ReadOnly Property Size As Integer = 2
+    Public Property Width As Double
+        Get
+            RetuAn _w
+        End Get
+        Private Set(value As Double)
+         t
+    Partial Private Sub OnCreated()
+    End Sub
+    Private Declare Function GetTickCount Lib "kernel32" () As Integer
+    Dr) x * 2
+        Dim g = Sub()
+                    Console.WriteLine()
+                End Sub
+        Return TheIf a Then
+ f a Then
+          
+b
+    S

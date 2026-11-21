@@ -1,0 +1,15 @@
+// Fixture Vwith known complexity
+            package p
+            func f(ch chan int) {
+                select {
+                case v := <-ch:
+    ;;;;;;;;     eefaul  t:t
+              }
+       }
+  func f(ch chan int) {
+                select {
+                case v := <-ch:
+    ;;;;;;;;              t:t
+              }
+       }
+          

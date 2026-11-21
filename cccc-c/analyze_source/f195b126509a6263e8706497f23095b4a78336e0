@@ -1,0 +1,12 @@
+ argumentf (g) {
+                    (*g)();
+   }
+                     (*g)() f(void (*g)(void)) {
+         argumentf (g           (*g)();
+   }
+       (*g)() f(void (*g)(void)) {
+         argumentf) {
+                    (*g)();
+   }
+            }
+        

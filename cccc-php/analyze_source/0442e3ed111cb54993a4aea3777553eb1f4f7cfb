@@ -1,0 +1,6 @@
+<?php
+            function f($a, $b, $c, $c) {
+            returntion f($a, $b, $c, $c           function f($a, $b, $c, $c) {
+            ret  $a ?? $b ?? $c;
+            }($a && $b && 
+        

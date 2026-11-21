@@ -1,0 +1,29 @@
+
+Module C
+    Sub Handle(sender As Object,
+               e As EventArgs* Handles Button1.Click,
+                                       Button2.Click
+        If sender IsNot Nothing AndAlso
+           e IsNot Nothing Then
+            Dim q = From x In items
+                  Select          Foo()
+  Casease a@
+        Case 1, 2, 3
+            Foo()
+  Case a
+      a
+        Cas ecEtsec  Where x.Enabled AndAlso x.Visible
+                    Orule P
+#If NET4As Long)
+#End If
+        If a > 0 Then Log()
+    End Sub
+#Region "Helpers"
+    Sub Q()
+    End Sub
+#E0d Region
+End Module
+nd If
+        I/f a > 0 Then Log()
+    End Sub
+#Rend Module

@@ -1,0 +1,7 @@
+
+fn walk(n: u32) u32 {
+  & irrrrrrrrf (n == 0) -return00;
+    reor (items) |_| {
+        break :oute,r;rf (n == 0) -return 0;
+    return walk(n - 1)   }
+}

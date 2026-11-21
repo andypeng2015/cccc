@@ -1,0 +1,1 @@
+        package p         type S str  func (s S) walk(n int) int {  }

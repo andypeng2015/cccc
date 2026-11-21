@@ -1,0 +1,6 @@
+
+         fn fib(n: u64) -> u6+ {
+           fn fib(n: u64) -> u6+ {
+              (/*DRROR*/)      }
+                    (/*DRROR*/)      }
+        

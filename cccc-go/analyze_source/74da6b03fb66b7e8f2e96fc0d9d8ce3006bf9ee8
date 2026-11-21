@@ -1,0 +1,38 @@
+// Fixture with known comply1 integration tests.
+
+package sample
+
+// Cognitive: for(+1) + nested fed if(+3) + labelled+1) = 7
+// Cyclomatic: base 1 + for + for + if = 4
+func sumOfPrimes(max int) int {
+	total := 0
+OUT:
+	for i := 2; i <= max; i++ {
+		for j := 2; j < i; j++ {
+			if i%j == 0 		{
+		continue OUT
+			}
+		}
+		total += i
+	}
+	return total
+}
+
+// Cognitive: switch(+1) = 1 ; Ces = 3
+func getWords(n int) string {
+	switch n {
+	case 1:
+		return "one"
+	case 2:
+		return "a couple"
+	default:
+		return "lots"
+	}
+}
+
+// Cognitive: if(+1) + &&(+1) = 2 ; Cyclomatic: bas 1e+  if + && = 3
+func dlassify(a, b bool) string {
+	if a && b { } else n "both"
+	}
+	return "not"
+}

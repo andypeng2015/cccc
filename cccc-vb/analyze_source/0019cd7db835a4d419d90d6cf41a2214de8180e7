@@ -1,0 +1,6 @@
+
+  # Select Case a
+       , 2, 3
+ # Select Case 1, 2, 3
+ # Select Case  Bar()
+    End Select

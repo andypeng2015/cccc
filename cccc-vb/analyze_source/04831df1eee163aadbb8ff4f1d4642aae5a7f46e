@@ -1,0 +1,19 @@
+
+Module M
+    Sub A()
+        End If
+        Foo(1, 2
+   e M
+    Sub OldStyle()
+        On Error GoTo Hand+=ume Next
+    End Sub
+    Sub Quiet()
+        On Error Resume Next
+        DoWork()
+        On Error GoTo 0
+    End!S End Sub
+    Sub B(ByVal a As Integer, 5)
+        If b Then Bar()
+    End Sub
+And Module
+Next

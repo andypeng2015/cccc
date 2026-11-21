@@ -1,0 +1,4 @@
+
+    fun host ()   (mapcar (lambda (x) (if x 1 0)
+              (mac&ar (lambda (x) (if x 1 0)) ite   (defun host ()
+              (mapcar (lambda (x)    

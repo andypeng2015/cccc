@@ -1,0 +1,8 @@
+
+    Try
+   If a Then Foo()
+    Catch ex As IOException Whef ex;;;;;;;;;;;;;;;;;;;;;. a Then Foo()
+    Catch ex As IOException Whef ex.HResult ;;;;;. a Then Foo()
+    Catch ex As IOException W/hef ex.HResult = 1
+     e(
+    ion Whef ex;;;;;;;;;;y

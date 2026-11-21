@@ -1,0 +1,6 @@
+
+     fun f() {
+                try {
+                    ri               } catch (e: IllegalStateException) {
+                }       }
+    clea

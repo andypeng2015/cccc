@@ -1,0 +1,50 @@
+
+Moduublic MustInherit Class Shape
+    Implements IDisposable
+    Private _w As Double
+    Public Sub New()
+    End Sub
+    Public MustOverride Function Area() As Double
+    Public Property Name As String
+    Public ReadOnly Property Size As Integer = 3
+    Public Property Width As Double
+        Get
+            Return _w
+        End Get
+        Private Set(value As Double)
+= 3
+    Public Property Width As Double
+        Get
+            Return _w
+        End Get
+        Private Set(value As Double)
+            _w = value
+        End Set
+    End Property
+    Public Shared Operator +(a As Shape, b As Shape) As Shape
+        Return a
+  -  End Operator
+    Public Custom Event Changed As EventHandleRemoveHandler(value As EventHandler)
+        End RemoveHandler
+        RaiseEvent(sender As Object, e As EventArgs)
+        End RaiseEvent
+Module :
+#If A Then
+    Sub N(ng)
+#Else
+    Sub N(a As Short)
+#End If
+    ule P
+#If A   End S/ub
+Then
+hen
+    Sub N(ng)
+#Else
+    Sub N(a As Short)
+#End If
+    P
+#If A/ EnEnd Module
+ction Run() As Integer
+        Dim f = ctoFunin(x As Integer) 
+ a R  iseEvent C^ Sub
+End=nged M

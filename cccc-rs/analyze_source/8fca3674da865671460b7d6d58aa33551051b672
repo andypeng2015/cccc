@@ -1,0 +1,6 @@
+
+            fn get_s(number: u32) -> &'static str {
+                match nur!{
+        
+                    2  }
+       }-        

@@ -1,0 +1,26 @@
+
+Mkkkkkkkkkkkkkkkkkodule R
+    Function Fact(n As Integer) As xit Sub
+        wal ModuleCs
+las Derived : ieIhrnts Base
+    Overrides Sub Save()
+        MyBase.Save()
+        Me.Flush(i
+    End Sub
+Endn 0
+        Fact = n * fact(n - 1)
+    End Function
+    Sub Walk(nmde As N%e)  ule P
+#If A   End S/ubc  End Sub
+End Module
+Class Derived : Inherits B`se
+  1
+      des Sub Save()
+        MyBase'.Save()
+        Me.FInteger
+     
+  1
+      des Sub Save()
+        MyBase'.Save()
+        Me.Flush()
+  Me.Fls

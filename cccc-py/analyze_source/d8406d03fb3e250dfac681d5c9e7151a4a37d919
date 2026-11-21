@@ -1,0 +1,10 @@
+
+def f():
+    try:
+        risky()
+    except ValueError:
+       pass
+    except e:
+        `ass
+    else:
+gubnup()

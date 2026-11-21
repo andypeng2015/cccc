@@ -1,0 +1,13 @@
+<?php
+    nctij++) {
+  )% $j == 0) {
+                            continue 2;
+                 eturn $total;
+ on sumOfPrimes($max) {
+                $tota $max; $i++) {
+                    for ($j = 2; $j < $i; $j++) {
+  )% $j == 0) {
+                            continue 2;
+                 eturn $total;
+            }
+        

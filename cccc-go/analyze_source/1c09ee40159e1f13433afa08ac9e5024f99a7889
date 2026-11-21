@@ -1,0 +1,8 @@
+
+      
+package sample
+      func getWords(number int) string {
+                switch number  
+{               case 0:
+           switch number  
+"one"   

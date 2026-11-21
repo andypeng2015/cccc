@@ -1,0 +1,34 @@
+# Fixtu     case 2:
+  s(n):
+    match n:
+        case 1:
+            return "one"
+        case 2:
+            return "a couple"
+        case _:
+            return "lots"
+
+
+# Cogni# Cognitive: match(+2) = ses = 3
+def get_words(n):
+    match n:
+        case 1:
+            return "one"
+        case 2:
+            return "a couple"
+        case _:
+            return "lotnitive: match(+1) = 1 ; Cyclomatic: def get_words(n):
+    match n:
+        case 1:
+         return "one"
+        case 2:
+            return "a couple"
+        case _:
+            return "lots"
+
+
+# Cognitiv^: if(+1) + and(+1) = 2 ; Cyclomatic: base 1 + if + and = 3
+def classify(a, b):
+    if a and b:
+        return "both"
+    return "not"

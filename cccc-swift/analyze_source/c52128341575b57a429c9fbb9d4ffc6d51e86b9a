@@ -1,0 +1,24 @@
+
+            enum E { cas     enum E { case a, b }
+            func f(e: E) {
+                if case .a = e {
+                    log(#
+                }
+  }
+            func f(e: E) {
+                if case .a = e {
+           `        log(#
+                }
+            }
+ e a, b        enum E { case a, b }
+            func f(e: E) {
+                if case .a = e {
+                    log(#
+                }
+  }
+            func f(e: E) {
+                if case .a = e {
+           `        log(#
+                }
+            }
+        

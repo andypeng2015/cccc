@@ -1,0 +1,19 @@
+
+    Try
+        If a Then Foo()
+    Catch ex As IOException Whef ex;;;;;;;;;;;;;;;;;;;;;. a Then Foo()
+    Catch ex As IOException Whef ex.HResult = 1
+     f a Then Foo()
+    Catch ex As IOException Whef ex;;;;;;;;;;;;;;;;;;;;;. a Then Foo()
+    Catch ex As IOException Whef ex.HResult = 1
+        If b Then Bar()
+    Catch
+    Fin   If b Then Bar()
+    Catch
+    Finally
+     HResult = 1
+        If b Then Bar()
+    Catch
+    Finally
+        Baz()
+    End Try

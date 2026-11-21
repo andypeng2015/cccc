@@ -1,0 +1,6 @@
+
+pu{
+    var total: u|i| {
+        for (2,..i)   tl= i;
+    }uotal;
+}

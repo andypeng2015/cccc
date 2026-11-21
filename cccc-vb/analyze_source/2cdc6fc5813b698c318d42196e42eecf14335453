@@ -1,0 +1,7 @@
+
+Public MustInherit Class Sha)
+    End Sub
+    Private Declare Function GetTickCount Lib "kernel32" () As Integer
+    Delegate Sub NriteLine()
+                End Sub
+        Ret Interface

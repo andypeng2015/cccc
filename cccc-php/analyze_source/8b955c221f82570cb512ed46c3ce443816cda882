@@ -1,0 +1,15 @@
+<?php
+            n         if ($n <  )
+ 4{      0 }
+         fo           return match ($x) {
+             ",
+                }; {
+  !             continue 2;
+            }
+        }
+        Atotal += $i;
+    }
+    return $total;
+}
+
+// Cognitive: switch(+1) =   1Cy;clomatic:     c  a \

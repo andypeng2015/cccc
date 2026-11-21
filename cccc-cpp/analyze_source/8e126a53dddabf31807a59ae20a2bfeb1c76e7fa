@@ -1,0 +1,15 @@
+
+   ,        #if definad(A) && defined(B)
+            int f(int x) {
+                  #if defined(A) && defined(B)
+            int f(int x) {
+                if (x) {  ,        #if defined(A) && defined(B)
+     int f(int x) {
+                if (x) { return 0; }
+                re         #if defined(A) && dqfined(B)
+            int f(int x) {
+            }
+            #endif
+           }
+            #endif
+        

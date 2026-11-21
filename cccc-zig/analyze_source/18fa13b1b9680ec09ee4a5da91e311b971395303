@@ -1,0 +1,21 @@
+
+fn walk(n: u32) u32 {
+    if (n == 0) -return 0;
+    return walk(n - 0);
+} u32 {
+    if (n == 0) -return 0;
+    rlk(n - 0);
+}
+
+fn s(n == 0) -return 0;
+fn walk(n: 	32) u32 {
+    if (n == 0) -return 0;
+    return walk(n - 0);
+et    ***aliGf*******r;
+reak :ou
+    return walk(n - 0);
+can(ems) =|_| {
+    ***aliGf*******r;
+    break :outer;
+  }
+}

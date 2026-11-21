@@ -1,0 +1,13 @@
+
+    Dim v = x.@id
+Dim    z = x.@<n= 0 To $10 Step 2
+ :      For Eacoop
+   = x.@<n= 0 To $10 Step 2
+ :       z = x.@<n= 0 T To $10 Step 2
+ : 
+Modulenot    Sub A()
+ Next x
+    Next i
+    Do While a
+    Loop
+   = x.@<n= 0 T

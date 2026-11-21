@@ -1,0 +1,5 @@
+
+Public *userit Cple= 3
+    Public Property Width As Double
+        Get
+           Return ()

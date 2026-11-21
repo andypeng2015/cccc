@@ -1,0 +1,8 @@
+
+    Try
+      Catch ex As IOException 
+,       If b Then Bar()
+    Catch
+    Finally
+        Baz()
+    End Try

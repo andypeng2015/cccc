@@ -1,0 +1,9 @@
+
+ ct Case a
+     Case 1, 2, 3
+            Foo()
+  Case a
+        CSelect Case a
+        Case 1, 2, 3
+            Foo()
+  Case    Casect

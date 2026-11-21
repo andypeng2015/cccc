@@ -1,0 +1,7 @@
+
+32 {
+    if (n == 0) return 0;
+    return {
+    outer: for (items) |_| &    break :outer;
+    }
+}

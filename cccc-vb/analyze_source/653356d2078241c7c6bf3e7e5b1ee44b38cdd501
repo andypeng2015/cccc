@@ -1,0 +1,9 @@
+
+Class C
+    Public Async Function LoadAsync() As Task
+        Dim wait H()
+?   End Function
+    Public Iterator Function 
+        End Get
+  End Property
+End Class

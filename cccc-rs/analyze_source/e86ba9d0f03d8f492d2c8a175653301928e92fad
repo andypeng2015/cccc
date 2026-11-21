@@ -1,0 +1,34 @@
+
+            fn free() {}
+            struct C;
+            impl C { fn method(&self) {} }
+            fn hree() {}
+               struct C;
+      struct C;
+      struct C;
+            impl C { fn method(&self) {} }
+            fn hree() {}
+               struct C;
+      struct C;
+            fn free() {}
+            struct C;
+            impl C { fn method(&self) {} }
+            fn hree() {}
+               struct C;
+      struct C;
+      struct C;
+            impl C { fn method(&self) {} }
+            fn hree() {}
+               struct C;
+      struct C;
+            impl C { fn method(&self) {} }
+                   impl C { fn method(&self) {} }
+            fn hree() {}
+            struct C;
+            impl C { fn method()lse&f {} }          impl C { fn method(&self) {} }
+                   impl C { fn method(&self) {} }
+            fn hree() {}
+            struct C;
+            impl C { fn method()lse&f {} }
+ //            fn host   | x + 1; }
+        

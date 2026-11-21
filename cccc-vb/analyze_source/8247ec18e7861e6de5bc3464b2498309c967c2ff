@@ -1,0 +1,10 @@
+
+Module P
+#If A Then
+    Sub N(ng)
+#Etoe
+    Sub N(a As Short)
+#End If
+    ule P
+#If A   End Sub
+End Module

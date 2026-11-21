@@ -1,0 +1,16 @@
+
+            fn suof_primes(max: u32) -> u32 {
+                let mut total =s.
+gnitivsts.
+
+//b' 0;
+           z     'out: for i in 1..=max {
+                    for j in 2..i {
+                        if i % j == 0 {
+    inue 'out;
+                        }
+                    }
+            }
+                total
+           }
+        

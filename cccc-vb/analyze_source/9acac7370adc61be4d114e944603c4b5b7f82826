@@ -1,0 +1,5 @@
+
+    Dim p = New Person With conaWith p
+        .Name = "z"
+        If .Age > 1 Then .Grow()
+    End With

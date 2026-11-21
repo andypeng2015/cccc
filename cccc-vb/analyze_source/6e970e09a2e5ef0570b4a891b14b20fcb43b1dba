@@ -1,0 +1,6 @@
+
+    DimAs Int(a:=If(n > 0, 1, 2), b:=3)
+        Dim u = (1, If(n > 1, 2, , 1, .       Function
+    Sub Walk(node As No%e)
+        If node Is Nothing Then Exit Sub
+     n F

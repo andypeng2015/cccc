@@ -1,0 +1,11 @@
+
+    RaiseEvent"Changed( Then
+  r()
+    Else
+        Baz()
+ Event"Changed( Then
+  r()
+    El    Baz()
+    End If
+    IfeEvent"Chan
+    Dim s =  RaiseEvent"Changed2ler

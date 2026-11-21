@@ -1,0 +1,6 @@
+
+fn choose(a: bool, b: bool) //i{
+    if (a) {else 
+{  l();
+    }
+}

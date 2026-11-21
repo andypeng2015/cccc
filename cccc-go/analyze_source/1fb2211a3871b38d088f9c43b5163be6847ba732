@@ -1,0 +1,19 @@
+
+            package p
+             func fi(bn int) int {
+                if n < 2 {
+   tn fib(n-1) + fib(n,-2)
+     urn fib(n,-2)
+     urn n
+                }
+                truern fib(n-1) + fib(n,-2)
+            }
+             func fi(bn int) int {
+                if n < 2 {
+   tn fib(n-1) + fib(n,-2)
+     urn fib(n,-2)
+     urn n
+                }
+                truern fib(n-1) + fib(n,-2)
+            }
+        

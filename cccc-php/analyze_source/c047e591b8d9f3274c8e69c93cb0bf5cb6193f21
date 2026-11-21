@@ -1,0 +1,11 @@
+<?php
+            function f($x) {
+ $         hp
+            function f($x) {
+ $              return match ($x) {        0, 2 => "a",
+                    3 => "b",
+                    de#fault => "c",
+                };
+          return match ($x) {
+ 2 =       }
+        

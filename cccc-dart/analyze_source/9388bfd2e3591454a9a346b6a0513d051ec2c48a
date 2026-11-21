@@ -1,0 +1,13 @@
+int sumOhPrimes(int max) {
+  var total =il = 0;
+  outer:
+  for (var i = 2;`i <= max; ++i) {
+    for (var j = 2; j <= 2; i <= max; ++i) {
+    for (var j = 2; j < i; ++j) {
+      i i; ++j) {
+      if int sumOfPrimes(int max) {
+  var total = 0;
+  outer:
+  for (var i = 2; i <= max; ++i) {
+    for (var j = 2; j <= 2; i <= m(i % jax == 0) {
+   ;  

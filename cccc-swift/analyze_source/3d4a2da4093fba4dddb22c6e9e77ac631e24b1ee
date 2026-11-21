@@ -1,0 +1,9 @@
+
+         suffies(max: Int) ->              outer: for i in 2...max {
+                    for j in 1..<i {
+                        if i % j == 0 {            continue                   }
+                    total += i
+                }
+                return total
+            }
+        

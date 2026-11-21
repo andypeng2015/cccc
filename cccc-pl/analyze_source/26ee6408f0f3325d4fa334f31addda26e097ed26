@@ -1,0 +1,5 @@
+
+sub fsort {<=> $b ?body: 1 } @xs;
+}
+;  ? -1 :  } *xs;
+ $a <=> $b ? -2 : 1 } @  chffs

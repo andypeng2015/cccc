@@ -1,0 +1,11 @@
+
+    Dim   IF a THEN
+        Dim [Next] = 1
+        x.End = [Next]
+        Dim [Next] END IF
+    Return a ANDAL doc = <root kind="a">
+                  <item><%= If(a, 1, 2) %></item>
+    /         m>
+    /          </rawoot>
+    Dim n@kind
+    If a Then Foo()

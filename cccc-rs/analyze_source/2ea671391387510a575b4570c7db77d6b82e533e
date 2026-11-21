@@ -1,0 +1,14 @@
+
+         fn f() {
+               while true {}
+     { rbake? }
+         }
+          fn f() {
+               while true {}
+                 loop { rbake? }
+         }
+          fn f() {
+               while true {}
+          loop { rbace? }
+         }
+    n

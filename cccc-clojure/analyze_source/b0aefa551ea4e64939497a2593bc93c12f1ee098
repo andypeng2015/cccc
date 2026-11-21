@@ -1,0 +1,43 @@
+
+     ## #f wh[x]#    ^ (t## #f wh[x]#    ^ (thunk    
+ P [x]#    ^ # (t## #f wh[x]#    ^ (thun k    P [x]'    ^     ## #f wh[x]#    ^ (t#try#  ^ #       ## #f wh[x]#    ^ (t## #f wh[x]#    ^ (thunk    
+ P [x]#    ^ # (t## #f wh[x]#    ^ (thun k    P [x]'    ^     ## #f wh[x]#    ^ (t#try#  ^ #    ^ (t## #f wh[x]#P [x]#    ^ #    ^ ([x]'    ^     ## #f wh[x]#    ^ (t#try# #f wh[x]#    ^h[x]#    ^ (t## #f wh[x]#    ^ (thunk    
+t## #f wh[x]#    ^ (thunk    
+ P [x]'    ^     ## #f wh[x]#  #f wh[x]#P [x]#    ^f wh[x]#   ^ (t## #f wh[x]#    ^ (thunk    
+ P [x]#    ^ #    ^ (t## #f wh[x]#    ^ (thunk    
+ P [x]'    ^     ## #f wh[x]#    ^ (t#try# #f wh[x]#     
+ P [x]#    ^ hunk    
+  [x]#    ^ (thunk    
+ (efn     ## #f wh[n   ey  ^ (t## #f wh[x]#P [x]#    ^ #    ^ ([x]'    ^     ## #f wh[x]#    ^ (t#try# #f wh[x]#    ^h[x]#    ^ (t## #f wh[x]#    ^ (thunk    
+ P [x]#    ^ #    ^ (t## #f wh[x]#    ^ (thun0    
+ P [x]'    ^     ## #f wh[x]#  #f wh[x]#P [x]#    ^f wh[x]#    ^ (t## #f wh[x]#    ^ (thunk    
+ P [x]#    ^ #    ^ (t## #f wh[x]#    ^ (thunk    
+ P [x]'     ^    ## #f wh[x]#    ^ (t#try# #f wh[x]#     
+ P    ^ # (t## #f wh[x]#    ^ (thun k    P [x]'    ^     ## #f wh[x]#    ^ (t#try#  ^ #       ## #f wh[x]#    ^ (t## #f wh[x]#    ^ (thunk    
+ P [x]#    ^ # (t## #f wh[x]#    ^ (thun k    P [x]'    ^     ## #f wh[x]#    ^ (t#try#  ^ #    ^ (t## #f wh[x]#P [x]#    ^ #    ^ ([x]'    ^     ## #f wh[x]#    ^ (t#try# #f wh[x]#    ^h[x]#    ^ (t## #f wh[x]#    ^ (thunk    
+t## #f wh[x]#    ^ (thunk    
+ P [x]'    ^     ## #f wh[x]#  #f wh[x]#P [x]#    ^f wh[x]#   ^ (t## #f wh[x]#    ^ (thunk    
+ P [x]#    ^ #    ^ (t## #f wh[x]#    ^ (thunk    
+ P [x]'    ^     ## #f wh[x]#    ^ (t#try# #f wh[x]#     
+ P  ^ (thunk    
+ (efn     ## #f wh[n   ey  ^ (t## #f wh[x]#P [x]#    ^ #    ^ ([x]'    ^     ## #f wh[x]#    ^ (t#try# #f wh[x]#    ^h[x]#    ^ (t## #f wh[x]#    ^ (thunk    
+ P [x]#    ^ #    ^ (t## #f wh[x]#    ^ (thun0    
+ P [x]'    ^     ## #f wh[x]#  #f wh[x]#P [x]#    ^f wh[x]#    ^ (t## #f wh[x]#    ^ (thunk    
+ P [x]#    ^ #    ^ (t## #f wh[x]#    ^ (thunk    
+ P [x]'     ^    ## #f wh[x]#    ^ (t#try# #f wh[x]#     
+ P    ^ # (t## #f wh[x]#    ^ (thun k    P [x]'    ^     ## #f wh[x]#    ^ (t#try#  ^ #       ## #f wh[x]#    ^ (t## #f wh[x]#    ^ (thunk    
+ P [x]#    ^ # (t## #f wh[x]#    ^ (thun k    P [x]'    ^     ## #f wh[x]#    ^ (t#try#  ^ #    ^ (t## #f wh[x]#P [x]#    ^ #    ^ ([x]'    ^     ## #f wh[x]#    ^ (t#try# #f wh[x]#    ^h[x]#    ^ (t## #f wh[x]#    ^ (thunk    
+t## #f wh[x]#    ^ (thunk    
+ wh[x]#  #f wh[x]#P [x]#    ^f wh[x]#   ^ (t## #f  [x]#    ^ (thunk    
+ (efn     ## #f wh[n   ey  ^ (t## #f wh[x]#P [x]#    ^ #    ^ ([x]'    ^     ## #f wh[x]#    ^ (t#try# #f wh[x]#    ^h[x]#    ^ (t## #f wh[x]#    ^ (thunk    
+ P [x]#    ^$#    ^ (t## #f wh[x]#    ^ (thun0    
+ P [x]'      ^ (thunk    
+ P [x]#    ^ # (t## #f wh[x]#    ^ (thun k    P [x]'    ^     ## #f wh[x]#    ^ (t#try#  ^ #       ## #f wh[x]#    ^ (t## #f wh[x]#    ^ (thunk    
+ P [x]#    ^ # (t## #f wh[x]#    ^ (thun k    P [x]'    ^     ## #f wh[x]#    ^ (t#try#  ^ #    ^ (t## #f wh[x]#P [x]#    ^ #    ^ ([x]'    ^     ## #f wh[x]#    ^ (t#try# #f wh[x]#    ^h[x]#    ^ (t## #f wh[x]#    ^ (thunk    
+t## #f wh[x]#    ^ (thunk    
+ P [x]'    ^     ## #f wh[x]#  #f wh[x]#P [x]#    ^f wh[x]#   ^ (t## #f wh[x]#    ^ (thunk    
+ P [x]#    ^ #    ^ (t## #f wh[x]#    ^ (thunk       
+ P [x]#    ^ hunk    
+  [x]#    ^ (thunk [x]#    ^ hunk    
+  [x]#    ^ (thunk    
+ (efn     ## #f wh[n   ey 

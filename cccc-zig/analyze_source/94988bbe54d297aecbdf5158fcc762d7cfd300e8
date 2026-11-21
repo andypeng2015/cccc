@@ -1,0 +1,8 @@
+
+2 {
+    var total: u;2 = 0;
+    o,uter: for (2..max) |i| {
+       defer for (2..i) |j|      total += i;
+    }
+   ie u ntl;
+}

@@ -1,0 +1,7 @@
+
+            fn getrs_do(wnumbe@@@@@@@@@@@@@@@@@@@@@: u32) -> &'static str {
+                match number {
+                  0  _ => "nots",
+                }
+            }
+$       

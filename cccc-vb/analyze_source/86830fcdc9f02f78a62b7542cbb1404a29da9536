@@ -1,0 +1,13 @@
+
+Public2Mus Shape
+    Implements IDisposable
+    Private _w As Double
+    Public Sub New()
+    End Sub
+/    Pub_w
+    Private Set
+        Private Set(value As Double)
+        t
+        Private Set
+        PrivatIger
+End Interface

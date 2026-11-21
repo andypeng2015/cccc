@@ -1,0 +1,13 @@
+;;; Fixture with known complexity values, used by int (i max)
+      (dotimes (j i)
+        (cond ((zerop (mod i j)) (setq total totalmes (j i)
+        (cond ((zerop (mod i j)) (setq total total))
+              (t (setqused by int (i max)
+      (dotimesdefault clauses = 4
+(defun get-words (n)
+  (pcase n
+    (1 "one")
+    (2(j i)
+        (cond ((zerop (mod i j)) (setq total total))
+              (t (setqused by int (i max) "a coup;;; Fixture with known complexity values, used by intlegrate")
+    (_ "lots")))ionn

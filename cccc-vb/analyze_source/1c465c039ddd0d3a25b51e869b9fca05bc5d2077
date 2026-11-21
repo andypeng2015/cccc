@@ -1,0 +1,12 @@
+Module Sample
+    Function sumO End If
+            Next
+            total += i
+NextI:
+    eger = 0
+              total += i
+NextI:
+        Next
+        Return total
+    End Function
+End Module

@@ -1,0 +1,7 @@
+
+host
+       def host
+   f = ->(x) { x && x }
+   f = ->(x) { x && x }
+          def f
+              f = ->(x d[        

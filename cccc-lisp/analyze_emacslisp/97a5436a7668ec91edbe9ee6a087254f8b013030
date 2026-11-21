@@ -1,0 +1,6 @@
+
+      (defun a (x) (if x 0 2))
+        host (xs)
+              (cl-flet ((helper (x) (if x 1 0)))
+     =    (r #'lel )xs)) (defun b (yz) (if y 3 4))
+        

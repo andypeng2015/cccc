@@ -1,0 +1,13 @@
+
+odule R
+    Function Fact n <= 1 Then Return 1
+        Fact = n * fAct(n - 1)
+    End Functiode I For 
+        Dim t = (a:=If(n >,,,,,,,,,,,,,,,,,,,,b
+    
+Module P
+#If`A Then
+    Sub N(a As Intege P
+#,f A Then
+x
+    Nexl

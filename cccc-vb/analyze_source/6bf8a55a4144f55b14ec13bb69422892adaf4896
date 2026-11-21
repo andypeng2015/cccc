@@ -1,0 +1,7 @@
+
+    Rais[E Dim s =  RaiseEvent"Changed1 Then
+        Bar      Bar()
+    Else
+        Bent"Change1d2Event"Else
+        Baz()
+    En Dim s =  RaiseEvent"Change"Changedr Thet"Changed2ler

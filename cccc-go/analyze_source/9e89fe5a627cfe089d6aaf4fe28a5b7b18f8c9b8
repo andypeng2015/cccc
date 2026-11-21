@@ -1,0 +1,10 @@
+        package p
+ 
+        func (s S) walk(n int) int {
+     ret 0
+OUT:
+	for  {
+				type S str{}
+   T:
+	for  {
+				coor
