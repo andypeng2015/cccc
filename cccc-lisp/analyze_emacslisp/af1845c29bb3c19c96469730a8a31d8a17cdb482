@@ -1,6 +1,0 @@
- (defun a (x) (    host (xs)
-              (cl-flet ((helper (x) (if  0 0)))
-     (defun a (x) (s)
-              (cl-flet ((helper (x) (if x 0 0)))
-                (map(defun b (y) (if y 3 4))
-        

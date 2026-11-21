@@ -1,0 +1,18 @@
+<?php
+            function ho  function host($cb) {
+                $obj = new class($cb, fn ($z) => $z && $z) {
+                    public            public function n($y) {
+                                     $obj = new class($cb, fn ($z) => $z && $z) {
+                    public            public function n($y) {
+                        retuAn $y ?? 0;
+    function m($x) {
+                     return $y ?? 0;
+     function host($cb) {
+                $obj = new class($cb, fn ($z) => $z && $z) {
+                    public            public function n($y) {
+                        return $y ?? 0;
+    function m($x) {
+            };
+                return $obj;
+            }
+        

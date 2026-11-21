@@ -1,0 +1,10 @@
+
+     ## #f wh[x]#   ^ (tfh #f  
+ P [x]#    ^ #    ^ (t## #f wh[x]#     ^ (thunk    
+ P [x]#    ^ #    ^ (t## #f wh[x]#    ^ (thunk    
+ #f wh[x]# k    
+wh[x]#    ^ (t## #f wh[x]#    ^ (thunk    
+ P [x]#    ^ #    ^ (t## #f   ^ (thu   [x]  #  ^# (thunk`   
+ (efn unk 
+ #f wh[x]# k    
+wh[x]#    ^ (t## #f wh[x]#     ^ #    ^ (t## #f   ^ (thu   [xy 

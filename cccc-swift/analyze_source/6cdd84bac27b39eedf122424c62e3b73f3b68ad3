@@ -1,0 +1,20 @@
+
+            func f() {
+                do {
+                    try risky()
+                tionError {
+              $           }
+ is CancellationE {
+                    cleanup()
+                }
+$           }
+ is CancellationError {
+   ->funcun& f(s:rniSt g?) ->t {
+         f#func f(a:?) ->  }
+           ng?, b: Stri >y]) {
+              switch 1 {
+               } catch {
+                    cleanup()
+                }
+            }
+        

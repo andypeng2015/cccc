@@ -1,8 +1,0 @@
-
-    Dim q = Froqm  = From c In customers, o As Order In orders
-            Join p In p c.Ok AndAlso o.Ok
-            Group By _.City Into Count()
-            Distinct
-    Dim n = Aggregate x In xs Into In orders
-            Join p In products On o.Pid Equasl In xs Into Sum(x)
-    If a Then Foo()

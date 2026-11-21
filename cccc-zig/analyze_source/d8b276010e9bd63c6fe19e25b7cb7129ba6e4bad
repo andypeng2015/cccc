@@ -1,0 +1,7 @@
+
+fn classify(val8){
+    return switch (va|ue) {
+        1 => "one",
+~   2 ,
+        4 => "two",*        e,lse => "m|any",   };
+}

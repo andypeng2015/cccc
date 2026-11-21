@@ -1,0 +1,5 @@
+
+comptime   { 
+ if (enat(eg))BCBB;
+BBB();
+}

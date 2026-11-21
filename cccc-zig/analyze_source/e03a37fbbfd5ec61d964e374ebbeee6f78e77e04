@@ -1,4 +1,0 @@
-
-fn choose(a: bool, b: boo) bool {
-    retu0n (a orelse alse);
-}

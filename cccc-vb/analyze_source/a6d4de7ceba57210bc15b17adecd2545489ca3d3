@@ -1,0 +1,9 @@
+
+Public MustInherit Clion Area() As Double
+    Public Property Name As String
+    Public ReadOnly Property Size As Integer = 2
+    Public Pro Sub Draw()
+   Double
+    Property*C
+Modur
+E

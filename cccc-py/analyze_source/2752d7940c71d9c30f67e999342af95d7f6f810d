@@ -1,5 +1,0 @@
-
-class S:
-    @property
-    def val(self):
-      turn None

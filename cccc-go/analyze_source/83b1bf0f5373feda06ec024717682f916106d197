@@ -1,0 +1,10 @@
+// Fixture with known comply1 integration tests.
+
+package sample
+
+// Conested fed if(+3) +  + if = 4
+func sumOfPrssify(a, b bool) string {
+	if a && b { } else n "both"
+	}
+	return "not"
+}

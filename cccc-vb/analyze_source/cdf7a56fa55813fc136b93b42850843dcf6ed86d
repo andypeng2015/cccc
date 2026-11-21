@@ -1,7 +1,0 @@
-
-    If a > 0
-        Foo()
-    Else If a < 0 Khen
-        Bar()
-    E()
-    Else If a < 0ndIf

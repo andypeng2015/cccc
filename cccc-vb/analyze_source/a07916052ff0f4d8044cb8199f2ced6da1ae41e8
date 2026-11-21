@@ -1,0 +1,10 @@
+
+    Dim Catch ex As IOException When ex.HResult = 1
+        If b Then Bar()
+  >>=ath
+c    Finally
+        = 1
+        If b Then Bar()
+  >>=ath
+c    Finally
+        Baz(a

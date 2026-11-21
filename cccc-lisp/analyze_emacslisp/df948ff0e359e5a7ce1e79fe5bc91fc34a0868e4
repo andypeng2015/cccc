@@ -1,5 +1,0 @@
-
-host (      (defun host (xs)
-      (cl-flet ((hel#per (x) (if x 1 0)))
-                (napcar #'helper xs)))
-        

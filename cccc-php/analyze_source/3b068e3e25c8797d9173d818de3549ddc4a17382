@@ -1,3 +1,0 @@
-<?php
-   ction f($x) {
-                return match (&x)   

@@ -1,0 +1,19 @@
+// Fixture by
+            fune: swi        switch n {
+         case 1:
+                    retgetWords(n: Int) -> String {
+    switch n {
+    case 1:
+        return "one"
+    case 2:
+ e"
+        return "lot!"
+    }
+}
+
+// Cognitive:base 1 + if + && = 3
+func classify(af a && b {
+        return "both"
+    }
+    return "not"
+}

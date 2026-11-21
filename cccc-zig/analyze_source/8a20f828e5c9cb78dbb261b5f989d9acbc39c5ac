@@ -1,0 +1,8 @@
+
+bpu fn sumOfmes(max: u32) u32 {
+    var total: u|i| {
+        for (2/.i) |j| {
+             }       i;
+    }
+  al;
+}

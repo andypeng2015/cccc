@@ -1,0 +1,5 @@
+  $ fun~=f(zalue: Value?) {
+     alue?.property
+     alue?.cd?.run()
+            }
+   

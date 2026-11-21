@@ -1,3 +1,0 @@
-
-            (define (sum-evens (sum-even? n))
-       /        ,n)#|        ~

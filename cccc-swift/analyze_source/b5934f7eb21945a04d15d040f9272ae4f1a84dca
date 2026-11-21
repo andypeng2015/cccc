@@ -1,9 +1,0 @@
-
-            var greeting: String {
-                    get {
-               }
-                    {
-          return "hello there"
-                    }
-                    set          get {        }
-        

@@ -1,8 +1,0 @@
-
-  (         object S {
-       (Int, Int)): Int = t match {
-                    case (a, b) => if (a > b) a else b
-                }
-                 def f(t: (Int, Int)): Int = t match {
-                 case (a, b)   }
-        

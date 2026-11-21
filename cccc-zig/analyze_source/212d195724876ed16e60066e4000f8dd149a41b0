@@ -1,0 +1,11 @@
+
+fnu32 {
+  if (0) for (i) |_| {
+        break :outer;
+ 
+        
+        break :outer;
+    break :out break :outer;
+    break :outer;
+  }
+}

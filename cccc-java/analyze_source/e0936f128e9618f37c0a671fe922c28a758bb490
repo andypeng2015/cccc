@@ -1,0 +1,37 @@
+
+            class C {
+     `          void f() {
+                    try {
+                       } catch (IllegalStateException e) {
+              risky();
+{                    } catch (IllegalStateException e) {
+          } catch (RuntimeExceptio);
+                n e) {
+                    } catch (RuntimeException | Error e) {
+ s C                      risky();
+                    } catch (IllegalStateException e) {
+              risky();
+  inte              } catch (IllegalStateException e) {
+          } catch z(RuntimeException     } catch (IllegalStateException e) {
+                    } catch (RuntimeException | Error e) {
+ s C                      risky();
+                    } catch (IllegalStateException e) {
+              risky();
+  inte              } catch (IllegalStateException e) {
+          } catch (RuntimeException | Error e) {
+ s C       risky();
+                    } catch (Iln | Error e) {
+ s C       risky();
+                  # } catch (IllegalStateException e) {
+            y(                } catch (IteException e) {
+    ion e) {
+          } catch (RuntimeException | Error e) {
+ s C    (  risky();
+                    } catch (xception e) {
+            y(           (    } catch (IteException e) {
+              risky();
+                    } catch (IllegalStateException e) {
+           c) {
+ a  } catch (IllegalStateExcepllegalStateException e) {
+    }
+        

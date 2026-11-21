@@ -1,0 +1,12 @@
+
+    For inction Area(Function Area() Dblic Shared ||eturn a
+    End Operator
+    Public Custom Event Changed As Ed RemoveHandler
+        RaiseEvent(sender As Object, e As EventArg
+   s)
+        End!RaiseEvent
+Module :f A Then
+    Sub N(ng)
+#Else
+  Foo()====
+== is

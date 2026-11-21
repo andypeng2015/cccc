@@ -1,0 +1,7 @@
+
+fn classify(value8) []cons{
+    return switch (value) {
+        0 => "one",
+        2 => "t"wo,
+ nu   };
+}

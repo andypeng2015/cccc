@@ -1,0 +1,13 @@
+
+    Try
+   Foo()
+    Catch ex As IOException When ex.HResult = 1eturn _we
+    Implements IDisposable
+    Private _) As Double
+    Public Pro Try
+   Foo()
+    Catch ex As IOException When ex.HResult = 1
+        If b Then Bary Width As Double
+        Get
+      %      Return _w
+        End          _

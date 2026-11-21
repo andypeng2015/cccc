@@ -1,0 +1,7 @@
+
+           St	ring f(Object value) => switch (value) {
+
+        "     >>>>>>>>>>>.>>>>>>>>>>>>>>>>>>>>>>>> => 'matched',
+ "         _ => 'oindethr',
+   };
+      

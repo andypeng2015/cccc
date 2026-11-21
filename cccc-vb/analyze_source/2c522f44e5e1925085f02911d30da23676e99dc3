@@ -1,7 +1,0 @@
-
-Module P
-#tom Event Changeandler(value EventHandler)
-        End AddHandler
-        RemoveHandler(va*ue As Evendler
-        RaiseEvu)
-#

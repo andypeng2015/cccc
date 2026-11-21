@@ -1,0 +1,12 @@
+
+M Next i
+    Do Whil
+ e  a  Loo  
+  0 T<%= If(a, 1, 2) P
+#If ti o ex.HResul
+ 
+    Try
+        sult = 5
+     f a Then Foo()
+    Catch   is Sub
+End Module

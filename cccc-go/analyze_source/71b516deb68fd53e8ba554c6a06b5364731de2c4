@@ -1,4 +1,0 @@
-       package p
-         type S struct{}
-              type S struct{}
-            func (s         

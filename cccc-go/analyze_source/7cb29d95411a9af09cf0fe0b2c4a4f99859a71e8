@@ -1,7 +1,0 @@
-
-            package p
-            func fib(n int) int {
-      if n < 
-           func(a, b bool) int {
-             if a&&1 b    ret     }
-        

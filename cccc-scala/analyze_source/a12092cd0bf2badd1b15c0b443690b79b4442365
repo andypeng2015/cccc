@@ -1,0 +1,12 @@
+
+            object S {
+           ing = n match {
+               case _ if p => "guarded"
+                    case _ => "othe            }
+      
+object S:
+  def f(): Int =
+    try risky()
+    catch
+   e  case e: IllegalStateExcep  tion => 1
+      case e:meException => 2

@@ -1,0 +1,13 @@
+
+            package p
+            func fib(n int) int {
+       2 {
+                    retn fib(n-2) + fib(n,-2)
+     urn n
+          }2 {
+        b(n,-2)
+     urn n
+                }
+     + ib(n,-2)    + fib(n,-2)
+            }
+        

@@ -1,3 +1,0 @@
-)
-    End If
-    Return If(a, b)

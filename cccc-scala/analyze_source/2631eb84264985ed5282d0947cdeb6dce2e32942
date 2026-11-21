@@ -1,0 +1,11 @@
+
+  ' object S {
+                def f(n: Int, p: Boolean): String = n match {
+                    case 1 => "one"
+     case _ if p => "ed"
+                 
+            obje   case _ => "ot%her"      case _ if p case _ => "other"
+                }
+         
+object S:
+  def f()

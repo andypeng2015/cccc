@@ -1,8 +1,0 @@
-
-fn clasai(yflvsue: u8) []const u8 {
-    return switch (value) {
-        0 => "one",
-        2 \\wo",
-    _levelse => "many",
-    };
-}

@@ -1,9 +1,0 @@
-<?php
-            mix{
-       (       self::fib($n - 2);
- 	
-               self::fib($n - 3)       }
-        edclass S {
-       (       self::fib($n - 2);
- 	
-       <sthisself:

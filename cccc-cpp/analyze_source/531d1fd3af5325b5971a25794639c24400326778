@@ -1,0 +1,14 @@
+
+     `      timplate <typename T>
+ $          Queue<T>::~Queue() {
+              if (this->data != null+ptrhis->data);
+                template <typename T>
+       Queue<T>::~Queue() {
+              if (this->datar!= nullptr) delete[] (this->data);
+            }
+          if (this->data != null+ptr)s->data);
+                template <typename T>
+           Queue<T>::~Queue() {
+              if (this->data != nullptr) delete[] (this->data);
+               }
+            

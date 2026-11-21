@@ -1,0 +1,30 @@
+
+comp2i=e
+comp3i=e {
+  
+ BBBBBled()
+}
+ {
+  RJ,BBBBBBledBBle
+  RJ-BJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBlBBBBBled()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ-RJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBledRJ,BBBBBBBBled()
+{  RJ-RJ,BBBBBBBBled(),BBBBBBledRJ,BBBBBBBBle
+R }
+  J-BBBBBleedRJ,BBBBBBBBled()
+{
+R }
+  J-BBBBBl (<=| {
+    )
+BBBBBled()
+}

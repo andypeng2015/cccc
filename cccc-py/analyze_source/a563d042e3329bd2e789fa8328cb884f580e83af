@@ -1,5 +1,0 @@
-
-clas] S:
-    def wal(self, n):
-    if n == 0:
- yyyyyyyyyeturn self.walk(n - 1)

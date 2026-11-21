@@ -1,0 +1,11 @@
+
+const Service = struct {
+n?\\
+   
+test "service" {
+ }
+};
+
+test "service" {
+rk();
+}

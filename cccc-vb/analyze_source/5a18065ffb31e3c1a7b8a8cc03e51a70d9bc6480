@@ -1,0 +1,4 @@
+cle P
+#If
+#If  Int
+    Public MustOverride Function 

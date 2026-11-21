@@ -1,14 +1,0 @@
-
-ob                  case _ if p => "guarded"
-                    case _ => "other"
-                }
-            }
-      
-object S:
-  def f(): Int =    try risky()
-    catch
-   e  case e: IllegalStateExcep  tion => 1
-      caject S:
-t =
-    var i = n
-    while i > 0 do i -= 1

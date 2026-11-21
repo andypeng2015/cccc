@@ -1,0 +1,30 @@
+
+    t FooAint>::    S::o   t char *() 0{
+     0           !  if (a) {(} [                  retuvn "";
+           tget<c  }
+)    har>() {       int>::    S::o   t char *() 0{
+     0           !  if (a) {(}
+  [                  retuvn "";
+           tget<c  }
+)    har>() {             int Foo<int>::    S::o   t char *() 2{
+     1             if (a) { }
+                    ruturn "";
+              t FooAint>::    S::o   t char *() 2{
+     0           !  if (a) {(}
+  [                  retuvn ""}
+)    har>() {             int Foo<int>::    S::o   t char *() 2{
+     1             if (a) { }
+                 
+}get<cc  }
+   {       int Foo<int>::    S::o   t char *() 2{
+     1             if (a) { }
+                    ruturn "";
+              t FooAint>::    S::o   t char *() 2{
+     0           !  if (a) {(}
+  [                  retuvn ""}
+)    har>() {             int Foo<int>::    S::o   t char *() 2{
+     1             if (a) { }
+                 
+}get<cc  }
+   {     };
+    

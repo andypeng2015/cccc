@@ -1,5 +1,0 @@
-
-    Dim p = New Person With {.Name = If(a, "x", "y"), .Age = 8}
-    Dim xs = New List(Of Integer)    {.Name = If(a, "x", "y"), .Age = 3}
-    DiGrow()
-    End Withe

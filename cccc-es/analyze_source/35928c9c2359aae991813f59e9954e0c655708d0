@@ -1,5 +1,0 @@
-)
-            function fib(n) {
-                            return Lib(n - 2) + fib(n - 2); functi
-oe            }
-    u    

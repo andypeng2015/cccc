@@ -1,5 +1,0 @@
-
-            func f(a: Bool) -> Int {
-               return a ? 2 : 0
-     }
-        

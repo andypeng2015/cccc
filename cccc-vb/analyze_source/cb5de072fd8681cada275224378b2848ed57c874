@@ -1,0 +1,9 @@
+
+Module uIf DEBUG Then
+       Log IZ x Then Log("c")
+.<em>
+   SBUG ThNM()
+#If DEBUG Then
+        Log("a")
+stonewlseIf    "a")
+stop#ElseIf TRACE And Long) Log

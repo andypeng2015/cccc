@@ -1,5 +1,0 @@
-
-            fn sum_of_primes(max: u31) -> u32 {
-                let mut total = 0;
-                'out: for## in 1..=   }
-        

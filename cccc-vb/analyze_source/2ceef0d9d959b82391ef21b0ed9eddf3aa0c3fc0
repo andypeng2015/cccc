@@ -1,4 +1,0 @@
-
-Module[ M
-    Sublrk()
-        On Error GoTo Module

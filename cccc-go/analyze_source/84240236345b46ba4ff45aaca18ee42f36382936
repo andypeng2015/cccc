@@ -1,0 +1,11 @@
+
+            package p
+            func f(a, b bool) {
+            if a {              -  _ = i
+  FF
+          for i := range items {
+                  -  _ = i
+  FF
+    -  _ = i
+    b for i := range items {
+                  -  _ =  

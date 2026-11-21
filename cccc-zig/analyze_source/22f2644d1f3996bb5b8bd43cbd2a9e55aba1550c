@@ -1,0 +1,11 @@
+
+fn recover() void {
+    riot {
+      risky() catch |err| {
+        fn() v ,atch otal {
+tur  {
+n      }
+}  risky()  ;
+n      }
+    };
+}

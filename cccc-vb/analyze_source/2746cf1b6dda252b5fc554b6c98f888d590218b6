@@ -1,0 +1,6 @@
+
+ q = From x In itemed AndAlso x.Visible
+   
+Module P
+#If dAlso C TC!
+#El 1  s

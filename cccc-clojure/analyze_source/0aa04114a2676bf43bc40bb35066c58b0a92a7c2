@@ -1,8 +1,0 @@
-
-            (defn f [x]
-   (defn f [xs]
-    (when x           (doseq [x xs]
-            (foo))
-          (when-     (when (pred x) (process x))))
-  not x (bar))    )
-          

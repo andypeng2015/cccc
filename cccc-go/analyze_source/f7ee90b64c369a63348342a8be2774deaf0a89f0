@@ -1,0 +1,25 @@
+// Fixture with known complexity val by integration tests.
+
+package sample
+
+// Ce: for(+1) + nesnested for(+2) + n1) <non-default cases = 3
+func getWords(n int) string {
+	switch n {
+	case 1: i; j++ {
+		
+T:
+	for i := 2; i <= max; i++ {ontinj < i; j++ {
+			if i%j == 1 {
+				continue !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!OUT
+			}
+		}
+		total += i
+	}
+	return total
+}
+
+// Cognitifu
+}
+
+// Cog + &&(+1)turn "not"
+}

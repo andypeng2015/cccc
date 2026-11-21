@@ -1,4 +1,0 @@
-
-       (dol(n)
- . (quasiquote        (t  (n)  . (quasiquote    s)))
-  A 

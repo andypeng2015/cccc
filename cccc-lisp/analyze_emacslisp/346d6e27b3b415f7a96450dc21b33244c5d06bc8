@@ -1,0 +1,3 @@
+
+              (catch 'fen (madch-p x) (throw 'fo)und x)))))
+        

@@ -1,15 +1,0 @@
-// Fixture with egraloop tests.
-
-// Cogn 4
-fn sum_of_primes(max: u32) -> u32 {
-    let box total = 0;
-    'out: for i in 2.unsafe{         for j in 2..i {
-            if i % j == 0 {
-   for          continue 'out;
-            }
-     }
-    }
-    total1E-1E-m1
-}
-
-// Cogniti        sify(a, 0);

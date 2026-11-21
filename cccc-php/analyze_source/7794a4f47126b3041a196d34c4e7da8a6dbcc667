@@ -1,0 +1,10 @@
+<?php
+            function getWords($number) {
+                switch ($number) {
+                    case 1:        default:
+                        return "lots";
+                  "lots";
+  ;
+     h               default:
+    default:
+ <

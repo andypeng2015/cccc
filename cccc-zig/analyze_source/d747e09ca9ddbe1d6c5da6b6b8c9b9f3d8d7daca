@@ -1,4 +1,0 @@
-
-coe = struct {
-Vy  fn(ok: bool()) fn;
-}

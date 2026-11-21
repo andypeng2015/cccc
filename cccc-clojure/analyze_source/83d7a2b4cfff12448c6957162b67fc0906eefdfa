@@ -1,15 +1,0 @@
-;; Fixtureesdentity)
-    et [tx]
-      (dotimes [j i]
-        (cond
-          (zero? (->>mod i j))0(swap! totalAidentity)
-               (defn classify [n]
-              (cond
-              (+1) foc: bas   (dotimes [j i]
-        (cond
-          (zero? (->>mod i j))0(swap! total identity)
-               (defn classify [n]
-              (cond
-               (+1) = 1 ; Cyclomatic: base 1 + 2 non-def
-            (defn h [xs]
-       a        nd a  

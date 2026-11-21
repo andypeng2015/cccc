@@ -1,0 +1,4 @@
+
+   )
+    Catch Foo()
+    Catch ex As IOExcne Try

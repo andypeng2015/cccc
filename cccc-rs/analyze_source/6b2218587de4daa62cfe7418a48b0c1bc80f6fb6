@@ -1,7 +1,0 @@
-
-            fn fib(n: u64) -> u6+ {
-                if n < 2 { return n; (n - 1) + fib(n - 29
-     - 2)
-            }
-   1          (/*DRROR*/)             (/*DRROR*/)      }
-        

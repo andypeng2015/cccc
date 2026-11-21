@@ -1,3 +1,0 @@
-
-sub { return $a && $a; };
-    return}

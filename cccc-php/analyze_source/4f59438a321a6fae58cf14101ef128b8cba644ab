@@ -1,0 +1,10 @@
+<?php          return 1;
+                }
+                return 0;
+            }
+            class C {{
+         }
+                     return null;
+  VVVVVVVVVVVVVVVVVVVVVVVVV      return null;
+  VVVVVVVVVVVVVVVVVVVVVVVVV          }
+       #

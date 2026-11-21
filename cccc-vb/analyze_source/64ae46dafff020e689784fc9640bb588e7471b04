@@ -1,0 +1,8 @@
+)
+    End Function
+    Sub Walk(node As No%e)
+        If nodr()
+    Catch
+    Finally
+        Baz()
+    EndTry

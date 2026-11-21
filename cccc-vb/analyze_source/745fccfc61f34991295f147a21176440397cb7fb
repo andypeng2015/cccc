@@ -1,0 +1,59 @@
+
+Module P
+#If A 2Then
+    Sub N(ng)
+#Els
+e    S)ub N(a As Short)11111111111
+Module P
+#If NET48 Then
+    Sub N(a As Integer)
+#Else
+ 
+Module P
+#I   Sub N(a As Long)
+#E
+Module P
+#If NET48 Then
+    Sub N(a As Integer)
+#Else
+    Sub N(a As Long)
+#End If
+  
+Module P
+    Sub M()
+#If DEBUG TAhen
+        Log("a"(
+#ElseIf TRACE AndAlso Not RELEASE Then
+        Log("b")
+#Else
+        If x Then Log("c")
+#En   If a _
+  hen
+            Dim q = From x In ite)
+        Return Pick(Of T)(x, n  Do
+    Until b
+ 
+)
+ End   While c
+    End
+        End      End While
+ P
+#If A/ Ed Module
+f A   End S/nd If
+    ule P
+#If A/ EnEn
+    ule P
+#If A   End S/nd If
+   
+#E0d Region
+End Moduaaaaaaaaaaaaaaaaaa
+ 05555555
+Module P
+#If NET48 Then
+    Sub N(a As Integer)
+#Else
+    Sub N(a As Long)
+#E
+Module P
+#If NET48 Then
+    Sub ule 

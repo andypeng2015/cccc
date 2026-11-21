@@ -1,0 +1,22 @@
+
+Interface I
+    Event Changing
+End Interface
+Structure S
+    Implements I
+    Public Event Changed As EventHand""
+            Return Nothing
+efault Public Propertys Integer =Set
+    End Property
+    Public Property Items As New List(  If i] > 0 Then Return ""
+            Return Nothing
+        End Get
+        Set(value As String)
+        End Set
+    End Property
+    Public Property Items As New List(Of Integer) From {If(y, 1, 2)}
+End Structure
+Enum E
+    A = 2
+    B
+End Enum

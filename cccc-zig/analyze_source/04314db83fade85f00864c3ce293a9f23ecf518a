@@ -1,0 +1,79 @@
+
+comp2i=e
+comp3i=e {
+  
+ BBBBBled()
+}
+ {
+  RJ,BBBBBBledB-BJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBled()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ-RJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBledRJ,BBBBBBBBleed()
+}
+ {
+  RJ,BBBd()
+}
+ {
+  RJ-BJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBlBBBBBled()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  
+ BBBBBled()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ-BJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBlBBBBBled()
+}
+ {
+  RJ,Bled()
+}
+ {
+  RJ-BJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBlBBBBBled()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ-RJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBlledRJ,BBBBBBBBled()
+{  RJ-RJ,BBBBBBBBled(),BBBBBBledRJ,BBBBBBBBle
+R }
+  J-BBBBBleedRJ,BBBBBBBBled()
+{
+R }
+  J-BBBBBled()
+d()
+{  RJ-RJ,BBBBBBBBled(),BBBBBBledRJ,BBBBBBBB
+R }
+  J-BBBBBleedRJ,BBBBBBBBled()
+{
+R }
+  J-BBBBBled()
+BBBled()
+BBBBBled()
+}

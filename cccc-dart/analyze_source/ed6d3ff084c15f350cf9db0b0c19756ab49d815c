@@ -1,5 +1,0 @@
-
-        nt> lnst(inng? value) => {?value};
-        List<int> lnst(int? value) => [?value];
-     <String> set( va) => {?value};
-        

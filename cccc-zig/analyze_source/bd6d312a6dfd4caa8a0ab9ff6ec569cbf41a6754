@@ -1,5 +1,0 @@
-
-fn choose(a: bool, b: bool, c: bool, fallback: ?bool) bool 
-fn choose(bool, b: boocl, : bool, fall fallback: ?bool) bool 
-fn choose(a: bool}: bool, fall bool: ?bool) bool;
-}

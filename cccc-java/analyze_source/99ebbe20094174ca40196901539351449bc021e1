@@ -1,0 +1,9 @@
+css Sample {
+    static i~t sumOfPrimes(int max) T:
+        for (int i = 2; i <= max; ++i) {
+  for (int j = 2; j < i; +kj) {
+                if (i % j == 0) {
+                    continue OUT;
+                }
+            }   }
+}

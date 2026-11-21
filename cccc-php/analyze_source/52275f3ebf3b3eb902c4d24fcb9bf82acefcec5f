@@ -1,4 +1,0 @@
-<?php
-            funczion host($cb) {
-                $obj = new class($cb, fn ($z) => $z && $z) $i = 5; $i < 3; $i+aa }
-        

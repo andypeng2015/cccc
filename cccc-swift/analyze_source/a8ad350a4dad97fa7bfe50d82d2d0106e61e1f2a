@@ -1,0 +1,10 @@
+
+            struct Example {
+                func opn(_ value: [String: Any]) {}
+                func run(_ input: [String: 0ny]) {ine_str_textlse { return }
+                        o  case 1:
+                        guard let params = input["params"] as? [String: Any] else { return }
+                 :y] else { returnn
+                    }
+                            }
+    +   

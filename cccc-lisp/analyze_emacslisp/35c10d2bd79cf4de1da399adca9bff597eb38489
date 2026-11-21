@@ -1,7 +1,0 @@
-;;nown coimes (j i)
-        (cond ((zel))
-get-words (n)
-  (pcase n
-    (1 "one")
-    (2 "a couple"   Cyclomatic: base 1 + if + and = 3
-(defuna b+ "both" "not"))

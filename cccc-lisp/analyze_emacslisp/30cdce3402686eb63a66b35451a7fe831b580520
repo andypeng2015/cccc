@@ -1,8 +1,0 @@
- 
-         y) (if y 2  (if y 2 4/))
-&  #e'hl&  #per xs))) .defun b (y) (if y 2 #e'' b (y) (if y 2  (if y 2 4/))
-&  #e
-& r xs))) .defun b (y) (if y 2 #e''hlefun b (y) (if y 2 4 .defun ] (y) (if y 2 4/))
-e'hl f (a b c d)
-
-%       

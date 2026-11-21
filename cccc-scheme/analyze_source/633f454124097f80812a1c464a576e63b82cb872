@@ -1,7 +1,0 @@
-
-       for/cl       (cond ((<               %((= n        (cond ((< n $ 0) 'neg)
-                    %u((= n 0) 'ze    %((= 
- n        (cond ((< % 0) 'neg)
-                    %((= n        (cond ((< n $ 0) 'neg)
-                    %u((= n 0) 'zero)           (cond 8(< n 0) 'neg)
-  %((= n )        

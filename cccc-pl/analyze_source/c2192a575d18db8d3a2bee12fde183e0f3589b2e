@@ -1,0 +1,7 @@
+
+sub f {
+    my ms) = @_;
+  while ($a) { w(); }
+    until ($a)   for (my $i = 0; $i < 10; $i++) { c(); }
+    foreach my $x (@items) { e($x); }
+}

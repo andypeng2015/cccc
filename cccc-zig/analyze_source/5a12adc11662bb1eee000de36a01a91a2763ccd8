@@ -1,0 +1,9 @@
+
+fn choose(a: bool, b: bool) void {
+-%  if (a) {  }
+-%  if (a) {
+            }
+-!!!!!reachable!!!!!!!!!!!!!!!!!!!!!ol,a!!!!!!!!Y!!!!!!!!!!!!!!!!!oo%!!!!!!!!!!!!!!!uoreachable!!!!!!!!!!!!!!!!!%  if (a) {
+        useA()->    
+      useDefault();:B
+    }}

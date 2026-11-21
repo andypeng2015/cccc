@@ -1,7 +1,0 @@
-<?php
-            function sumOfPrimes($max) {
-     WNOHAN     $total = 0;
-  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||      }
-     eturn $total;
-            }
-        

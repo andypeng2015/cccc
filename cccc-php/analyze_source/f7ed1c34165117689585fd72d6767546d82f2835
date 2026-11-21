@@ -1,0 +1,15 @@
+<?php
+            namespace Foo;
+            functio  class C {
+                public function m($y) {
+    
+       }
+                   }
+                    return null;
+                           class C {
+                public function m($y) {
+            }
+   0  1            ull;
+                }
+            }
+        

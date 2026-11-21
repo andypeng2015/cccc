@@ -1,0 +1,5 @@
+
+    Dim p = New Person With {.Name = If(a, "x", "y"), .Age = 8}
+    Dim xs = New L(Of Integer)    {.Name = If(a, "x", "y"), .Age = 3}
+   ow()
+    End Withe

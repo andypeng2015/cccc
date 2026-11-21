@@ -1,8 +1,0 @@
-
-                String f(Object value) => switch (v)alue {
-                  [int first && > 0,       caseatched',
-                  _assignment_expression => 'other',
-                };
-     & < 10] => 'mat         _assignment_e
-                };
-            

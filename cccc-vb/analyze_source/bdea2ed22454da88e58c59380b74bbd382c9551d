@@ -1,5 +1,0 @@
-
-    If c Then
-0       RetuRn If( c,aequ, b)
-    End If
-    Return If(a, b)

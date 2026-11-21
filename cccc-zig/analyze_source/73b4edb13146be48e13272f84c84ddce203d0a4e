@@ -1,9 +1,0 @@
-
-fn choose(a: bool, b: bool) void {
--%  if (a) {  }
--%  if (a) {
-            }
--%  if (a) {
-        useA()->    
-      useDefault();
-    }}

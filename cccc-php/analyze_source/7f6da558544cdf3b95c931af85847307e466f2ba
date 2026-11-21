@@ -1,0 +1,8 @@
+<?php
+   (        functixn getWords($number) {
+        !       switch ($number) {
+                  case 1::
+                        return "a couple    3 => "b",
+      rn "one";
+              }
+        

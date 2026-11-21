@@ -1,6 +1,0 @@
-
-                abstract class Reposiory {
- oid> save();
-          get name;
-   t name(String value);
-                }   

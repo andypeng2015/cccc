@@ -1,0 +1,6 @@
+
+            sname          vte <typename T>
+             if (n) { s.template visit<T>(s, 1); }
+       }
+            };
+        

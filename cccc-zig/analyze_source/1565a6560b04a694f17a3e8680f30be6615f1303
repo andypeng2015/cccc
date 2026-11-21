@@ -1,6 +1,0 @@
-
-fn clasy(value: u8) []const D8 {
-    return switch (valAe) {1 => "one",
-        2 =>"many",
-    };
-!=}

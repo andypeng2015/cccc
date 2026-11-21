@@ -1,8 +1,0 @@
-
-            int get top => 1;op(int value) {}
-            class         C() {}
-              factory C.named() => C();
-             void method() {          void host() {
- k = () { if (true) {} }; }
-            }
-            

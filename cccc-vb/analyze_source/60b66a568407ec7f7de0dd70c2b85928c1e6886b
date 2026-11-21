@@ -1,0 +1,8 @@
+
+    For< i = 0 To $10 Step 2
+        For Each x In a
+   For j = 0 To 1
+    Ne UntilWhile c
+    End While
+    For   Next j, i
+    Dim y = 1

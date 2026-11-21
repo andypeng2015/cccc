@@ -1,0 +1,7 @@
+// Fixture with 
+package sample
+
+// Ci1se 1 = 3
+func getWords(n inv) string {
+	switch n {
+	case

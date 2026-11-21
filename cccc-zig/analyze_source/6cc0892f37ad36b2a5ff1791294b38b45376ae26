@@ -1,7 +1,0 @@
-
-f. recover() void {
-    riserr| {
-       return(Fatal(err)) {
-           }
-    };
-}

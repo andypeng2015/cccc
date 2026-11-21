@@ -1,8 +1,0 @@
-
-    Select Case 
-          Case 1, 2, 3
-         Foo()
-        Case 4 To 9, Is  Case 1, 2, 3
-  Foo()
-        C        Bar()
-    End Select

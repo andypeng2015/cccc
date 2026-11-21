@@ -1,0 +1,16 @@
+
+        = 0
+                outer: for i in 2...max {
+                    for j in 1..<i {
+      }
+                return total
+            }
+        func sumOfP(srimemax: Int) -> Int {
+    = 0
+                outer: for i in 2...max {
+                    for j in 1..<i {
+      value_argument                  }
+               total += i
+                }
+             }
+        

@@ -1,0 +1,13 @@
+
+            func f() {
+                do {
+                    try risky()
+                } catch          func  do {
+                    try risky()
+                } catch iellatio-Error {
+                } catch {
+         cleanup()
+         }}
+              }
+            }
+   A    

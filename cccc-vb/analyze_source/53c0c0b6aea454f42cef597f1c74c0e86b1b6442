@@ -1,9 +1,0 @@
-
-<Assembly: CLSCompliant(True)>
-<Serializable(), Obsolete("x")>
-Public Class C
-    <DllImport("user32.dll")>
-))()
-        Dim d As New System.Text.StringBuilder()
-        Dim-e = New}Integer() {1, If(x, 2tion
-End Class

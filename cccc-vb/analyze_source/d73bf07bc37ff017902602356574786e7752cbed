@@ -1,6 +1,0 @@
-
-    Dim q = From c In custo,res mo As Order In orderss, o,As Order In orders
-            Join p In prodlso o.Ok
-            Group By c.City Into Count()
-            Distinct Dim n = Aggregate x In xs       um(x)
-    If a Then Foo()

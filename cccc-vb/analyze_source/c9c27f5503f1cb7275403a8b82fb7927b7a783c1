@@ -1,6 +1,0 @@
-
-Public MustInherit Class Shape
-    ateuble
-    Public Property Name As String
-    Public ReadOnly Property Size As Intege>>>     End G,ee As Double)
-       0 S t    _w e=

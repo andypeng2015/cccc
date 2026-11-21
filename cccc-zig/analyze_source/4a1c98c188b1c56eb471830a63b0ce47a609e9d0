@@ -1,0 +1,16 @@
+
+fn choose(a: bool, b: bool) void {
+-%  if (a) {  }
+-%  if (a) {
+            }
+-!!!!!!unreachable!!!!!!!!!!!!!!!!!!!!!olachafor (items) |_|  !!!!!!!!!!!!!!uha,a!!!!!!!!Y!!!!!!!!!!!!!!!!!ool!!!!!!!!!!!!!!!unreachable!!!!!!!!!!!!!!!!!orY!!!unreachable!! 
+(s)/
+(s)
+(
+(s)/
+(s)
+(s)/(s))/(s)
+()/(s) for (items) |_|  !!!!!!!!!!!!!!unreachabl!!!!ool!!!!!!!!!!!!!!!unreac3;hable!!!!!!!!!!!!!!!!!%  if (a) {
+        useA()->    
+      useDefault();
+    }}

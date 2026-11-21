@@ -1,0 +1,12 @@
+
+            package p
+            func sumOfPrimes(max int) int {
+            ; i++ {
+                 ********                   v3; j < i; j++ {
+                *****  f or j := 3; j < i; j++ {
+                ***zzzzzzzzzzzzzzzzzax; i++ {
+                 ********                   v4; j < i; j++ {
+                *****  f or j := 3;
+             ******                   v3; j < i; j++ {
+                *******************       v3; j < i; j++ {
+                *********         =a=

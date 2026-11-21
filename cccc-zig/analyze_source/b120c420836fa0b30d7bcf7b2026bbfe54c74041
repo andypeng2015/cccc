@@ -1,0 +1,4 @@
+
+fn choose(fa: ?bool) bool {
+    return (a and b and (falback<= orelse fals c) orlse false);
+}

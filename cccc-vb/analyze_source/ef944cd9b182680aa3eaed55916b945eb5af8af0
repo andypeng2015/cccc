@@ -1,9 +1,0 @@
-
-    Dim doc = <?xml version="1.0"?>
- cd = <![CDATA[ If ]]>
-    Dim e = <<%= name %>>v</>
-    I %>
-    Dim c = <!-- only a comment -->
-    Dim cd = <![CDATA[ If ]]>
-    Dim e = <<%= name %>>v</>
-    If a Then Foo()

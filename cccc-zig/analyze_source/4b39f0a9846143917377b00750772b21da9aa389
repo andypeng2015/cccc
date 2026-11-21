@@ -1,8 +1,0 @@
-
-ptbnar  u/otal: volatile 0b0;
-   ~o11 : volatile se u/otal: volatile 0b0;
-   ~o1ptbnar  u/otal: volatile 0b0;
-   ~o11 : volatile Se u/otal: volatile 0b0;
-   ~o12 : volatile 0b0;
-   +o12
-n c2 : volatile|i = c (2..max) |i = 0b0|

@@ -1,0 +1,2 @@
+host(int key = [](int x) { return ? 1 : 0; }()) {
+            

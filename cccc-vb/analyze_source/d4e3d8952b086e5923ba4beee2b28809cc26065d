@@ -1,39 +1,0 @@
-
-Module P
-#If NET4As Longpers"
-    Sub Q()
-    End Sub
-#E0d Region
-En If
-        If a > 0 Then Log()
-    End Sub
-#Region "HelModule P
-#If NET4As Long> 0 Then Log()
-    End Sub
-#Region "HelModule P
-#If NET4As Longpers"
-    Sub Q()
-    End Sub
-#E0d Region
-En If
-        If a > 0 Then Log()
-    End Sub
-#Region "pers"
-    SModule P
-#If NET4As Long> 0 Then Log()
-    End Sub
-#Region "HelModule P
-#If NET4As Longpers"
-    Sub Q()
-    End Sub
-#E0d Region
-En If
-        If a > 0 Then Log()
-    End Sub
-#Reub Q()
-    End Sub
-#E0d Region
-En If
-        If a > 0 Then Log()
-    End Sub
-#Region "Hel

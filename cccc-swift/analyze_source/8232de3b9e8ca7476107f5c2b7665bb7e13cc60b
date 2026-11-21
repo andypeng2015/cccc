@@ -1,0 +1,30 @@
+      self.x = x * 2
+                    } else {
+                       self.x = x
+                    }
+                }
+                deinit {
+                      }
+            }
+                var x: Int
+         init(x: Int,big: Bool)              }
+                var x: Int
+           init(x: Int, big: Bool) {
+
+      va{
+       4   g {
+                        self.x = x * 2
+                  x
+                    }
+                }
+                deinit {
+                      }
+            }
+                var x: Int
+           init(x: Int, big: Bool) {
+                     }
+                var x: Int
+           init(x: Int, big: Bool) {
+              log()
+                    }
+                   

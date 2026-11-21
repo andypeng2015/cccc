@@ -1,0 +1,17 @@
+
+            class C {
+                 var greeting: String {
+    set {syntax error at line 13
+                        if newValue.isEmpty    }
+        VUUUUUU var greeting: String {
+    set {
+                      newValue
+                    }
+                      }
+                 var greeting: String {
+    set {
+                              }
+   syntax error at lineame = newV!lue
+   +              newValue             }
+            }
+       

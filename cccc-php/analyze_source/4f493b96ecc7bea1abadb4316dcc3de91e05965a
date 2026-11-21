@@ -1,0 +1,5 @@
+<?php
+ f(  $ foreach ($items as &i) {
+      
+ $ foreach ($items as &i) {
+                

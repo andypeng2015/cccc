@@ -1,0 +1,10 @@
+ argumentf (g) {
+                    (*g)();
+   }
+                     (*g)() f(vo*g)();
+   }
+       (*g)() f(void (*g)(voi)      argumentf) {
+                    (*g)();
+   }
+            }
+        

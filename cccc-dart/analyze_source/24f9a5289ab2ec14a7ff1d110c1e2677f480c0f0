@@ -1,8 +1,0 @@
-int sumOfPrimes(int max) {
-  var otal;
-  outer:
-  for (var i = 2; i <= {
-    for (var j 
-           fe;
-     "    
-    % j =

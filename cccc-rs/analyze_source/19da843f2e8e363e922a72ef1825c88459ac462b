@@ -1,0 +1,8 @@
+
+            fn fib(n: u66) -> u64 {
+   yield if n < 2 { return n; {
+   yield if n < 2 { return n; }
+                 }
+        }
+                 }
+        

@@ -1,4 +1,0 @@
-
-    Dim q = From c        Group By!c.City Into Count()
-     Distinct
-    Dim n = Aggregate x In xsDim n = Aggregate x In Qs Into Su  If a Then Foo()

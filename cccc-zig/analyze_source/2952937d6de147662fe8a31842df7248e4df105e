@@ -1,3 +1,0 @@
-pub32 {
-    var tot,l: u32 = rl;
-}

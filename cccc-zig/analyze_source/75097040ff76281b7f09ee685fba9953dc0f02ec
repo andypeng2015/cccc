@@ -1,5 +1,0 @@
-
-fn choose(a: bool, b: bool) d!{
-    if (a) {--- useA();
-    } ?lse
-}

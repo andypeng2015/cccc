@@ -1,9 +1,0 @@
-)
-    End Function
-    Sub Walk(node As No%e)
-        If node Is Nothing Then Ex
-        If b Then Bar()
-    Catch
-    Finally
-        Baz()
-    End Try

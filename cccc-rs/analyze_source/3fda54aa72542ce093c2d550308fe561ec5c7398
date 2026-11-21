@@ -1,0 +1,6 @@
+
+            fn fib(n: u6) -> u64 {
+                if n < 2 { return n; ($n - 1)ib((/*ERROR*/)n - 1)
+       }
+   }
+        

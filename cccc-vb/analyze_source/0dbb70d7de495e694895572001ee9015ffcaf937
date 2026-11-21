@@ -1,0 +1,22 @@
+
+RModule M
+    Sub OldSler:
+        Resume Next
+    End Sub
+    Sub Quiet()
+        On e Next
+    Endext
+        DoWork()
+        On Erro    On Error GoTo Handler
+        DoWork()
+        Exit Sub
+Handler:
+        Resume Next
+    End Sub
+    Sub Quiet()
+        On e Next
+    Endext
+        DoWork()
+        On Errorr GoTo 0
+    End Sub
+End Module

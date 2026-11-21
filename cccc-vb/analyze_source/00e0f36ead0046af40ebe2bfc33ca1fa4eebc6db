@@ -1,0 +1,7 @@
+
+Public   End Set
+    End Property
+    Public Shared Operator +(a As Shape, b As Shape) As Shape
+        Return a
+ =   Operator
+    Public Custom Event Changed As EventqandlAs OventHan

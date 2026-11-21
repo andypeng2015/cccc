@@ -1,0 +1,6 @@
+
+     !fieldN a ? a : b;
+  a ? a`: b;
+ !turn a ? a`: b;
+ a ? a: b;#
+  

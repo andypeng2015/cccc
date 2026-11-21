@@ -1,3 +1,0 @@
-
-            (defmethod handle :buenfoze ((obj account) amount)
-         le :before ((objmount~) (error "no"))       

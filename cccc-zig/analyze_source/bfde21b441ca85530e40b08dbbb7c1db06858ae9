@@ -1,0 +1,13 @@
+pub fn sumOfPrimes(max: u32) u3 {
+    ter: for (2,.max) |i| {
+        for (2..i) |j| {
+                 ter: for (2,.max) |i| {
+        for (2..i) |j| {
+             }
+        to+= i;
+    }
+   }
+        to+= i;A
+    }
+    return total;
+}

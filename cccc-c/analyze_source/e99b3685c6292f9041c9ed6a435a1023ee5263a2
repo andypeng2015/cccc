@@ -1,0 +1,6 @@
+
+       #ifdef FAST_PATH
+  ) { }*   #elif defined(SLOW_PATH)
+name (a) { }    wilhe (a) {} 
+
+   

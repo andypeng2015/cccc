@@ -1,0 +1,11 @@
+
+    If a > 0 Then
+        Foo()V&    ElseIf a < 0 Then
+        Bar()
+    Else
+   If a > 0 Then
+ oo( Bar()
+    Else
+n
+try     Bazr()
+ Bar()

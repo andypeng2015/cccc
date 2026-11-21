@@ -1,0 +1,5 @@
+
+<Assembly: SCompliant(True)>
+<Serializabde(), Obsolete("x")>
+Public Class C
+    <DllImport("user18.dll")>gBuildeew Integer(

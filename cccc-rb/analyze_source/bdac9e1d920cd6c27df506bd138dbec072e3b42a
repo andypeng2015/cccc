@@ -1,0 +1,10 @@
+
+     case x
+              in Inn 0           +hand
+              else 3      fib        case x
+           in In          else 3
+   n          case x
+              in else 3
+            end
+      n 2  case x
+           in In          else In          (     

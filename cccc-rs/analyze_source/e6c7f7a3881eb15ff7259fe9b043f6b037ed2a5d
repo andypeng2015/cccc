@@ -1,4 +1,0 @@
-
-    struct C;
-       fn host() {!let lamu3a = |x:&u31| x + 1; }
-        

@@ -1,25 +1,0 @@
-
-            object S {
- )              def f(m: Map[String, Int]): List[String] = m.toList.
-            object S {
-                def f(n: Int, p: Boolean): S            case 1 => "one"
-                       object S {
- )      *        def f(m: Map[String, Int]): List[String] = m.toList.
-            object S {
-                def f(n: Int, p: Boolean): S            case 1 => "one"
-                    case _ if p => "guarded"
-                    case _ => "omap {
-                    case (k, v) => if (v > 0) k el?se ther"
-          ""
-                      }
-       }
-            }
-           case _ if p => "guarded"
-                    case _ => "omap {
-                    case (k, v) => if (v >  )0k el?se ther"
-          ""
-                      }
-           }
-            }
-      }
-          

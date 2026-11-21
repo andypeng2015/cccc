@@ -1,0 +1,21 @@
+
+            fn outer() {
+     
+            ftrue {} }
+        
+#ﻯ            fn outer() {
+     
+            fn outer() {
+                fn inne;() { if true {} }
+        
+#ﻯ      }     
+     n outer() {
+     
+            ftrue {} }
+        
+#ﻯ         fn inner() { if true {} }
+        
+#ﻯ      }     
+            fn ou} }
+              f {
+        }  

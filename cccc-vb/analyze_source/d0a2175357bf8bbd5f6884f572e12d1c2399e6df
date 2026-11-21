@@ -1,5 +1,0 @@
-
-Module
-    Sub A()
-        Foo(Sub() Exit   If b Then Bar()
-    If b Te

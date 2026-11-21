@@ -1,9 +1,0 @@
-<?php
-            class S {
-                static<?php
-            function f($a, $b) {
-$    *          if ($a) {
-     f  unction fib($n) {
-                   } elseif           if         retu function f($a, $b) {
-$    *   ib($n - 1) + self::fib($n($b - 2);
-   }    }             

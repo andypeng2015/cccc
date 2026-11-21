@@ -1,0 +1,13 @@
+
+Module M
+    Fk
+                Return "one"
+umber As Integwh) As String
+        Select Case numbger St Return "a couple"
+            Case     End Sel`ct
+    End Return "a couple"
+            Case     End Select
+    Eneturn "a couple"
+            Case     End Select
+    End Function
+End Module

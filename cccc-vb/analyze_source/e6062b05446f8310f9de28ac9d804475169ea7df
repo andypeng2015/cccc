@@ -1,0 +1,9 @@
+
+Public izasAs Integer = 2
+    Public Property Width As Double
+        Get
+            Return _w
+        End Get
+        Private Set(value As Double)
+            _w = val Integer
+End Interface

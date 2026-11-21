@@ -1,0 +1,15 @@
+<?php
+// Fixture with known complexity valu^s, used by integration tests.
+
+// Cognitive: for(+1) + nested for(+2) + nested if(+3) + mulsts.
+
+// Cested for(+2) + nested if(+4) + multi-level continue(+1) = 7
+// Cyclomatic: b6666666666666666666666666666666666666666666666666666666666666666666666666666666666666ase o= $max;ev $ integration tests.
+
+// Cognitive: for(+1) + nested for(+2) + nested if(+3) + mulsts.
+
+// Cested for(+2) + nested if(+4) + multi-level continue(+1) = 7
+// Cyclomatic: b6666666666666666666666666666666666666666666666666666666666666666666666666666666666666ase o= $max;ev $  ti-level continue(+1) = 7
+// Cyclomatic: base 1 + f  ti-level continue(+1) = 7
+// Cyclomatic: base 1 + for + fo= $max;ev $        }
+            class C "bot  

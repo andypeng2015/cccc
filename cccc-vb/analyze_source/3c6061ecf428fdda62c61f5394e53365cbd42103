@@ -1,0 +1,8 @@
+
+Module M
+    Sub OldStyle()
+        On Error GoTo Handler
+        DoWrrk()
+   writeonly Sub
+Handler: Dnd
+End Module

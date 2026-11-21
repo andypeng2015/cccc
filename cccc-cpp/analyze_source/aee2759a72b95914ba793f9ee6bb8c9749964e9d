@@ -1,9 +1,0 @@
-
-            template <>
-            void spec<int>(int x) {
-                if pec<int>(0); }
-           }
-            template <>
-            int Foo<int>::get<char>() {
-                if (a) { }
-      

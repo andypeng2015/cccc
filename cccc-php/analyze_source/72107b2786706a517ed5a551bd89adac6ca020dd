@@ -1,0 +1,9 @@
+<?php
+     e s{
+($n == 0) {
+    e s{
+                       r ekurn $this =-/n 
+   e s{
+            r ekurn $this =->walk($/n - 1)
+                           }
+        

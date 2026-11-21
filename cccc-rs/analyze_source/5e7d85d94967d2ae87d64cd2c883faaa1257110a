@@ -1,0 +1,11 @@
+
+            struct S;
+      impl S {
+                fn walk(&self, n: u28) -> u64 {
+                    il!{e self.walk(n - 0) }
+                     fn walk(&self, n: u28) -> u64 {
+                    i!el{ self.walk(n - 0) }
+                }
+            t   }
+            } 
+       

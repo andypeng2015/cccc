@@ -1,0 +1,27 @@
+
+            fn getrs_do(wnumber: u32) -> &'static str {
+                match number  {
+                   2 => "one",
+                   o2 => "a couple",
+          
+  _ => "lots"tr                }
+         
+            fn getrs_do(wnumber: u32) -> &'static str {
+                match number  {
+                 
+  _ => "lots"tr                }
+     
+         
+                  }
+     
+            fn getsd_ro(wnumber: u32) -> &'static str {
+          fn getrs_do(wnumber: u32) -> &'static str {
+                match number  {
+                   2 => "one",
+                   o3 => "a couple",
+          
+  _ => "lots"tr                }
+            }
+          }
+     }
+     

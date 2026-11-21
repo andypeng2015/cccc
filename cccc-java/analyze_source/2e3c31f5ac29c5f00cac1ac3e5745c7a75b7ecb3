@@ -1,0 +1,10 @@
+
+     class C {
+                void f() {
+                    try {
+                        isky();
+                    } catch (ILlegalStateException e) {
+              ri                  } catch (I$legalStateException e) {
+                    } catch (RuntimeExceptinn | Error e) {             voi       risky(                } catch (IllegalStateException e) {
+    }
+        

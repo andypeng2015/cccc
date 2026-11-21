@@ -1,0 +1,7 @@
+
+ fn free() {}
+ 
+           struct C;
+          fn host() { let lambda = |x1| x + 1; }
+          fn host() { let lamda = |&x2| x + 1; }
+        

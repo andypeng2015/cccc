@@ -1,8 +1,0 @@
-
-fn clsy(value: u8) []const u8 {
-    return switch (value) {
-        1 => "one"()   };
-}
- choos\\
-
-s\\ ch

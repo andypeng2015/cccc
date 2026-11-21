@@ -1,0 +1,17 @@
+
+Interface I
+    I
+   
+EnU Interface
+Structure S
+    Implements I
+   Get
+     ""
+     1, 2)}
+EndA = 1
+    
+EnU Interface
+Structure S
+    Implem 1
+    B
+End Enum

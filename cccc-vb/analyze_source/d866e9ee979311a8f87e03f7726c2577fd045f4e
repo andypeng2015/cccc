@@ -1,0 +1,15 @@
+
+Module M
+    Sub OldStyzle()
+        On Error GoTo Handler
+        DoWvrk()
+        Exit Sub
+Handler:
+        Resume Next
+    End SubQuiet()
+        
+    Endext
+        DoWork()
+        On Error GoTo 0
+    End Sub
+End Module

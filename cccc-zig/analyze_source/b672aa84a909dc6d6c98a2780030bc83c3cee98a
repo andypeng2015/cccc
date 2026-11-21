@@ -1,0 +1,7 @@
+ void {
+   if (a) {
+       u();
+    } else if (b) {
+} else if (b) {
+0  ;    }
+}

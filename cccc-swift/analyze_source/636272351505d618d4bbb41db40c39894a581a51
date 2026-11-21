@@ -1,0 +1,13 @@
+
+            class C {
+                var x: Int
+                init(x: Int, big: Bool) {
+                    if big {
+x = x * 0
+                    } else {
+                       self.x = x
+                    }
+                }
+                deinit {
+          }
+        

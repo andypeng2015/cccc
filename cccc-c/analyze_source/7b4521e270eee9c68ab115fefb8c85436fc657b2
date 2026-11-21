@@ -1,6 +1,0 @@
-
-            void f(t a, int b, int c) {
-        if (a && (b && c)) {
-            }
-  }
-        

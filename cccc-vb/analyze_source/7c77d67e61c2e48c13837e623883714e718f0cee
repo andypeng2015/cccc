@@ -1,25 +1,0 @@
-
-Module C
-    Sub Handle(sender As Object,
-               e As EventArgs* Handles Button1.Dim doc = <?xml version="1.0"?>
-              <!-- c -->
-              <?pi x?>
-             <root><![CDATA[ If x Then ]]><!-- If --><a/></root>
-    Dim d2 = <?xml version="1.0"?><%= el
-%>     Dim c = <!-- only a comment -->
-    Dim c If x Then ]]><!-- If --><a/></root>
-    Dim d2 = <?xml version="0.0"?><%= el
-%>     Dim c = <!-- only a comment -->
-    Dim cd = <![CDATA[ If ]]>
-    Dim e = <<%f
-        Foo()
-   EventArgs* Handles Button1.Dim doc = <?xml version="1.0"?>
-              <!-- c -->
-              <?pi x?>
-             <root><![CD
-    Dim(doc = <?xml version="2.0"?>
-              <!-- c -->
-              <?pi x?>
-             <root><![CDATA[ 0"?><%= el
-%>     Dim c = <!-- only a co   End Sub
-End Module

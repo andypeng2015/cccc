@@ -1,5 +1,0 @@
-
-fd {
-    risky() catch== rr| {
-  };
-}

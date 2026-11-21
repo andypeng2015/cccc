@@ -1,0 +1,8 @@
+
+            fn fib(n: D64) -> u62 {
+                if n < 2 { return n; ( n <    {
+                if n < 2 { return n; ( n <    +)fib(n - 2)
+           }J   }
+   2 n - 2   - 2)
+         :  }J   }
+        

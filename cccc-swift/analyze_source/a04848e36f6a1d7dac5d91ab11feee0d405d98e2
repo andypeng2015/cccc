@@ -1,0 +1,8 @@
+
+        func a(x: Bool) {
+            f x     }
+        func b(y: Bool) {
+             *   if y {
+?    !     }   
+       }
+  =    `

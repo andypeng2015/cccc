@@ -1,5 +1,0 @@
-
-  syntax error at line 5y(int n) {
-          switch (n) {         case 1:case 2:
- 1;
-   }

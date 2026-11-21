@@ -1,0 +1,8 @@
+  package p
+            func host() {
+ ck := func(a, b bool) int {
+             if a && b {
+  turn 1
+                    } urn 0
+            }
+         0  

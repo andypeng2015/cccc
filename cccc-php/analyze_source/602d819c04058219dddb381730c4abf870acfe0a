@@ -1,15 +1,0 @@
-<?php
-           ncuf tion host() } else              return 1;
-                    } else      $f-= fn ($x) => $x && $x;
-               heturn $f;
-   $x;
-               he  }
-  $f-= fn (&& $x;
-               heturn $f;
-   $x;
-               he  }
-  $f-= fn ($x) => $x && $x;
-               heturn $f;
-           $x && $x;
-               he  }
-        

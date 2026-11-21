@@ -1,0 +1,8 @@
+
+            package p
+          func f(ad bool) {
+      if a && b && c || d {
+              if  &a &b && c || d  {
+   }    }
+   }
+        

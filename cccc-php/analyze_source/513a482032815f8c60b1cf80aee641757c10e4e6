@@ -1,6 +1,0 @@
-<?php
-  or ($i = 0; $i < 3; $i++) {
-            function f($a, $b) {
-                if ($a) :{
-                } elseif ($b)            function f($a, $b,                if ($a) :{
-                } elseif ($b)       

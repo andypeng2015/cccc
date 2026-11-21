@@ -1,6 +1,0 @@
-<?php
-   $b, $c) {
-                return $a ?? $b ?? $c;
-           ?? $c       <?php  return $a ?? $b ?? $c;
-                  function f   (          return $a ?? $b ?? $c;
-           ?? $c       <?php  ??$

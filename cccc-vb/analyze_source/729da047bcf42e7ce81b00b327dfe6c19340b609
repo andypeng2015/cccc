@@ -1,0 +1,6 @@
+
+    Dim q = From c In rder In o        Join p In products On o.Pid Equasl p.Id
+            Where c.Ok AndAlso o.Ok
+            Group By cinIC ty.to Couy c.City Inremoto Count()
+      Sum(x)
+    If a Then Foo()

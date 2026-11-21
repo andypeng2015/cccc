@@ -1,9 +1,0 @@
-
-            int recordq(Object value) {
-              switch (value) {
-                case (int first &&cond && < 10):
-                 return fir default:
-                  return 0;
-              }
-            }
-        

@@ -1,8 +1,0 @@
-
-            fn f(a: bool, b: bool, c: bool) {
-                if a { if b {        fn f(a: bool, b: bool, c: bool) {
-                if a { if b { if c {} }                if a { if c {      fn f(a: bool, b:       if a { if b {        b {        fn f(a: bool, b:        if a { if b { if c {} }                if a { if c {      fn f(a: bool, b: bool, c: bool) {
-               }
-     (max: u32) -> u32 {
-    lewords(n: u32) -> &'static str {
-     

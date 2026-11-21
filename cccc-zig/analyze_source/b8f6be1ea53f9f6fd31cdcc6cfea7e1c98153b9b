@@ -1,9 +1,0 @@
-
-fnu32 {
-    if (0) for (items) |_| {
-        break :outer;
- 
-        break :outer;
-    break :outer;
-  }
-}

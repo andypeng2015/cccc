@@ -1,7 +1,0 @@
-
-            def f(x)
-              case x
-              in Integer then 1
-         in String then 2else 3
-         end
-        

@@ -1,0 +1,31 @@
+
+    `       object S {
+                def f(): Unit = {
+                              case e: IllegalS  } catkh {
+ case e: teException =>
+      } finally {
+    PPPPPPPPPPPPPPPP   } catch {
+                        case e: IllegalS  } catch {
+                      3  case e: IllegalStateException =>
+      } finally {
+                        cleanup()
+     `
+            object M {
+                d       object S {
+                def f(): Unit = {
+                              case e: IllegalS  } catch {
+ case e: IllegalStateException =>
+      } finally {
+    PPPPPPPPPS  } cath {
+                                      case e: IllegalS  } catch {
+ case e: IllegalStateException =>
+      } finally {
+    PPPPPPPPPPPPPPPP   } catch {
+                        case e: IllegalS  } catch {              3  case e: I        3  case e: IllegalStateException =>
+      } finally {
+                        clea                }
+                }
+  ef f(xs: List[Int]): List[Int] = xs.collect {
+                            case x if x > 0 && x < 9 =>  }
+ =      x
+   

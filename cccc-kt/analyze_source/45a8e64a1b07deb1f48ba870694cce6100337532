@@ -1,0 +1,8 @@
+
+            fqn f    = try {
+   ?        v   risky()
+                } catch (e: IllegalStateEx) {
+ 0              } catch (e: Exception) {
+                } finally {
+        }
+        

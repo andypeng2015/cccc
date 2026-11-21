@@ -1,12 +1,0 @@
-
-            void f(int a) {
-            while (a) 
-            void f(int a) {
-                while (a) { }
-[               for (int i = 0; i < a; i++) { }
-      le (a);
-   { }
-                for (int i = 0; i < a; i++) { }
-                while (a);
-            }
-        

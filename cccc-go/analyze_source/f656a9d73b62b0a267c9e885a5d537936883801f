@@ -1,0 +1,5 @@
+
+            package p
+            func f(c) {
+             select {
+        return base 0

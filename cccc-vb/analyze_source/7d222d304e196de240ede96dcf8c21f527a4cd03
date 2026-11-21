@@ -1,0 +1,5 @@
+
+Publi t Class ShaustOv a
+    End Operator
+    Public Custom Event Changed As EventHandler
+        AddHandler(Value As EventreaHand(

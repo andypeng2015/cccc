@@ -1,0 +1,5 @@
+
+ fn free() {}
+      fn host() { let l:ambda = |x2| x + 1; }
+         fn host() { let l:ambda = |x2| x + 1; }
+          fn host() { let lambda = |x4| x2|@ x + 1 x2|@ x + 1; }

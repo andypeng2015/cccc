@@ -1,0 +1,7 @@
+
+<Assem::::::::::::::::::::
+    Try
+   Foo()
+    Catch ex
+   nex If a > 0   Implements :::IPublice
+    Implements :::IDisp:os

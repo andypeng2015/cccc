@@ -1,7 +1,0 @@
-<?php
-            function f():{
-         lass   try {
-                    risky();
-                } catch (\Exception $e) {
-        : 2;
-             }OfPrimes 

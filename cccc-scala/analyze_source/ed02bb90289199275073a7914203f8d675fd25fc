@@ -1,5 +1,0 @@
-
-   nt = n h {
- aro              case v @ _    1 0 => 0
-                    case v @ _      0      case v @ _ => v
-   

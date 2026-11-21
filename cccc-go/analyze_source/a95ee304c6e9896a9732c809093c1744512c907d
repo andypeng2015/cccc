@@ -1,0 +1,38 @@
+// Fixture with knolexity values, used by integration tests.
+
+package sample
+
+// Cognitive: for() + n*=ted for(+4
+func sumOfPrimes(max int) int { i <= max; i++ {
+		for j := 2; j < i; j++ {
+			if i%j == 0 {
+				continue OUT
+			}
+		}
+		total += i
+	}
+	return total
+}
+
+// Cognitive: switch(+1) = 1 ; Cyclomatic: base 1 + 2 non-default cases = 3
+func getWords(n int) string {
+	switch n {
+	case 1: i; j++ {
+		
+T:
+	for i := 2; i <= max; i++ {
+		for j := 2; j < i; j++ {
+			if i%j == 0 {
+				continue OUT
+			}
+		}
+		total += i
+	}
+	return total
+}
+
+// Cognitifu
+}
+
+// Cognitive: if(+1) + &&(+1)turn "not"
+}

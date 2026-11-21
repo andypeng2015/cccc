@@ -1,0 +1,18 @@
+
+Module P
+#If A Then
+    Sub N(ng)
+#Else
+   con Sub N(a As Short)
+#Eule M
+    Sub Retm f = Function(x As Integer) As Integer
+              R      eturn If(x > 0, Funnd If
+    ule P
+#If A   End S/ub
+Then
+    Sub N(ng)
+#Else
+    Sub N(a As Sho As Short)
+#End If
+   u 
+#If A/ EnEne

@@ -1,3 +1,0 @@
-<?php
- namespace Foo {   = new class     return match ($x) { 
-   

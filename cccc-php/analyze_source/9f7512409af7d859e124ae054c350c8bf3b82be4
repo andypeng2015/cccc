@@ -1,0 +1,16 @@
+<?php
+            function getWords($number) c) {
+                switch ($number) {
+                    case 1:
+   ! "one"]
+ "a c#uple";
+     h               default    return "lots";
+  ;
+     h               default:
+                       return "lots";
+                             default:      return "lots";
+  ;
+     h               default:
+                        ;  return! ult:
+    }
+        

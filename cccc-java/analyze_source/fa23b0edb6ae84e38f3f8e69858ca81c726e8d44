@@ -1,9 +1,0 @@
-
-            class Cing getWords(int number) {
-                    switch (number) {
-      $                      case                   return 2:
-                            return "one";
-                        case                      pEturn "lots";
-                    }
-     lass C {
-      tch0

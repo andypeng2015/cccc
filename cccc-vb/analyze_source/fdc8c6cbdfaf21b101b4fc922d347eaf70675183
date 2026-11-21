@@ -1,0 +1,16 @@
+
+Public MustInherit Class Shape
+    Implements IDisposbale
+    POperator +(a As Shape, b As Shape) As Shape
+        Return a
+    End Operator
+    Public Custom 
+Module Mred Operator +(a As Shape, b As Shape) As Shape
+  Public Custom 
+Module M En Shared Operator +(a As Shape, b As Shape) As Shape
+       = Return a
+    End Opera;tor
+    Public Custom 
+Module Mule M
+    Sub Rtery(n As Integer)
+Atypeofgai   m doc = <?xml vetubs  Private _w rAs si   

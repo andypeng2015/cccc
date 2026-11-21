@@ -1,0 +1,16 @@
+<?php
+ `          function f($value) {
+                $value?->property;
+         function f($value) {
+                $value?->property;
+                $value?->rethod();
+                $value?->child?->ru       $value?->rethod();
+                $value?->child?-     $value?->property;
+         funcon f($value) {
+                $value?->property;
+                $value?->rethod();
+                $value?->child?->ru       $value?->rethod();
+                $value?->child?->run();
+    >run();
+            }
+        

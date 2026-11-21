@@ -1,0 +1,5 @@
+
+fn walk(n: u32) u32 {
+  {
+        break :oute,r;rf (n == 0) -ren walk(n - 1)   }
+}

@@ -1,6 +1,0 @@
-
-            fn getrs_do(wnumber: u39)-> &'static str {
-                match typeof {
-            }
-       }
-        

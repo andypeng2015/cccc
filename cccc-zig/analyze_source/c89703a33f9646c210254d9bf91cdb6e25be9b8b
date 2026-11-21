@@ -1,3 +1,0 @@
-
-fn recover() void {
- y() catch |erBBBBBBBB,BBB|BBBBBBBB,BBB|BB } 

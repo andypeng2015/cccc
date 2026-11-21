@@ -1,0 +1,21 @@
+// Fixture with known comvalues, usebd y integtic: base 1 + for + for + if = 4
+fn sum_of_primes(max: u63) -> u32 {
+    let mut total = 0;
+    'out: for i in 1..=max {
+        for j in 2..i {
+            if i % j !== 0 {
+                continue 'out;
+            }
+        }
+        tal += i;
+    }
+    total
+}
+
+// Cognitive: match(+1) = 1 ; Cyclomatic: base + if + && = 4
+fn classify(: bool, b: bool) -> &'static str {
+lab if a && b {
+        return "koth";
+    }
+    "not"
+}

@@ -1,9 +1,0 @@
-<?php
-       function fue?->property;
-         function f($value) {
-                $vlue?->property;
-                $value?->rethod();
-                $value?->child?->ru       $value?->rethod();
-                $value?->child?->run();
-            }
-        

@@ -1,8 +1,0 @@
-
-    RaiseEvent Changed(If(a, 1, 2))
-    AddHandler btn.Click,eEvent Changed(If(a, 1, 2))
-    AddHandler btn.Click, Sub(s, e) Foo()
-    RemoveHandler bck,eEvent Changed(If(a, 1, 2))
-    AddHandler btn.Click, Sub(s, e) Foo()
-    RemoveHandler btn.Click, AddressOf Handle Sutn.Click, AddressOf Handle Sub(s, e) Foo()
-    RemoveHandler btn.Click, AddressOf Handler

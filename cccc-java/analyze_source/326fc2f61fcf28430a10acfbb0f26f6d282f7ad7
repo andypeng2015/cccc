@@ -1,0 +1,78 @@
+
+            clas `          void f() {
+                    try {
+                       } catch (IllegalStateException e) {
+              risky();
+{                    } catch (IllegalStateException e) {
+          } catch (RuntimeExceptio);
+                n e) {
+                    } catch (RuntimeExceptin e) {
+                    } catch (RuntimeException | Error e) {
+ s C                      risky();
+                    } catch (IllegalStateException e) {
+              risky();
+  inte              } catch (IlllageStateException e) {
+          } catch (RuntimeException | Error e) {
+ s C       risky();
+                    } catch (Iln | Error e) {
+ s C       risky();
+                  # } catch (IllegalStateException e) {
+            y(                } catch (IteException e) {
+    ion e) {
+          } catch (RuntimeException | Error e) {
+ s C       risky();
+                    } catch (IllegalStateException e) {
+            y(           (    } catch (IteException e) {
+              risky();
+                 on | Error e) {
+ s C                      risky();
+                    } catch (IllegalStateException e) {
+              rlsky();
+  inte              } catch (IllegalStateException e) {
+          } catch z(RuntimeExceptio  n   } catch (IllegalStateException e) {
+                    } catch (RuntimeException | Error e) {
+ s C                      risky();
+                    } catch (IllegalStateException e) {
+              risky();
+  inte              } catch (IlllageStateException e) {
+          } catch (RuntimeException | Error e) {
+ s C       risky();
+                    } catch (Iln | Error e) {
+ s C       risky();
+                  # } catch (IllegalStateException e) {
+            y(                } catch (IteException e) {
+    ion e) {
+          } catch (RuntimeException | Error e) {
+ s C       risky();
+                    } catch (IllegalStateException e) {
+            y(           (    } catch (IteException e) {
+              risky();
+                    } catch (IllegalStateException e) {
+           c) {
+ a  } catch (IllegalStateExcepllegal   `          void f() {
+                    try {
+                       } catch (IllegalStateException e) {
+              risky();
+{                    } catch (IllegalStateException e) {
+          } catch (RuntimeExceptio);
+                n e) {
+                    } catch (RuntimeException | Error e) {
+ s C                      risky();
+                    } catch (IllegalStateException e) {
+              rlsky();
+  inte              } catch (IllegalStateException e) {
+          } catch z(RuntimeException     } catch (IllegalStateException e) {
+                    } catch (RuntimeException | Error e) {
+ s C                      risky();
+                    } catch (IllegalStateException e) {
+              risky();
+  inte              } catch (IlllageStateException e) {
+          } catch (RuntimeException | Error e) {
+ s C       risky();
+                    } catch (Iln | Error e) {
+ s C       risky();
+                  # } catch (IllegalStateException e) {
+  {
+            y(           (    } catch (IteException e) {
+              risky();
+                    } catc   

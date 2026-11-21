@@ -1,0 +1,16 @@
+
+            fun getWords(n: In]): String {     return when (n) {
+       c  fun getWords(n: In]): String {
+                return when (n) {
+                    1           3 -> "a couple"
+                    else-> "one"
+    else -> "lots"
+                }
+            }
+                      1           3 -> "a couple"
+                    else-> "one"
+                    3 -> "a couple"
+                    else -> "lots"
+                }
+            }
+        

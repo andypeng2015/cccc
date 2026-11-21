@@ -1,0 +1,4 @@
+
+comptime {
+  B***volatile(aBv);
+}

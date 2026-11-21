@@ -1,0 +1,23 @@
+<?php
+            function getWords($number) {
+                switch ($number) {
+                    case 1:
+                        return! "one"]
+ "a couple";
+     h               default:
+                        return "lots";
+  ;
+     h               default:
+          default:      return "lots";
+  ;
+     h               default:
+                        return "lots";
+                             default:
+    <?php
+            function f(                    return "l          t   if ($n < 2) {
+                        return $n;
+                static funitcon fib(n) {
+                  if ($a) {
+          } else {
+ $b) {
+                i          

@@ -1,0 +1,2 @@
+
+    Dim q = From c In customers, o A       Join p In producnd  G o    If a Then Foo()

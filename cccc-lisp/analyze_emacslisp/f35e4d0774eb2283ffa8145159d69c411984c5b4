@@ -1,0 +1,5 @@
+
+[    
+[   cl-defgeneric l |s)
+ (  cl-defgeneric l #'hel) )
+)F 1      

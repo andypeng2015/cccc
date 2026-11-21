@@ -1,7 +1,0 @@
-^^^^^^^^^^^^If A Then
-    Sub N(a As Integer)
-#ElsM()
-#If DEBUG Then
-        Log("a")
-#ElseIf TRACE AndAlso Not RELEAed
-ule

@@ -1,0 +1,15 @@
+
+Module P
+#If A Tx As I"one"
+            Case 2
+               &= t()
+            Distinct
+    Dim n = Aggregate x In xs Into Sum c In customers, o As Order In orders
+            Join p In products On o.Pid Equasl p.Id
+               Select Case a
+   number
+Module M
+    Sub A()
+            Case 1
+  
+             

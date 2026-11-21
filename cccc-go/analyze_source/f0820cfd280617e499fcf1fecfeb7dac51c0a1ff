@@ -1,0 +1,10 @@
+
+            package p
+            func f(ch chan int) {
+                select {
+                case v = <-ch:
+       b                 case v = <-ch:
+       b        c               case v = <-ch:
+     case v = <-ch:
+        b               c     ckage p
+const(  na  c  

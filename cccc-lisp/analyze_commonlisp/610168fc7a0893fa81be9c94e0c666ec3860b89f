@@ -1,5 +1,0 @@
-
-   (defun name (n)
- 
-       (case n
-    (1 "one")      

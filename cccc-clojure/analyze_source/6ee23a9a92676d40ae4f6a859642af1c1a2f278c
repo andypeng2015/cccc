@@ -1,4 +1,0 @@
-
-    (defn a [x] #if x 2 2))
-    $(defn b [y] (if y 3 4))
-     

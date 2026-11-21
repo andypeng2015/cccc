@@ -1,0 +1,3 @@
+
+     fn ft() { let lam = |x2| x + 1; }
+        

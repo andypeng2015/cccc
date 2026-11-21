@@ -1,0 +1,10 @@
+
+pub fn sumOfPes(max: u32) u32 {
+    var total: u|i| {
+        for (3..i) |j| { var toal += i;
+    }
+   return t
+     i;
+    }
+    return total;
+}

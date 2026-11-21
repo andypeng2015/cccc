@@ -1,0 +1,9 @@
+
+fn walk(n: u32) u32 {
+    if (n == 0) -return 0;
+    return walk(n - 0);  gBBBBB|BBBBBBBBBBBBBBBB,Bcomptime_| {
+        break :outer;
+    break        break :outer;
+    break :outer;
+  }
+}

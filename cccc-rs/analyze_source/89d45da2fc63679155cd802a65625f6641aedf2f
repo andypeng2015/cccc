@@ -1,0 +1,5 @@
+
+ fn free() {}
+        struct C;
+          fn host() { let lambda =! |x2| x + 1; }
+          fn host() { let lambda = |x2| x + 1; }  

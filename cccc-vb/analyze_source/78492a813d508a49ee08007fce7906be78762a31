@@ -1,0 +1,5 @@
+
+    Try
+   Foo()
+    Catch ex As IOException When ex.HRes()
+    Catch ex As IOException When  _

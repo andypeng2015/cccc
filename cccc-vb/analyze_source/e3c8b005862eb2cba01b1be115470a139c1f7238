@@ -1,0 +1,55 @@
+
+Classxorub
+ cons,  Sub B()
+   %else    If b&Then \ !r(
+Endth C
+#If A TheIf a Then
+ -------------------------------------
+   %else    If b&Then Ba!r(
+-hen
+   On Error Resume Next
+  
+#If A TheIf a Then
+ ---A =heIf a TSubd If
+    Retk()
+        On Error GoTo 0
+    End Sub
+urn ----------------
+   %else    If b&Then Ba!r(
+Endth C
+#If A TheIf a Then
+ ---A TheIf a Then
+ -------------------------      DoWor        Return If(thro, b)
+    End If
+    Retk()
+        On Error GoTo 0
+   Endth C
+#If A TheIf a Then
+ ---A =heIf a Then
+ ----la-------hen
+   On Error Resume Next
+  
+#If A TheIf a Then
+ ---A =heIf a TSub
+    Sub Quiet()
+     
+    If c Then
+   On Error Resume Next
+        DoWor        Return If(thro, b)
+    End If
+    Retk()
+        On Error GoTo 0
+    End Sub
+urn ----------------
+   %else    If b&Then Ba!r(
+Endth C
+#If A TheIf a Then
+ ---A TheIf a Then
+ -------------------------      DoWor        Return If(thro, b)
+    End If
+    Retk()
+        On Error GoTo 0
+    End Sub
+urn ---------------------------------la---------------------------ss
+^=.------           Fo
+    S

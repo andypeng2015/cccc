@@ -1,0 +1,8 @@
+1
+                    function fib(n) {
+          b(n - 1) + fib(n - 2);
+         await
+                   b(n - 1) + fib(n - 2);
+            }
+            
+     }      

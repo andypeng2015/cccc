@@ -1,0 +1,10 @@
+
+nst char *get_words(int n)  { 
+            switch (n) {
+                    case 1:
+             return "a couple";
+                    default:
+                        return
+                }
+            }
+        

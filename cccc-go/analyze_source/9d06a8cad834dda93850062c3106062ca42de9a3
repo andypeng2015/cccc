@@ -1,0 +1,3 @@
+
+          package p      func getrds(numb int) string {
+     ^

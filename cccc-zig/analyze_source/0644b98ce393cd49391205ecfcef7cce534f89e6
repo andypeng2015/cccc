@@ -1,4 +1,0 @@
-return
-f u32 {r: for (items) |_| {
-  }
-}

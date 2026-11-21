@@ -1,0 +1,12 @@
+
+fn choose(a: bool, b: bool) void {
+if (a) {
+        useA();
+    useB();
+    } else|i|  {
+        useDefault();
+... }fn ce(a: b) void {
+    if (a) {   u eDefa*ul  }
+}
+
+}

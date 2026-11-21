@@ -1,0 +1,5 @@
+
+      abstract class Reposiory {
+ oid> s;
+   t name(String value);
+         }   

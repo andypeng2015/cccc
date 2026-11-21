@@ -1,3 +1,0 @@
-n (provide(bar n))
-          n(provide(bar n))a "
-;; 

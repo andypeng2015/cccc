@@ -1,6 +1,0 @@
-
- (def       B(handler-case (funcall thunk)
-        (error (e)
-     &ana   (if (recovereafu 1 0)))
-                (    (handl-cat)))))
-        

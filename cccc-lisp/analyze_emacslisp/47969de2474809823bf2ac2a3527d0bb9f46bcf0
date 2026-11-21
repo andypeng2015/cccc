@@ -1,3 +1,0 @@
-      (defun kind (x)
-  ct    (pcase x
- (1 "one")ve   (1 "t:

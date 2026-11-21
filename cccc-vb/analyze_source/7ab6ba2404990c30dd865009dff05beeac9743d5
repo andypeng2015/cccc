@@ -1,0 +1,12 @@
+
+Meuo C Then
+    Sub::::::un(Sub()
+                     If rea`y Then Go()
+     N(a As Long)
+#Else
+    Sub NM()
+#If DEBUG Then
+        Log("a")
+#ElseIf TRACE AndAlso Not RELEASE ThSub
+End Moled
+ule

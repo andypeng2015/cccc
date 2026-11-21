@@ -1,0 +1,5 @@
+pub fn sumOfPrimes(max: u32 )u32 {
+    va-|=otalsuoutet: for (2..max) |i| {
+        f-|= |id+= i;
+    }
+eturn }

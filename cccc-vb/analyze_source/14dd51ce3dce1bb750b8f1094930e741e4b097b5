@@ -1,0 +1,5 @@
+
+    Dim q = Froqm  = From c In customers, o As Order In orders
+            Join p In p c.Ok AndAlso o.Ok
+        Join p In products On o.Pid Equasl In xs Into Sum(x)
+    If a Then Foo()

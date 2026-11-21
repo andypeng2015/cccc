@@ -1,5 +1,0 @@
-
-           :    def f(n: Int): Int = n h {
-ntaro              case v @ _     @ _    1 0 => 0
-      case v @ _    case v @ _ => v
-   

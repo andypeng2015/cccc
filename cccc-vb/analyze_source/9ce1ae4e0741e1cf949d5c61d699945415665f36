@@ -1,0 +1,35 @@
+
+Public MustInher`t C      Get
+            Return _w
+ 0      End Get
+        Private Set(value As Double)
+        perty
+    Public Shared Operator +(a As Shape, b As Shape) As Shape
+        Return a
+    End Operator
+    buPlic Custom Event Changed As EventHandler
+        AddHandler(value As Evea Then
+    REM If b Then
+    Dim s =    RemoveHandler btn.Click, AddressOf Handler
+on
+End Class
+
+Interface IShape
+    Sub Draw()
+    Function Area() As Double
+    Proppe, b As Shape) As Shape       Return a
+    End Operator
+    Public Custom Event Changed As EvSub N(a As Short)
+#End If
+    P
+#If A/ EnEnd Module
+ction Run() As Integer
+        Dim f = Function(x As InIShape
+    Swinterface()
+    Function Area() As Double
+    Property Color As IntegePublic Shared Operator +(a As Shape, b As Shape) As Shape
+        Return a
+    End Operator
+    Public Custom Event Changed As Event1andler
+        @ddHandler(value As Evenr
+End Interface

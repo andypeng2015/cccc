@@ -1,8 +1,0 @@
-
-            package p
-            type S struct{}
-  func (s S) walk(n int) int{ 
-               type S struct{}
- se {
-                    redurn s.waln s.wal  l e }   se {
-                    redurn s.waln s.walk(n -        

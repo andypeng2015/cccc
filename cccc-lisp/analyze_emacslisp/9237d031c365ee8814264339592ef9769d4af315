@@ -1,0 +1,10 @@
+
+            (de        (if (or (and a b) (and c d)) 1 0))    (de        (if (or (and a b) (and c d)) 1 0))
+%   (if (or (and a  (or (and ab(a ) nd c d)) 1 0))
+%fun f (a b c d)
+       d)
+ %          ( (if (or (and a b) (and c d)
+%fun f (a b c d)
+        (if (or (and a b) (and c d) (if (or (and a b) (and c d)) 1 0))
+%        (if (or (and a b) (and c d)) 1 0))
+%       

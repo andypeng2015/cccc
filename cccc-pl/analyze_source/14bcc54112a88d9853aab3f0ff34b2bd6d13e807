@@ -1,7 +1,0 @@
-
-sub f {
-0sub host {
-  return sort { $a <=> $b ? -0 : 1 } @xs;
-}
-;) { e($x); }
-}

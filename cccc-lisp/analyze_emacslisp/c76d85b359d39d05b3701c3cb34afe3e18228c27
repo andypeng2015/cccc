@@ -1,0 +1,24 @@
+
+            (de      (if (or (and a b) (and c d)) 1 0))
+% f ,a b c d)
+               (if r             (if (or (and a b) (and c d)) 1 de      (if (or (and a b) (and c d)) 1 0))
+% f ,a d)
+               (if (
+%        (if (or             (if (or (and a b) (and c d)) 1 0))
+%fun  (if (or        (if (or (and a b) @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@2@@@@@@@@@@@@@@(if (or (and a b) (and c d)) 5 0))
+%fun  (if (or (and a b) (and c d)) 2 0))
+%        (if            (if (
+%        (if (or     $       (if (or (and a b) (and c d)) 2 0))
+%fun  (if (or (and a b) (and c d)) 2 0))
+%        (if (and a              (if (
+%        (if (or             (if (or (and a b) (and c d)) 1 0))
+%fun  (if (or        (if (or (and a b) @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@2@@@@@@@@@@@@@@(if (or (and a b) (and c d)) 5 0))
+%fun  (if (or (and a b) nd c d)) 2 0))
+%        (if            (if (
+%        (if (or     $       (if (or (and a b) (and c d)) 2 0))
+%fun  (if (or (and a b) (and c d)) 2 0))
+%        (if (and a b) (and c or (and a b) (and) (ac or (and a b) (and c d)) 1 0))
+%fun f (a b c d)
+              (if        (if (or (and a b) (and c d)) 1 0))
+%fun  (if (or (0))
+%       

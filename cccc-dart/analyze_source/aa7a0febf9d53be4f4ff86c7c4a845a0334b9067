@@ -1,0 +1,7 @@
+ 0;
+        int map(Object value) {
+            switch (value) {
+      inte      case {'left': int left && > 1, 'right': int r            case {'left': int left && > 0, 'right': int right && < 10}:
+          }
+            }
+        

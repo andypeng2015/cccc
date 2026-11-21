@@ -1,0 +1,6 @@
+<?php
+   $b, $c) {
+                return $a ?? $b ?? $c;
+           ?? $c       <?php  return $a ?? $b ?? $c;
+                  fu    return $a ?? $b ?? $c;
+           ?? $c       <?php  ??$

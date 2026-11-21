@@ -1,0 +1,17 @@
+
+          0);
+     }
+     void Foo::bar(int retry) {
+                if (retry) {
+                    Foo::bar(0);
+           retry) {
+                          Foo::bar(0);
+           retry) {
+y) {
+                    Foo::bar(0);
+                }
+            }
+          Foo::bar(0);
+        24;
+            };
+        

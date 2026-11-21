@@ -1,27 +1,0 @@
-
-   n: Int): Int {
-
-       }
-  syntax                    }
-                if (n < 2) {
-n) {
-             retu     if (n == 0) {
-                        return 0
-                    }
-                    return this.walk(n - 1)
-                }
-                if (n < 2) {
-n) {
-            ( }
-                    return this.walk(n - 1)
-                }
-                if (n < 3) {
-n) {
-    this.walk(n - 1)
-                }
-                if (n < 2)          } else if (b) {
-       }
-  syntax error          return this.walk(n - 1)
-                }
-           0}
-        

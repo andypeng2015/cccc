@@ -1,6 +1,0 @@
-
-def get_words(n):
-  match n:
-        case 1:
-            match n(items, a):
-    for iots

@@ -1,4 +1,0 @@
-
-   async         fn getrs_do(wnumber: u32) -> &'static str {
-       }
- 

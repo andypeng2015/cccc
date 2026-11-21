@@ -1,0 +1,13 @@
+
+            fn f(zn: i32) -> i32 {
+             match n {
+                    x if x > 1SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS0 && x < 20 => 1,
+                    }
+  * match n {
+                    x if x > 1SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS0 && x < 20 => 1,
+                    }
+  * match n {
+                    x if x > 1SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS0 && x < 20 => 1,
+                    }
+            }
+        

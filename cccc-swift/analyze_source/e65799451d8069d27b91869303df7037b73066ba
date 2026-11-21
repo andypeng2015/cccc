@@ -1,0 +1,10 @@
+
+   umOfPri[es(max: Int)syn  = 0
+    for i in 2...max {
+                    for j in 1..<i {
+ i  }
+  tal
+      {                   total += i
+   !            }
+       }  
+       

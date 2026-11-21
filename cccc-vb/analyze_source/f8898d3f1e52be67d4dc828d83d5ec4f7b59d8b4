@@ -1,0 +1,9 @@
+
+Class C Surator
+    Public Custom Event r1
+        RemoveHandler(value As Evction Run() As Integer
+        Dim f = Function(x As Integer) x * 8
+        Dim g = Sub()
+                    )
+    En: Sub: Sub
+End Class

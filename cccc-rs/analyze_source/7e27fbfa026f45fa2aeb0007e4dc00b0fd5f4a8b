@@ -1,0 +1,5 @@
+    fn f(a: bool, b: bool, c: bool) {{ { if c {} } }
+q            }  fn f(a: bool, b: bool, c: bool) {{ { if c {} } }
+q            }
+       
+        

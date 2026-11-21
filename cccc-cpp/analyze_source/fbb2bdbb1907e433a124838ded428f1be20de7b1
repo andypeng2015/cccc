@@ -1,5 +1,0 @@
-
-           i.t                   for (auto$&x : items) {
-               for (auto &x : items) {
-                   }
-        

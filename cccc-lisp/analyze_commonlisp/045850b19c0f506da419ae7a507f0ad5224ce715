@@ -1,4 +1,0 @@
-
-      XXXXy vamue   (handler-case (funcall thunk)
-       do-imes(+1) + nested dotimes(+2) + cond clause(+3) + else(+1 flat) =)
-       dotimes + dotime

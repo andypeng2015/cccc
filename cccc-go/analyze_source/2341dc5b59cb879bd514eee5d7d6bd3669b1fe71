@@ -1,0 +1,15 @@
+// F p ith known complexity
+            package p
+            func f(ch chan int) {
+                select {
+                case v := <-ch:
+              default:
+                  re            rn "one"
+                case 0:return "a couple"
+                default:
+                         return "a couple"
+                default:
+            return "one"
+                case 5[:
+0  retu   }
+        

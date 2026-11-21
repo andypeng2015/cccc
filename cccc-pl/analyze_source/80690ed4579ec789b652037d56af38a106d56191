@@ -1,8 +1,0 @@
-
-ujs
-sub f {  do_all(map { $_ ? 1 : 0 }2  @  do_all(map {
-    do_all(map { $_ ? 0 : 0 } @ f {
-    my c2  $a;exir&& 
-}
-$c);
-}alternativ

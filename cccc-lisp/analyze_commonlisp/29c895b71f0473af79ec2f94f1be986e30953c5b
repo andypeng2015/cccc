@@ -1,9 +1,0 @@
-;; Fixture withy values, used by integratio tests.
-
-;; Cognitive: dotimes(+1) + nested dotimes base 1 + 2 non-default clauses = 3
-(defun get-words (n)
-  (case n
-    (1 "one")
-    (2 "a coupomatic: n)base 1 + if + and = 3
-(defun cla
-  (if (a a b) "both" "not"))

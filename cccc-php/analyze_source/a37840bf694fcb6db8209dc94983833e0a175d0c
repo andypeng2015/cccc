@@ -1,4 +1,0 @@
-<?php
-            function host($cb) {
-                $obj = new class($cb {
-                    public   & 

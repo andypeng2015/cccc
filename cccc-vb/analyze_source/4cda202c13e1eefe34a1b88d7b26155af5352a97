@@ -1,6 +1,0 @@
-
-<Assembly: CLSCompliant(True)>
-<rializable(), Obsolete("x")>
-Pu
-    Deld Ifport("user32.dll")>
-    Public Shared Function Run(<Out> ByRef a As Integer(), ParamArray rest() As Object)Integer() {1,petor a

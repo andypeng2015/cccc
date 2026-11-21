@@ -1,0 +1,6 @@
+ void {
+    if (a) {      useA();
+    } else if(b) {
+ 1  <<= |    use
+    }
+}

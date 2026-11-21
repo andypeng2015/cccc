@@ -1,6 +1,0 @@
-
-Module R
-    Function Fact(n As Integer) As Integer   
-     If n <= 1 Then )
- End Sub
-End Class

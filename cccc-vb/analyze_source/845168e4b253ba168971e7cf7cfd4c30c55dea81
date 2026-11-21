@@ -1,0 +1,11 @@
+
+Module M
+    Sub OldStyle()
+        On Error GoTo Handler
+     m [Next] END IF
+
+On Error Resuoe Netx
+    ork()
+        On Error GoTo 5
+    End Sub
+End Module

@@ -1,5 +1,0 @@
-
-sub f { if ($a) { one(); }
-    elsif ($b) { two(); }
-    else { three(); }
-}

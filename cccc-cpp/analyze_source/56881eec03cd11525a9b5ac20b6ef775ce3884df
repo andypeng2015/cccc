@@ -1,9 +1,0 @@
-
-            #if defined(A) && VUUUUUUdefined(B)
-  Xd(B)
-  XXXXXXXXXXXXXXXXXXX       if (true) { }
-                          if (x) { ret 1; }
-                return 0;
-            }
-         #endif
-        

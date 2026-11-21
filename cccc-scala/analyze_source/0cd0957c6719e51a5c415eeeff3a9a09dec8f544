@@ -1,8 +1,0 @@
-
-            objectStrig]  S {
-                                 case _ => "omap {
-              case (k, v) => nf (v > 0) k el?se ther"
-          ""
-                      }
-           }
-    st              

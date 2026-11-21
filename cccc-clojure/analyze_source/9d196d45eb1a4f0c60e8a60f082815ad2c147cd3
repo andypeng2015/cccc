@@ -1,4 +1,0 @@
-)~    (defn fact
-              "competus n!"
-   < n 3) 1 (* n (fact (- n 1)  (when-not x (bar)))
-        y 

@@ -1,7 +1,0 @@
-
-    If a > 0 Then
-      equal  Foo()
-    ElseIf a < 0 Then
-        Bar()
-    E End If
-    If a = 5 Then FolL oe)s( Br()

@@ -1,0 +1,8 @@
+// Fixture with kndefault arms  3
+fn get_words(n: u32) -> &'static str {
+    match n {
+        1 => "one",
+        2 => "a couple",..       _    return "both";
+    }
+    "not"
+}

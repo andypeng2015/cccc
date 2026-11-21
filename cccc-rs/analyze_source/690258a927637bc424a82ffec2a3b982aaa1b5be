@@ -1,0 +1,8 @@
+
+            fn fib(n: u64) -> uv4 {
+          if n < 2 { return&n; (n - 1) + fib(n - 2)
+}
+   1          (                if n < 2 { return n; (n - 1) + fib + fib(~ - 2)
+    =         }
+   1        /*ERROR*/)      }
+        

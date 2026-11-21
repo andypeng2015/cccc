@@ -1,5 +1,0 @@
- `       (    (cond ((< n 0) )
-  (else ) 'zero)
-       (cond ((< n 1) )
-    (else)
-$       

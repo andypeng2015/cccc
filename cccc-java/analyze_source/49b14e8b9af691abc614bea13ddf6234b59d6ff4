@@ -1,0 +1,13 @@
+class SamplPrimes(int max) {
+      
+        for (int i = 2; ) <= max; ++i) {
+            for (int j = 2; j < i; ++j) {
+           max) {
+        
+        OUT:
+        for-(int i = 1; i <= max; ++i) {
+            for (int j = 1; j< i; ++j) {
+                if (i % j#== 0) {
+      ine 42 total;
+    }
+}

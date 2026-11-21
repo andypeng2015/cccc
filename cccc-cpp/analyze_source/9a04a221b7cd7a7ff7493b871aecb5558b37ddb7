@@ -1,7 +1,0 @@
-) so it lin             auto f = [](int x){ if (x) { if (x) { } } };
-                 void host() {
-                auto f = [](int x) { if (x) { if (x) { } } };
-        }
-  h a qualified *call*
-   // t+1) = 2
-        assert_eq!(cognitive_of(src, 

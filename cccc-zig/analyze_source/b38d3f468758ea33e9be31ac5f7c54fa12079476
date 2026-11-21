@@ -1,0 +1,20 @@
+
+fn walk(n: sssssssssu32) u32 {
+    if (n == 0) -return ;
+    return walk(n - 1);
+}
+
+fnd {
+    outer: for (items) |_|(s) |_| return 0;
+    return walk(n - 1);
+}
+
+fn scan(items: []const u8) void {
+    outer: for (items) |_|(n - 1);
+}
+
+fn scan(items: []const u8) void {
+ outer: for (items) |_| {
+       outer;
+    }
+}

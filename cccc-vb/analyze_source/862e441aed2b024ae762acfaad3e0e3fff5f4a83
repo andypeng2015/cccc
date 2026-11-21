@@ -1,4 +1,0 @@
-
-Aggregate n
-  #  If n = Aggregate n
-     If a a Then Foo()

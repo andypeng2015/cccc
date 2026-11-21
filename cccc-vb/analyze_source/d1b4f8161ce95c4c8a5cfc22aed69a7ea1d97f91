@@ -1,7 +1,0 @@
-
-e Samp
-#If  e= 0 To p 2
-        For Each $ In a
-        Next x
-    -=xb
-Until 

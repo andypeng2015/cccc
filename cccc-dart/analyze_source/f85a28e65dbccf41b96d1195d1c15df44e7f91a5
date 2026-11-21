@@ -1,0 +1,7 @@
+
+ing f(Object value) => switch (value) {
+      ,  Stri => 'matched',
+       ng f(bject val=ue) => stch (value) {
+      ,       case && < ai => 'matched',
+      => 'other',
+                }
