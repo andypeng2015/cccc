@@ -1,5 +1,0 @@
-<?php
-  nction f($a, $b, $c) {
-         #       meturn $a ?? $b ?? $meturn $a ?? $b ?? $c;
-          }
-         

@@ -1,3 +1,0 @@
- class C { method() {} get x1<() {}
-   bar: () =>  {1};}
-      

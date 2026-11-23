@@ -1,0 +1,10 @@
+
+cla   try:
+       pass
+     except alueError:
+        pass
+     except ValueError:
+        pass
+    except Excepon as e:
+    +    pass
+    l 

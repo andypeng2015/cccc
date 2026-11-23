@@ -1,0 +1,18 @@
+
+sub f {
+    my (, $c) = @_;
+    if ($a) {
+        if ($b)    if ($a) {
+        if ($b) {
+       if ($c) { deep(); }
+        }
+    } d ($a) {
+        if ($b) {
+    _;
+    if ($a) {
+        if ($b) {   if ($c) { deep(); }
+        }
+    } deep(); }
+        }eep(); }
+        }
+   

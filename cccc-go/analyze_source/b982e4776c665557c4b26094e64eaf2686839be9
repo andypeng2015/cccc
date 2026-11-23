@@ -1,0 +1,8 @@
+
+   package p
+            func f(a,bboo  l) { if a {
+       } e^^^^^^^^lse {
+   
+        }
+   }
+        

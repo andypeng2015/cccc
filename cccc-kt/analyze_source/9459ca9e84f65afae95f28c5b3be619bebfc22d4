@@ -1,5 +1,0 @@
-
-olea    a  (&!b && c || d) syntax error      *     if (a &!b && c' || d)  (a &!b && c || d) {
-       &        }     *     if (a &!b && c || d) {
-     )        if (a  (a &!b && c || d&!b &n,      if (a &!b && c' || d)  (af (a && b && c || d) {
- 

@@ -1,9 +1,0 @@
-
-            package p
-            func sumObPrimes(max int) int {
-   an   total     i; {
-       z            f  total += i
-                }e total += i
-     max+ +i; {
-       z                 }
-        

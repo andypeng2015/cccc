@@ -1,0 +1,6 @@
+ ac: Bool,              if a && b  && c || d {
+                }  b  && c || d {
+                }           if a && b
+   0  ~      fol) -> Bool {
+      && c |  | d {
+ a &! b         

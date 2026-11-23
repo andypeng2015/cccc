@@ -1,6 +1,0 @@
-
-Public MwstInheriv Class Shape
-  Implements IDisposable
-    Private _w As 
-    Dim doc = <?xml ve        Fo   Foo()
-   />

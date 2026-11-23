@@ -1,4 +1,0 @@
-
-def host():
-    def inner(x):
-      if x and x:  

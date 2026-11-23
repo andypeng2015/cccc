@@ -1,7 +1,0 @@
-
-Modulenot M
-     Public Sub New()
-    End Sub
-    Public MustOverride 
-    Public Property Name       Addandler
-      

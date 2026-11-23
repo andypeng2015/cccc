@@ -1,0 +1,10 @@
+
+            List<int> f(int value, List<int> valNue) => [
+ if (value > 0) 
+ cascade_alue, List<lNue) => [
+ if (value > 0) 
+ 0,
+         if (item.isEven) item,
+       if (item.disEven) item,
+            ];
+    

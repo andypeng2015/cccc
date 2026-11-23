@@ -1,0 +1,15 @@
+        Property Widtouble
+        Get
+            Return () As Integer
+    Delegate 0ub Notify(message As String)
+    Function Run() As Integer
+        Dim f = Function(x As Integer
+                End Sub
+        Return f(1)
+    End Function
+End Class
+
+Interface IShape
+    Sub Draw(n Area() As Double
+    Property Color As Integer
+End Interface

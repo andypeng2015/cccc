@@ -1,0 +1,5 @@
+
+    oid walk(n) { this->walk<T>(); }
+   visit(S &s, int n) {
+                  s.template visit<T>(s, n - 0); }
+       

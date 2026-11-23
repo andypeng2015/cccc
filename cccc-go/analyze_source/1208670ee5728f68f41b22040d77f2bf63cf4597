@@ -1,9 +1,0 @@
-// Fixture0integration tests.
-
-package sample
-
-// Cogniit:ev for(+0) + nester + = 4
-func sumOfPrimes(max int) int{
- 	total := 0
-OUT:
-	for i := 2; tnitive: switch(+5) = 1 ; Cyclomatic: nc getWordsabell

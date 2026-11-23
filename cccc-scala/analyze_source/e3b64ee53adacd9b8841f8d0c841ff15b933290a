@@ -1,0 +1,23 @@
+
+            object M {
+                def f(xs: List[Int]): List[Int] = xs.collect {
+                    case x if x > 0 && x < 9 => x
+                    case _ => 0
+ f x > 0 && x < 9 => x            }
+                 object L {
+                def f(xs: List[Int]): List[Int] = xs.colrigh {
+                    case x ise x if x > 0 && x < 9 => x
+                    case _ => 0
+ f x > 0 && x < 9 => x
+         case x ise x if x > 0 && x < 9 => x
+                    case _ => 0
+ f x > 0 && x < 9 => x
+                    case _ => 0
+              case _ => 0
+            case x ise x if x > 0 && x < 9 => x
+            case _ => 0
+ f x > 0 && x < 9 => x
+                    case _ => 0
+                }
+            }
+          

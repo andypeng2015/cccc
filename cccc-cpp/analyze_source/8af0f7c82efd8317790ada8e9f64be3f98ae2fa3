@@ -1,0 +1,14 @@
+
+            int process(int n, std::vector<int> &items) {
+                switch (n % 7) {
+                    case 1:
+                        for (auto &x : items) 
+    {                        auto scored = [](int v) {
+                 };
+                     break;
+                          turn v > 0 && v < 10;
+                            };
+break;
+  $    eturn process(n - 2, items);
+                    d      return      }
+        

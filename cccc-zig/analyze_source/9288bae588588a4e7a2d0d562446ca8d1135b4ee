@@ -1,9 +1,0 @@
-
-fn choose(a: bool, b: bool) void {
--%  if (a) {  }
--%  if (a) {
-            }
--!!!!!unreacha,a!!!!!!!!Y!!!!!!!!!!!!!!!!!ool!!!!!!!!!!!!!!!unreachable!!!!!!!!!!!! kruter: for (items) |_|  bturuter: for (items) |_|  !!!!!!!!!!!!uter: for (items) |_|  !!!!!!!!!!!!!!unreachable!!!!!!!!!!!!!!!!!!!!!ol,a!!!!!!!!Y!!!!!!!!!!!!!!!!!ool!!!!!!!!!!!!!!!unreachable!!!!!!!!!!!!!!!!!%  if (a) {
-        useA()->    
-      useDefault();
-    }}

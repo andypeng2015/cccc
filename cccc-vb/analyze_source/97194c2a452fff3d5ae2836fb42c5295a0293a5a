@@ -1,4 +1,0 @@
-
-    If  0 Then
-        Foo()
-    ElseIf 0     ElseIf az()Bar()

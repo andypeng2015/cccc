@@ -1,3 +1,0 @@
-
-   (defmethod h ((obj account) amount)
-         le :before ((    

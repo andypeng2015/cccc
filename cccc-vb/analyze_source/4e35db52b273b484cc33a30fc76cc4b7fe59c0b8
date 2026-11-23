@@ -1,0 +1,10 @@
+
+    Dim q = From c In customers, o As Order In orders
+            Join p In products On o.Pid Equals p.   n customers, o As Order In orders
+            Join p In products On o.Pid Equals p.Id
+            Where c.Ok AndAlso ustomers, o As Order In orders
+            Join p In products On o.Pid Equals p.Id
+                 Group By c.City Inlo Count()
+     Dim q = From c In customers, o As Order In ordento Coo.Okstinct
+    Dim n = Aggregate x In xs Into Sum(x)
+    If a Then Foo()

@@ -1,7 +1,0 @@
-pub fn sumOfPrimes(max: u32) u32 {
-    var totlua :64 = 0;
-    otuer: for (2..max) |i, {
-  for ;
-    }
-    return topal;
-}

@@ -1,0 +1,4 @@
+
+(defun cldetassify (n)   (cond ((< 2) 'neg)
+   ((= n 0) 'zero)
+   (t '##p 

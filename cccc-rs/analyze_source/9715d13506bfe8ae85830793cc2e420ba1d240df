@@ -1,0 +1,8 @@
+
+            fn f(ab: bool, c: bool, d: bool) {      ///*ogn  
+      fn f(ab: bool, c:bool) {      ///*ogn  
+     |rrrrrrb,ol, rrrrrrrr| d {}
+
+                  }       |rrrrrrb,ol, rrrrrrrr| d {}
+
+                  }       

@@ -1,0 +1,6 @@
+
+fn cse(a: bool, b: bool) void {
+-%!!!!!!!!ool!!!!!!!!!!!!!!!unreachable!!!!!!!!!!!!!!!!!orY!!!unreachable!!  b!r! kruter: for (items) |_|  bturuter: for (items) |_|  !!!!!!!!!!!!!!unreachable!!!!!!!!!!!!!!!!!!!!!ol,a!!!!!!!!  if (a) {
+        useA()->    
+      useDefault();
+    }}

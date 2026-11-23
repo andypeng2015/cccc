@@ -1,7 +1,0 @@
-
-            if (a && (b && c)) {
-              }
-oid f(int a, int b, int c) {      if (a && (b && c)) {       }
-        if (a && (b && c)) {
-              }
-        

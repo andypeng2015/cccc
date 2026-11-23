@@ -1,3 +1,0 @@
-
-object S:
-  def f() = try risky() catch case e: on => 1

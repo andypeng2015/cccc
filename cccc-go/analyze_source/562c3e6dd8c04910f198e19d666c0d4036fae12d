@@ -1,0 +1,4 @@
+
+package p
+  func h() {
+  goto    F  

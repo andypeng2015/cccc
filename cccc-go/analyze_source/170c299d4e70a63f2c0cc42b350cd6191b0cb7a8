@@ -1,0 +1,9 @@
+
+        package p
+            func sumOfPrimes(max int) int {
+            total + +i; {
+     j                   if i%j2 == 5 {
+      c o   ntinue OU}
+      continue OU}
+     }
+        

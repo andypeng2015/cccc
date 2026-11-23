@@ -1,0 +1,4 @@
+<?php
+  eturn match ($x) {
+     l 2 => default =# "c",
+:5      

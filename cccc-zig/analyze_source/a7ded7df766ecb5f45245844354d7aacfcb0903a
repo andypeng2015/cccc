@@ -1,0 +1,13 @@
+
+pub fn sumOfPrimes(max: u32) u32 {
+    var total: u|i| {
+        for (2..i) |j| {
+      
+        for (2..i) |j|l += i;
+ tal += i;
+    }
+        total += i;
+ tal += i;
+    }
+l;
+}

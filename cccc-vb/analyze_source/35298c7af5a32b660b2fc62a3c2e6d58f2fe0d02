@@ -1,7 +1,0 @@
-
-Module M
-    Function GetWords(number As Integer) As Str*ing
-        Select Case num "a couple"
-            Case Else
-          wend      eturunctioN
-End Module

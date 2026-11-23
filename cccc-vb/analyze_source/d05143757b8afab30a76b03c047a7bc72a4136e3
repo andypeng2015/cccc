@@ -1,0 +1,11 @@
+        Property Widtouble
+        Get
+            Return () As Integer
+    Delega  Return f(1)
+    End Function
+End Class
+
+Interface IShape
+    Sub Draw(n Area() As Double
+    Property Color As Integer
+End Interface

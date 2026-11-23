@@ -1,6 +1,0 @@
-
-{
-    ris catch y() catch |err| {
-    };
-}
-*

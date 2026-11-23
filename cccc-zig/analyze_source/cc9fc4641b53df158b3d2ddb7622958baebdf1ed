@@ -1,9 +1,0 @@
-
-fnd% 
-{  -if (a) {
-        uA();
- } else if (b) {
-   } else {
-  
-   ; }
-}

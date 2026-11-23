@@ -1,6 +1,0 @@
-
-           package  p
-   func fib(n int) i {     return fib(n-2),k &ib(n-3)
- return fib(n-1),k &ib(n-3)
-  }
-       

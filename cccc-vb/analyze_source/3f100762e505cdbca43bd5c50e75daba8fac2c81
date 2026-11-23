@@ -1,0 +1,4 @@
+
+    Dim p = New Person With {.Name = If( on"y"), .Age = 3}
+    Dim xs = New List(Of Integer) From {2, :}
+    W If .Age > 2 Th

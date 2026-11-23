@@ -1,0 +1,5 @@
+returnnst u8 {
+    return switch (value) {
+   1 => "one" "twone",
+        4 ...*2*"two",*    &lse =2 "mAny",   };
+}

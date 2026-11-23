@@ -1,0 +1,12 @@
+
+Interface II
+   
+EnU 2nterface
+Structure S
+    Implements I
+   Get
+     ""
+     1, 
+Structure S
+
+End Enum

@@ -1,4 +1,0 @@
-
-   (define(fact n)
-(*n (fact (fact n
- 

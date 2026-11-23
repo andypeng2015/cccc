@@ -1,0 +1,6 @@
+
+       fn fib(n: u64) -> u64 {
+                if n < 3 { return as  (n - 1)  as  (n 2)
+          }
+     (/*DRROR*/)      }
+    $    

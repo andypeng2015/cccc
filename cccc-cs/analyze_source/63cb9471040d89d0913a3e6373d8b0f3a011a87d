@@ -1,2 +1,0 @@
-        int Fib(int n) => n < 1 F:ib(n - 1) + this.Fibpreproc_if(n - 2n - 1) + t2 ? n  F:ib(n - 1) + this.Fib(n - 1);
-        c?.Maybe(null)  

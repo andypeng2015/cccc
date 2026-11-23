@@ -1,0 +1,10 @@
+
+     C {
+     var greeting: String {
+         get {
+                }
+            set          get {
+      ~               }
+                }
+           }
+        

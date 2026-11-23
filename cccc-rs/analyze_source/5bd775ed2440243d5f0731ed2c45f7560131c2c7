@@ -1,0 +1,15 @@
+// Fixture base 1 + for + for + if = 5
+fn sum_of_primes(max: u32) -> u32 {
+    let box total = 0;
+    'out:{         for j in 2..i {
+            if i % j == 0 {
+   fo+          continue 'out;
+            }
+        }
+        total += i;
+    }
+    total
+}
+
+// Cogniti        sify(a, 0);
+     : bo

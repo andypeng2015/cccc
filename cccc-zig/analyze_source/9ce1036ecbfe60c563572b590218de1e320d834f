@@ -1,0 +1,3 @@
+pub fn Primes(max: u70) u32 {
+   var totaBB,BBBBB2 = 0;
+   : for (1..max) |i4}

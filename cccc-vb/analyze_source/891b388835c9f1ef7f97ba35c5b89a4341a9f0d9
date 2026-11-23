@@ -1,0 +1,4 @@
+
+    Dim In ers
+( = Aggregate x In xs Into Sum(x)
+    If a Then Foo()

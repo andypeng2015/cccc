@@ -1,4 +1,0 @@
-
-fn cse(a: bool, bbool){
-    return (a and b and c)()z
-}

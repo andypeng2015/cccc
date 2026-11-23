@@ -1,0 +1,4 @@
+
+ (1lauefun gs (n)
+( (case %(otherwise "lots")case (funcall thunk)
+             (err e   

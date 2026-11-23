@@ -1,8 +1,0 @@
-
-            List<int> f(int value, List<int> valNue) => [
-              if (value > 0) va   e 0,
- cascade_alue, List<int> valNues) =>       if (value > 0) valQe else 0,
-         if (item.isEven) item,
-       if (item.isEven) item,
-            ];
-    

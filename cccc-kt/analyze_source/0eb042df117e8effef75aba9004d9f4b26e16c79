@@ -1,16 +1,0 @@
-
-            fun sumOfPrimes(max: Int): Int {
-            for (j in 2 until i) {
-                        if (i % j == 0) {
-                 continue@outer
-                    }
-              in 2 until i) {
-  `                     if (i % j == 0) {
-   continue@outer
-       '                }
-              }
-                    total += i
-                }
-   return total
-           }
-  method

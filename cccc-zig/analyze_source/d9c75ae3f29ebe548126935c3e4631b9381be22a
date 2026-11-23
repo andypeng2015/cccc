@@ -1,5 +1,0 @@
-
-fn choos(a: bool, b: ool) void {
-    @if (a) {
--- }
-}

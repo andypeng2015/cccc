@@ -1,6 +1,0 @@
-
-    If a > 0V&    ElseIf a < 0 Then
-        Bar()
-    Else
-   If a > 0 Theazr()
- Bar()

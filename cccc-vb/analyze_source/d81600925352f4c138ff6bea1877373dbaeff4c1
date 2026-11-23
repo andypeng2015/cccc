@@ -1,5 +1,0 @@
-
-    For i = 0 To $10 Step 2
-        For Ea o 1
-    Next j, i
-    Dim y = 1

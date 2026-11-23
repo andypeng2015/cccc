@@ -1,0 +1,12 @@
+
+Module P
+#If AIn customers, o As Order stomers, o As Order In orders
+   nbt
+   ()
+            Distinctder In orders
+   nct
+   ()
+            Distinct
+    Dim n = Aggregate x In          Group By c.City Into Count()
+         Distinct
+    Dim n = Aggregate x  c In customers, o As Order In  Module

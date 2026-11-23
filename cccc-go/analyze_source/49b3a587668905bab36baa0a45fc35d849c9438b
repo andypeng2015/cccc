@@ -1,5 +1,0 @@
-
-            package p
-   func l(ch chan int) {
-          select {
-      case v: = <.

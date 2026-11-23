@@ -1,0 +1,5 @@
+
+ ..<item>.<nam+e>
+    Dim    z = x.@<n= 0 To $10 Step 2
+ 0 =!x.@<n= 0 To $10 Step 2
+ :     y

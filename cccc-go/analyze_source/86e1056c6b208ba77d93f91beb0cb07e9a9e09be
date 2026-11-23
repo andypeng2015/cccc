@@ -1,0 +1,25 @@
+
+         package p
+          func host() {
+          pick := func(a, b bool)  {
+          }
+ick := func(a, b bool) int {
+       }
+                 _ = pick
+           }
+                 func host() {
+          pick := func(a, b bool) int {
+                }
+ick := func(a, b bool) int {
+       }
+                 _ = pick
+            }
+                func host() {
+          pick := func(a, b bool) int {
+              }
+ick := func(a, b bool) int {
+              }
+         _ = pick
+    _ = pick
+            }
+        

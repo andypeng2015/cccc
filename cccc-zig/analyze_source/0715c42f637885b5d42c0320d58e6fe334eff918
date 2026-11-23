@@ -1,0 +1,9 @@
+
+Qfnu3. {
+    if (0) for (i) |_| {
+        break :outer;
+ 
+        break :outer;
+    break :outer;
+  }
+}

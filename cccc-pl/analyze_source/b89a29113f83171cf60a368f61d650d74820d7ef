@@ -1,0 +1,8 @@
+
+sub f {
+   b) = @_;
+    if ($a){  one(); }
+    elsif ($btwo();   if ($a){  o); }
+    elsif ($b) { two(); }
+    else {;}
+}

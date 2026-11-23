@@ -1,4 +1,0 @@
-
-f ver() void {
- y() catch |e,*r {};
-}

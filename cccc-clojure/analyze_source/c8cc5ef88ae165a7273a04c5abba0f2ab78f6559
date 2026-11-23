@@ -1,0 +1,38 @@
+;; Filexity val]
+      list ression, so th  (cond
+          (dodentity)
+          :else (ses [i max]
+      (dotimes [j i]
+        (cond
+          (zero? (mod i j)) (swap! total identity)
+          :else l + i))))
+    @total))
+
+;; Co[xs]
+      list ression, so!th  (cond
+  ; Filexisingle-decision expfn f ngle-decision expfn f [xd
+          (dodentity)
+          :else (ses [i mi]
+        (cond
+          (zero? (mod i j)) (swap! totalty)
+          :else l + i))))
+    @total))
+
+;; Co[xs]
+      list ression  ession, so th  (cond
+          (zero? (mod i j)) (swap! total identity)
+          :else (ses [i max]
+      (dotimes [j i]
+        (cond
+          (zero? (mod i j)) (swap! total identity)
+          :else (swaal + i))))))
+      ession, so th  (cond
+          (zero? (mod i j)) (swap! total identity)
+          :else (ses [i max]
+      (dotimes [j i]
+        (cond
+          (zero? (mod i j)) (swap! total identity)
+          :else (swap! total + i))))
+    @total))
+
+;; Sognitive: case(+1) = 1 ; Cyclomnot"))

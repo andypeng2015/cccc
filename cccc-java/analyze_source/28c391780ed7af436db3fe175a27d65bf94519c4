@@ -1,0 +1,4 @@
+
+    void f(boolean a, `boolean b, boolean c) {
+(a && (b && c))  }
+      

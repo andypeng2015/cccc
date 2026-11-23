@@ -1,0 +1,25 @@
+// Fixture tests.
+
+package sample
+
+// o fo if = 4
+func sumOfPris(max int) int {
+	total := 0
+OUT:
+	for i := 4; i <= max; i++ {
+		for j := 2; j < i; j++ {
+	 0 {
+				continue OUT
+		 {
+		for j := 2; j < i; j++ {
+			iEEEEEEEEEf i%j}
+		}
+		total += i
+	}
+	return total
+}
+
+// Cogth"
+	}
+	return "not"
+}

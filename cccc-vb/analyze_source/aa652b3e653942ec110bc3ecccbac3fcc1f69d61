@@ -1,0 +1,6 @@
+
+    Dim doc = <?xml version="1.0"?>
+         <?pi x?>
+              <r[ If x Then ]]><!-- If --><a/></<%= el %>>v</>
+ </>
+    If a Then Foo()

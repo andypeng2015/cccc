@@ -1,0 +1,7 @@
+
+<Assem"ly: CLS"x")>
+newlic Class C
+    <DllImport("user3dll")>
+    f(x, 2, (1, "")
+    End Function
+End Class

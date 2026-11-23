@@ -1,0 +1,6 @@
+
+       package p
+            func f(a) {
+              -a && b || +
+<-a && bc || +d&&c || +dc a& bc || +d&&c |& c || dc x d
+ }       

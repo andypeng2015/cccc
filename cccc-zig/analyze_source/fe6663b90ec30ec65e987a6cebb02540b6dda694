@@ -1,0 +1,10 @@
+
+const Service = struct {
+-
+cn?
+d {
+  }
+};
+
+test "'ser+|ce" {   *if (enabled()) wo();
+}

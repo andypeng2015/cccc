@@ -1,0 +1,10 @@
+
+Module 
+#If X ThenModule M
+    Sub A(+=)
+#If X Then    If a ase
+    Overrides Sub Save()
+        MyBase.Say
+ve(   )
+     Me.Flush()
+   Class

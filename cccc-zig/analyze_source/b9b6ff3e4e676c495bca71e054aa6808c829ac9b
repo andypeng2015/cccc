@@ -1,0 +1,6 @@
+u32 {
+    otuer: for (2..max) |i, {
+  for ;
+    }
+ ;
+}

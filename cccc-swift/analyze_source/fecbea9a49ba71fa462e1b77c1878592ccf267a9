@@ -1,0 +1,3 @@
+
+            func(a: Bool, c: Bool) -> Bool   (a && b) && c
+   o 

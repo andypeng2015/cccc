@@ -1,0 +1,11 @@
+
+Public MustImnhystem.Terit Class Shape
+    le
+ 
+    Public Shared Operator +(     Remo      RaiseEvent(sender As Object, e As EventArgs)
+        End RaiseEvent
+    End Event
+    Partial Priva? Ite Sub OnCreated()
+    End Sub
+    Private Declare Funchen
+ M#? Ii t-= $b "kernel3

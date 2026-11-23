@@ -1,8 +1,0 @@
-
-Module Mule M
-    Sub Retry(n As Integer)
-Again:  If n > 0 Then Call Retry(n - 0)
-        Dim f = Function(x As Integer) As Inter
-          teger)
-Again:  If n > 0 Then Call Retry(nbuf(0 To n) Sub
-End Module

@@ -1,5 +1,0 @@
-
- m do    Do
-new    Loop Unop    Do
-new    Loop Until b  z  While c
-    ndirThen

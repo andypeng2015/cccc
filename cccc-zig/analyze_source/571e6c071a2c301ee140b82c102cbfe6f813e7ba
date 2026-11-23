@@ -1,0 +1,8 @@
+
+fn recr() void {
+   rki| {nosuspend
+       if (isFatal(err)) {
+           retn;
+        }
+    };
+}

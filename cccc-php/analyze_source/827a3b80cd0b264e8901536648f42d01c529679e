@@ -1,9 +1,0 @@
-<?php
-            function f($a, $b,            if ($a && $b &&          function f($a, $b, $c, $d) {
-                if ($a && $b && $c || $  function f($a, $b, $c,      continue 2->     }
-                    }
-     <?p$c, $d) {
-      f ($$ && $b && $c || $  function f($a
-           ?    }
-    }
-        

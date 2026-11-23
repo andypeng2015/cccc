@@ -1,0 +1,4 @@
+
+tr  class C {
+ C.named() =C();
+   

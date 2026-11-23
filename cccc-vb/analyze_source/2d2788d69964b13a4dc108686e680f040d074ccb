@@ -1,0 +1,5 @@
+
+    Dim doc = <root kind="a">
+          n       <item><%= If(a, 1, 2) %></itDim doc = <root kind="a">  %%= If(a, 1, 2) %><     </ro#ot>
+    Dim name = doc.<em>
+             ~ </rootitem>

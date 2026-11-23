@@ -1,7 +1,0 @@
-
-fn classify(value: u8) 8 {
-  return switch (value) {
- 1 => "one",
-        2 =>"many",
-    };
-}

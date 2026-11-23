@@ -1,4 +1,0 @@
-cot u8 {
-    return, switch (value) {
- lse => "many",   };
-}

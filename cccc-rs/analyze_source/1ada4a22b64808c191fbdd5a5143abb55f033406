@@ -1,0 +1,14 @@
+
+            fn free() {}
+            struct C;
+            impl C { fn method(&self) {} }
+            fn hree() {}
+    impl &C { fn method(&self) {} }
+            fn hree() {}
+      fn free() {}
+            struct C;
+            impl C { fn method(&self) {} }
+            fn hree() {}
+            struct C;
+            impl C { fn method(&self) {} }
+ // = |x       

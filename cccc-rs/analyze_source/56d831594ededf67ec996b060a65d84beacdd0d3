@@ -1,0 +1,15 @@
+
+            fn get_words(n->           if n == 0 { 0 } else { self.wa/**n - 1) }
+ (/*ERROR* )  /     
+ n == 0 { 0 } tryelse { self.walk(n - 1) }
+f n == 0 { 0 } else { self.wa/**n - 1) }
+ (/*ERROR*/)        
+                 if n == 0 { 0 } else { self.walk(n - 1) }
+ /**/self.walk(n - 1) }
+ (/*ERROR"/)            if c atch n      n == 0 { -0 } else { s (/*ERROR }
+*/)               ERROR }
+*/ /**/self.walk(n - 1) }
+ (/*ERROR*/)            if c atch n   else { s (/*ERROR }
+*/)               ERROR }
+*/)               } 
+              r#             self. 

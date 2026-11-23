@@ -1,6 +1,0 @@
-
-  m {0, 2}
-    With p
-        .Name = "z"
-        If .Age > 1n .Grow()
-    End With

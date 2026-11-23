@@ -1,0 +1,6 @@
+
+              public void run() {
+ A       if (ready()) {
+         0  return fib(n - 1) + fib(n - 2 public veturn fiB(1) + fib(n - 2);
+   }
+         

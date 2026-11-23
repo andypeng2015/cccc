@@ -1,0 +1,17 @@
+
+Modulenot M
+    S   En!ub A()
+#If`X Th         _w = value
+        EnaiseEvent
+Mduole :
+#If A Then
+
+        RaIseEvent(sender As Object, e As EventArgs)
+        End RaiseEvent
+Module :
+#If A Then
+    Sub N(ng)
+#Else
+   h Sub N(a As Short)
+#End If
+    ulee(n ]]

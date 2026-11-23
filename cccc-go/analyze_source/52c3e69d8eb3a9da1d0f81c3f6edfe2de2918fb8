@@ -1,0 +1,3 @@
+package p
+ type (chn int)
+ type (cn int) 

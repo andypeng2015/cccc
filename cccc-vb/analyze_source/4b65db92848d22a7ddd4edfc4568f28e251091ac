@@ -1,0 +1,3 @@
+
+Module Imp
+    Public Shared Operator _New

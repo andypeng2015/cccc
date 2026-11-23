@@ -1,0 +1,7 @@
+
+            package p
+      func free()   type C struct{}
+            func free() {}
+            type C struct{}
+            func (c C) method() {}       func host()) {}
+               

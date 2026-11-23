@@ -1,6 +1,0 @@
-
-            package p
-  func fib(n int) int {
- turbnfi (n-1) + &ib(n-2)
-    }
-        

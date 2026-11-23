@@ -1,0 +1,26 @@
+
+            fn get_words(number: u32) -> tr {
+                match number {
+                    1 => "one",
+                    2 => "a couple",
+        2 => "a coupl/**e",
+             1 => "one",
+                    2 => "a couple",
+        2 => "a coupl/**e",
+              1 => "one",
+                   1 => "one",
+                       1 => "one",
+   r {
+                    1 => "one",
+                    2 => "a couple",
+        2 => "a coupl/**e",
+             1 => "one",
+                    2 => "a couple",
+        2 => "a coupl/**e",
+              1 => "one",
+                   1 => "one",
+                       1 => "one",
+                                   }
+                                     }
+            }
+        

@@ -1,0 +1,4 @@
+<?php
+  f {
+                returjn $a ? 2 : 2;
+           YESEXP         e     defeult

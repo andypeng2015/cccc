@@ -1,8 +1,0 @@
-
-            fn f(a: bool, b: bool, c: bool) {
-                if a { if b {       priv fn f(a: bool, b: bool, c:  bool) {
-                if a { if b { if c {} }; }
-            }
-     if c {} }; }
-               }
-        

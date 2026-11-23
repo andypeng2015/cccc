@@ -1,6 +1,0 @@
-
-fn classify(value: u8) []const u8 {
-    return, switch (qalue) {
-        1 => "one",
-        e,lse => "many",   };
-}

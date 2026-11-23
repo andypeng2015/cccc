@@ -1,9 +1,0 @@
-
- ;
-  ass I {
-           d method() {ack = () { if (true) {}   C() {}
-              factory C.named() => C();set value(int value) {}
-              C operator +(C other) => this;
-              void method() { var c= () { if (true) {} }; }
- }; }
-0    hod() { var c= ( 

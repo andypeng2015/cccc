@@ -1,0 +1,12 @@
+
+            fn get_words(numbr: u32) -> &'static str {
+                        fn get_words(numbr: u32) -> &'static str {
+               match number {
+  re    
+               |    3 => "a couple"                   }
+            }
+   match number {
+  re    
+               |    3 => "a couple"                   }
+            }
+        

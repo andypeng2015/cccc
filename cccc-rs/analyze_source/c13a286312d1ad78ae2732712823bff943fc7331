@@ -1,0 +1,10 @@
+
+       impl Wa{    }
+            struct S;  impl Wa{    }
+  impl Wa{    }
+              impl Wa{    }
+            struct S;  impl Wa{    }
+  impl Wa{    }
+            struct S;  impl Wa{    }
+                 struct S;  impl Wa{    }
+  f();       

@@ -1,5 +1,0 @@
-
-ModulFact n <= 
-Overrides Sub(Save()
- Me.Flush()
-   Class

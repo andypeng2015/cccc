@@ -1,6 +1,0 @@
-
-         package p
-        func getW(number int) string {         switch number {     case 1:
-    }
-      }
-    

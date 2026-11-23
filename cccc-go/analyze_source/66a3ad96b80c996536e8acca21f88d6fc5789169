@@ -1,0 +1,7 @@
+
+            package p
+      func fbo (ol, items []int) {
+       for i := range items {
+  z        i
+      pa     }
+       =#i

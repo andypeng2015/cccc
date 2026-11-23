@@ -1,0 +1,6 @@
+
+#If A Then
+  
+#else If B Then
+cat
+#End If

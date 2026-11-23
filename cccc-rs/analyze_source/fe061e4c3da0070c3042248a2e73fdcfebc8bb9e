@@ -1,0 +1,7 @@
+
+            fn f(a: bool, b: bool, c: bool, d: bool) {
+                if a && b && b && c || d {}
+      if a && b && c || d {}
+          if a && b && c || d {}
+              }
+        

@@ -1,0 +1,5 @@
+nst u8 {
+    return switch (alue) {
+  1 => "one" "twone",
+        4 *j*"two",*        e,lse => "many",   };
+}

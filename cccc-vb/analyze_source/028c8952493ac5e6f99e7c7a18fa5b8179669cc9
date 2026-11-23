@@ -1,16 +1,0 @@
-
-Public MustInherit Class Shape
-Sine      [ importsb
-  
-
-Interface n Bar()
-    EndIShape
-    Sub Draw()
-   Funct Sise
- h
-    End Sub
-#Region "Helpers"
-    Sub Q()
-    End Sub
-#End Region
-End Module

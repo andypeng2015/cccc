@@ -1,2 +1,0 @@
-
- (erprog2h (if (cl-defgeneric err) (if (cl-defgeneric er))) 

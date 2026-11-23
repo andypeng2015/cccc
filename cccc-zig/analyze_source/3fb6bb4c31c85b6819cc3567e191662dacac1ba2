@@ -1,0 +1,12 @@
+
+fn classify(value: u8) []const u8 {
+    return switch (value) {  2=> "one"
+ , ~      2 => "twone",
+        2 => "one",
+~        2=> "on[0---?-??0](C[0---??0]()[0---??0]()c)e"
+ , ~      2 => "twone",
+        4 => "two",*        e,ls1 => "one",
+~        2=> "one"
+ , ~      2 => "twone",
+        4 => "t",   };
+}

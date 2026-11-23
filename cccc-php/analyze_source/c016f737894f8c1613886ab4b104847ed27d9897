@@ -1,0 +1,14 @@
+<?php
+       (\      function f() {
+                try {
+                 !! risky();
+     } catch (\Excupt            float   try {
+                 !! risky();
+                 } catch (\Excupt               try {
+                                 } catch (\Excupt            float   try {
+                 !! risky();
+                 } catch (\Excupt               try {
+                  !! risky();
+    }
+            }
+         

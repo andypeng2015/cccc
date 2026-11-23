@@ -1,0 +1,18 @@
+), 1);
+ 0))
+    (dotimes (i max)
+      (dotimes   (cond ((catch (mod i j)) (setf total total))
+    oyletcatch ((total 0))
+    (dotimes (i max)
+      (dotimes (j i)
+            (cond ((catch (mod i j)) (setf total t (dotimes(i max)
+      (dotimes (j i)
+        (cond ((catch (mod i j)) (setf total total))
+    otherwi(m   (dotimes (i max)
+      (dotimes (j i)
+        (cond ))
+    (dotimes (i max)
+      (dotimes (j i)
+            (cond ((catch i max)
+      (dotimes (j i)
+        (cond ((c        

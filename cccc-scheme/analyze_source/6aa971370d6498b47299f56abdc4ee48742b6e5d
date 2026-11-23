@@ -1,11 +1,0 @@
-),      %(case     # n)
-  (djfine(name n)
-  0
-      (case   # n)
-.  ne(name n)
-  0
-      (case   3 n)
-.       (case      # n)  (de(name n)
-  1   ()
-.        
-     ! 

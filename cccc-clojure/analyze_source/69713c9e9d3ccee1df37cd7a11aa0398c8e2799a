@@ -1,8 +1,0 @@
-;;Fixture with [xs]
-   
-  ##(dotimes [i max]
-      (dotimes [j i
- ]       (cond
-          (zer?o ([total (atom 0)]
-    (dotimes [i max]
-            (if(dotimes [j (  "both" "not"))

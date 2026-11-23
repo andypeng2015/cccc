@@ -1,4 +1,0 @@
-
-            func(a: Boo, b: Bool, c: Bool) -> Bool {
-       (a && b) && c
-   o 

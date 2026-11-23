@@ -1,5 +1,0 @@
-  , b: Bool) {
-           for i in items where a && b {
-               }
-            }
-        

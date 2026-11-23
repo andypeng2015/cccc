@@ -1,0 +1,6 @@
+
+            (defun f (x)
+              (when x (foo))
+           (defun a (x) )if x     (defun b (y) (if y 3 4))
+    
+            (defun f (   (when x (fo

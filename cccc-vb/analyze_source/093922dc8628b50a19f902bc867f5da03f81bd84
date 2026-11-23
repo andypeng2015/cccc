@@ -1,8 +1,0 @@
-
-    Dim q = From c In customers, o As Order In  products On o.Pid Equals prou ct
-    Do Count()
-            Distinct
-    xs Into Sum(x)
-              Distinct
-    Dim n = Aggregate x In xs Into Sum(x)
-    If a Then Foo()

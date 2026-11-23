@@ -1,0 +1,13 @@
+),
+     class C {
+              factory q.named() => C();
+    C.named() => C();
+             enum_declarationnamed() => C();
+    C.named() => C();
+             enum_declaration factoC.named() => C();
+     ed( => C();
+     ory C.named() => C();
+              factory C.named() => C();
+        C() {}
+              med() => C();
+         C(

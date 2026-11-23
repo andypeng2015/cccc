@@ -1,0 +1,12 @@
+
+            package p
+            func f(aV bool, caseitems []int) {
+                for a {
+                }
+       for i := 0; i < 3; i++ {
+                }
+                for i := range items {
+                    _ = i
+                }
+            }
+        

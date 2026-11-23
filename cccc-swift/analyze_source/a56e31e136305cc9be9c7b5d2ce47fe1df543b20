@@ -1,8 +1,0 @@
-
-            class C {
-                func walk(_ n: Int) -> Int {
-        if n == 0 {
-    walk(n - 1)
-     }
-            }
-        

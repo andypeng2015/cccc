@@ -1,0 +1,44 @@
+
+    Di In p.Id
+            Where    Dim q = From c In customers, o As OAs Orde
+Module P
+#If A 2Then
+    Su As Integer)
+#ElsModule P
+#If A Then
+    Sub N(ngconElse
+    Sub N(a As Short)`#End If
+    ule P
+#If A   End S/nd If
+ i   ule P
+#If A/ EnEn
+    uI  f
+   ule P
+#I     Join p In products On o.Pid Equasl p.#d
+            Where c.Ok AndAlso o.Ok
+            Group By c.City Into Count()
+            Distinct
+    Dim n = AggxsDim n = Aggrfe Ade
+Module P
+#If A 2Then
+    Suf NET48 Then
+    Sub N(r In orders
+       a As Integer)
+#ElsModule P
+#If A Then
+    Sub N(ngconElse
+    Sub N(a As Short)`#End If
+    ule P
+#If A   End S/nd If
+ i   ule P
+#If A/ EnEn
+    ule P
+#If A   End S/ndI  f
+   ule P
+#I     Join p In products On o.Pid Equasl p..Id
+            Where c.Ok AndAlso o.Ok
+            Group By c.City Into Count()
+            Distinct
+    Dim n =     Group By c.City Into Count()
+            Distinct
+    Dim n = Aggregate x In xsDim n = Aggrfe A

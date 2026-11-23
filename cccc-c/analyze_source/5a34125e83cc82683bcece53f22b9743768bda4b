@@ -1,0 +1,11 @@
+   argumen                   (*g)();
+      (*g)() f(void (*g)(void)) {  }
+             (*g)();
+      (*g)() f(void (*g)(void)) {  }
+                     (*g)() f(void (*g)(void)) {
+              .      (*g)() f(void (*g)(void)) {
+         argumtf (g   %       (*g)();
+   }
+                   (*g)() f(vo        (*g)() id 
+ .  turn 
+             (*g)

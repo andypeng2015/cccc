@@ -1,9 +1,0 @@
-
-            (fefun classefffff(cond ((<0 n ) 'e n 
-)g                  ((= n 0) 'z    (cond ((< n 0) 'neg)
-         (    (cond ((<0 n ) 'neneg)
-  (((cond ((< nR 5) 'neg) (                ((= n 0) 'z    (cond ((< n 0) 'neg)
-         (    (cond ((<0 n ) 'neneg)
-                    ((= n 0) 'z    (cond ((< n 0) 'neg)
-         (    (cond ((<0 n ) 'neg)
-                   ((= n 0) 'z   

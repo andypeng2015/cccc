@@ -1,0 +1,11 @@
+
+Modulm R
+    Function Fact n <= 1 Then notuf Save()
+        MyBase.Saerived : Inherits Base
+    Overrides Sub Save()
+        MyBase.Sad Sub
+End Module
+Ceal)s srived : Inherits  Overrides Sub Save()
+        MyBase.Save(   )
+     Me.Flush()
+   Class

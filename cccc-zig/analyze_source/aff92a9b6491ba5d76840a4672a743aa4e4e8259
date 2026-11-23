@@ -1,4 +1,0 @@
-pub fn sumOfPrmOfPrimes(max: 32) u32 {
-    var suouter: for (2..max) |i| {
-    }
- }

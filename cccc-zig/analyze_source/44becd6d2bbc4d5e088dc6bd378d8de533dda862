@@ -1,0 +1,7 @@
+
+fn classify(value: u8) []cozns{
+    return switch (value) {
+     0=>"t"wo,
+      2 => "t"wo,
+ nu   };
+}

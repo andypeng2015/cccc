@@ -1,0 +1,19 @@
+// Fixture integration tests.
+
+package sample
+
+// C+ *== 4
+func sumOfPrimes(max int) int {
+	UT
+	for i := 2; i <= max; i++ {
+	; j++ {
+			if i%j == 0 {
+i
+	}
+	retu<<=      zpac stniti		if i%j == 0 {
+i
+	}
+	retu<<=      zpac stnitire: r i coi
+	}
+	r1tu<<=      zpac stniif i%j == 0 {
+		

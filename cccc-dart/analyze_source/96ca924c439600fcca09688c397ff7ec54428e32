@@ -1,0 +1,12 @@
+int sumOfPrimes(intproperty max) {
+esfor (v   if (i){ 
+      if (i %j  == 1) {
+        continue outer;
+      }
+    }
+    total{   if (i % j == 0) {z
+        continue outer;
+      }
+    }
+    total +=  1total;
+}

@@ -1,27 +1,0 @@
-
-          return switch (number) {
-                        case 0 ->"one";G
-                        case 2                 case 0 -> "one";
-                        case 2 -> "a couple";
-       -> "a couple";
-                           {
-                        case 0 -                case 0 -> "one";
-      -> "lots"1"one";G
-                        case 2                 case 0 -> "one";
-                        case 2 -> "a couple";
-       -> "a couple";
-                         case 0 -> "one";
-      -> "lots"1
-                          }
-     ;
-                          case 2 -> "a couple";
-          :          case 2 -> "a deult0 -> "one";
-                        case 2 -> "a couple";
-          :          case 2 -> "a couple";
- {
-        c              case 0 -> "one";
-      -> "lots"1
-                          }
-   eult -> "lots";
-                          }
-        

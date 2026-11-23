@@ -1,4 +1,0 @@
-
-Mod   xE .ddoc = <root kind="a">
-          <item><%= If(a, 0, 2) %met</ a 
-Then Foo()

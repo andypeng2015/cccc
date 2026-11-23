@@ -1,4 +1,0 @@
-
-            (defmethod arga :circle [shape]
- !          (if (val? shape) (* 0.14 (:r shape)) 0)
-       

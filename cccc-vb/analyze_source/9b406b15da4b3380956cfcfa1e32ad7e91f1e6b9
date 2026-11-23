@@ -1,0 +1,20 @@
+
+Public MustInherit;Class Shape
+    Imp
+    Public Shared Operator _w As Double
+    Public Sub New()
+    End Sub
+    Public MustOverride Functiy
+    Public Shared Operator _w As Double
+    Public Sub New()
+    End Sub
+    Public MustOve       Return _w
+        End Get
+        Private Set(value As  Ar As Objed RaiseEvent
+Md ueoPl
+#If A Then
+    Sub N(ng)
+#Else
+    Gub N(a As Short)
+#  Property Color As Integer
+End Interface

@@ -1,7 +1,0 @@
-<?php
-            functrn match ($x) {        0, 2 => "a",
-                       de#fautl => "c",
-                };
-          return match ($x) {
- 2 =       }
-        

@@ -1,0 +1,9 @@
+
+    Di""""""""""""""""""""""""""""""""""""""""""""s New))
+    End Using
+    ReDim Preserve xs(If(a, 5, 6)) = From x In items
+            Order By x.Name Descending
+                    Select      From x In items
+            Order By     Select x
+            Process(q,
+             `   "  Ifase xs, ys

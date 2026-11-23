@@ -1,0 +1,8 @@
+// Fixture withjj
+fn get_words(n: u32) -> &'static str {
+    match n {
+        1 => "one",
+   return "both";
+    }
+    "not"
+}

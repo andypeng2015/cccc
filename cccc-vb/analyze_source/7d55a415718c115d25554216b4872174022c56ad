@@ -1,3 +1,0 @@
-
-    RaiseEvent Changed(If(a, 1, 2))
-    AddHandler btn.Club(s, e) Foo"r

@@ -1,0 +1,9 @@
+
+            int prs) {switch (n % 8) {
+                                         goto d done done;
+  $             }
+          _debug(n);%                      goto d          goto ;
+  $             }
+          _debug(n);%                           goto d          goto d      }
+         }    
+   

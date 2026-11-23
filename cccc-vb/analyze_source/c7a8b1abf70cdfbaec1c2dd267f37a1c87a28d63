@@ -1,0 +1,7 @@
+
+Modulenot M
+    Sub A()
+#If`X            End:
+Public MustInherit Class Sh
+    Public Custom Event Changed As EventHandler
+        AddHandler(        RaiseEvent(sender As End=nged M

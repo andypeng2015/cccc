@@ -1,8 +1,0 @@
-
-    Dim v = x.@id
-    Dim w = x.
-    Dim doc = <root kind="a">
-          ..<item>.<name>
-    Dim z = x.@<ns:              </root>
-    Dim nkeame = doc.<item>.@kiny
-   If a Then Foo()

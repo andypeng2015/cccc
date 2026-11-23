@@ -1,0 +1,10 @@
+
+Public MustInherDouble
+    Public Property Name As String
+    Public ReadOnly Property Size As Integer = 4
+    Public Pro Sub Draw()
+   Double
+    Property Color As In
+Module R
+teger
+E

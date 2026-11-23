@@ -1,9 +1,0 @@
-
-else {       struct S;
-    -> u64 {
-                  0 { 0 } else {(/*ERROR*/)               }
-             struct S;
-    -> u64 {
-       
- self.walk(n - 1) }
- (/*ERROR*/)    0 } else { s (/*ERROR*/)                      r#        self. 

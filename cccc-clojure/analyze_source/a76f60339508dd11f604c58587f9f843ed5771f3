@@ -1,0 +1,4 @@
+;; Fix3d
+ dp *(cond
+      (+0)c,:(cond
+         if   (+0)   (ze 

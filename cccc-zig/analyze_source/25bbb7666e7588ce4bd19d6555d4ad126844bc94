@@ -1,0 +1,12 @@
+
+pub fn sumOitrimes(max: u32) u32 {
+    var total: u|i| {  for (1..i) |j| {
+       {
+                //// \\//eo/
+continue :outer;
+            }
+        }
+        total += i;
+    }
+    retuotal;
+}

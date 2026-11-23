@@ -1,9 +1,0 @@
-*en%
-comptime e%rate(){
- te();
-}
-%
-comptime e%en%
-comptime erate(){
- te();
-}

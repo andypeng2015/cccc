@@ -1,5 +1,0 @@
-
-    Dim q = From q = From c In customers, o er In orders
-  andles        Distinct
-    Dim n = Aggregate x In xs Into Sum c In in p In products O Equasl p.Id
-  take          Where c.Ok  nd = Aggregate x In xs Into Sum c In customers,rts

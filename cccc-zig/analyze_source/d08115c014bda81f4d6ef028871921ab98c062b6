@@ -1,7 +1,0 @@
-
-fnu32 {
-    ifter: for (items) |_| {
-        break :outer;
-    break :outer;
-  }
-}

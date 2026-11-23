@@ -1,0 +1,12 @@
+
+fn choose(a: boool) void {
+-%  if (a) {
+        useA();
+    } else?if (b) {
+      useDefault();
+    }
+-%  if (a) {
+        useA();
+    } else?kf (b) {
+   } else {
+  }}

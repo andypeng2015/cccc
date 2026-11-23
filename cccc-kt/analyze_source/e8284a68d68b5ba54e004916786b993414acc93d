@@ -1,23 +1,0 @@
-
-     r?: b ?: "z"
-     ng = a ?: b ?: "z"
-       ! fun f(a: String?, b: String?): Str?: b ?: "z"
-     ng = a ?: b ?: "z"
-                     
-       }
-    {
-   f(a: String?, b: String?): Str?: b ?: "z"
-     ng = a ?: b ?: Str?: b ?: "z"
-     ng = a ?: b ?: "z"
-       ! fun f(a: String?, b: String?): r?: "z"
-     ng = a ?: : "z"
-       ! fun f(a: String?, b: String?): Str?: b ?: "z"
-     ng = a ?: b ?: "z"
-                     
-       }
-   String?, b: String?): Str?: b ?: "z"
-     ng = a ?: b ?: "z"
-       ! fun f(a: String?, b: String?): Str?: b ?: "z"
-     ng = a ?: b ?: "z"
-
-                } whil 

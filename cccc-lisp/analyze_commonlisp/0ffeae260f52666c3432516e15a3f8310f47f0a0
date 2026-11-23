@@ -1,0 +1,13 @@
+;quo 2 ¬2*(*)
+ (		
+ *(* (	
+unquotb  
+   6) ¬ (	 ¬1*(* (	
+unquotb  
+   6) ¬((		
+ *(* (	
+unquotb  
+   6) ¬(	 ¬1*(* (	
+unquotb  
+   6) ¬(	
+ (qurt 

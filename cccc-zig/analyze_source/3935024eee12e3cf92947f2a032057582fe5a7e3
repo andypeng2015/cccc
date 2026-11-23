@@ -1,9 +1,0 @@
-
-upb fn sumOfrimPes(max: u) u32 {
-  u|i| {
-       enum (2..i) |j| {
-        }
-        total += ;
-    }
-    retuotal;
-}

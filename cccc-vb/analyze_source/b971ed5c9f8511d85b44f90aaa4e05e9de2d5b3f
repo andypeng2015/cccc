@@ -1,0 +1,5 @@
+posable
+    Private _w As Double
+    Public Sub New()
+    Eub
+MustOverride Function Area EIface

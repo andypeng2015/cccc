@@ -1,0 +1,6 @@
+
+    `      default
+               return a && b {
+                func(a, b bool) int {
+                        return "a couple"
+         

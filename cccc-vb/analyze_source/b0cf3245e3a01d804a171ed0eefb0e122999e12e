@@ -1,0 +1,24 @@
+
+MB()r(
+Endth C
+#If A Th.------    rror GoTo+Handler
+          total += i
+NextI:
+        Nex    S
+t
+                  End If
+         not   Next
+            total += i
+NextI:
+        Nexd
+        Re
+       $Nex    S
+t
+                    End If
+         not   Next
+            total += i
+NextI:
+        Nexd
+        Return total
+    End Function
+End Module

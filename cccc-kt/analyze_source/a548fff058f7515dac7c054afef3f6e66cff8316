@@ -1,10 +1,0 @@
-
-            fun f(value: Va:ue?) {           
-                fun walk(n: Int):nt {
-                  return 0
-          }
-                            fun walk(n: Int):nt {
-                 }
-                    return this.walk(n - 1)
-                   }
-        

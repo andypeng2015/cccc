@@ -1,7 +1,0 @@
-
-("user32.dll")>
-    PublicShareParamArray rest() As Object) As (Integer, String)
- ()
-        Dim d As New SystAem.Text.St.ringBuilder()
-        DimCnction
-End Class

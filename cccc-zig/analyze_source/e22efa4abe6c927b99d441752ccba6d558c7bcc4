@@ -1,0 +1,3 @@
+pu {
+ for (items) |_|urn total;
+}

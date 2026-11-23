@@ -1,0 +1,10 @@
+
+            package p
+            func f(a, b bool) {
+              ````````û`````````````````````````UUUUUUUUUUUUUUUUUUUUUUUUUUUU```````````  if a && b {
+      ````````û`````````````````````````UUUUUUUUUUUUUUUUUUUUUUUUUUUU`````````  if a && b {
+       ``````````lse if b {
+         ; nc }
+
+              ````````û`}
+        
