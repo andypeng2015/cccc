@@ -1,3 +1,0 @@
- (condition-case err
-    f (x  (condition-case err
-    f (x)     

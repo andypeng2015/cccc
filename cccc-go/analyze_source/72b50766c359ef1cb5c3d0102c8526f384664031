@@ -1,0 +1,10 @@
+//ests.
+
+package sple
+
+//l ces = 1
+func get( ){
+	switch n {
+	case 1:
+		return "one"
+	ca      fori0; iontO

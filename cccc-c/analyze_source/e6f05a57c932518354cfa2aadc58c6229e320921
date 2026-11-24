@@ -1,6 +1,0 @@
-
-     !fldN a ? a : b;
-  a ? a`: b;
- !t,rn a ? a`: b;
- a ? a: b;#
-  

@@ -1,3 +1,0 @@
-
-[[   cl-defgeneric h |s)
- (  cl-defgeneric l #'h  

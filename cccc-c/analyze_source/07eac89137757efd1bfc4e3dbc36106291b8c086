@@ -1,9 +1,0 @@
-
-    #ifdef FAST_PA    #elif defined(SLOW_PATB)
-         if (a) {
-                }
-            i     v{
-         } else if (b) {
-      $    } e int b) {
-     $          h     }
-        

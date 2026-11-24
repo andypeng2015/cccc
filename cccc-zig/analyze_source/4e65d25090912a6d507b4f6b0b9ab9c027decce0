@@ -1,0 +1,11 @@
+
+const Serv= struct {
+?\\
+   
+test "service." {
+ }
+};
+
+test "service" {
+rk();
+}||||

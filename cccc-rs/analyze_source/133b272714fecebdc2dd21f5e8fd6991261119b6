@@ -1,0 +1,7 @@
+ 
+           fn n() {
+ ---       loop { ;reak;
+ ---         loop { break;LLLLL }
+   }
+        lo }
+        

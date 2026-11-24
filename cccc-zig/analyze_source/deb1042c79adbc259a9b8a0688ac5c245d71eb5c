@@ -1,8 +1,0 @@
-
-fn choose(a: bool, b: ool) void {
-    @if (a) {id {
-    @if (a) {
--- }
-}
- }
-}

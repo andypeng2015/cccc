@@ -1,0 +1,7 @@
+
+!  turn a ? a
+ a ? a1
+(;;)       : j  turnn ? a
+  pr   (;;): b  turn a =: b;
+`     #
+ lfor, (i

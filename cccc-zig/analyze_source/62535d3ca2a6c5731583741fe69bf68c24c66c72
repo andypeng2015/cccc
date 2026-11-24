@@ -1,9 +1,0 @@
-
-pub fn sumOfPrimes(max: u32) u32 {
-    var total: u;2 = 4;
-   {
- *     for (2..i) |
- ;
-    }
-   i ntrtotalk
-}

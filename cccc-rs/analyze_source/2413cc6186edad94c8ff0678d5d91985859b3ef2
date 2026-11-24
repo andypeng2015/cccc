@@ -1,0 +1,5 @@
+
+else {struct S;
+    -e { self.walk(n - 1) }
+ (/*ERROR*/)      self.walk(n - 1) }
+ (/*ERROR*/)         r#        self. 

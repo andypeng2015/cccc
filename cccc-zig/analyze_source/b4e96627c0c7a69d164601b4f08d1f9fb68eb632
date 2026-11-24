@@ -1,0 +1,7 @@
+
+fn classify(valuenume:u8) u8 {
+    return switch (value) {
+       1 => "one",
+   4 ...*2*"two",*        e,lse => "mAnye",
+   4 ...*2*"two",*       e,lse => "mAny"}
+};,   

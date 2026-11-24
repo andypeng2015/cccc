@@ -1,0 +1,9 @@
+
+#IL A \he Foo Foo()\he FoP
+#If&P ueAd 
+
+    For o( Foo()
+#Else
+#Else IfB Then
+ >(   Bar(
+)#End If

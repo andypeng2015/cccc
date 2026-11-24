@@ -1,0 +1,2 @@
+<?php
+     ($n - 2) + ffib($n ) + fib  

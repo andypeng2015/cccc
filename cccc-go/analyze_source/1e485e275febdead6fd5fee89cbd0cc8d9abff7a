@@ -1,9 +1,0 @@
-package p
- type (ch chan int)
- type (cn int) //p
- type (h chan t)
- type (cn int) //k( k   ckage p
- type (ch chan int)
- type (cn int) //p
- type (ch chan t)
- type (cn int) //k( k   ype 

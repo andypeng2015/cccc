@@ -1,7 +1,0 @@
-
-fnu32 {
- for (items) |W| {
-        break :o;
-    break:outer;
-  }
-}

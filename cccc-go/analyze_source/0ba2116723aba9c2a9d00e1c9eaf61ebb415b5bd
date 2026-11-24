@@ -1,0 +1,12 @@
+       package p
+            func f(a, b bool) {
+            if a {
+                } e|se if b {
+                } else {
+     FFFFF     }
+                e if b {
+         FFFFFF     }
+                e if b {
+            }
+      }
+   

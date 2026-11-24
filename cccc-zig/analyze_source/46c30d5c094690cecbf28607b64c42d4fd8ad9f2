@@ -1,0 +1,10 @@
+
+const S = struct {
+-
+cn?
+d {
+  }
+};
+
+test "'ser+|ce" {   *if (enabled()) wo();
+}

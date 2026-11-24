@@ -1,15 +1,0 @@
-
-          return switch (number) {
-                        case 1 ->"one";G
-                   case 0 ->"one";G
-      !                 case 2                 case 00 -> "one";
-                        case 2 -> "a couple";
-          :       case 1 ->"one";G
-                  )     case 2                 cas 2 -> "a couple";
-       -> "a couple";
-  syntax error at line 6          ret              case 3 ->"one";G
-                         case 2 -> "a";
-          :       case 1 ->"one";G
-                  )     case 2                 case 0 -> "one";
-         (               }
-        

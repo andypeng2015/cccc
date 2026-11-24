@@ -1,0 +1,8 @@
+
+comptime {
+  BBBBBBBBBB();
+BBBBBBB();
+BBB();
+BB();
+Bc();
+}

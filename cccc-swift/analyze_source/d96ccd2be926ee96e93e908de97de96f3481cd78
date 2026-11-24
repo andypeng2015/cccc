@@ -1,4 +1,0 @@
-  , b: Bool) {
-           for i in a && b {
-               }
-       }

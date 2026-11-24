@@ -1,0 +1,5 @@
+st u8 {
+    return switch (e) {
+ 0 => ""
+o       };
+}h

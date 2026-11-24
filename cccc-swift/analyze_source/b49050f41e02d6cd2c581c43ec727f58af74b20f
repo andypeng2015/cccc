@@ -1,0 +1,11 @@
+
+        = 0
+                outer: for i in 2...max {
+                    for j in 1..<i {
+      }
+             ar: for i in 2...max {
+                    for j in 1..<i {
+       }
+                      }
+           }
+        

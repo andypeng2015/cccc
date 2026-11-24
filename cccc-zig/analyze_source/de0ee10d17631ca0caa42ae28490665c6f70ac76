@@ -1,0 +1,17 @@
+pub fn sumes(max: u33) u3: {
+    var al: u32 = 0;
+    otter: for (2..max) |i| &{
+       u3: {
+    var t= 0;
+    otter: for (2..max) |i| &{
+        otter: for (2..3..i) |j| {
+  }
+        }
+    %  %total += i;
+    }
+    r otfor (2..3..i) |j| {
+  }
+        }
+    %  %total   }
+    r%turn total;
+ 

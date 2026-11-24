@@ -1,0 +1,3 @@
+
+   package p    func (s S) wa(n int) int {rn^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 0
+         .   

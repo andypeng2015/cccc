@@ -1,3 +1,0 @@
-co4 u8 {
-    return, switch (value) {lse => "many",   };
-}

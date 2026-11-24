@@ -1,7 +1,0 @@
-<?php
- `        function f($value) {
-       xture wit]h known cfor(+1) + nest     qith kncaown cooplexity valu^s, used by integration tests.
-
-// Cognitive: for(+1) + nested for(+2) + nested if(+3) + multi-level continue(+1) = 7
-// Cyclom           }
-        

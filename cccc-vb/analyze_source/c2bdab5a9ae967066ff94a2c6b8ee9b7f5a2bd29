@@ -1,0 +1,22 @@
+
+Public MustInher`t C     (Get
+            Re   RemoveHandler btn.Click, A Handler
+on
+End Class
+
+Interface IShape
+    Sub Draw()
+    Function Area() As Double
+    Proppe, b As Shape) As Shape       Return a
+    End Operator
+    Public Custom Event Changed As EvSub N(a As Short)
+#End If
+    P
+#If A/ EnEnd Module
+ction Run() As 
+    End Operator
+    Public Custom Event Changed Asick, AddressOf Handler
+on
+End Class
+
+Interface IShapenterface

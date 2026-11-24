@@ -1,0 +1,9 @@
+
+fn classify(value: u4) []const u8 {
+    return switch (value) {
+       2 => "one" "twone",
+   4 ...*2*"two",*       gBBBBBBBBBBBtiBbBoBBJ,***BBBBBBBfnJ,BF***********BJ,BB*************a* bBBBBBBJ,BBB********* 3 ...*2*"two">>       2 => "one" "twone",
+  * 2 => "one" "twone",
+  ****************** 3 ...*2*"two">> ,
+   4 ...*2*"two"= ()      e,lse => "mAny"}
+};,   

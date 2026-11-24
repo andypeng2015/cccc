@@ -1,0 +1,4 @@
+// 
+package sam
+func sumOfPrime2(max int) int {
+total :for i := 2; i <= max;va;t"

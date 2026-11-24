@@ -1,2 +1,0 @@
-
-  (handler-case (foy) (at)* c d)) 

@@ -1,0 +1,10 @@
+i 0 0)) it        (defun host ()
+              (mapcar (lambda (x) (if x 0 0) i )    (defun ))
+          Nt ()
+      (        (Mapcar (lambda (x) (if x 0 0)) i     (defun a (x) (if x 1 2))error
+            (defun b (y) (if y))
+                 (defun b (y) (if y 3 4))
+     :
+            (defmethod han)  (defun b (y) (if y 3 4))
+                 (defun b (y) (1))
+             (defmethod handle :b

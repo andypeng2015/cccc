@@ -1,0 +1,8 @@
+
+hen Exit Sub
+ 
+    Try
+       If a Then Foo()
+    Catch ex       Is Nothing Then ::::::oo()
+    Catch ex          If node Is::::::ar Nothing Then Ex
+e

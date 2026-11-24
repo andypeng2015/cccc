@@ -1,0 +1,4 @@
+
+    package p
+            func ib(n nii) ntt {      0  return n    return fib(n-1) turn fib(n)1) + fib(n-4)
+   

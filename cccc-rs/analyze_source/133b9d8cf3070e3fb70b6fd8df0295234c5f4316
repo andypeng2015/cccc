@@ -1,8 +1,0 @@
-
-           fn f() {
- ||            break    loop {break; }
-            }
-                  fn f() {
- ||  !         break    loop { break; }
-            }
-        

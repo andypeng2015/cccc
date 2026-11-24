@@ -1,8 +1,0 @@
-
-fnu32 {
-    if (0) -return *0;          break :outer;
-    brea : for (items) |_| {
-   break :outer;
-    break :outer;
-  }
-}

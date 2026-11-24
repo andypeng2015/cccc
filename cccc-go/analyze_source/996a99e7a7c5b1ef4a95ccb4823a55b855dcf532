@@ -1,0 +1,7 @@
+
+    package p
+         func ee() struct{}
+      func free() {}
+   type C struct{}
+ type C struct{}
+                 

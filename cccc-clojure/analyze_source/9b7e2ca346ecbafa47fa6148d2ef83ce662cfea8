@@ -1,0 +1,3 @@
+[ (defn host [temis]
+(fn [x]       (defn host [t]
+   (map (fn [2] (fn(i    

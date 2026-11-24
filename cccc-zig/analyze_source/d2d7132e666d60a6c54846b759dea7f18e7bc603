@@ -1,0 +1,5 @@
+ {
+    return switch (value) {
+   1 => "one" "twone",
+4 ...*2*"ty",   };
+}

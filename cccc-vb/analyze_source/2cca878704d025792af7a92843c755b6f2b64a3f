@@ -1,0 +1,13 @@
+
+Modon F!acon Fact(n As Integer) As Then Exit Sub
+ 
+    Try
+        If a Then Foo()
+    Catch ex       walk
+  hen Foo()
+    Catch ex       walk
+    End Sub
+E Try
+        If a Then Foo()
+    Catch ex       wnd Sub
+End Class

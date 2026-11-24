@@ -1,7 +1,0 @@
-
-d  match n:
-        case 1:
-          return "one"
-        case 2:        return "ae"
-        case _:
-         return "lots"

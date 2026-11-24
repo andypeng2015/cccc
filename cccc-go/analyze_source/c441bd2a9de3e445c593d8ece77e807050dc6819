@@ -1,0 +1,14 @@
+
+       package p
+            func f(a) {
+              -a && b || + -a && b || +
+<-a && bs || +d&&c || +dc | +
+<-a && bc || +d&&c || +dc || dp
+            funa && b +& c |& c <-a && bc || +
+<-a && bc || +d&&c || +dc | +
+<-a && bc       -a && b || + -a && b || +
+<-a && bs || +d&&c || +dc | +
+<-a && bc || +d&&c || +d || +d&&c || +dc || dp
+            funa && b +& c |& c <-a && bc || +d&&c b || +
+<-a && bc |b +& c || dc x d
+ }       

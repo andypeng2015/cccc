@@ -1,6 +1,0 @@
-
-Module M
-    Function Pick(Of T)(x As T, n As Integer) As T
-        Dim t = (a:=If
-    Public Shared Function RunFunctionn
-d EModule

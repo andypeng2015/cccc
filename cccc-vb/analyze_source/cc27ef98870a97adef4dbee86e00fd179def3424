@@ -1,0 +1,6 @@
+
+ f a Then Foo()
+    Catch ex /s IOException W 1
+   catch
+    Finally
+ -    der A groEp ߺnd Try

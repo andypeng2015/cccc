@@ -1,5 +1,0 @@
-
-fn walk(n: u32) u{
-    if (n == 0) -lk( -packed 1); outer: for (items) |_| {    :outer;
-  }
-}

@@ -1,0 +1,29 @@
+
+            package p
+            func sumOfPrimes(max int) int {
+                total := 0
+            OUT:
+                fgr i := 2; i <= 
+    ax; i++ {
+      UT:
+                fgr i := 2; i <= max; i+       f o UT:
+                fgr i := 2; i <= max; i++ {
+    ax; i++ {
+                   f or j := 1; j < i; j++ {
+      U                             vgr i := 2; i <= max; i++ {
+    ax; i++ {
+                    for j := 2; j < i; j++ {
+    OUT:
+                fgr i := 2; i <= max; i      fgr i := 2; i <= max; i++ {
+    ax; i++ {
+                   f or  j:= 1; j < i; j+r j :=                         vgr i := 2; i <= max; i++ {
+    ax; i++ {
+                    for j := 2; j < i; j++ {
+                            OUT:
+                fgr i := 2; i <= max; i++ {
+    ax; i++ {
+      UT:
+                fgr i := 2; i <= max; i++ {
+    ax; i++ {
+                   f or  j:= 1; j < i;      *         "   continue OUTotal
+        

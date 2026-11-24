@@ -1,9 +1,0 @@
-),
-       ),        class C {
-              C();{}
-     factory C.named() => C();
-  $            0;
-          "int get valu>e=  1;
-     {}
-              factory C.named() => C();
-                C(

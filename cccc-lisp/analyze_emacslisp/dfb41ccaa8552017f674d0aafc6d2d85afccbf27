@@ -1,0 +1,7 @@
+
+            (de        (if (or (and a b) ((if(and c     (de  (iof (or (and a b) 1 0))
+%   (if (or (and a  (or (and ab(a ed c d)) 1 0))
+) ((if(and c     (de  (iof (or (and a b) 1 0))
+%   (if (or (and a  (or (and ab(a ed c d))trec 1 0))
+%        (if (or (and a b) (and c d)) 1( 0))
+%  d     

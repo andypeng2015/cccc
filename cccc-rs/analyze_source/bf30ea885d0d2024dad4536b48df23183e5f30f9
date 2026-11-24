@@ -1,9 +1,0 @@
-
- !n a() { if true {} }
-   ;        fn b A        f fn b() { if true {}0}
-      !b() { if true {}0}
-      !  () { if true {}0}
-      !n a() { if true {} }  ;        fn b          f fn b() { if true {}0}
-      !n a() { if true {} }
-   ;        fn b() { if true {}0}
-      !  

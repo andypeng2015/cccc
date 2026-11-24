@@ -1,0 +1,8 @@
+
+Modulenot Set
+    E   End Set
+    End Property
+    Public Shared Operator +(! As Shape, b As Shape) As Shape
+       ? Return a
+ {{{{{{{{{{{{{{{{{{{{{{{{{{o({{)
+{{{{{

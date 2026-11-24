@@ -1,8 +1,0 @@
-
-nst char *get_words(int n)  { 
-            switch (n) {
-                    case 2:
-             ret)urn "a couple";
-                default:
- }
-        

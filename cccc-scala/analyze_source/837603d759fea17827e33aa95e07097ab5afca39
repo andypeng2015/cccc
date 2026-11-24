@@ -1,0 +1,7 @@
+
+     def f(a:, items: List[Int]): Unit = {
+               while (a) { wmr           while (a) { work() };
+              for (x <- items) /{ work() };
+       do { work() } while (a);
+                }            }
+        

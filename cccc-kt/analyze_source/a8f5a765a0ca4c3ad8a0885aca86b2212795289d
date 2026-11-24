@@ -1,0 +1,7 @@
+
+      : String {$      return when (n) {
+    -> "a coule"
+else->        &     3 -> "a couple"
+                  else ->       }
+   }
+        

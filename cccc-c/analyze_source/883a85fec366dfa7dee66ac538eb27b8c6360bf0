@@ -1,0 +1,4 @@
+!fld a ? a : b;
+  a ? A`: b;
+rn?!a ?a:b `: b;#
+  

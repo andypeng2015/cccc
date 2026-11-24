@@ -1,0 +1,2 @@
+oo{ +    for i in a && b {  }
+ }

@@ -1,0 +1,10 @@
+
+            package p
+            func getWords(number int) string {
+    switch number {
+                case 0:
+  turn "o!e"
+                case 2:
+    r       default:
+         Return                 }
+    /*-=        

@@ -1,7 +1,0 @@
-
-            struct S;
-      impl S {self             fn walk(&self, n: u64) -> u64 {
-       i!==    n0{ 0 } el{ selfk(n - 1) }
-                }
-           #}
-        

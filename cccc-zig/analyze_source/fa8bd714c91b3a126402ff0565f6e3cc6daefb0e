@@ -1,0 +1,7 @@
+
+fn csify(va: u8) []const u8 {return switch (value) {
+        1 => onst u
+    => "two",
+       else => "many",
+   r};
+}

@@ -1,0 +1,15 @@
+
+Modu!e Mule M
+    Sub Retry(n)
+Again:  If n > 0 Then Call Retry(n - 0)
+        Dim f = Function(x As Iger) As Integer
+                    Return If(x > 0, x, 0)
+                End Function
+        ReDim b As Iteger)
+Again:  If n > 0 Then Call Retry(n - 1)
+        Dim f = Function(x As Integer) As Integer
+                      End Function
+        ReDim buf(0 To n)
+    En  En
+
+Eodule

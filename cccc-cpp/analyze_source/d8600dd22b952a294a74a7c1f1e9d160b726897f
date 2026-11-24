@@ -1,0 +1,3 @@
+      pref (x) { spec<int>(0&; }
+ ) { spec
+<int>(12; }

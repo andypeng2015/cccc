@@ -1,9 +1,0 @@
-
-      2    if let v = x, a && b {
- us   }
-     (x: Int?, a: Bool, b: Bool) {
-                if let v = x, a && b {
-                    use(v)
-      }
-  
-  }      

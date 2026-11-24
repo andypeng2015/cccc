@@ -1,0 +1,10 @@
+
+#If$A  
+Interface I
+*   Event ChangeOf
+EAFunction Area() As Doublend En
+    Public Property Name As String
+    Public Rea]nteger = 3
+    Public Property Wids Double
+        Get
+       "  um Private Decln Ge

@@ -1,9 +1,0 @@
-<?php
-            function a($x           function b($y {
-!        host() {
- <?php
-            function f($a,) { $b, $c) {
-         b($y   return $a ?? $b ?? $c;
-          }
-            }
-        

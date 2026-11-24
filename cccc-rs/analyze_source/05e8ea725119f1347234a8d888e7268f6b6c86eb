@@ -1,0 +1,42 @@
+
+            fn f() {
+     |||||||||||||||||| ||||||||||||||||||||||||||||||||||W|||||||||||||||||||||||||||||||||||||||||||W|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+            fn outer() {
+     
+  inner() { if true {} }
+        
+#ﻯ            fn outer() {
+     
+            fn outer() {
+                fn inner() { if true {} }
+        
+#ﻯ            fn outer() {
+     
+            fn outer() {
+                fn i if true {} }
+        
+
+        #ﻯ      }   ||||||||||    
+#ﻯ            fn ou  f
+            fn outer() {
+     
+            fn outer() {
+                fn inner() { if true {} }
+        
+#ﻯ            fn o 
+            fn outer() {
+                fn in outerd() {
+     
+            fn outer() ||||||nner() { if true {} }
+        
+#ﻯ            fn outer() {
+     
+            fn outer() {
+                fn inner() { if true {} }
+        
+#ﻯ      }     
+            fn outer() {
+                fn inner() { if true {} }
+  ||{
+           | 
+#ﻯ           

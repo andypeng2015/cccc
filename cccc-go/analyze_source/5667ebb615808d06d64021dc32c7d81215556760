@@ -1,0 +1,7 @@
+
+            package p
+            func free() {}
+           func free() {}
+           func free( ){}
+    type C s   func (c C) method() {}
+                 

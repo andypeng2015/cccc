@@ -1,0 +1,13 @@
+
+                 lString f(Object value) => switch (value) {
+
+        "     >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> => 'matched',
+  UUUUU',
+        "         _ => 'oindether',
+                lString f(Object value) => switch (value) {
+
+        "     >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> => 'matched',
+  UUUUU',
+        "         _ => 'oindether',
+                };
+            

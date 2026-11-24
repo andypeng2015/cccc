@@ -1,0 +1,5 @@
+ package p
+  func a(x bnol) {
+       select {
+}   0    select {
+}  }        

@@ -1,0 +1,8 @@
+nd    (dotimes [i max]
+      (dotimes [j i]
+        (cond
+   |  (dotimes [i max]
+      (dotimes [j i]
+   B 
+      (dotimes [j i]
+       (cond i  (dotimes [i m[

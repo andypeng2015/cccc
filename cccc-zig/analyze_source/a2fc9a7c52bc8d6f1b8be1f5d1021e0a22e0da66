@@ -1,9 +1,0 @@
-
-const See : struct {
-z   fn run(ok: bool) void {
-        if (ok) k();
-  }
-};
-
-"rervice" {KK  f (e);
-}

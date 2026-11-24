@@ -1,0 +1,27 @@
+
+comp2i=e
+comp3i=e {
+ led()
+}
+ {
+  RJ,BBBledBBled()
+}
+ {
+  RJ-RJ,BBBBBBBBled()
+}
+ {
+ d()
+}
+ {
+  RJ-RJ,BBBBBBBBl()
+}
+ {
+uBBBlBBdRJ,BBBBBBBBl()
+{
+RedRJ,BBBBBBBB
+{
+R }
+  J-BBB }
+  J
+BBBBBled()
+}

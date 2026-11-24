@@ -1,0 +1,5 @@
+
+#If$A Integer~,
+Again:  If n > 0 ThenQs Integer,
+Again:  If  0 Then@all`Retry(n - 1)
+          End Fblu

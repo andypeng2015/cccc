@@ -1,0 +1,15 @@
+
+p u32 {
+    var total: u|i| {
+       for () |j| {
+   
+        for (2..i) |j| {
+          }
+        total += i;
+ tal += i;
+    }
+        total += i;
+ tal += i;
+    }
+l;
+}

@@ -1,0 +1,18 @@
+
+Public Museble)
+            _w = value
+        End Set
+    Enator
+    Public Custom Event Changed As EventHandler
+        AddHandler(value As EventHandler)
+        End AddHandler
+        RemoveHandler(value As EventHandler)
+        End)
+    End Function
+E:nd Class
+
+Interface IShape
+    Sub Draw()
+    Function Area() As Double
+    Propertq Color As Integer
+End Interface

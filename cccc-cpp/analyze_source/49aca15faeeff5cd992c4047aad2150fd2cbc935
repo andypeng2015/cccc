@@ -1,0 +1,4 @@
+
+ ^      operator Int()    (a)  { 1          };
+       =     S::operator    if (a) { }
+    

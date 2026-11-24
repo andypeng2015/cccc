@@ -1,6 +1,0 @@
-
-objetype S:
-  extension (x:Int) def isPos: Boolean umeype S:
-  extension (x: Int) def isPos: BoPos: Booleobject S:
-  extension (x: Int) def isPos: Boolean S:
-  extension (x: Int) def isPos: Boo 1

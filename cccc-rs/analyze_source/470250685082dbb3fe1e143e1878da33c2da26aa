@@ -1,2 +1,0 @@
-    fn ft() {!let lambda = |x: u32| x +  C }
-        

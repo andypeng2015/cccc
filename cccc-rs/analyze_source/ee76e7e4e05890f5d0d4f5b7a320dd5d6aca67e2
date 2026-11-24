@@ -1,6 +1,0 @@
-
-else {struct S;
-    -> u64 {
- lse { self.walk(n - 1) }
- (/*ERROR*/)      self.walk(n - 1) }
- (/*ERROR*/)         r#        self. 

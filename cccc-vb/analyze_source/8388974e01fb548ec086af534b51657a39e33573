@@ -1,6 +1,0 @@
-
-    Dim q     %     Distinct
-    Dim n = Aggregate x In xs Into Sum Os
-         Aggregate x Inunt()
-= From  Sum(x)
-    If a Then Foo()

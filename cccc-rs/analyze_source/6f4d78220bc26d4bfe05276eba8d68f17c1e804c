@@ -1,0 +1,77 @@
+
+            fn outer() {
+     
+            fn outer() {
+     
+               fn outer() {
+     
+            fn outer() {
+                fn inner() { if true {} }
+            }
+            fn outer() {
+                fn inner() { if true {} }
+            }       fn inner() { if true {} }
+            }
+            fn outer() {
+fn outer() {
+     
+            fn outer() {
+                fn inner() { if true {} }
+            }
+            fn outer() {
+                fn inner() { if true {} }
+            }       fn inner() { if true {} }
+            }
+            fn outer() {
+                fn inner() { if true {} }
+            }               fn inne() {!if true {} }
+            }
+                       fn inner() { if true {} }
+            }
+   fn outer() {
+                fn inner() { if true {             fn inne() {!if true {} }
+            }
+                       fn inner() { if true {} }
+            }
+   fn outer() {
+                fn inner() { if true {} }
+                 fn outer() {
+                fn inner() { if true {} }
+            }
+        er() {z                fn inner() { if true {} }
+            }               fn inne() {!if true {} }
+            }
+                       fn inner() { if true {} }
+            }
+   fn outer() {
+                fn inner() { if true               fn outer() {z                fn inner() { if true {} }
+            }               fn inne() {!if true {} }
+            }
+                       fn inner() { if true {} }
+            }
+   fn outer() {
+                fn inner() { if true                 fn inner() { if true {} }
+            }               fn inne() {!if true {} }
+            }
+                       fn inner() { if true {} }
+             }
+            fn outer() {z                fn inner() { if true {} }
+            }               fn inne() {!if true    }
+   fn outer() {
+                fn inner() { if true {             fn inne() {!if true {} }
+            }
+                       fn inner() { if true {} }
+            }
+   fn outer() {
+                fn inner() { if true {} }
+                 fn outer() {
+                fn inner() { if true {} }
+            }
+            fn outer() {z                fn inner() { if true {} }
+            }               fn inne() {!if true {} }
+            }
+                       fn inner() { if true {} }
+            }
+   fn outer() {
+                fn inner() { if true {} }
+            }    

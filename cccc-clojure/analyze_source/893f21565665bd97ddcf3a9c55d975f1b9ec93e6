@@ -1,3 +1,0 @@
-to ') (doto 'x
-(doto ') (doto 'xs))
-(  (doto to '(     

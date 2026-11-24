@@ -1,0 +1,27 @@
+
+    
+            fn free() {}
+       struct C;
+             fn free() {}
+       struct C;
+       fn host() {!let lamu3a = |x:&u31| x + 1; }
+               fn free() {}
+       struct C;
+
+            fn free() {}
+       struct C;
+       fn host() {!let lamu3a = |x||s:&u31| x + 1; }
+               fn free() {}
+       struct C;
+       fn host() {!let lamu3a = |x:&u31| x + 1; }
+           fn host() {!let lamu3a = |x:&u31| x + 1; }
+               fn free() {}
+       struct C;
+
+            fn free() {}
+       struct C;
+    :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::   fn host() {!let lamu3a = |x||s:&u31| x + 1; }
+               fn free() {}
+       struct C;
+       fn host() {!let lamu3a = |x:&u31| x + 1; }
+        

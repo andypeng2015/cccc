@@ -1,0 +1,8 @@
+
+       void(int a) {
+          $ #ifdef FAST_PATH
+    #ifdef FAST_PATH
+            #elif elje
+         #endif
+       }
+        

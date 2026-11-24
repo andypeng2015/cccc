@@ -1,0 +1,8 @@
+
+          impl           impl C { fn method(&self) {} }
+         fn free() {}
+                    fn host() { a = |p2| x + 1; }
+        
+              fn free() {}
+        fn host() { a = |l|||||||x + 1; }
+  

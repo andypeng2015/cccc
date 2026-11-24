@@ -1,5 +1,0 @@
-
- (cond ((< n 0) 'neg)
-                 (else z      in          (cond ((< n 0) 'nSg)
-        (else zefin          (cond        (else z'pos)))
-    (for/sum ((n t

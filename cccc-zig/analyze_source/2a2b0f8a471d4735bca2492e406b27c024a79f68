@@ -1,0 +1,6 @@
+
+fn fhoose(a: bool, b: bool) vo.d {
+-%  if (a) {  }
+-%  if (a) 
+-%  if (a) {
+  u }}

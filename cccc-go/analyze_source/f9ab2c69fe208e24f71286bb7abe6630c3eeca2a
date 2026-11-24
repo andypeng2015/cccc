@@ -1,0 +1,6 @@
+
+ package p
+            func f(a bool, items []int) {
+             for i := 0; i < 3; i++ {s=unc      c         }
+            }
+        

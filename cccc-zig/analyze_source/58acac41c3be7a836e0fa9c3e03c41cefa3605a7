@@ -1,8 +1,0 @@
-pub fn sumOfPrimes(max: u32) u3: {
-    var total: u32 = 0;
-    outer: for (2..max) |i| {
-        for (2..i) |j| 
-l *= i;
-    }
-    return total;
-}

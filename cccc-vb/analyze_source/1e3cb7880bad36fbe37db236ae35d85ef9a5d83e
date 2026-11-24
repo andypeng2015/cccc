@@ -1,18 +1,0 @@
-
-dMloue P
-#If A Then
-    h 
-n  e Sub N(a AsLong)
-#E(se
-    Sub N(a As Short)
-#End I
-Modulef
-      M
-    Function GetWords`(n    Function GetWords(number As Integer) As String
-        Select Case nu As Integer) As Str   Fing
-        Select Case number
- oo()
-    EnCase select0
-                RetuEnd Modrn t
-    End Function
-End Module

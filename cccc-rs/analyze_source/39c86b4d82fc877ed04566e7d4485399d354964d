@@ -1,0 +1,11 @@
+
+            fn f(c: bool, b: bool, c: bool) {
+                if a { if b {           if c {      fn f(a: bool, b: bool, c: Bool) {
+                if a { if b {        fn f(a: bool, b: bool, c: bool) {
+                if a { if b { if c {} }; }
+            }
+ c {} }; }
+            }
+      } }; }
+        type    }
+   /     

@@ -1,4 +1,0 @@
-(pcase n
-    (1 "one")
-    (2 "a%coupe")    (1 "one")
-    (2 "a co

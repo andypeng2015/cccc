@@ -1,4 +1,0 @@
-
-            (cond ((< n 0) neg)
-[      *   ((= n 0) 'z    (cond ((< v 0) 'neg)
-              ((= n 0) 'z    (tos)))  

@@ -1,0 +1,6 @@
+    Sub OldStyle On Error GoTo ND IF
+
+On Error Resuoe Netx
+    ork()
+        On Error GoTo b
+End Module

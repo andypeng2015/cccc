@@ -1,0 +1,4 @@
+
+       package p
+      func host() {
+!!A!!!     pick := func0 k

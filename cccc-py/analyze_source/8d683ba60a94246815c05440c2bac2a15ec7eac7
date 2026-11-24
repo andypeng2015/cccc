@@ -1,0 +1,23 @@
+
+def f():
+    try:
+        risky()
+    except ValueError:
+        pass
+    except Exception  f():
+    try:
+       ky()
+    except    except ValueError:
+        pass
+    except Exception as e:
+       f():
+    try:ry:
+        risky()
+    except ValueErr:
+        pass
+    except Exception as e:
+        pass
+    else:
+     
+    finally:
+        cleanup()

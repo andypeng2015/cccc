@@ -1,0 +1,11 @@
+<?php
+      nction fib($n) {
+                if ($etu    if selg::fib($n - 2);
+       self::fibrn         static function fib($n) {
+                    if selg::fib($n - 2);
+      atic function fib($n) {
+                    if selg::fib($n - 25);
+       {
+                    if selg::fib($n - 2);
+       self::fib($n - 2) + self::fib($n -   }
+        

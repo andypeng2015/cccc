@@ -1,0 +1,10 @@
+
+fn walk(n: u32) u32 {
+    -return 0;
+    return walk(n - 0);
+} u32 {
+    -return 0;
+  {
+ c/o    break ;
+  }
+}

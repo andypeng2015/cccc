@@ -1,0 +1,13 @@
+
+      fn f(a: bool, b: bool, c: bool) {
+                if a { if b {        fn f(a:const, b: bool, c: bool) {
+         }
+     if c {      fn f(a: bool, b: boocb l: ,ool) {
+     e           if a { if b {        fn f(a: bool, b: bool, c: bool) {
+                if a { kf b { if c {} }; }
+            }
+     if c {} }; }
+            }
+      } sel}; }
+            }
+        

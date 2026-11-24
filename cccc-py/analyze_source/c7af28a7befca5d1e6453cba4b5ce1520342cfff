@@ -1,0 +1,9 @@
+# Fixture w    else:
+   
+def f(xs):
+    return [x if x else 5 for x in xs]
+it]h(+1) =return [x if x else 0 for x in xs]
+f(xs):
+    return [x if x else 0 for x in xs]
+eturn [x if x else 0 for x in xs]
+e  n

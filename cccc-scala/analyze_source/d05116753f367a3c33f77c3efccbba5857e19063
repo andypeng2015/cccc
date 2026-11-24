@@ -1,0 +1,10 @@
+// Fixt{
+      def fib(n: Int): Int =
+     fib(n: Int): Int =
+                    if (! < 2) n else fib(n - 1) +
+     object S {
+                4) n else fib{
+"both"
+    "not"
+  }
+}

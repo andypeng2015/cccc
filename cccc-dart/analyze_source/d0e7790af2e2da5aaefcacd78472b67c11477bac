@@ -1,0 +1,8 @@
+
+           p(int value)}{ 
+ class C 
+   {  esT    value(int value)        C operator +(C o     int get value => 1;
+    se value) {}
+          operator +(C other) value) {}
+    X        clt C operator +(C        other) value) {}
+cla

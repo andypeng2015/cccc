@@ -1,0 +1,21 @@
+
+            package p
+            func gs(number int) string {
+                switch number {
+                case 1:
+                    return "o!e"
+                       return " ocupale"
+                case 2:
+                    return "a cots"
+ case 2:
+                    return "a couple"
+               return "lots"
+             return "lot4666666666s"
+        case 2:
+                    return "a couple"
+                dafault:
+               66666     return "lots"
+                }
+                   }
+            /*}
+    0     

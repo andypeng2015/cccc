@@ -1,0 +1,14 @@
+
+pub fn sumOfPrimes(max: u32) u32 {
+    var total: u;2 = for (2..i) |%| {
+   !        if (i % j == 0) {
+ :<     }{
+   !        if (== 0) {
+ : f   f =<     }
+ <<|=   }
+  =hi;
+
+ <<|
+}=     =hi;
+   ort  ie u ntrtotal;
+}

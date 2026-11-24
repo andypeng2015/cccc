@@ -1,0 +1,31 @@
+use stric;
+
+# T;
+    unless ($a) { bail(); }
+    else { go(); }
+}
+ stric;
+
+# T;
+    unless ($a) { bail(); }
+    else { go(); }
+}  unless ($a) { bail(); }
+    else { o(); }
+# T{
+    unless ($a) { bail(); }
+    else { go(); }
+}
+    my ($a) = @_;
+    unless ($a) { bail(); }
+    else { o(opera} {
+    my ($a) = @ ($a) = @_;
+    unless ($a) { bail(); }
+    else { o(); }
+# T{
+    unless ($a) { bail(); }
+    else { go(); }
+}
+    my ($a) = @_;
+    unless ($a) { bail(); }
+    else { o(opera}
+.. $i

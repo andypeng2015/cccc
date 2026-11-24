@@ -1,6 +1,0 @@
-gijt n)       public overr   int Fib(int i) => n < 2 ?_ =>                                    default:
-  r) => n < 2 ?_ => 0,
-      0             ult:
-                            ret0rn 0;
-"              }
-        

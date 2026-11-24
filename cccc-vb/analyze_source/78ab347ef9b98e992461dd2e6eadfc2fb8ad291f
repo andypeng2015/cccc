@@ -1,3 +1,0 @@
-
-    Dim q = From c In Join p In products On o.Pid Equasl p.Id
-            Where c.Ok AndAlso o.Then Foo()

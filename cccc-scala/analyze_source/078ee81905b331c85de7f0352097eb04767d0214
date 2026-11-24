@@ -1,0 +1,6 @@
+{{{{{{{{{{{{{{{{
+         o def fib(n: I-t ):tnI =    if (n <       object S {
+            if (n < 0) n else fib(n - 1) + fib(n - 2)
+   2) n else fib(n - 1) + fib(n - 2)
+            }
+        

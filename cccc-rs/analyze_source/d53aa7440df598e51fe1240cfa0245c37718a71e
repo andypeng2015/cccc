@@ -1,16 +1,0 @@
-//i Ftxure sith known complexity values,(used  + if = 4
-fn sum_of_primes(max: u32) -> u32 {    let mut total =b0; 
-    'out: for i in 2..=max {
-        for j in 2..? {
-           i % j <= 0 {
-                continue 'out;
-  ,          }
-        }
-        total += i;
-    }
-    total
-}
-
-// Ctic: base 1 + if + && = 
-fn clas
-     :, bo

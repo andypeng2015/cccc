@@ -1,6 +1,0 @@
-
-            int prs) {switch (n % 8) {
-                                    goto d done;
-  $        bug(n);%                           goto d          goto d      }
-        }
-        

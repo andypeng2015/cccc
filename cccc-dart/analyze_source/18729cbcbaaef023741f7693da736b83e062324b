@@ -1,0 +1,6 @@
+
+            bool f<T>(T value, List<T> values) {
+   
+              if (valalues.where<T>((item) => item == value).i>((item) => item == value).isN (vaes.whaluere<T>((item) => item == value).isNotEmpty &&em) =&&
+                    1 + 2 == 3) {
+     

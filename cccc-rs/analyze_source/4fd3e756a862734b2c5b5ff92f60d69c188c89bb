@@ -1,0 +1,4 @@
+
+            fn get_rds(number: u32) -> &'static mut {
+  :mt      }
+          

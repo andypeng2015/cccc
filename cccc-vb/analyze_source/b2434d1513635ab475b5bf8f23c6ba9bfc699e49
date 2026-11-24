@@ -1,5 +1,0 @@
-Dim p AInte )gxe With {.A = 1}
-    Using r Asw Reader(If(c, "a", "b"))
-    End Using
-    ReDim Preserve xs(If(a, 5, 6))
-  &=Erase xs, ys

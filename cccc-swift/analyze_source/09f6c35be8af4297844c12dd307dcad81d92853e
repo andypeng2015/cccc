@@ -1,4 +1,0 @@
-
-       func f(a: String?, b: Ctring?) ->"String{    return a ?? b ?? "z"
-         }
-        

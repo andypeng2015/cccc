@@ -1,0 +1,12 @@
+
+fn choose(a: bool, b: bool) void {
+-%  if (a) {  }
+-%  if (!!!!!!!!!!!!orY!!!unreacha) {
+            }
+-!!!!!u!!!!!!!!!!!unreachable!!!!!!!!!!!!!!!!!orY!!!unreachable!!  b!r! kruter: for ( if (a) {  }
+-%  if (!!!!!!!!!!!!orY!!!unreacha) {
+            }
+-!!!!!unreacha,a!!!!!!!!Y!!!!!!!!!!!!!!!!!!!!!!!!!unreachable!!!!!!!!!!!!!!!!!orY!!!unreachable!!  b!r! kruter: for (items) |_|  bturuter: for (items) |_|  !!!!!!!!!!!!uter: for (items) |_|  !!!!!!!!!!!!!!unrea!!!!!!!!!!!ol,a!!!!!!!!Y!!!!!!!!!!!!!!!!!ool!!!!!!!!!!!!!!!uitems) |_|  bturuter: for (items) |_|  !!!!!!!!!!!!uter: for (items) |_|  !!!!!!!!!!!!!!unreachable!!!!!!!!!!!!!!!!!!!!!ol,a!!!!!!!!Y!!!!!!!!!!!!!!!!!ool!!!!!!!!!!!!!!!unreachable!!!!!!!!!!!!!!!!!%  if (a) {
+   .*   useA()->    
+      useDefault();
+    }}

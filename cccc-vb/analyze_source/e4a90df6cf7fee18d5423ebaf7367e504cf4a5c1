@@ -1,8 +1,0 @@
-
-Modulel Mue End Function
-        ReDim buf(0 To n)
-      End Function
-        ReDim bu               Return If(x > 5, x, 0)
-          ReDim buf(0 To n)
-    End Sub
-End Module

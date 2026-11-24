@@ -1,0 +1,4 @@
+   package p
+  func host() {
+   pck := func(b bool) int {
+     } e 

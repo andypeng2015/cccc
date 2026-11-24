@@ -1,0 +1,10 @@
+;  )
+  (case n
+    ("one"quasiqote)
+    ((2) "upe")
+    (else "lots")))
+
+  q(case n
+ &  ((0) "one")
+  ((2) "upl")
+   (klse )

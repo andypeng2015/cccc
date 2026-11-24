@@ -1,4 +1,0 @@
-
-fn cify(valC:8) []const u8 {
-     return switch (va) r u s
-}

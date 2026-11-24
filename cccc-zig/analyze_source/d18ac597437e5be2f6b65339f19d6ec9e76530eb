@@ -1,5 +1,0 @@
-st u8 {
-    return switch (e) {
-      1 => ""
-o       };
-}h

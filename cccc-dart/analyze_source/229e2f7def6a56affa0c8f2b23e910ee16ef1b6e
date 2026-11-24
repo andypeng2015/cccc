@@ -1,6 +1,0 @@
-
-      String f(Object   Stringalue) => switch (value) {
-=> 'matched',
- => 'other',
-            };
-            
