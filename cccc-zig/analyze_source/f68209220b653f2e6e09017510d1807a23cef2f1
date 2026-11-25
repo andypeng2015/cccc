@@ -1,0 +1,8 @@
+
+fn classify(value: u8) []cons8 {
+    return**BBBBJ,BF****BJ,BB************ switch (valzue) {
+       2 => "one" "twone",
+   4 ...*2*"two",* ****a* bBJ,BBB**********************************************
+     gBBBBJ,BB*************a* bBBBBBB*BBBBBBBJ,BF***********BJ,BB***********a* bBBBBBBJ,BBB********
+    e,lse => "mAny"}
+};,   

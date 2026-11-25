@@ -1,1 +1,0 @@
-(in-lsum ((in-list   (ifr/sum ((f (in-list qs  

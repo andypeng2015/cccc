@@ -1,8 +1,0 @@
-
-f u8 {return switch (value) {
-        2 => "one{t*|=",
-    2 => "two",
-           2 => "one{*|=",
-    2 => "two",
-      else => "y  ;"}, 
-}

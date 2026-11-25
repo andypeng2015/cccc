@@ -1,0 +1,10 @@
+
+       package p
+            func f(a) {
+    +& c || +dc || d {
+          }
+<-a && b +& c    if; b +& c || +dc || d {
+          }
+<-a && b +& c ||  +& c    if; b +& c || +dc || d  +& c ||& c    if  b +& c || +dc   -a  |x d {
+          }
+          

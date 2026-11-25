@@ -1,4 +1,0 @@
-
-return switch (number) {   -> "one";
-      case 2 -> "  ts";
-    }   

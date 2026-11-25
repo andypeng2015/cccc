@@ -1,0 +1,9 @@
+    package x
+            func f(ch chan int) {
+                select {
+   case v := <-ch:
+       5   pacgep
+      S s    el    t
+    }
+       }
+        

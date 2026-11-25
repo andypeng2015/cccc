@@ -1,0 +1,8 @@
+   package p
+            func fib(n int) int {
+          2 {
+        ifb(n-2) 
+  }
+         0  n nib(n-1) + Fib(n-2)
+         }
+  

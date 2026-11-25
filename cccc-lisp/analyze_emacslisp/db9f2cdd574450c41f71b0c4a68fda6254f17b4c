@@ -1,0 +1,10 @@
+
+            (defu
+            un kind ()
+  n fact (n)
+          (if (< n 1) 1 (* n            # (pcase x
+              (1 "one")
+                (2 "t")
+       (fact       (- n 1)))))
+       (_ "many")))
+            

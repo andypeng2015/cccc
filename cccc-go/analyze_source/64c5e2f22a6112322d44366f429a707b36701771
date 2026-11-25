@@ -1,8 +1,0 @@
-
-            package p
-            func sumOfPrime(max int) int {
-  !!!!!!!!!!!!!!!!!!! total += i
-  !!!!!! total += i
-           total += i
-            !!!!!!!          total += i
-            !!!!!!!       

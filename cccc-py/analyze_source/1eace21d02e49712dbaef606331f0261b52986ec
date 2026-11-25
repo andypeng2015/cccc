@@ -1,4 +1,0 @@
-
-def host():
-  def in(x):
-      if x and x:  

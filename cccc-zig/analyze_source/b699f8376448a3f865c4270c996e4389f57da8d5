@@ -1,4 +1,0 @@
-
-fn recor()void {
- y() catch |e,BBBBBBB,B|B {};
-}

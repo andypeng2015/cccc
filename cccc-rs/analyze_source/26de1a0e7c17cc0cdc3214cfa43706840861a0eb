@@ -1,7 +1,0 @@
-// .ixtration tess.t
-
-///*cr"ioion tess.t
-
-///*cr"iorr(+2) + nec  struct C;
-            impl C { fn method(&self) {} }
-   o

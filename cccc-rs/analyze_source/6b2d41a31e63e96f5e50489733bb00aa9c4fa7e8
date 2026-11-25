@@ -1,0 +1,9 @@
+
+            fn f(a:o) {
+                ///*ogn           fn f(///*ogn  
+     |rrrrrrr|d {rr:rrr=rr}
+
+    ?    
+     |rrrrrrr|d {rr:rrr=rr}
+
+    ?   /3      }      

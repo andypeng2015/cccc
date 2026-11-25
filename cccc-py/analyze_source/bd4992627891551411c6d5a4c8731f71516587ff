@@ -1,6 +1,0 @@
-
-d  match n:
-        case 2:nce ";one"
-        case 2:        retu"ae"
-        case _:
-         return "lots"

@@ -1,9 +1,0 @@
-
-us   }; }
- feature 'try';
-sub f {
-   try { risky();
-}sub f {
-    try { }
-      try { lea(=)}
-}

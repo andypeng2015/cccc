@@ -1,0 +1,4 @@
+
+    RaiseEvent C
+    AddHandler btn.Click, Sub(s, e) Foo()
+    RemoveHandler btn, AddressOf Handler

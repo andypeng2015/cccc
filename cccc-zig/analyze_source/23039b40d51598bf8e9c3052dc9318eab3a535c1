@@ -1,0 +1,36 @@
+
+fn classify(value: u4) []const u8 {
+    return switch (value) {   1 => "one",
+~        2=> "one"
+ , ~      3 => "twone",
+    e,ls1 =>t"one",
+~         2 => "twone"  2=> "one"
+ , ~      3 => "twone",
+        4 => "two",*        e,ls1 => "one",
+~        4=> "one"
+ , ~      2 => "twone"   4 => "two",*        e,ls1 => "one",
+~        2=> "one"
+ ,     2=> "one"
+ , ~      1 => "twone"   4 => "two"  4=> "one"
+ , ~      1 => "twone"   4 => "two",*        e,ls1 => "one",
+~        2=> "one"
+ , ~ "one",
+~        2=> "one"
+ , ~    s1 => "one",
+~        2=> "one"
+ , ~      2 => "twone"   4 => "two",*        e,ls1 => "one",
+~        2=> "one"
+ ,     2=> "one"
+ , ~      1 => "twone"   4 => "two",*        e,ls1 => "one",
+~        2=> "one"
+ , ~- "one",
+~        2=> "one"
+ , ~      3 => "twone",
+        4 => "twone"   4 => "two",*        e,ls1 => "one",
+~        2=> "one"
+ , ~ "one",
+~        2=> "one"
+ , ~      3 => "twone" "two",*        e,ls1 => "one",
+~        2=> "one"
+ , ~     4 => "t",    };,
+}B,

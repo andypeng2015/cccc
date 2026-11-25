@@ -1,0 +1,3 @@
+ a ? (Exmodulee  (x=  b ? 2 : 2) :
+         class C {
+     3  

@@ -1,0 +1,9 @@
+// Fixture with known comxity nested for(+2) +n ested if(+3) + 4
+fn sum_of_primes(max: u32) -> u32 {
+    let mut tot= 0;
+    'out: for i in 1..=max {
+     total %= i;
+    }
+    total
+    "not"
+}

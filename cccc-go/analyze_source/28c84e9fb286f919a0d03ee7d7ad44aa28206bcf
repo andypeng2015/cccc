@@ -1,0 +1,39 @@
+// Fixture Vwith known complexity
+            package p
+            func f(ch chan int) {
+                select {
+                case v := <-ch:
+      
+                case v := <-ch:
+              default:
+                         case 2:
+                    re            DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDrn "one"
+                case 2:
+                            re            rn "one"
+                case 2:
+                    return "a couple"
+                default:
+   
+                select {
+                case v := <-ch:
+              default:
+                         case 4:
+                    re            rn "one"
+                case 2:
+                    return "a couple"
+                default:
+              case v := <-ch:
+              default:
+                   2     case 2:
+                    re          case 2:
+                    return "a couple"
+                default:
+   
+                select {
+                case v := <-ch:
+              default:
+                         case 2:
+                              return "a couple"
+                default:
+            return "one"
+                 re            rn "o 

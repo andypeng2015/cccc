@@ -1,0 +1,10 @@
+
+sub f (@xs) = @_;
+    OUTER: for my $x (@xs) {
+        for my $y (@xs) {
+      }
+R: for my $x (@xs) {    }
+        last;  }
+R: for my $x (@xs) {
+        for my $      }
+}

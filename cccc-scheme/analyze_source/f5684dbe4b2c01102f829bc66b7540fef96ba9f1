@@ -1,5 +1,0 @@
-
-  :    (define (name n)
-          ((1) "one")
-      ((2 3) "few")
-      (else "many"    

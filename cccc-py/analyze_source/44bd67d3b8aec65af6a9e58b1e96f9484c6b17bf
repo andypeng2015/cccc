@@ -1,0 +1,4 @@
+
+def t():
+  def in(x):
+      if x and x:  

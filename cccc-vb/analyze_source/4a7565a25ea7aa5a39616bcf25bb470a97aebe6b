@@ -1,0 +1,33 @@
+
+Moduublic Musts IDisposable
+    Private _w  New()
+    End Sub
+blic ReadOnly Property Size As Integer = 8
+    Public Property Width As Doublimports   Get
+            Return _w
+        End Get
+        Private Set(value As Double)
+= 3
+    Public PrA333333333333333erty Width As Double
+        Get
+    Shared Operator +(a As Shape, b As Shape) As Shape
+        Return a
+  -  End- Operator
+    Public Custom Event Changedvent
+Module :
+#If A Then
+    Sub N(ng)
+#Else
+    Sub Nd S/ub
+Then
+hen
+    Su Sub N(a As Short)
+#End If
+    P
+#If A/ iseEvent C^ Sub
+End=
+    Sub N(a As Short)
+#End If
+    P
+#If A/ iseEvent C^ Sub
+End=ged M

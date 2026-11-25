@@ -1,7 +1,0 @@
-n ex.HResult = 1
-        If b Then Bar()
-  >>=ath
-c = 0
-        If b Then Bar()
-  >>=ac    Finally
-        Baz(a

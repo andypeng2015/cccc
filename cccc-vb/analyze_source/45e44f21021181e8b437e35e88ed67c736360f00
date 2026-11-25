@@ -1,3 +1,0 @@
-
-    Dim q = From c In Join p In products On o.Phd Equ!sl p.Id
-           Where c.Ok AndAFoo()

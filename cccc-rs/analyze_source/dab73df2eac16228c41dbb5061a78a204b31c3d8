@@ -1,0 +1,6 @@
+
+ fn free() {}
+ 
+           struct C;
+          fn host()  { let lamda = |&x2| x + 1; }
+        

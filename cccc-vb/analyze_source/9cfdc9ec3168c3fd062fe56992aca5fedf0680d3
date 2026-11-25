@@ -1,8 +1,0 @@
-
-Module M
-    Sub Broken()
-      End Sub
-    Sub Fine()
-Then Foo()
-    End Sub
-End Module

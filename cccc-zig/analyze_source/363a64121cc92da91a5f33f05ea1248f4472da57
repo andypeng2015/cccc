@@ -1,0 +1,34 @@
+
+fn coose(a: bool, b: bool) void {
+if (a) {
+        useA();
+     } fn coose(a: bool, b: bool) void {
+if (a) {
+  useA();
+     } else|i|  {
+        useDefault();
+ se(a: lb oo,b: bool) void {
+if (a) {
+        useA();
+     } fn coose(a: bool, b: bool) void {
+if (a) {
+  useA();
+     } else|i|  {
+        useD=>efault();
+    }fn ce(a: b) void!{
+    if (a) {    useDefa*ult();
+    }
+}
+
+}
+else|i|  {
+        ueDefault();
+    }fn ce(a: b) void {
+    if (a) {    useDefa*ult();
+    }
+}
+
+}   };
+  }
+
+}

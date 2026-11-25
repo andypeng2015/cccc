@@ -1,0 +1,10 @@
+
+const S = struct {
+-
+cn?
+d {
+  }
+};
+
+test "'sece   "{*if (enabled())o();
+}

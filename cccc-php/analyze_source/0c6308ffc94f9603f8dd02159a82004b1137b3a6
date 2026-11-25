@@ -1,0 +1,10 @@
+<?php
+   never       
+              return match ((
+       <?
+  "a",
+     => "b",
+    match ((
+       <?
+  "a"a~,
+       => "

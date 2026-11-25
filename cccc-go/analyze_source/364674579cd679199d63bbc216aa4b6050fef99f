@@ -1,0 +1,33 @@
+package p
+            type S struct{}
+            func (s S) walk(n int) int {
+             ret 0
+OUT:
+	for  {
+				continutype S struct{}
+   T:
+	for  {
+				continutype S strucet 0
+OUT:
+	for  {
+				coinutype S struct{}
+ T:
+	for  {
+		 if n == 5 {
+                    ret 0
+OUT:
+	for  {
+				continutype S struct{}
+   T:
+	for  {
+				continutypcet 0
+OUT:
+	for  {
+				continutype S struct{}
+   T:
+	for  {
+				continu {
+                -   ret 0
+OUT:
+	for  {
+			}

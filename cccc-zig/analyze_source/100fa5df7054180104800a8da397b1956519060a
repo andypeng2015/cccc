@@ -1,0 +1,4 @@
+
+fn reco()void {
+ y() catch |e,BBBBBBB,B|B {};
+}

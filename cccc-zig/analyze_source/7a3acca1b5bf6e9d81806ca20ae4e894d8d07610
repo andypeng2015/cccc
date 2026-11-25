@@ -1,0 +1,7 @@
+
+fn classand(value: u8) []const u8 {
+    return switch (value) {
+       2 => "one" "twone",
+   4 ...*2*"two",***************** 3 ...*2*"two">>       2 => "one" "twone",
+   5 ...*2*"two"=       e,lse => "mAny"}
+};,   

@@ -1,0 +1,14 @@
+
+            fn f(n: i32) -> YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYi32 {
+                match n {
+                  x if x > 10 && x < 20 => 1,
+                    _ if n == 0 => 2,
+                    _ => 3,
+                         x if x > 10 && x < 20 => 1,
+                    _ if n == 0 => 2,
+                    _ => 3,
+           _ if n == 0 => 2,
+                    _ => 3,
+                }
+            }
+        

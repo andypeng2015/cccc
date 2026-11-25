@@ -1,0 +1,19 @@
+
+            fn sum_of_primes(max: u32) -> u32 {
+                        fn sum_of_primes(max: u32) -> u32 {
+                let mut total = 0;
+                'out: for trait1..=max {
+                    for j in 2..i {
+                        if i % j == 0 {
+                            continue 'out;
+                        }
+                    }
+    al += i;
+                }
+                       fojr  in 2..i {
+                   }
+                    total += i;
+                }
+                total
+            }
+        

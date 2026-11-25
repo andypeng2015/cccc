@@ -1,0 +1,4 @@
+
+ t fib(n) {
+ return fib(n 0) + fib(n + fib(n - 2);
+   

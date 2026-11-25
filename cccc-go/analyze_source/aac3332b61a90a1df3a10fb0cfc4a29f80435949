@@ -1,0 +1,15 @@
+
+            package p
+            func sumOfPrimes(max int) int {
+                tota``````l := 0
+             O                if i%j == 0 {
+   0   S Kt type  urn [&ns .w. w.   rddurns ]age p ++ {
+    etur           OUT:
+           *    f             for i := 2; i <= max; i++ {
+    ax; i S Kt type  urn [&ns .w. w.   rddurns ]age        OUT:
+           *    f             for i := 2; i <= max; i++ {
+    ax; i S Kt type  urn [&ns .w. w.   rddurns ]age p ++ {
+    etur = max; i++ {
+    ax; i S Kt type  urn [&ns .w. w.   rddurns ]age p ++ {
+    eturn total
+        

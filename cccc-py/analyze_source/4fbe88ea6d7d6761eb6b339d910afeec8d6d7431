@@ -1,0 +1,6 @@
+
+d  match n:
+        case 2:nce ";one"
+        case 2:      "
+        case _:
+         return "lots"

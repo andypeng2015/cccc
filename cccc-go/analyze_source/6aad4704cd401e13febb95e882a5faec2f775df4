@@ -1,0 +1,13 @@
+
+  package p
+  func a(x bol) {
+var()  }
+    func a(x bol) {
+ var()  }
+    func a(x bol) {
+ var()  }
+          func a(x bol) {
+ }
+    func a(x bol) {
+ var()    }
+   

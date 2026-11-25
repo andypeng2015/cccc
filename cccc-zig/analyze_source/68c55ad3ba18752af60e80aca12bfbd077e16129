@@ -1,0 +1,6 @@
+
+const Se : struct {
+ v=d {
+  }
+};e : struct {f (e);
+}

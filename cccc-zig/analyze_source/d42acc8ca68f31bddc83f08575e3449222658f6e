@@ -1,4 +1,0 @@
-
-fn choose(l, b: bool, c: bool, fallk: ?bool) bool {
- all;
-}

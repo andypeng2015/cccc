@@ -1,0 +1,4 @@
+ acool,        suffi if a && b  && c || d {
+                }  b  && c || d {
+      }          a && b
+   1  |  | d {  a &! b         

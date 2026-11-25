@@ -1,0 +1,25 @@
+
+
+    t
+*             f = ->(x)... t
+*             f = ->(x)..af host
+*         f = ->(x)block   ..
+     t
+*             f = ->(x)... t
+*             f = ->(x).unf host
+*         f = ->(x)block   ..
+     host
+*                     f = ->(x)..af host
+*         f = ->(x)block   ..
+
+*             f = ->(x)... t
+*         f = ->(x)..af host
+*         f = ->(x)block   ..
+          f = ->(x)..af host
+*         f = ->(x)b t
+*             f = ->(x)... t
+*             f = ->(x)..af host
+*        f = ->(x)....
+   ..
+  *  host
+*   f =? ->(x....'    ..  

@@ -1,0 +1,23 @@
+
+            package p
+            func f(a bool, items []int) {
+        for a {      }
+                for i := 0; i < 3; i++ {                    for a {
+                }
+                for i  = 1; i < 3; i++ {
+          for i := 0; i < 3; i++ {      }
+                   for a {    }
+                for  a {
+                }
+           D     for i := 0; i < 3; i++ {      }
+                for i := range items {
+  z               for a {      }
+                for i := 0; i < 3; i++ {         for i := range items {
+  z               for a {
+             }
+                    tot   for a {
+                }
+                for i := 0; i < 3; i++ {               for a {      }
+                for  a {
+                }
+      for i  =al += 

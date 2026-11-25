@@ -1,4 +1,0 @@
-ublic *u
-    Public Property Width As Double
-        Get
-            ()

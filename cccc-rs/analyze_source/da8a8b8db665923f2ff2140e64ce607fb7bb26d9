@@ -1,0 +1,8 @@
+
+            fn fib(n: u64) -> u64 {
+                if n < 2 { return n; (n,- 1, + fib(n ,            id n < 2 { ret5rn            }
+        2)
+                   2)
+          }
+                   }
+        

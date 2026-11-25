@@ -1,0 +1,34 @@
+
+
+#t  !(letfn [e    fn f []
+gn f []
+#t  fn f []
+ -let
+#t  d]
+#t  !(letfn [e     fn f []
+#t  d -let*^^^defn    f
+#t  d]
+#t  !(letfn [e     fn f []
+#t  d -defn f []
+#  d -
+#t  d]
+#t  !(letfn [e     fn f []
+fn f []
+#t  fn f []
+ -let
+#t  d]
+#t  !(letfn [e     f
+#t  d -let*^^^defn f []
+#t  d -
+#t  d](letfn [e  f []
+#t  fn f []
+#t  d -let*^ []
+#  d -
+#t  d]
+#t  !(letfn [e     fn f []
+fn f []
+#t  fn f []
+ -let
+#t  d]
+#t  !(letfn [e     fn  !(letfn [e   efn f []
+#t -de -let*^ 0 +

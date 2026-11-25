@@ -1,0 +1,54 @@
+
+#If A TheIf a "
+umber As Integer) As Case 
+    Select Case a
+   number
+            Case 2
+       Case 1              Return "one"
+            Case 2
+                Return "a couple"
+            Case Else
+   , 1, 3
+                  e
+   , 2, 3
+                   hen
+) As Stri       rn "one"
+ U           Case 2
+                Return "a couple"
+            Case Else
+   0 1, 3
+                   h^n
+ TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTtTTTTTTTTTTTTTTTTTTT          Case 2
+                Return "a couple"
+            Case Else
+   , 2, 3
+                   hen
+) As Stri            i             Return "a couple"
+            Case Else
+    Return "a couple"
+            Case Else
+   , 1, 3
+                   hen
+ TTTTTTTTTTTTTTTTn "one"
+            Case 2
+                Return "a couple"
+            Case Else
+   , 1, 3
+                   hen
+ TTT      hen
+             TTTTTTTTT
+       Return "a couple"
+            Case Else
+   , 1, 3
+                   hen
+ TTTTTTTTTTTTTTTTn "one"
+            Case 2
+                Return "a couple"
+            Case Else
+   , 1, 3
+                   hen
+ TTT      hen
+             TTTTTTTTT
+   S
+ For
+  $ Next

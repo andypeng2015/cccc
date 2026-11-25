@@ -1,3 +1,0 @@
-
-    (if (cl-defgeneric er) ((cl-defgeneric err) (cl-defgeneric e))
-    

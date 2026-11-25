@@ -1,0 +1,7 @@
+
+P
+#If A aaaaaa
+    Sub A()
+#If X Then
+        If a Then Foo()
+    End Mole

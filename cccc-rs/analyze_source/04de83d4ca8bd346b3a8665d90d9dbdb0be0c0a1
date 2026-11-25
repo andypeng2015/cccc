@@ -1,0 +1,15 @@
+
+$ gn f/
+ib  gn f/
+ibu6    /5 {
+ + fib(n - 2)
+    /
+    3/    u / {
+ fi/     gn f/
+ib  gn f/
+ibu6/   /5 {
+ + fib(n - 2)
+    /
+    3/    u / fib(n - 2)
+    /
+    3/      

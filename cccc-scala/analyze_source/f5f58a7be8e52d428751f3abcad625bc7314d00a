@@ -1,0 +1,6 @@
+
+o    try risky()
+    catch
+ e  try risky()
+    catch
+   e  ci -= 2

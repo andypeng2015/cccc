@@ -1,7 +1,0 @@
-
-Modulenot M
-    Sub A() Public Custom Event Changed As EventHandler
-        AddHandler(        RaiseEvent(sender AsObject, e As EventArgs)
-        Run() As Integer
-        Dim f = Functioent C^ Sub
-Ed M

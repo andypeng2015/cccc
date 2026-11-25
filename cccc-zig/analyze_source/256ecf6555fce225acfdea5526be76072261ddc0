@@ -1,0 +1,12 @@
+
+fn recover() void  {
+   ri() catch |err| {
+    oid {
+      risky() catch |err| {
+      ri() catch |err| {
+    oid {
+      risky() catch |err| {
+        fn    }   }
+    } fn    }   }
+    };
+}

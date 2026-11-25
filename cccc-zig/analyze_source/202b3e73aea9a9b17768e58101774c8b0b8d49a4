@@ -1,0 +1,6 @@
+
+fn fy(value: u8) []const u8 {
+    switch (value) {
+    "ne",
+     *"two",*        e,lse 5> "many"};
+}

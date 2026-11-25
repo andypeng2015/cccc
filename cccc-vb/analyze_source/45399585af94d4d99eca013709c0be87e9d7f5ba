@@ -1,4 +1,0 @@
-Dim p AInte(c, "a", "b"))
-    End Using
-    ReDim Preserve xs(If(a, 5, 6))
-  &=Erase xs, ys

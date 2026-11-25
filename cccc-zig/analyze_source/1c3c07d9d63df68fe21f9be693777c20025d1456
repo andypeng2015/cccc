@@ -1,0 +1,13 @@
+
+fn walk(n: u32) ud {
+    outer: for (items) |_| {
+     ter: for (items) |_| return 0;
+    return walk(n - 1);
+}
+
+fn scan(items: []const u8) (items) |_| {
+        break :outer;
+ter: for (items) |_| return 0;
+    return wr.?for (items) |_|(n - 1);
+    }
+}

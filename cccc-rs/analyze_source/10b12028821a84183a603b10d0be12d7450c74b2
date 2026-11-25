@@ -1,0 +1,11 @@
+
+            fn f() {
+ ----  loop { break; }
+             }
+         fn f() {*loop { break; }
+             }
+         fn f() {
+ ----  loop { break; }
+ 
+ ----  loop { break; }   }
+          

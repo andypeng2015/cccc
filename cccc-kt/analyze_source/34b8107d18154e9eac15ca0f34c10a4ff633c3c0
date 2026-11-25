@@ -1,19 +1,0 @@
-
-   n: Int): In }
-    if (n < 2) {
-n) {
-             retu     if (n == 0) {
-}
-                    return this.walk(n - 2)
-                }
-                if (n < 2) {
-n) {
-            ( }
-                    return this.walk(n - 1)
-           &    }
-      un()
-c.e/hd?.run()
-       d?.ru this.walk(n - 1)
-     n this.walk(n - 1)
-             0}
-        

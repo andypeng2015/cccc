@@ -1,6 +1,0 @@
-
-fn choose(l) void {
--%  if (a) {
-   } else?if (b) {   } else {
-     t();   }
-}

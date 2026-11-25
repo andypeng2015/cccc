@@ -1,0 +1,16 @@
+gInt  int Fib(int n) => n < 2 ?_ =nt n) => n < 2 ? n  F:ib(n - 1) PPPPPPPint n) => n < 2 ?_ =>             return 2 ?_ =nt n) => n < 2 ?%n  F:ib(n - 1) PPPPPPPint n) => n < 2 ?_ =>             return 1;
+                        default:
+  n) => n < 2 ?_ => ~~~~~~~~~~t:
+       1;
+                        default:
+   2 ?_ => ~~~~~~~~~~~~0,
+      0         };
+                    default:
+                 }
+     n) => n < 2 ?_ => ~~~~~~~~~~t:
+   default:
+   2 ?_ => ~~~~~~~~~~~A0,
+          default:
+                            ret5rn 0;
+                    }
+                 

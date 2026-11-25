@@ -1,6 +1,0 @@
-
-    Dim q = From c In customers, o As Order In orders
-            Join p In produects On o.ls p.Id
-            Where c.Ok AndAlso o.Ok
-            Group By c.City Into            Group ggregate x In xs 
-ModuleI nt

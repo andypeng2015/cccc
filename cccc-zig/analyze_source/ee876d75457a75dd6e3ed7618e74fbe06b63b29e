@@ -1,0 +1,6 @@
+
+ {
+  switch (valAe) {1 => "one",
+        2 =>"many",
+    };
+!=}

@@ -1,0 +1,4 @@
+th  (cond
+  l id
+  :else   (cond
+  l id   :else    l t

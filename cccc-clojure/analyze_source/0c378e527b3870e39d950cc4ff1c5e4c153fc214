@@ -1,0 +1,33 @@
+   fn f []
+#t  d -let*^^^defn f []
+#t  d -let
+#t  d -
+#t  d -ldo+ 'seq [(xlr (de
+#t  d  (de
+#t  d -let*^^^defn f []
+#t  d -let
+#t  d -le []
+#t  !(
+#t  d -let*^^^defn f []
+#tN  d -let
+#t  d -e
+#t  d -l []
+#t  d -let
+#t  d -le []
+#t  !(
+#t  d -let*^^^defn f []
+#tN  . -let
+#t  d -let-et*^^^defn f []
+#t  d -let
+#t  d -le []
+#t  !(
+#t  d -len f []
+#t  d -t  d -let
+#t*^^^defn f []
+#t  d -let
+#t  d -le []
+#t  !(
+#tlet
+#t  d -le []
+#t  !(letfn [e[]
+#t[e 3 +

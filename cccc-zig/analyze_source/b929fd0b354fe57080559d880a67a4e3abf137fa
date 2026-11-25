@@ -1,4 +1,0 @@
-
-comptime {
- B{BBBBBBBB,BBBBBBBB,B,BBBBBBBB,BBB,B}B;
-}

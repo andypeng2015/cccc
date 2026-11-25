@@ -1,0 +1,17 @@
+package p
+ type (ch chan int)
+ type (cn int) //p
+ type (ch chan t)
+ type (cn int) //age p
+ type (ch chan int)
+ type (cn int) //p
+ type (ch chan t)
+ type (cn int) //kkage p
+ type (ch chan int)
+ type(cn in) //p
+ type (ch chan t)
+ type (cn int) //k( k   ckage p
+ type (ch chan int)
+ type (cn int) //p
+ type (ch chan t)
+ type (cn i( k   ype 

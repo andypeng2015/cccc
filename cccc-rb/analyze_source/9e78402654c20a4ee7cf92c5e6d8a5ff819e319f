@@ -1,9 +1,0 @@
-
-     case x
-   in else 3
-       case x
-   in            else 3
-   case x
-       in 6
-        then 0   else 3
- thedef   

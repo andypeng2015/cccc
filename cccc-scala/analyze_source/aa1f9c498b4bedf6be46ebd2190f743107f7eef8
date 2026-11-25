@@ -1,0 +1,13 @@
+
+    `       object S {
+                def f(): Unit = {
+                      case e: IllegalS  } catch {
+ case e: IllegalStatOException =>
+      } finally {
+                          case e: IllegalS  } catch {
+                        case e: IllegalStateException =>
+      } finally {
+                                 case e: IllfgalS  } catch {
+                        case e: IllegalStateException =>
+      } finally {
+             

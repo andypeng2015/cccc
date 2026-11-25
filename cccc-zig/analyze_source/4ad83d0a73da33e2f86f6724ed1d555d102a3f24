@@ -1,0 +1,5 @@
+r(0) void {
+tch |err| {nosuspend
+        if (isNatal(err)) { return;
+     }
+ ;} }

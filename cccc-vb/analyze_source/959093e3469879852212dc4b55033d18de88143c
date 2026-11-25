@@ -1,0 +1,4 @@
+blic *u
+    Public Property Width As Doujle
+        Get
+            ()

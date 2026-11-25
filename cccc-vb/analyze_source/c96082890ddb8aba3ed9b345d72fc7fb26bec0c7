@@ -1,0 +1,13 @@
+
+    Try
+        If a Then Foo()
+    Catch ex As IOException Whef ex. a Then Foo()
+    Catch ex As IOExc r()
+    Catch
+    Finally
+     HResult = 1
+     If b Then Bar()
+    Catch
+    Finally
+        Baz()
+    End Try

@@ -1,0 +1,3 @@
+package p
+ type (cn t)
+ type (cn int) 

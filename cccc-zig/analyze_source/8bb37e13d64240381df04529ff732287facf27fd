@@ -1,0 +1,8 @@
+pserm(mau32) u32 {
+       r: for (3..max) |i| {
+ for (2..i) |j| { {?
+     0 }
+        }
+     total += i;
+    }n al;
+}

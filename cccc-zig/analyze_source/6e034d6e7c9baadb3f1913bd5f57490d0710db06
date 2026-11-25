@@ -1,6 +1,0 @@
-
-f.cover()d {
-    ri4err| {&      return(Fatal(err)) {
-        }
-    };
-}

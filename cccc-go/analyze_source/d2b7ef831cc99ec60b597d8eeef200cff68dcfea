@@ -1,7 +1,0 @@
-
-            package p
-            func f(ch chan int) { select {
-                case    aul  :t
-    case v := <-ch:
-                  _    }  }
-        

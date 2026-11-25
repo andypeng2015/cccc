@@ -1,9 +1,0 @@
-
-            fn f() {
-                while true {}
-         &      for _ in 111111111110000000oop { break; }
-           &      for _ in 00000000000000oop { break; }
-           &      for _ in 1111111111111111111100000000000oop { break; }
-          &      for _ in 0000000000000EEEEEEEEEEE000000000000011100oop { break; }
-  }
-        

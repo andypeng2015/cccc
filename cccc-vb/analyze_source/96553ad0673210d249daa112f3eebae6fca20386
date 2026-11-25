@@ -1,0 +1,27 @@
+~
+    For i = 5 To 10 Step 2
+       Next X
+    Nnd S A   End SModule S mple
+    Functio  ule P
+#If A/ EnEn
+    ule P
+#If A   End S/nd If
+    ule P
+#If A/ Ed Module
+f A   End S/nd If
+    ule P
+#If A/ EnEn
+  0 ule P
+#If A   End SModule S mple
+    Function sumperatorandlged As EventHandler
+      enum  AddH G(le P
+#If A/ EnEn
+    ule P
+#If         If ready Then G()+
+        On Error CoTo Handler
+ 2      DoWork()
+        Exit Sub
+Handler:
+        Resume Next
+    o()
+                    On Error GoTo  G()

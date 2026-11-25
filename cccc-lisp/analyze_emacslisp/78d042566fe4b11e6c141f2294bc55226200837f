@@ -1,0 +1,8 @@
+
+    (if (or ( (and c d)) 1 0) f(i (or ( (and c d))
+ (a b c d)
+f (or (a) (if (or ( (and c d)) 1 0))
+%          (if (or ( (and c /d)) 1 0) f(i (or ( (and c d))
+ (a b c d)
+f (or (a) (if (or (!(and c d)) 1 0))
+%       

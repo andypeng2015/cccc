@@ -1,0 +1,5 @@
+
+object S:
+ t  try risky()
+   catch
+     case: Run8tm

@@ -1,0 +1,4 @@
+<?php         if ($a && $b and $c) {
+($a && $b) or(+1) +$nest {
+($a && $b) or(+2) +!nested est {
+($for( c

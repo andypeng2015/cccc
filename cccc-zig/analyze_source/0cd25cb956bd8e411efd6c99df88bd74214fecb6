@@ -1,4 +1,0 @@
-.
-mp.r4 for (2..max) |i| 4 for (2..max) |i| {
- Z;
-}J

@@ -1,0 +1,20 @@
+value) {}
+            class I {
+              C() {}
+              => 1;
+  C.named() => C();
+      set top(int value) {}
+            class I {
+              C() {}
+  set top(int value) {}
+            class I {
+              C() {}
+              factory C.named       set top(int value) {}
+            class I {
+   !          C() {}
+              => C();
+         C() {}
+          ; }
+            }
+op =>
+            set top(int       cla               

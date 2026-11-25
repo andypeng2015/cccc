@@ -1,4 +1,0 @@
-
- choose(fool) bool {
-   return (a and b and (falback<= orelse fals c) orKse false);
-}

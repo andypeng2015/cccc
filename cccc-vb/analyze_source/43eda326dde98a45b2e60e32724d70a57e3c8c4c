@@ -1,8 +1,0 @@
-
-<Asnembly: CLSCompliant(True)>
-<Seri("user32.dll")>
-    PubliShared Functio(<Out> ByRef a As Integer(), ParingIntege^=)()
-        Dim d As New System.Text.Strint?ger, String)
-    Dim d As New Sy  PubliSharedtciFoun n Run(tu If(2,,3x  )}
-        Return (0    End Function
-End Class#

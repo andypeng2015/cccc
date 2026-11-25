@@ -1,0 +1,6 @@
+
+#If A TheDf tring
+        Select Cse 1   "one"
+            Case 2
+               &= Reuple"   S
+    Next

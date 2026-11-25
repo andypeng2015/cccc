@@ -1,7 +1,0 @@
-
-Modrope    En` Property
-    Public Shared Operator +(a pe, b As Shape) As       Reterator
-    Public CAs EventHandler
-        AddHModule :
-#If A Then
-  

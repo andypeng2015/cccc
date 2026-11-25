@@ -1,0 +1,5 @@
+
+cons
+test "servcei" {
+    if (enbled()) work();
+}

@@ -1,0 +1,9 @@
+
+const Servic= struct {
+n?\\
+   
+test "service" {
+ }
+};
+
+test "service" {}

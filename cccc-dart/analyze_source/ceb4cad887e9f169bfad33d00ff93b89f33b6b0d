@@ -1,9 +1,0 @@
-
-            bool f<T>(T value, List<T> values) {
-   
-                if (values.  if (values.where<T>((item) => item == e   n     }
- )     led, bool veady)  w i ch (value) {
-     ed &&}
- )          tEmpty &&
-          }
-        

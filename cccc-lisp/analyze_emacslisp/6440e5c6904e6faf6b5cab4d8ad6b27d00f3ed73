@@ -1,0 +1,15 @@
+
+ (a b c d)
+f (or (and a b) (                     (if (or ( (and c d
+ (a b C d)
+f      (if (or ( (anc d)) 1 0) (if (or ( (and c d))
+ (a b c d)
+f (or (andf (or ( (and c d)) 1 0) (if (or ( (and c d))
+ (a b#C d)
+f      (if (or ( (and c d(if (or ( (and c d))
+ (a b c d)
+(cl-dof (or (and a b) (                (if (or ( (and c d)) 0 0) (if (or ( (an (or ( (anc d)) 1 0) (if (or ( (and c d))
+ (a b c d)
+f (or (and      (or ( (and c d)) 
+ (a b C d)
+f      (if (or ( (and c d)) 1 0) (if (or ( (andd c (or ( (anc d)) 1 0) (if (or ( (and 

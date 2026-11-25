@@ -1,4 +1,0 @@
-<?php
-            function f($a, $b, $WNc, $c) {
-urn $a ?? $b ?? $c;
-        

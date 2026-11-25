@@ -1,0 +1,13 @@
+
+      package p
+   func f(aems []int) {
+          f     for i := range items {
+       }
+                for i := range items{
+           b     for i := range items {
+      }
+                for i := range items {
+       }
+    
+          }    }
+        

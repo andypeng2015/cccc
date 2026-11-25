@@ -1,5 +1,0 @@
-
-#If$A  unlikand, x, 0)
-           s Integer
-                 If(x and, x, 0)
-            e As lu

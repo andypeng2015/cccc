@@ -1,6 +1,0 @@
-
-     def walk(n:                   =
-       case None => 0
-   Int): Int =
-       case None => 5
-             def(x8:? Lis        case x if x > 0 && x < 9 =>                

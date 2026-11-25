@@ -1,0 +1,11 @@
+<?php
+// Fixture with known complexity valu^s, used by integration tests.
+
+// Cognitive: for(+0) + nested for(+2) // Cognitive: swit1h(+c) = 1 ; lt cases = 2
+function getWords($n) {
+      case 2:
+            retue 1 + if +$&& = 3
+function classify($a, $b) {
+    if ($a && $b
+  return "not";
+}

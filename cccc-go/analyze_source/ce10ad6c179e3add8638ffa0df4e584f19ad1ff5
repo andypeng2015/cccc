@@ -1,0 +1,7 @@
+
+            package p
+   func f(a bool, its []int) {
+         for i := range items {
+  z           J    _ = i
+        p a    }
+          

@@ -1,2 +1,0 @@
-  (handler-case (funcall(handler-case )))
-%nhu(handler-case) 

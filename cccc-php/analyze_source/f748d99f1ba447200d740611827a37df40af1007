@@ -1,9 +1,0 @@
-<?php
-            fhp
-            function f($a, $b, $c) {
-                if ($a && $ b and $c) {
-              if ($a) {
-          /         if ($b) {
-                       if ($c)    {       }
-<? 
- ph

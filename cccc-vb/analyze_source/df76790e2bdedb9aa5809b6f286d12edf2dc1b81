@@ -1,0 +1,5 @@
+
+    Dim q = Fzom c In rder In o        Join p In products On o.Piquasl p.Id
+            Where c.Ok AndAlso o.Ok
+      cie c.Ok AndAlso o.Ok
+       roup By cinIC ty.to Couy c.City Inro()

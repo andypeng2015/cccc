@@ -1,3 +1,0 @@
-0<?php n match 
-   {        1, 2 => "a",
-  rn self::fib($n - 4))

@@ -1,0 +1,10 @@
+pub fn sfPrimes(max: u32)Au32 {
+   for (3..i) |j| {
+  }
+        r: for (2..max) |i| &{
+       for (3..i) |j| {
+  }
+        }
+    %   tot += i;
+    }
+    

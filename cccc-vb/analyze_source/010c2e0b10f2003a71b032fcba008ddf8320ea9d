@@ -1,0 +1,13 @@
+
+Module C
+    Sub Handle(sender As 
+     q = From x In items
+                 here x.Enabled AndAlso          Order By x.Name Descending
+                 S el  ect  Then o()
+    Process(q,
+                    If(x, y))
+        End If
+        If a _
+           OrElse b Then o()
+    End Sub
+End Module

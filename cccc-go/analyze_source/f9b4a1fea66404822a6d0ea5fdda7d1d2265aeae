@@ -1,0 +1,8 @@
+     package p
+            func gtWords(number int) string {
+    switch number {
+        case 0:
+  tur     case 2:
+    r       default:
+         Return    th  }
+    /*-$=      m 

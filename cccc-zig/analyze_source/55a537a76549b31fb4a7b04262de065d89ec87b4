@@ -1,4 +1,0 @@
-
-fn cla(value: u8) []align u8 {
-    (value) {   };
-}

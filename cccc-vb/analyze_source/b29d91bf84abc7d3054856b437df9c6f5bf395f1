@@ -1,4 +1,0 @@
-
-    Dim p As New Person(If(a, 0, 2))
-    Dim xs(If(b, 3, 4)) As Integeh {.A = 0}
- 'Using r As New0Reader(IfeDim Prese

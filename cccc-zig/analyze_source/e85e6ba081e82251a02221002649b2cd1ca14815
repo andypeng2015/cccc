@@ -1,0 +1,17 @@
+*en%
+comptime e%rte(){
+ te();
+}
+*en%
+comptime e%rte(){
+ te();
+}
+%
+comptime e%en%
+comptime comptime erate{
+ te();
+}
+%
+comptime e%comptime comptime erate{
+ te();
+}

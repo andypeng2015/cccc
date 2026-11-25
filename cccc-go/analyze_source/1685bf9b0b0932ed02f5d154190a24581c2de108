@@ -1,8 +1,0 @@
-
-            package p
-            func sumOfPrimes(max int) int {
-             for i := 2; i <= max+ +i; {
-                f  o j := 2; i; j++ {                 }
-                   otal += i
-  etWrod    }eturn t     }
-        

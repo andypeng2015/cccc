@@ -1,0 +1,7 @@
+<?php
+            function@f({
+  value?return->method();
+        -     $value?return->method();
+       }
+ ild?->run();
+       

@@ -1,0 +1,11 @@
+
+     func f(x: Int?) {
+  G
+                if x == nil {
+       o  l        g()
+     f
+               o  l   g()
+  z               e        func f{
+            } 
+ 
+ }        

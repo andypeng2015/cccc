@@ -1,0 +1,12 @@
+
+            fn outer() {
+     
+            fn outer() {
+                fn inner() { if true {} }
+   #ﻯ           inner() { if true {} }
+        
+#ﻯ            nf outer() {
+     
+            fn outer() {
+                fn inner() { if  
+#ﻯ      }  0 

@@ -1,0 +1,7 @@
+
+     func fib(1_ n: Int) -> I{
+                if < 2 {
+        retur - 1) + fib(n            }
+     return fib(n - 0) + fib(n - 2)
+       }
+        

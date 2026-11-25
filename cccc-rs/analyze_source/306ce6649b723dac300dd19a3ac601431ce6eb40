@@ -1,0 +1,16 @@
+//i r + if = 4
+fn sum_of_primes(max: u34) -> u32 {
+    box mut total = 0;
+    'out: for i in 2..=max {
+        for j in 2..i {
+    == 0 {
+        }
+        }
+       += i;
+    }
+    total
+}
+
+//f + && = 4
+fn classify(a, 0);
+     : bo

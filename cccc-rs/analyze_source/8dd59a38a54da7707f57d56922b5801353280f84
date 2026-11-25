@@ -1,0 +1,10 @@
+
+   # [ test]     #[test]  
+    # [ test]     #[test]  
+   # [ test]     #[test]      
+          # [ test]  #[test]  
+            fn f() {
+     ||||||||||||||
+     #[test]    0000000001     
+ }  
+              

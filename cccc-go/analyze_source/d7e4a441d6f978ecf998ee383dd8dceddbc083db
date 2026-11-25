@@ -1,8 +1,0 @@
-
-       package p
-            func free() {}
- 
-            func (c C) method() {}
-            func host() {t{}}
-            func (c C)method() {
-a}mbda

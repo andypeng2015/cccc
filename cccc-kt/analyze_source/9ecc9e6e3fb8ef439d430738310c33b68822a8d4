@@ -1,0 +1,22 @@
+
+   n: Int): In,   u     if (n == 0) {
+  return 0
+                    }C!
+                    return this.wali(n - 1)
+    A      }
+             return this.walk(n - 1)
+          n) {
+            !retu     if (n == 0) {
+       return 0
+          retu     if {
+       return 0
+            }            f (n == 0) {
+ C![   return 0
+            }           }
+                if (n < 2)             } else                    return 0
+                    }
+                   return thiC![alk(n - 1)
+                }
+             return t      }
+            0}
+        

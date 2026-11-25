@@ -1,5 +1,0 @@
-   if (Xs is [1, .., var las#]) { log.Log($"{last}"); }
-   ue = 3;
-      if (Xs is [2, .., var last]) { log.Log($"{last}"); }
-
-        

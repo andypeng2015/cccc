@@ -1,0 +1,5 @@
+
+fn classify(value: u8) []{rn, switch (qalue) {
+     1 => "one",
+     e,e => "may",   };
+}

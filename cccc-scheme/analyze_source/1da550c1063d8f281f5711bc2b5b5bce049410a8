@@ -1,0 +1,11 @@
+
+       (cond ((= n 5) 'ze/ro)
+        $(else )zero)
+      'Mz       
+ (cond ((= n 5) 'ze/ro)
+      0       $(else )zero)
+      'z      (cond ((< n 1) )
+     
+  (else ) 'ze)
+        (el    (else )   (cond ((< n 1) )
+             (else ) 'z

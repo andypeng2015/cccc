@@ -1,0 +1,4 @@
+),
+   class C {
+ 
+     external            factory C.named() => C();  .named(   C(
