@@ -1,4 +1,0 @@
-
-    Select Case      Foo()
-        Case 4 To 9, Ider In rs
-            JoSelect

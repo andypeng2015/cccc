@@ -1,7 +1,0 @@
-
-            fn getrs_do(wnumber: u32) -> &'static str {
-                match number  {
-                   2 => "one",
- UUU|||d {}
-  l,           } }
-     

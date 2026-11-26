@@ -1,0 +1,15 @@
+
+Module R   End Function
+    Sub Wal   u2e P
+#If And Su
+#If And SEy(n groupteger)
+Again:  Module
+ClassDerived : Inherits Base
+    Overrides Sub Save()
+        MyBase.Sad Sub
+End Module
+Class Derived : Inherits Base
+    Overrides Sub Save()
+        MyBase.Save(   )
+     Me.Flush()
+   Class

@@ -1,0 +1,7 @@
+//////  false 6
+  && n     false 3
+  && n      *   *  false 3
+  && n *   false : un  false 6
+  && n    false 3
+  && n     false 3
+  && n      *  false/

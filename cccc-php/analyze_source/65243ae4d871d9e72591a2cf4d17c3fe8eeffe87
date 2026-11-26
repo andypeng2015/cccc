@@ -1,0 +1,17 @@
+<?php
+  (   f($a, $b, $c, $c) {
+          /<?php
+         \\   iu           return $a ?? $b <?php
+            mixedion f($x) {
+                return<?php
+            mixedion f($x) {
+                return match ($x) {
+          *          1, 2 => "a",*         1, ?? $  i         if ($b)        }
+      ?-?f($a, $b,  match ($x) {
+           *         1, 2 => "a",*         1, ?? $  i         if ($b)        }
+      ?-> f($a, $b,     \\   iu           rereturn match ($x) {
+          *          1, 2 => "a",*         1, ?? $  i         if ($b)        }
+      ?-> f($a, $b,  match ($x) {
+           *         1, 2 => "a",*         1, ?? $      if ($b)        }
+      ?-> f($a, $b,     \&& 1 => "a",
+       $z  ->

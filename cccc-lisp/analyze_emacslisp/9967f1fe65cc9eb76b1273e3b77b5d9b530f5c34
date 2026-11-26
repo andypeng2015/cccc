@@ -1,6 +1,0 @@
-
-    cl-defmacro  (cond ((< n 0) 'n#g)
-               (    (if (f              (cond ((< n 0) 'neg)
-    !          (    ((my-(if (f              (cond ((< n 0) 'neg)
-               (        (cond ((< n 0) 'neg)
-  (  (prog1t_'pos  

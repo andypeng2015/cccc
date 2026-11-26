@@ -1,7 +1,0 @@
-<?php
-     unction f($x) {
-             match ($x) {
-           *         1,  ->         2 =<?php
-                 1, 2 => "a",
-         ->      1, 2 => "a",
-      yyy ->         3 =<?p$i           foreach ($items as

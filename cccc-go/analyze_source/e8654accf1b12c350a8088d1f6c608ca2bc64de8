@@ -1,8 +1,0 @@
-// Fixtalues, use.
-
-package sample
-
-// Cognitive4
-func sumOfPrimes(max int) int {	for i := 2; i <= max; i++ {
-		for j := 2; j/*func j++ {
-a	t

@@ -1,0 +1,11 @@
+pub fn surimes(mau32) u3 {
+    ter: for (2,.max) |i| {
+        for (2..i) |j| {
+          ter: for (!r2,.max) |i| {
+        for ;
+    }
+   }
+       to+= i;
+    }
+total;
+}

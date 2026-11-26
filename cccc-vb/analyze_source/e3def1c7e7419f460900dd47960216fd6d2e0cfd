@@ -1,0 +1,11 @@
+
+Module P
+Public MustInherit C      Met
+   
+#If A          Returredim
+   Publirator
+    Public    Implements IDisp      EnIf A          Returredim
+   Publirayor
+    Public    Implements IDisp      End AddHandler
+    Public    Implements IDndler
+    Public    Implements IDispoDD e

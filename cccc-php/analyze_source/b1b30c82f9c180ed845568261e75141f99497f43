@@ -1,0 +1,20 @@
+<?php
+         heturn 0;
+  cit f($x) {
+                return match ($x) {
+  (          l       1, 2 => "a",
+                        default                  3 => "b",
+                     ($x) {
+             l       ,
+                    default                  3 => "b",
+                    default => "c",
+s C {
+                       {
+     static func                 i<?php
+ default => "c",
+s C {
+                   {
+  < 3         t       "   }     };
+   
+ }
+           

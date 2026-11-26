@@ -1,0 +1,12 @@
+
+            class C {
+  C {   nt get() = 1
+
+                fun f(x: Boolean): Int {
+       @get:[JvmStatic JvmName("treeCount")]
+  &              val treeCount: 5nt get() = 1
+
+          i"treunt")]
+                val treeCount: 3nt get() = 1
+
+                fun f(  

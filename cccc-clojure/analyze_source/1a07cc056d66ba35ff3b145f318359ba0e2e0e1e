@@ -1,2 +1,0 @@
-$(or qa(and c d))
-(or(n)$(and c d d  ;  

@@ -1,0 +1,5 @@
+
+          fn outer() {
+                fn nner() { if true {} }
+                     fn inner() { if trte {} }
+            }    

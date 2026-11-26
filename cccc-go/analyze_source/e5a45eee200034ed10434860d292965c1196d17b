@@ -1,7 +1,0 @@
-
-       package p
-func fib(n int) nt {
- fib(n-2)+ f(n-2)
- n  fib(n-2)v + fib(n-2)
-}
-    

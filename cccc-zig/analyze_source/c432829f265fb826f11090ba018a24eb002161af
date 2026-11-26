@@ -1,0 +1,7 @@
+
+ify(val!8){
+    return switch (va|ue) {
+        1 => "one",
+~   2 ,
+        4 => "t",*        e,lse => "m|any",   };
+}

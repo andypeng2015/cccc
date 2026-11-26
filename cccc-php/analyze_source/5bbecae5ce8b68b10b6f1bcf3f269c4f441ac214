@@ -1,0 +1,4 @@
+<?php
+ fo    !   $obj = new class({
+   Q       function f($a, $b, $c, $d)\\
+         

@@ -1,0 +1,14 @@
+// Fixture Vwi
+            package p
+    func f(ch chan int) {
+                select {
+                case v := <-ch:
+              default:
+                         case 2:         case 2:
+                    return "a couple"
+                default:
+         
+                default:
+            re      case 2:            re default:
+                         default:
+           

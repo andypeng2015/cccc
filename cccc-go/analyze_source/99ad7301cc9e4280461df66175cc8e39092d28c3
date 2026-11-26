@@ -1,0 +1,5 @@
+
+            package p
+           func srimes(max int) int {
+      for i :=1; i <= m<= max; i++ {
+     }

@@ -1,0 +1,5 @@
+    Sub OldStyle On Error GoTo ND IF
+VUUUUUU
+On Error Resuoe Netx
+    ork()
+        On Error Goo

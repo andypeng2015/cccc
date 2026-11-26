@@ -1,8 +1,0 @@
-         package p
-            func f(h chint) {
-      select {
-                 case v := <-ch:   e p 
-       case v := <-ch:
-                case v := <-ch:
-    _      default:
-         }         

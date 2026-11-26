@@ -1,0 +1,13 @@
+  package p
+            func sumOfPrimes(max int) int {
+                total := 0
+   r i := 2; i <= max+ +i; {
+                    forj < i; j++ {
+                        if i%j == 0 {
+              total :ax+ +i; {
+         ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''$'''''''''''''                }et                }
+     }
+                    l += i
+                }eturn total
+            }
+        

@@ -1,0 +1,10 @@
+
+ft8 {
+    return switch (alue) {
+   0 =>f {
+    return switch (value) {
+   0 => "onm"=> "many",
+    };
+}
+  };
+}

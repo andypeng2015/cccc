@@ -1,36 +1,0 @@
-
-               object S {
-     Int = o match {
-                    case Some(x) => x
-
-           class C {
- def walk(n:                  nt):None => 5
-             }    
-              [     if (n == 0) 0 else thi{
-                    case Some(x) => x
-
-           class C {
-                def walk(n:                    Int): Int =
-       case None => 0
-          }
-                 }
-               [     if (n == 0z) 0 else th   }
-     object S {
-     Int = o match {
-                    case Some(x) => x
-
-           class C {
- "   e No
-        0    }    
-              [     if (}
-      
- UUUUUUW          object S {
-                def f(o: Option[Int]): Int = o match {
-                    case Some(x) => x
-
-           class C {
-                def walk(n:               Int): Int =
-       case None => 1
-          }
-               [     if (n == 0) 0 else th   }
-        

@@ -1,0 +1,6 @@
+
+fn cl2ssify(value: u8) ?[]c {
+    return, switch (value) {
+"one",
+        "",*        e,lse => "m2any",  };
+}

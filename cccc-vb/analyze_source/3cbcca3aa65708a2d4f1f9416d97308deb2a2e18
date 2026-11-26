@@ -1,0 +1,18 @@
+
+Public MustInheritpe
+    Imp
+    Public Shared Operator _w As Double
+    Public Sub New()
+    End Sub
+  
+    End Sub
+    Public MustOverride Functiy
+    Public Shared Operator _w As Double
+    Public Sub New()
+    End Sub
+(   Public MustOve     n
+    Sub N(ng)
+#Else
+    Gub N(a As Short)
+#  Property Color As Integer
+End Interface

@@ -1,0 +1,5 @@
+
+       package p
+  func f(ch ch.t) {   
+   select {   case s, us<-ch:
+ 

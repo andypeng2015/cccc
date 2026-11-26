@@ -1,0 +1,34 @@
+   fn f []
+#t  d -let*^^^defn f []
+#t  d -
+#t  d -
+#t  d -ldo+ 'sexlr (d]
+#t  d -let
+#t  d -le []
+#t  !(
+#tlet
+#t  d -le []
+#t  !(letfn [e[]
+#t[e e
+#t  d  (de
+#t  d -let*^^^defn f []
+#t  d -let
+#t  ar#-s->]
+#t  !(
+#t  d -l]
+#tN  d -let
+#t  d -e
+#t  d -l []
+# -le []
+#t  !(
+#t  d -let*^^^  ar#-s->]
+#t  !(
+#t  d -let*^^^defn []
+#t  d -let
+#t  d -le []
+#t  !(
+#tlet
+#t  d -le []
+#t 
+#t  !(letfn [e[]
+#t[e 3 +

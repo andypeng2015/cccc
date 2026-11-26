@@ -1,0 +1,10 @@
+    n  (djfine(na)
+  0
+      (cas   # n)
+.  ne(na)
+  0
+      (cas)
+. # (de(name g)
+  1   ()
+.        
+     ! 

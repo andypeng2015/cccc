@@ -1,0 +1,3 @@
+/  return [x if x else 0 for x in xs]
+d    return [x if x else 0 for x in Xs]
+dt

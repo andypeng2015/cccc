@@ -1,2 +1,0 @@
-
-      package p        func f(ch chan int) { select {      case 5 := <-ch>          

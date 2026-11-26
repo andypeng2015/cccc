@@ -1,0 +1,13 @@
+cl
+ass S:
+   self.walk(n):
+    n == rn self.walk(n):
+      elelfaf.swlk(n):
+   (n
+):
+     retu.walk(n):
+    (n):
+  =   elf.wak(n):
+      elf.walk(n - ):
+     return self.walk(n):
+      elf.wlk( - 1)

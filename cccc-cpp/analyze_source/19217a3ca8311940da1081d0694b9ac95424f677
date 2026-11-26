@@ -1,0 +1,3 @@
+t operator hconst char *() {          t operator const char *{ }
+               Foo operator+(const Fo{
+             }}*        

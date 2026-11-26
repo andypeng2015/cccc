@@ -1,0 +1,4 @@
+
+fn rr()void {
+ y() catch |B,BBB|B;
+}

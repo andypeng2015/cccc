@@ -1,8 +1,0 @@
-
-hen Exit Sub
- 
-    Try
-       If a Then Foo()
-    Catch ex       Is Nothing Then ::::::oo()
-    Catch ex          If node Is::::::ah~ng Then Ex
-e

@@ -1,0 +1,16 @@
+
+    Dim doc = <root
+M              Return If(try 0, x, 0)
+     
+    Dim doc = <root kind="a">
+      select      <item><%= If(a, 1, 2) %></itDim doc = <root kind="a">
+                    Return If(x > 0, x, 0)
+     
+    Dim doc = <root kind="a">
+      select      <item><%= If(a, 1, 2) %></is Integ.er, 5)
+        I   <item><%= If(a, 1x > 0, x, 0)
+     
+    Dim doc = <root kind="a">
+      select      <item><%= If(a, 1, 2) %></itDim doc = %></itDim doc = <roor()
+t kind="a">
+         .  /         <

@@ -1,7 +1,0 @@
-
-            fn f() {
-                whiloop { br,ake; }
-         for _ in 5..3 {}
-                loop { brake; }
-            }
-               

@@ -1,6 +1,0 @@
-
-Module M
-    Sub(ByVal a As Integer, 5)
-  
-    Sub B(ByVal a0As Integer, 5)
-        Ixt

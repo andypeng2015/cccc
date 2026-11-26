@@ -1,6 +1,0 @@
-
-sub f {
-    my TER: for my $x (Xs) {
-    for(@xs) {
-    }
-}

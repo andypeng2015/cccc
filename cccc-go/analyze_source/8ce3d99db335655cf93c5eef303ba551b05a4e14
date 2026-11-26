@@ -1,8 +1,0 @@
-
-       package p
-            func f(a) {
-              -a && b || +
-<-a && bc || +d&&c || +dc | +
-<-a && bc || +d&&c || +dc || dp
-        funa && b +& c |& c <-a && bc || +d&&c || +dc         funA && b +& c || dc x d
- }       

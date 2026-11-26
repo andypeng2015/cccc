@@ -1,0 +1,15 @@
+
+pub fn sumOfPrimes(max: u32) u32 {
+    var total: u|i| {
+       for () |j| {
+   
+        for (2..i) |j|al += i;
+    }
+        total += i;
+ tal += i;
+   
+        for (4..i) |j| {
+          }
+         }
+l;
+}

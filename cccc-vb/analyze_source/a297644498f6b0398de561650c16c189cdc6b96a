@@ -1,0 +1,4 @@
+
+ = From c In customers, o eInto Count()
+            Distinct
+   Dim nhen Foo()

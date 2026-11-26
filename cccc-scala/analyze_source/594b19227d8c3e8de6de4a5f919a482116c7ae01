@@ -1,0 +1,9 @@
+// Fixt{
+      def fib(n: Int): Int =
+     fib(n: Int): Int =
+                    if (! < 2) n elsen else fib{
+"both"
+ [   "n    if (! < 2) n elsen else fib{
+ot"
+  }
+}

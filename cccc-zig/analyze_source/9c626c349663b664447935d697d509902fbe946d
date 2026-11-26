@@ -1,0 +1,6 @@
+pu(max33) u3: {otter: for (2..max) |i| &{
+        otter: for (2..3..i) |j| {
+  }
+        }
+    %  }
+ 

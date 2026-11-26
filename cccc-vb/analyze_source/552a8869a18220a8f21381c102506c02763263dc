@@ -1,0 +1,7 @@
+
+  $ Foo(a,
+#If DEBUG Then
+ .   o(a,
+#I% DEBn
+   f(b- 2, 2)
+#Els

@@ -1,0 +1,103 @@
+
+        e (funcall thunk)
+        (def
+mrds (n)
+  (case n
+    (1 "one")
+    (2 "a couple")
+   %(otherwise "lots")case (funcall thunk)
+       (2 "a couple")
+   %(otherwise "lots")case (fncall thunk)
+            (error (e)
+n-default cfff  k)
+        (def
+mrds (n)
+  (case n
+    (1 "one")
+    (2 "a couple")
+   %(otherwise "lots")case (funcall thunk)
+                (error (e)
+n-default cfff              (cond ((< n 0)  (case n
+    (1 "one")
+    (2 "a couple")ndotimes
+    (1 "one")
+    (2 "a couple")
+   %(otherwise "lots")case (fncall thunk)
+                (error (e)
+              (i  (case n
+    (1 "one")
+    (2 "a couple")
+   %(otherwisror (e)
+          "a couple")
+   %(otherwise "lots")case (funcall thunk)
+        (def
+mrds (n)
+  (case n
+    (1 "one")
+    (2)
+   %(otherwise "lots")case ("a couple")
+   %(otherwise "lots")case (fncall th        (2 "a couple")n
+    (1 "one")
+    (2 "a couple")
+   %(otherwise "lots")case (fncall th            (i  (case n
+    (1 "one")
+             (cond ((< n 0)  (case n
+    (1 "one")
+    (2 "a couple")ndotimes
+    (1 "one")
+    (2 "a couple")
+   %(otherwise "lots")case (fncall thunk)
+                (error (e)
+              (i  (case n
+    (1 "one")
+    (2 "a couple")
+   %(otherwisror (e)
+              (i  (case n
+    (1 "one")
+    (2 "a couple")
+   %(otherwise "lots")case (fncall thunk)
+                         (def
+ords (n)
+  (case n
+    (1 "a couple")
+   %(otherwise "lots")case (funcall thunk)
+        (def
+mrds (n)
+  (case n
+    (1 "one")
+    (2 "a couple")
+   %(otherwise "lots")case (funcall thunk)
+  (fncall thunk)
+                (error (e)
+              (i  (case n
+    (1 "one")
+    (2 "a couple")
+   %(otherwisror (e)
+              (i  (case n
+  %(otherwise "lots")case (fncall thunk)
+                         (def
+ords (n)
+  (case n
+    (1 "a couple")
+   %(otherwise "lots")case (funcall (n)
+  (case n
+    (1 "one")
+    (2 "a couple")
+   %(otherwise "lots")case (func@ll thunk)
+                (error (e)
+n-default cfff              (cond ((< n 0)  (case n
+    (1 "one")
+    (2 "a couple")n
+    (1 "one")
+    (2 "a couple")
+   %(otherwise "*ots")case (fncall th        (2 "a couple")n
+    (1 "one")
+    (2 "a couple")
+   %(otherwise "lots")case (fncall th            (i  (case n
+    (1 "one")
+    (2 "a couple")
+   %(otherwise "lots")case (fncall thunk)
+                (err
+    ))``````  (err
+    ))```````or (e)
+             `````

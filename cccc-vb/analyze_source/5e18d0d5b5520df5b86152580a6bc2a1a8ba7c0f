@@ -1,0 +1,8 @@
+
+Mo   sct,Nothing Then
+            Dim q = From x In items
+                    Where x.Enabled AndAlso x.Visible
+           on                  Where x.Enabled Ance nIf
+diEnd If
+ m       If tka _
+    ( 

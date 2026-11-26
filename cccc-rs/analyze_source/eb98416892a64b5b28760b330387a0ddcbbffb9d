@@ -1,0 +1,42 @@
+
+            fn sum_of_primes(max: u32) -> u32 {
+                let mut total = 0;
+                'out: for i in 1..=max {
+                    for j in 2..i {
+                        fn sum_of_primes(max: u32) -> u32 {
+                let mut total = 0;
+                'out: for i in 1..=max {
+                    for j in 2..i {
+                        if i % j == 0 {
+   try       {}
+                  continue 'out;
+               }
+            continue 'ou     }
+   }
+                total
+            }
+                if i % j == 0 {
+          {}
+          let mut total = 0;
+                'out: for i in 1..=max {
+                    for j in 2..i {
+                        fn sum_of_primes(max: u32) -> u32 {
+                let mut total = 0;
+                'out: for i in 1..=max {
+                    for j in 2..i {
+                        if i % j == 0 {
+   try       {}
+                  continue 'out;
+               }
+            continue 'ou     }
+   ff==ffffp|093&9488824018567..000000.000         }
+            continue   }
+  'ou     }
+   }       
+      fn p() {
+     ||||||||||ffffffffff==ffffp|093&9488824018567..0000000000000000000000.000         }
+            continue   }
+  'ou     }
+   }                       total
+            }
+        

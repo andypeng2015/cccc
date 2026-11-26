@@ -1,0 +1,45 @@
+
+comp2i=e
+co1p3i=e {
+  
+ BBBBBled()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ-BJ,B
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ_RJ,RBBBBBBBled()
+}
+ {
+  RJ,BBBBBBledRJ,BBBBBBBBleedBd()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ_RJ,BBBBBBBBled()
+}
+ {
+J,BBBBBBBBled()
+}
+ {
+  RJ,B()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ-RJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBledRJ,BBBBBBBBled()
+{  RJ-RJ,BBBBBBBBled(),BBBBBBledRJ,BBBBBBBBle
+R }
+  J-BBBBBlled()
+}

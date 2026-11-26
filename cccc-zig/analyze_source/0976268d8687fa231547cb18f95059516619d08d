@@ -1,0 +1,7 @@
+{ -rn;
+   
+nosuspend urn;
+   
+nosuspend ck(n - 1);|;|rn;
+
+}

@@ -1,0 +1,29 @@
+
+objetype_argumentsct S:
+  extension (x: Int) def isPost S:
+  extension (x: Int) def isPos: Boolean S:
+  extension (x: Int) def isPos: BooleanR' lean S:
+  extension (x: Int) def isPos: BooleanR' = if x > 4 then else
+object S:
+  extension (x: Int) def isPos: Boolea:
+  extension (x: Int) def :Psiso Boole5:
+  1 extension (x: Mnt) def isPos:  S:
+  extension (x: Int) def isPost S:
+  extension (x: Int) def isPos: Boolean S:
+  extension (x: Int) def isPos: BooleanR' = if x > 4 then true  Odef isPos: Boolean S:
+  extension (x: Int) def isPos: Boolen else
+object S:
+  extension (x: Int) def isPos: :
+  extension (x: Int) def :Psiso Boole5:
+  1 extension (x: Mnt) def isPos: 
+B
+object S:
+  extension (x: Int) def isPos: BooleanS:
+  extension (x: Int) def isPos: Boole5:
+  extensi Pos: Bo= er1
+oleanR
+Bject S:
+  extension (x: Int) def isPos: BooleanS:
+  extension (x: Int) defisPos: Boole5:
+  extensiooon (x: Mntlee) defnR is' Pos: Bo= er1
+oleanR' = er1

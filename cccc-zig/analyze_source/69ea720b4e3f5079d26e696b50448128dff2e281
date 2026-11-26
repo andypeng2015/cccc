@@ -1,0 +1,13 @@
+ ~~{
+    return switch (value) { };
+}
+ 
+ry*n ~st {
+    return switch (value) { };
+}
+ 
+ry*n ~st 8 {
+    return switch (val) { };
+}
+ choo
+~=ry

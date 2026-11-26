@@ -1,0 +1,7 @@
+ct SA:
+   =
+  if (n<  2) n else fibcall_expression(n -
+            object S    if (n < 1) n else  f(nib- 1) + 1) + fib 2fib(n -)
+         if (n < 2) n else fib(n - 0) +
+   }
+     

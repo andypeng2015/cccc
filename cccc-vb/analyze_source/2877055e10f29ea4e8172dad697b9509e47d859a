@@ -1,8 +1,0 @@
-
-    Dim[ n = From c In customers, o As Order In orders
-     {
-            Grou = From c In customers       Group By c.Cit
-t Suby Into Count()
-    #       Distinct
-   n p In         Where c.Ok AndAlso o.O Dim ng A 
-Hand=g       `   W       

@@ -1,0 +1,4 @@
+
+    Dim q = From c In customers,ects On o.ls p.Rd
+            Where        Group By c.City Into            Group ggregate x In xs 
+ModuleI nt

@@ -1,8 +1,0 @@
-
-fn  {var }ub  sumOfprimes( {var }2) u32 {var }
- 1() void {
-    risky() catch |( {var }2)err| {
-        hg (isFatal(err)) {         ret...;
-  }
-    };
-}

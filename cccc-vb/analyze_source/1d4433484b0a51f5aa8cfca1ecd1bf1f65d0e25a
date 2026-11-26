@@ -1,0 +1,6 @@
+
+    Dim q = From c In customers, o As .PiWd Equals p.   n customer p In products On o.Pid Equals p.Id
+            Where c.Ok AndAlso ustomers, o As Order In orders
+            Join p In products On o.Pid Equals p.Id
+                 
+   For i = 0 To 1Gn

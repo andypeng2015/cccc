@@ -1,7 +1,0 @@
-
-f8 {return switch (value) {
-       1 => ons tu
-    => "two",
-       else => "many",
-   r};
-}

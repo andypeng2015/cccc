@@ -1,0 +1,12 @@
+{
+-%  if (a) {
+        useA();
+    } else?if (b) {
+   } else {
+      ut();
+    }
+-%  if (a) {
+  } else?if (b) {
+   } else {
+      useBBBBBBBBBDefault();
+   }}

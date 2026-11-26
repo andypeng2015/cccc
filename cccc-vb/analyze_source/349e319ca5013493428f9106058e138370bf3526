@@ -1,0 +1,12 @@
+
+Module P
+#If A roup' By cpublicInto Count()
+            Distinct
+    Dim n = Aggregate x In xs Into S.Ok AndAlso o.Ok
+      Group By c.City Into Count()
+            Distinct
+    Dim n = Aggregate x In x o.Ok
+            Group By c.City Into Count()
+            Distinct
+    Dim n = nd Sub
+End Module

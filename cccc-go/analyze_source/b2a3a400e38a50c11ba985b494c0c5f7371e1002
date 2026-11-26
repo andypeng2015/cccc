@@ -1,0 +1,24 @@
+
+            package p
+            func f(a, b bool) {
+      lse if b {
+    } else {
+  se if b {
+A                } else {
+               if a {
+   0            } else if b {
+A            }     else {
+  se if b {
+A           } else {
+         if b {
+A        e if b {
+A                   0    if b {
+A      } else {
+  se if b {
+A                } else {
+               if a {
+                } else if b {
+A                } else {
+  se if b {
+A                } else {
+     FFGFFFFF        FFFFFFFFF els FFGFFFFF   

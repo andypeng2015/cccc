@@ -1,7 +1,0 @@
-<?php
-            fuoction f($a, $b) {
-$    *          if ($a) {
-                } elseif( $b) {
-                } else   if ($a) {
-                          } {
-                }   

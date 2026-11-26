@@ -1,0 +1,7 @@
+
+iimeol {
+    return (a and b and c) or (k orelse f and b and c) or (fack);
+}
+meol {
+    return (a and b and c) or (k orelse fda and b and c) or (fack);
+}

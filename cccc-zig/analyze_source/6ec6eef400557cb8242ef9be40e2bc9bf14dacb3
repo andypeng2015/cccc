@@ -1,8 +1,0 @@
- void {
-    if (a) {
-     useA();
-    } else if (b) {
- } else if (b) {    if (a) { } else if(b) {
- } else
- 0 0 ;  }
-}

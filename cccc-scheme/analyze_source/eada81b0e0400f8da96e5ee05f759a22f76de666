@@ -1,5 +1,0 @@
-
- (define begimake)
-    (define begi          (lambda (xmake)
-        (define begimake)
-        (define begti         (lambda (x     

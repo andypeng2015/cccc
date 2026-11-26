@@ -1,0 +1,37 @@
+
+     func f(x: Int?) {
+           G
+      _ = value?.property
+   _      _ = valuallback?()
+ es?[0]
+                      callback?()
+  values?[0]
+          ck    k: (() -ild?.run()
+                _ = values?[0]
+       es?[0]
+                      callback?()
+      ck    k: (() -ild?.       _ = values?[0]
+                call[0]
+                callback?()
+      ck                   callback?()             _ = value?.child?.run()
+            _ =    :k(()
+                callback?()
+      ck          #endif
+ %              ~    o  l   _ = value?.property
+   _      _ = valuallback?()
+ es?[0]
+                      callback?()
+  values?[0]
+          ck    k: (() -ild?.run()
+                _ = values?[0]
+       es?[0]
+                      callback?()
+      ck    k: (() -ild?.       _ = values?[0]
+                call[0]
+                callback?()
+      ck                   callback?()             _ = value?.child?.run()
+            _ =    :k(()
+                callback?()
+       g             } 
+  }
+        

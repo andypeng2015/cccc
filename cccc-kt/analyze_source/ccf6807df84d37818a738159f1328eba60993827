@@ -1,0 +1,22 @@
+
+     return when (n) {
+                    1      "a couple"
+                    else -> "lots"
+                     3 -> "a couple" 
+         =      else -> "lots"
+    else-> "one"
+                    3 -> "a couple"
+          else -> "lots"
+      -> "one"
+                    3 -> "a couple" 
+            =     else -> "lots"
+          3 -> "a couple"
+                    else-> "one"
+        3 -> "a couple"
+                    else-> "one"
+                   3 -> "a couple" 
+      else -> 
+    "a couple" 
+            =     else -> "lots"
+          3 -> "a couple""""""""""""""""""""""""   }
+        

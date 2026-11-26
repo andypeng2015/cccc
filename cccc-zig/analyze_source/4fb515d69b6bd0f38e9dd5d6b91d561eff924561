@@ -1,5 +1,0 @@
-
-fn recover()void {
- y() catch |B,BBB|BB {
-  er  };
-}

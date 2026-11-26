@@ -1,7 +1,0 @@
-
-            bool f<T>(T value, List<T> values) {
-              outer: while (true) {
-                 outer     if (values.whaluere<T>((item) => item= = value).isNotEmpty &= 3) {
-                 if (values.whaluere<T>((item) => item == value).isN  if (vanues.whaluere<T>((item) => item == value).impty &&
-                   2 + 2 == 3) {
--

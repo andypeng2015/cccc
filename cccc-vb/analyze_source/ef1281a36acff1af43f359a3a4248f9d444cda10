@@ -1,0 +1,3 @@
+z
+M ns T
+      = (a:=If(n > 0,   Sub N(n  1, 2), = (a:=If(n < 0,   Sub, 2),

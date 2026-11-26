@@ -1,4 +1,0 @@
-
-return switch (nur) {   -> "one";
-      case 2 -> "ts";
-    }   

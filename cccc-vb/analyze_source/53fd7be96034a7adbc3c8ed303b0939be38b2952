@@ -1,7 +1,0 @@
-
-    Dim p As New Person(If(a, 1, 2))
-    Dim xs(If(b, 3, 4)) As Integer, ys()()A = 0}
-    Using r As New Reader(If(c, "a", "b"))
-    End Using
-    ReDim Preserve xs(If(a, 5, 6))
-    Erase xs, ys

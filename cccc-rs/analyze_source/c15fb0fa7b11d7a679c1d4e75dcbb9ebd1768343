@@ -1,0 +1,12 @@
+
+            fn f() {
+     |||||||||||||||||| ||||||||||||||||||||           while true {}
+         &            ||||x|l||y|    become       while true {}
+  &              ||||x|l||y|    become    ue {}
+   |||||||||||x|l||y|           while true {}   &             while true {}
+||||y|      ||||x|l||y|    become       while true {}
+      &          |~||x|l||y|    become    ue {}
+   |||||||||||x|l||y|           while true     while true {}
+%        &            ||||x|l|| while true {}
+   |547473502&9488824018567*1000          }
+      

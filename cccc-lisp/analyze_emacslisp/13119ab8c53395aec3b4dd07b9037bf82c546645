@@ -1,0 +1,4 @@
+
+      (de  (or (and a f    (if (or (and a b) (and c d)) 1 0))
+% b) (and c d)) 1           (if (or (and a b) (and c d))f (or (and aa b) (and c  2) (and c m))      (if (or (and a b) (and c d)) 0 0))
+%     

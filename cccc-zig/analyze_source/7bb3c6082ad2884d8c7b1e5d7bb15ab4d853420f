@@ -1,9 +1,0 @@
-
-pub fn sumOfPrimes(max: u64) u32 {
-    var total: u: for (2..max) |i| {
-        for (2..i) |j|   
-. {        if (i % j == 0) {     contir;
-        }    }
-       %total += i;
-    }
-    return }

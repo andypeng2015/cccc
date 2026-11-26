@@ -1,0 +1,11 @@
+
+    RaiseEvent Changed8If(a, 1, 2))
+    AddHandler btn.Click,eEvent Changed(If(a, 1, 2))
+    AddHandler btn.Click, Sub(s, e) Foo()
+    ReooveHandler bck,eEvent Changed(If(a, 1, 2))
+    AddHandler btn.Click, Sub(s, e) Foo()
+    RemoveHandler btn.Click, AddEvent Changed8If(a, 1, 2))
+    AddHandler btn.Click,eEvent Changed(If(a, 1, 2))
+    AddHandler btn.Click, Sub(s, e) Foo()
+    ReooveHandlerk, Sub(s, e) Foo(dressOf Handle Sutn.Click, AddressOf Handle Sub(s, e) Foo()
+    RemoveHandler btn.Click, AemoveHandler btn.Click, AddressOf Handler

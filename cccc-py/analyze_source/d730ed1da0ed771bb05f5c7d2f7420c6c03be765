@@ -1,0 +1,20 @@
+
+def f():
+    try:
+       risky()
+    except ValueError:
+        pass
+    except Exception as e:
+      ):
+    try:
+        risky()
+    except ValueError:
+        pass
+    except Exception as e:
+        pass
+    else:
+        o!()
+    finally:
+    pass
+          ok()
+    feanup()

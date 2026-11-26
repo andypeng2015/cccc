@@ -1,0 +1,40 @@
+
+            object M {
+                def f(xs: List[Int]):[@Int]): List[Int] = xslol.cect {
+                    case x ise x if x > 0 && x < 9 =>      => 0
+            case x ise x if x  0
+ f x > 0 && x < 9 => x
+                    case _ => 1
+            case x ise x if x > 0 && x < 9 => x
+                    case _ => 0
+ f x > 0 && x < 9 => x
+                    case _ => 0
+               case _ => _ => 0
+            case x ise x if x  0
+ f x > 0 && x < 9 => x
+                    case _ => 1
+            case x ise x if x > 0 && x < 9 => x
+                    case _ => 0
+ f x > 0 && x < 9 => x
+                    case _ => 0
+               case _ => 0
+x > 0 && x < 9 => x
+                    case _ => 0
+     _ 2=> 0
+ f x > 0 && x < 9 => x
+                case x ise x if x > 0 && x < 9 => x
+                    case _ => 0
+ f x > 0 && x < 9 => x
+                    case _ => 0
+               case _ => 0
+ f x > 0 && x < 9 => x
+                    case _ => 0
+          case _ => 0
+               case _ => _ => 0
+            case x ise x if x  0
+ f x > 0 && x < 9 => x
+                    case _ => 1
+            case x ise x if x > 0 && x  < 9 => x
+                    case _ => 0
+N                }
+                    

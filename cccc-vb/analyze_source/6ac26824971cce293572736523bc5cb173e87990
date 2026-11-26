@@ -1,0 +1,18 @@
+
+#If$A s Integer
+       iken(x As Integer)f$A  unliken(x As Interemger) As Integer
+                    Return If(x and, x, 0)
+            e Af$A  unliken(x As Integer)f$A  unliken(x As Integer) As Integer
+      Return If(x and, x, 1)
+            e As  As Integer
+                    Return If(x and, x, 0)
+            e As Dou  s  As Integer
+                    Return If(x and, x, 0)
+                Return If(x and, x, 0)
+            e Af$A  unliken(x As Integer)f$A  unliken(x As Integer) As Integer
+      Return If(x and, x, 1)
+            e As  As Integer
+                    Return If(x and, x, 0)
+            e As Dou  s  As Integer
+                    Return If(x and, x, 0)
+            e As Dou   End Fblu

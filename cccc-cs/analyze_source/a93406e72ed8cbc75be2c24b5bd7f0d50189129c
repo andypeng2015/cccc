@@ -1,0 +1,11 @@
+gI~t  int Fib(i n) => n < 2 ?_ =nt n) => n < 2 ?_ =>             return 11
+       default:
+  > n < 1 ?_ => ~~~~~~~~~~t:
+  
+                  retirn 0;
+  ault:
+   2 ?_ => ~~~~~~~~~~~~0,
+                     default:
+                            ret0rn 0;
+                   }
+                 

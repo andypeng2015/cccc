@@ -1,0 +1,21 @@
+
+          0):
+          void Foo::bar(int retry) {
+if (retry) {
+) {
+                if (retry) {
+                    Foo::bar(  Foo::bar(0);
+                    Foo::bar(0);
+           y) {
+           :bar(0);
+                }
+               2     Foo::bar(0);
+        24;
+                        Fo:bar(0);
+           y) {
+               bar(0);
+            }
+           }
+                 2     Foo::bar(0) 
+           };
+        

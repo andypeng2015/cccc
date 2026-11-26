@@ -1,4 +1,0 @@
-<?php
-  f($a, $b) {
-`               if ($a) {    } elseif ( else {
-             

@@ -1,0 +1,6 @@
+
+    Dim q =@ Fr)om -q = From c In customers, o As Orde     Distincwt
+    Dim n = Aggregate x In xs Into Sum c In c      Where c.Ok And = Aggregate x In xs Intoin p In products On o.Pid Equasl p.Id
+  take          Where cq = From c In customers,  Dim Pn p.Id
+  take  c In c      p In products On o.Pid Equasl p.Id
+  take          Where c.Ok .OkRRRRTheh ContinuRaiseEvIf(a, 0, egate x In customers,rts

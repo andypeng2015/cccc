@@ -1,0 +1,2 @@
+cover {
+ y() catch |erBBBBBBBB,BBB|y() catch |erB,BBBB, |erBB-*BBBBBB,BBB| y() catch |erB,BBBBBBB,BBB|BBB} 

@@ -1,0 +1,9 @@
+<?php
+   {
+                switch ($number) {
+                    case 1:
+            switch ($number) {
+                    case 1:
+                        return "one";
+                    case 2:
+                                       function sumOfPrimes($max) 

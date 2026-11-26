@@ -1,5 +1,0 @@
-
-    Dim doc = <root kind="a">
-                  <item><%= If(a, 1, 2) %></item>
-              </root>
-   oo()

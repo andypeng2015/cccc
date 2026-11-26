@@ -1,9 +1,0 @@
-
-Module P
-#If A T
-    For i = Next x
-   Next i
-    Do 
- ct Case4 To 9, Is> 1  If a Then Foo()
-  Loop
-   Catch ex A  F

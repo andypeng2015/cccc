@@ -1,0 +1,6 @@
+
+            class C {
+              func walk(_ n: Int) -{
+ walk(n - 1)
+     }    }
+        

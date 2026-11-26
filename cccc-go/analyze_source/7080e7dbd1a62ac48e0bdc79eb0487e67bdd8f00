@@ -1,0 +1,64 @@
+
+       package p
+            func f(a) {
+              -& a& b || + -a && b || +
+<-a && bs || +d&&c || +dc | +
+<-a && bc || +d&&c || +dc || dp
+             +
+<-a && bc || +d&&c || +dc || dp
+ +d&&c || +dc | +
+<-a &         -& a& b || + -a && b || +
+<-a && bs || +d&&c || +dc | +
+<-a && bc || +d&&c || +dc || dp
+                  -& a& b || + -a && b || +
+<-<-a &         -& a& b || + -a && b || +
+<-a && bs || +d&&c || +dc | +
+<-a && bs || +d&&c || +dc | +
+<-a && bc || +d&&c || +d || +dc || +dc&& bc || +
+<-a && bc || +d&&c || +dc | +
+<-a & bc       -a && b || + -a && b || +
+<-a && bs || +d&&c || +dc | +
+<-a && bc || +d&&c || +d || +dc || +dc&& bc || +
+<-a && bc || +d&&c || +dc | +
+<-a &&c | +
+<-a& b&c  || +d&&c || +d || +d&&       +
+<-a && bc || +d&&c || +dc || dp
+ +d&&c || +dc | +
+<-a && bc       -a && b || + -a && b || +
+<-a && bs || +d&&c || +dc | +
+<-a && bc || +d&&c || +d || +dc || +dc&& bc || +
+<-a && bc || +d&&c || +dc | +
+<-a & bc       -a && b || + -a && b || +
+<-a && bs || +d&&c || +dc | +
+<-a && bc || +d&&c || +d || +dc || +dc&& bc || +
+<-a && bc || +d&&c || +dc | +
+<-a &&c | +
+<-a& b&c  || +d&&c || +d || +d&&c <-a &         -& a& b || + -a && b || +
+<-a && bs || +d&&c || +dc | +
+<-a && bc || +d&&c || +dc || dp
+             +
+<-a && bc || +d&&c || +dc || dp
+ +d&&c || +dc | +
+<-a && bc       -a && b || + -a && b || +
+<-a && bs || +d&&c || +dc | +
+<-a && bc || +d&&c || +d || +dc || +dc&& bc || +
+<-a && bc || +d&&c || +dc | +
+<-a & bc       -a && b || + -a && b || +
+<-a && bs || +d&&c || +dc | +
+<-a && bc || +d&&c || +d || +dc || +dc&& bc || +
+<-a && bc || +d&&c || +dc | +
+<-a &&c | +
+<-a& b&c  || +d&&c || +d || +d&&       +
+<-a && bc || +d&&c || +dc || dp
+ +d&&c || +dc | +
+<-a && bc       -a && b || + -a && b || +
+<-a && bs || +d&&c || +dc | +
+<-a && bc || +d&&c || +d || +dc || +dc&& bc || +
+<-a && bc || +d&&c || +dc | +
+<-a & bc       -a && b || + -a && b || +
+<-a && bs || +d&&c || +dc | +
+<-a && bc || +d&&c || +d || +dc || +dc&& bc || +
+<-a && bc || +d&&c || +dc | +
+<-a &&c | +
+<-a& b&c  || +d&&c || +d || +d&&c || +dc || dp
+  }       

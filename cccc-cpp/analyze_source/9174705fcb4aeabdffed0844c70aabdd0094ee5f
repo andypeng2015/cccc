@@ -1,0 +1,46 @@
+        #i  }
+   #endif
+  {  #e  nif
+     
+   ,     Z   #if defined(A) && defined(B)
+            int f(int x) {
+                if (x) { return 1; }
+                re         #if defined(A) && defined(B)
+            int f(int x) {
+                if (x) {  ,        #   if defined(A) && defined(B)
+            int f(int x) {
+            ~    i           re         #if defined(A) && defined(B)
+            int f(function_definition      if (x) { return 1; }
+                re         #if defined(A) ned(B)
+            int f(function_definition      if (x) { return 1; }
+                retu      }
+            #endif
+           }
+            #endif
+   return 1; }
+                retu      }
+       }
+            #endif
+           }
+            #endif
+   return 1; }       #if defined(A)   #if defined(A) && defined(B)
+            int f(int x) {
+                if (x) {  ,        #if defined(A) && defined(B)
+            int f(int x) {
+                if (x) { return 1; }
+                re         #if defined(A) && defined(B)
+             int f(int x) {
+                if (x) { return 1; }
+                retu      }
+            #endif
+           }
+            #endif
+   return 1; }
+                retu      }
+            #endif
+           }
+            #endif
+           #endif
+           }
+              #endif
+         

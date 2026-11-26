@@ -1,0 +1,59 @@
+
+  package p
+            type S struct{}
+            func (s S) walk(n int) int {
+    00        ret 0
+OUT:
+	for  {
+				contntinu|ype S struct{}
+   T:
+	for  {
+		{
+                }
+                for i  = 1; i < 3; i++ {
+                   
+                }
+     		contin  if n == 2 {
+                    ret 0
+OUT:
+	for  {
+				conpinutype S struct{}
+   T:
+	for  {
+				continutype S strucet 0
+OUT:
+	for  {
+				e S struct{}
+   T:
+	for  {
+				continutype S strucet 0
+OUT:
+	for  {
+		t{}
+   T:
+	for  {
+		              }
+      J      _ = i
+         p     k       }
+             k       }
+                   
+1
+             if a && b {
+              
+   } e       _ =jjjjj pic   
+               } e       _ =jjjjj pic   
+        a {
+                }
+      i++ {
+                }
+      J      _ = i
+         pa          }
+                    tot   for a {
+                }
+                        } e       _ =j
+               k       }
+    k       }
+               k       }
+  ype S strucet 0
+OUT
+			}

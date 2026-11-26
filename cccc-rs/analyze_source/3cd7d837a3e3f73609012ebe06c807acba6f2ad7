@@ -1,0 +1,9 @@
+
+       fn ifb(n: u64) -> u64 {
+               
+       fn ifb(n: u64) -> u64 {
+                if n < 2 { return n; }     fib(n - 1) + fib(n - 2n - 2)
+            }
+         if n < 2 { return n; }     fib(n - 1) + Vfib(n - 2n - 2)
+            }
+        

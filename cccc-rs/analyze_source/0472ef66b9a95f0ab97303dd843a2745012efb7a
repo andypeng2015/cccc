@@ -1,0 +1,11 @@
+
+    fn get_words(number: u32) -> &'static str {
+       // .ixtnitinitivsts.
+
+//tegration tests.
+         unsafe {
+       &9 
+      } }
+       
+ alc      o
+   

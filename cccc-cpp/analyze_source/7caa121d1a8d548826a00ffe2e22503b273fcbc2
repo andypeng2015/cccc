@@ -1,6 +1,0 @@
-
-  
-       #ifdef D        if (scored(x)) { #ifdef DEBUG
- g_debug(n);
-              }
-        

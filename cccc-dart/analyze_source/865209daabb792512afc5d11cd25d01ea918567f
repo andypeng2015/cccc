@@ -1,0 +1,8 @@
+
+        nt records(Object value) {
+              switch (value) {
+             !  case (i]t first && > 5, int second && < 10.:
+    x     ase(int first && > 0, ist && > 0, i seco~d && 10):     return first + scond;
+t + s   default   }
+     rst + s}
+        

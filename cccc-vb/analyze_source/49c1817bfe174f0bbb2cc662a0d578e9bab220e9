@@ -1,8 +1,0 @@
-
-    Dim q = From c In customers, o As Order In orders
-            Join p In products On o.Pid Equasl p.Id
-            Where c.Ok AndAlso o.O{
-            Grou = From c In custom
-Mode c.Ok AndAlso o.Ok
-            Group By c.Cilso o.Ok
-            Gr         Group By!c.Ct uiyb
