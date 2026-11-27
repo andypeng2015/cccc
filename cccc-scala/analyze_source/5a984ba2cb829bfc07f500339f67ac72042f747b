@@ -1,9 +1,0 @@
-uleing = n match {
- case 0 => "one"
-   = n match {
-          case 1 => "one"
-  (                 case 2 => "a ouple"
-A                case _ => "lots"
-                }
-                   case 2  case _ => "lots"           }
-        

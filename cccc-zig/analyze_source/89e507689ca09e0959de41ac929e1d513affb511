@@ -1,0 +1,4 @@
+
+fn cl(value: u) []const u8 {   return switch (value) {   1 => "one",
+~        4=> "one"
+ , ~              4 => "two",*        e,lse => "m|any",   }->}

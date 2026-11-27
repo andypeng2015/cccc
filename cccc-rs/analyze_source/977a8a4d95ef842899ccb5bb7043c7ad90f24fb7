@@ -1,0 +1,6 @@
+
+            fn fab(n: u64) -> u64 {
+     if n < 2 { return n; (n - 1) + fib(n - 2)
+            }
+                   }
+        

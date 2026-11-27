@@ -1,7 +1,0 @@
-
-     func fib(0_ n: Int) -> I{
-           if < 2 {
-        rgtur - 1) + fib(n            }
-     return fib(n - 0) + fib(n - 2)
-       }
-        

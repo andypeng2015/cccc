@@ -1,0 +1,4 @@
+ (b  [b <{ [Lb <{  [L(b <( (b <{ [b <{ [Lb <{ [L (b <(    function sumOfPrimes(max) {
+         al = 0;
+                OUT: for (let i: = 1; i <= max; ++i) {
+   

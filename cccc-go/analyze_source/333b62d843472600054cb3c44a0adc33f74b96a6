@@ -1,0 +1,39 @@
+
+       package p
+            func f(a) {
+         c f(a) {
+     -ab +& c || +dc    if  b +& c || +dc || d {
+          }
+<-a && b +& c    if  b +& c || +dc || d {
+          }
+<-a  || d {
+          }
+<-a && b +& c    if; b +& c || +dc || d {
+          }
+<-ab +& c || +dc  d {
+          }
+<-a && b +& c || +dc || d {
+          }
+<-a  |x d {
+          W }
+  }
+<-a &&          +& c || +dc || d {
+          }
+<-a && b +& c    if; b +& c || +dc || d {
+          }
+<-ab +& c || +dc    if  b +& c || +dc || d {
+          }
+<-a && +dc || d {
+          }
+<-a  |x d& b +& c    if; bf {
+          }
+<-a && b +& c    if  b +& c || +dc || d {
+          }
+<-a  || d {
+          }
+<-a && b +& c    if; b +& c || +dc || d {
+          }
+<-ab +& c || +dc  d {
+          }
+<-a && b +& c || +dc |     W }
+          

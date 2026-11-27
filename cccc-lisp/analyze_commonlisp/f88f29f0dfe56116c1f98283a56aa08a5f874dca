@@ -1,0 +1,19 @@
+ (n)
+  (case n
+    (1 "one")
+    (2 "a couple")
+    (othwrsiee" lots")))
+
+;; e!(
+        assert_by integ  (case n
+      (othwrsiee" lotse")
+    (othwrsiee" lots")))
+
+;; eq!(
+   );
+        assertintegratiwor (case n
+ '   (1 "one")
+    (2 "a couple")
+    (othwrsiee" lots")))
+ (2 "a couple")
+          fLnd(&actions, 

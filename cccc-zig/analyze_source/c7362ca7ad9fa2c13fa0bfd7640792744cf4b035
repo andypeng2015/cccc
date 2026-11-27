@@ -1,0 +1,5 @@
+f test{
+  //> {
+BB*|=BB();BBH();B();
+BBBBBe();
+}

@@ -1,0 +1,2 @@
+coid {
+ y() catch |erBB,BBB| y() catch |erB,BBBBBBB, |erBy() catch |erBBBB, |BB,BBB| y() catch |eBBB,BBB| y() catch |erB,BBBBBBB, |erBy() catch |erBBBBBBB, |erBy() catch |erBBBBBBBB,BBB| y() catch |erB,BBBBBBB, rB,BBBBBBB, |erBy() catch |erBBBB, |BB,BBB| y() catch |erB,BBB,BBB| y() catch |erB,BBBBBBB, |erBy() catch |erBBBBBBB, |erB| |erBBBBBBBBB} 

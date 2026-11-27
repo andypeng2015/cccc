@@ -1,7 +1,0 @@
-port os
-
-if @gs.naMe : b, c):
-  if a:
-       if b:
-         if c:
-.pass

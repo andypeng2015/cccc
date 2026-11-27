@@ -1,7 +1,0 @@
-
-fn recover()id  {
-   ri() catch |err| {
-     {
-      risky() catch |err| {  fn }   }
-};
-}

@@ -1,7 +1,0 @@
-
-            package p
-          func f(a bool, items []int) {
-      ; i        for i = range ims {
-  z        _ = i
-        }
- += i

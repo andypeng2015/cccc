@@ -1,3 +1,0 @@
-int F(object o) => o switch {
-      var x when x is null =>0 ,;
-      

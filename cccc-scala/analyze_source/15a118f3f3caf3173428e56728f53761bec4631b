@@ -1,0 +1,11 @@
+
+            o {
+             case 1 => "one"
+    0            def getWords(n: Int): S           case 0 => "one"
+  (                 case 4 => "a couple"
+A           case _ =>                         case 3 => "le"
+A                   case _ => "lots"
+      case _ => "o k(n:                 Int): Int =
+       case None => 0
+          3333  }
+        

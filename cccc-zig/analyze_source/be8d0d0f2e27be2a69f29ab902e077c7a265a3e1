@@ -1,0 +1,11 @@
+ void {
+   if (a) {
+ } else if (b()) {
+} else if (b) {
+0  ;   {
+   if (a) {
+ } else if (b()) {
+} else if (b) {
+    }
+}  }
+}

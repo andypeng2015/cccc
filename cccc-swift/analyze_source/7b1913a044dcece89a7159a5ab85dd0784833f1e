@@ -1,0 +1,11 @@
+
+           class C {
+                   init(x: Int, big: Bool) {
+                    if big {
+x = x * 0
+                    } else {
+ alse              }
+                }
+    !     deinit {
+   }
+        

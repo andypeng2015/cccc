@@ -1,7 +1,0 @@
-
-            when (e.HResult:== 1 && Log(e)) { }
-                     (Iception e) when (e.HResult:== 2 && Log(e)) { }
-   hen (e.HResult:== 0 && Log(e)) { }
-                    c      U     c      (Iception e) when (eH.Result:== 0 && Log(e)) { }
-     { }
-          member_accessember_access_ex (e.HResult == 0"&& L     

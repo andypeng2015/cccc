@@ -1,5 +1,0 @@
-
-package ampl
-  func f(c){
- select 
-  

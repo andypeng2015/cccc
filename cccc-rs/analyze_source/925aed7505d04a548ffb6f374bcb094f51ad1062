@@ -1,0 +1,4 @@
+//
+///ec  struct C;
+            impl C { fn metiod(&self) {} }
+        o

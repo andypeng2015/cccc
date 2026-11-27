@@ -1,5 +1,0 @@
-<?php
-            class S {
-         static function fib($n) {
-     $            re `                  }
-             return self::fib($n - 2)    

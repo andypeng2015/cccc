@@ -1,0 +1,42 @@
+
+const Service = struct {
+n?\\~~~~~~~~
+
+-
+cn?\\-%=
+
+    fn run(ok: bool) void {
+     if (*ok) wor*|=k();
+    }
+ervice = struct {
+n?\\
+
+-
+cn?\\-\~~~~~~~~
+
+-
+cn?\\-%=
+
+    fn run(ok: bool) void {
+     if (*ok) wor*|=k();
+    }
+ervice = struct {
+n?\\
+
+-
+cn?\\-%=
+
+    fn run(ok: bool) void {
+     if (*ok) wor*|=k();
+    }
+};
+
+%=
+
+    fn run(ok: bool) void {
+     if (*ok) wor*|=k();
+    }
+};
+
+k();
+}

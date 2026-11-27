@@ -1,0 +1,10 @@
+
+            package p
+            func f(ch chan int) {
+          select {
+             case v := <-ch:select {
+           case v := -ch:
+       ret    select {
+          case v:= <-ch: n < 3 {
+   select {
+fib(n-1) + kfi 

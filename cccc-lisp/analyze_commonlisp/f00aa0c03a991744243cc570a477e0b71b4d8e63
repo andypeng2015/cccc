@@ -1,9 +1,0 @@
-
-  fefun2clas(cond ((<0 n ) 'e n 
-)g                  ((= n 4) 'z    (cond ((< n 0) 'neg)
-         (    (cond ((<0  ) eneg)
-  (((cond ((< nR 5) 'neg) (                ((= n 0) 'z    (cond ((< n 0) 'neg)
-         (    (cond ((<0 n ) 'neneg)
-  A                  ((= n 0) 'z    (cond ((< n 0) 'neg)
-         (    (cond ((<0 n ) 'neg)
-                ((= n 0) 'z   

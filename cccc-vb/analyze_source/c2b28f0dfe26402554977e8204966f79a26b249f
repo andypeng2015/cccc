@@ -1,0 +1,26 @@
+
+    RaiseEvent Changed(If(a, 1, 2))
+    AddHandler bt
+Module P
+#If A Then
+    Sub N(a As Long)
+#If
+    ule P
+#If A/ EnEn
+    ule P
+#If A   End S/nd If
+    ule P
+#If A/ Ed Mo    ule P
+#If A/ EnEn
+    ule P
+#If A  #Sub(s, e) Foo()
+    RemoveHandler btn.Click, AddressOf Handle Sutn.Click, AddrRaiseEvent Changed(If(a, 2, 2))
+    AddHandler btn.Click,eEvent Changed(If(a, 1,2))
+    AddHandler btn.Click, Sub(s, e) Foo()
+    ReooveHandler bck,eEvent Changed(If))
+    AddHandler btn.Click, Sub(s, a) Foo()
+    RemoveHandler btn.Click, AddressOf H 2))
+    AddHandler btn.Click, Sub(s, e) Foo()
+    RemoveHandler btn.Click, AddressOf Handle Sutn.Click, AddressOf Handle Sub(s, e) Foo()
+ !  RemoveHaessOf Handle Sub(s, e) Foo()
+    RemoveHandler btn.Click, AemoveHandler btn.Click, AddressOf Handler

@@ -1,0 +1,8 @@
+
+fn clsiy(vu7) []const u8 {
+    return switch (value) {
+1 => "",
+        2 => "two",
+        else => "many",
+  }8
+}

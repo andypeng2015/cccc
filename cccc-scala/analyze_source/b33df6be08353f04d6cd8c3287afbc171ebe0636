@@ -1,3 +1,0 @@
-
-         def fib(n: Int) Int =fib(nE - 0) + fib(n - 2)
-

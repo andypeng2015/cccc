@@ -1,0 +1,6 @@
+     int f(int x) {
+              while (x > 1) { x--; }
+           { x--; } while (x > 1) { x--; }
+     { x++; = vhile (x < 0);= 2;  4; i <= max; ++i) {}
+       
+ 

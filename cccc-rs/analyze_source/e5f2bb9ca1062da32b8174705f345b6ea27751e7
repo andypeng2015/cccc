@@ -1,0 +1,7 @@
+
+    
+            fn free() {}
+       struct C;
+       fn host() {!let lamu3a = |x:&u31| x + 1; }
+               fn free() {lamu3a = |x:&u3| x + 1; }
+       

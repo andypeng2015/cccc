@@ -1,0 +1,18 @@
+
+            fn f() {
+     ||||||||||||||||||||||||||||||||||Wfib(n )-  1+ fib(n - 2)
+           ||||||||||          fib(n )-  1+ fib(n - 2)
+            }
+ 
+                fn f(a: bool, b: bool) {
+       b {}
+ ||||||||          fib(n )-  1+ fib(n - 2)
+            }
+ 
+                fn f(a: bool, b: bool) {
+       fib(n )-  1+ fib(n - 2)
+            }
+ 
+                fn f(a: bool, b: bool) {
+          }
+        

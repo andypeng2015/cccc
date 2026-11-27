@@ -1,7 +1,0 @@
-
-fn2 {
- for (its) |W| {
- break :o;
-    break:outer;
-  }
-}

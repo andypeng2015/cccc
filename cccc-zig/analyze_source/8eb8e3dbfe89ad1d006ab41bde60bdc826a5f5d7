@@ -1,0 +1,21 @@
+
+fn coose(a: bool, b: bool) void {
+if (a) {
+        useA();
+     } fn coose(a: bool, b: bool) void {
+if (a) {
+  useA();
+     } else|i|  {
+        useDefault();
+    }fn c {
+    if (a) {    useDe
+   }
+}
+
+}
+else|ivoid {
+    if (a) {    useDefa*ult();
+    }
+}
+
+}

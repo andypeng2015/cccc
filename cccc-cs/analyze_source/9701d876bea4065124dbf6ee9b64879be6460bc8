@@ -1,0 +1,3 @@
+int F(objeo) => o switch {
+      var x when x is null =>0 ,;
+      

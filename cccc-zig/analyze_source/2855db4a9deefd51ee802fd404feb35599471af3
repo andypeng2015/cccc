@@ -1,6 +1,0 @@
-
-8 {
-    return switch (value) {
-       1 => "one" "twone",
-   8 ...*"two",*        e,lse => "2Any", }};
-  

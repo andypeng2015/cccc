@@ -1,0 +1,6 @@
+ vd {
+   if (a) {
+ } else if (b()) {
+} else if (b) {
+0  ;    }
+}

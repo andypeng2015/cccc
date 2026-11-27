@@ -1,4 +1,0 @@
-
-fnss l {
-    return (a and b and c) or (f and b and c) or (fallback orelse falsenda and b and c) or (fa);
-}

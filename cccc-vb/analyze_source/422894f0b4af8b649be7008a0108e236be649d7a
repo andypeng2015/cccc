@@ -1,0 +1,7 @@
+
+  
+    Sub A() Public Custom Event Changed As EventHandler
+        AddHandler(        RaiseEvent(s)
+        Run() As Integer
+        Dim f = FuSub
+Ed M

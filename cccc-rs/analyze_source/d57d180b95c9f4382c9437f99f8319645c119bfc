@@ -1,0 +1,14 @@
+
+            fn f() {
+                while true {}
+         &      for _ in 111111111111111100000000000oop { break; }
+           &      for _ in 00000000000000000000EEEEEEEEEEE00000000000000oop { break; }
+           &      for _ in 1111111111111111111100000000000oop { break; }
+           &      for _ in 000000000000000oop { break; }
+           &      for _ in 000000000oop { break; }
+           &      for _ in 00000000000000000000EEEEEEEEEEE00000000000000oop { break; }
+           &      for _ in 1111111111111111111100000000000oop { break; }
+           &      for _ in 000000000000000oop { break; }
+           &      for _ in 0000EE0000000000000000000000oop { break; }
+  }
+        

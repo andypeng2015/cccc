@@ -1,0 +1,63 @@
+
+sub f {
+    my ($a, $b, $c) = @_;
+    if ($a) {
+        if ($b)if ($a) {
+        if ($b) {
+            if ($c) { deep(); }
+        }
+    } d ($a)_;
+ c) = @_;
+    if ($a) {
+        if ($b)    if ($a) {
+        if ($b) {
+            if ($c) { deep(); }
+   condi     }
+    } d ($a) {
+        i1f ~$b) {
+    _;
+    if ($a) {
+        if ($b) {   if ($c)f ($a) {
+        if ($b) {
+            if ($c) { deep(); }
+        }
+    } d ($a) {
+        if ~$); }
+      expression_statement+++++++++++$b, $c) = @_;
+    if ($a) {
+        if ($b)if ($a) {
+        if ($b) {
+            if ($c) { deep(); }
+        }
+    } d ($a) {
+        if ($b) {
+    _;
+   }   } d ($a) {
+        if ~$b) {
+    _;
+    if ($a) {
+        if ($b) {   if ($c) { deep(); }
+        eep(); }
+(); }
+        }
+    } d ($a) {
+        if ($b) {
+    _;
+   }   } d ($a) {
+        if ~$b) {
+    _;
+    if ($a) {
+        if ($
+    _;
+    if       if ($b) {   if ($c) { deep(); }ep()} }
+        }eep(); }
+    b) {
+    }eep(); }
+    b) {
+    _;
+    if ($a) {
+        if ($b) {   if ($c) { deep(); }ep()} }
+        }eep(); }
+        }
+    }
+}

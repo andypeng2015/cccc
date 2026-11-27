@@ -1,0 +1,3 @@
+ay <> (a && b ? "both" : "not");
+assify <> (a && b);
+assify <> (a && b  ? "both" : "not");

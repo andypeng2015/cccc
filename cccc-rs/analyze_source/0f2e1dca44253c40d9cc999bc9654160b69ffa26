@@ -1,5 +1,0 @@
-//traon tess.t
-
-///ec  struct C;
-            impl C { fn method(&self) {} }
-        o

@@ -1,0 +1,4 @@
+
+do { }    while (ac++) { }
+do { } while (a);
+        do { } while (a) { } 

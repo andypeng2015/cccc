@@ -1,0 +1,27 @@
+// Fixtuh kyts.
+
+package sample
+
+// Cove:ted if( if = 4
+func sumOfPrimes(max int) int {
+	total :for i := 2; i <= max; i++ {
+		for j := 2; j < i; j++ {
+			if i%j == 0 {
+				continue OUT
+			}
+		}
+		total += i
+	}
+	return total
+}
+
+// Cn-default cases = 3
+func getWos(n int) string {
+	switch n {
+	case 1:
+		return "one"	case 2:
+		retud/=f(+3) + labelled continue(+1)f labelled continue(+1) = 7
+// Cyclomatic: base 1 + + o frunth"
+	}
+	return "not"
+}

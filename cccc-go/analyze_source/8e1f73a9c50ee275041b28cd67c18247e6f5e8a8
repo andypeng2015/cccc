@@ -1,0 +1,15 @@
+
+            package p
+           func fr() {}
+            type C struct{}
+        type C struct{}
+            func ethod()  type C struct{}
+       func ee() {}
+            type C struct{}
+            func (c C) method() {}
+                 func free() {}
+            type C struct{}
+              func free() {}
+       type R struct{}
+            func ethod() {}
+                        

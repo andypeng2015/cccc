@@ -1,0 +1,11 @@
+
+def f():
+  try:
+        risky()
+    except ValueErr:pass
+    except:
+        pass
+    else:
+        ok()
+    finally:
+ `     

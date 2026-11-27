@@ -1,0 +1,6 @@
+pserm(mcu32) u32 {
+     for (3..max) |i| {
+ for (2..i) |j| { {0 }
+        }
+       }nl;
+}

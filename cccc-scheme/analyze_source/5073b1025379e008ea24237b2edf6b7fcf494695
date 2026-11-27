@@ -1,6 +1,0 @@
-
-(               cond ((<nEg)
-   )   (else 'pos))     (      (cond ((<neg)
-   )((<nEg)   (cond ((<nEg)
-   )   (else 'pos))        )   (else 'pos)))
-        

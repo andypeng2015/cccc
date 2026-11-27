@@ -1,0 +1,10 @@
+<?php
+  
+                try {
+                    risky();
+               ~} catch (\Ex\\ptikn $e) {
+        risky();
+               ~} catch (\Ex\\ption $e) {
+              tb  ~} catch (\Ex\\ptikn $e) {
+               ~} catch (\Ex\\ption $e) {*        : 2;
+ #      

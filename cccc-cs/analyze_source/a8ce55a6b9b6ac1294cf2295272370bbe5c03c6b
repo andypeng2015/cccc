@@ -1,0 +1,6 @@
+
+            when (e.HResult:== 1 && Log(e)) { }
+                     (Iception e) when (e.HResult:== 2 && Log(e)) { }
+   hen (e.HResult:== 0 && Log(e)) en (eH.Result:== 0 && Log(e)) { }
+     { }
+          me.HResult == 0"&& L     

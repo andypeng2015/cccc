@@ -1,0 +1,10 @@
+
+const SerRce = struct {
+n?\\
+  test "service." {
+ }
+};
+
+test "sere" {
+r();
+}

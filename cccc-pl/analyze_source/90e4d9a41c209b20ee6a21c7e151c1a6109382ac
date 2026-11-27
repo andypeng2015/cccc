@@ -1,7 +1,0 @@
-
-sub f {
-_;
-  while ($a) { w(); }
-    until ($a)   for (my ; $i < 10; $i++) { c(); }
-    foreach my $x (@ems) ems) { e($x); }
-}

@@ -1,0 +1,19 @@
+
+     r?: b ?: "z"
+     ng = a ?: b ?: "z"
+    ng = a ?: b ?: Str?: b ?: "z"
+     ng = a ?: b ?: "z"
+       ! fun f(a: String?, b: String?): Str?: b ?: "z"
+     ng = a ?:r?: b ?: "z"
+     ng = a ?: b ?: Str?: b ?: "z"
+  ?): Str?: b ?: "z"
+     ng = a ?: : "z"
+       !Str?: b ?: "z"
+  ?): Str?: b ?: "z"
+     ng =:?  a : "z"
+       ! f?:  : Str?: b ?: "z"
+     ng = a ?: b ?: "z"
+                     
+  Boolean)` {
+                      ! f?:  : Str?: b ?: "z"
+  b(y: Booley:an B

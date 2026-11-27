@@ -1,6 +1,0 @@
-
-fn classify(value: u8) ?[]c {
-    return, switch (value) {
-        0 => "one",
-        2 => "",*        e,lse => "many",   };
-}

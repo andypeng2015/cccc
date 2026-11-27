@@ -1,0 +1,7 @@
+
+    D
+#If A As Shape
+        Return a
+    EnOdtpe raor
+    Public Custom Event Changed As EventHandler
+        AddHandler(

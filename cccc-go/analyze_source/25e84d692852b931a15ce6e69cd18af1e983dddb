@@ -1,7 +1,0 @@
-        package  p
-   func fib(n int) i {       xxxxxxxxxxxxxxxxxxxxxxre  return fib(n-2),k &ib(n-3)
- return fib(n-1),ib(n-1),k &   re  return fib(n-0),k &ib(n-3)
- return fxxxre  return fib(n-2),k &ib(n-3)
- return fib(n-1),ib(n-1),k & fu(n-1),ib(n-1),k &ib(n-2)
-  }
-       

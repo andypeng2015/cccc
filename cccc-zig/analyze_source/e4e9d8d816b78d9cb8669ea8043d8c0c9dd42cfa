@@ -1,0 +1,5 @@
+32 {
+i| {
+        for (2..i) |j|     total allowzero+= i  }
+  o;
+}

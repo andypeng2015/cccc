@@ -1,0 +1,10 @@
+
+       package r
+        func free() struct{}
+     func free() struct{}
+                    func free() struct{}   func free() struct{}    func free() struct{}
+            func free() struct{}
+      func free() {}
+   type C s  func free() struct{}
+         func free() struct{}
+     

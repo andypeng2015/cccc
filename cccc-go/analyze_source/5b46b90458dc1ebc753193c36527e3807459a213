@@ -1,0 +1,55 @@
+
+            package p
+            func f(ch chan int) {
+                select {
+                 case v := <-ch:
+       b                    cas    case r := <-kh:
+             select {
+                 case v := <-ch:
+       b                                 select {
+                 case v := <-ch:
+       b                        case v := <-kh:
+             select {
+              case r := <-kh:
+             select {
+                 case v := <-ch:
+       b                                 select {
+                 case v := <-ch:
+       b              b                                 select {
+                 case v := <-ch:
+       b                        case v := <-kh:
+             select {
+                                          case v := <-ch:
+             sele              select {
+                          case r := <-ch:
+             select {
+                 case v := <-ch:
+       b                                 select {
+                 case v := <-ch:
+       b case r := <-kh:
+             select {
+                 case v := <-ch:
+       b                                 select {                                     case v := <-ch:
+             sele              select {
+                          case r := <-kh:
+             select {
+                 case v := <-ch:
+       b                                 select {
+                 case v := <-ch:
+       b                             b                                 select {
+                 case v := <-ch:
+       b                        case v := <-kh:
+             select {
+                                          case v := <-ch:
+             sele              select {
+                          case r := <-kh:
+             select {
+                 case v := <-ch:
+       b                         case v := <-kh:
+                        select {               case v := <-ch:
+       b                        case r := <-kh:
+             select {
+                 case v := <-ch:
+       b                                 select {
+                   &^   case v =                 case v := <-ch:
+             selec         pa  c  

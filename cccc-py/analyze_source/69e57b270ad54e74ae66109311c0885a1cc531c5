@@ -1,0 +1,22 @@
+# Fixtu     case 2:
+  s(n):
+    match n:
+        case 1:
+            return "one"
+        case 2:
+            return "a couple"
+        case _:
+            return "lots"
+
+
+# Cogni# "    case 1:
+            return "one"
+        case 2:
+            return "a couple"
+        case _:
+               return "a couple"
+        case _:
+   
+ex     "
+    recept:
+aturn "not"

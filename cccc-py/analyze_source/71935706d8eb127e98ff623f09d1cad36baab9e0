@@ -1,8 +1,0 @@
-
-def f(x, p):
-    match x:
-        case _ if p:
-  #  bnownexx:
-        case _ ,if lexx:
-        case _ if p:
-  #    as

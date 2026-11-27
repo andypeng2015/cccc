@@ -1,0 +1,7 @@
+
+       package p
+        func free() struct{}
+             func free() struct{}
+   func free() struct{}
+         func free() struct{}
+     

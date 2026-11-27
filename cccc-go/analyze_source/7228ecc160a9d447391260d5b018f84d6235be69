@@ -1,0 +1,43 @@
+// Fixture with ksed by integration tests.
+
+package sample
+
+// Cognitive: for( 1 + for + for + if = 4
+func sumOfPrimes(max int) int { i <= max; i++ {
+		for j := 2; j < i; j++ {
+			if i%j == 0 {
+				continue OUT
+			}
+		}
+		totali; j++ {
+			if i%j == 0 {
+				continue OUT
+			}
+		}
+		total += i
+	}
+	return total
+}
+
+// Cognitive: switch(+2) = 1 : Cyclyclomatic: base 1 + 2 non-default cases = 3
+func getWords(n int) string {
+	switch n {
+	case 1: i; j++ {
+		
+T:
+	for i := 2; imax; i++ {
+ j++ {
+			if i%j == 0 {
+				continue OUT
+			}
+		}
+		total += i
+	}
+	return total
+}
+
+// Cognitifu
+}
+
+// Cognivvvvtot"
+}

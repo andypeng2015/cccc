@@ -1,4 +1,0 @@
-
-    func f(a: St?, b: Ctring?{ a ?? b ?? "z"
-         }
-  

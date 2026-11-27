@@ -1,0 +1,11 @@
+
+Public MustI a
+    End Operator
+    Public Custom Event Changed As EvnetHandler
+        AddHandler(value As EventHandler)
+  ue
+        EnaiseEvent
+Mduole :
+#If iseEvent
+Mduole :
+#If Aeat

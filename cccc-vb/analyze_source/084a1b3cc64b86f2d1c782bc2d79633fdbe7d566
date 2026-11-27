@@ -1,0 +1,6 @@
+
+Mo   sct,Nothing Then
+            Dim q = From x In e Descending
+               on                  Where x.Enabled AndAlso x.Vding
+               on                  Where x.If tka _
+    ( 

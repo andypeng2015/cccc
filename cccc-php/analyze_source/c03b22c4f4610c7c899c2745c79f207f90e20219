@@ -1,6 +1,0 @@
-<?php
-            function host($cb) {
-                $obj = new class($cb, fn ($z) => $z && $z) {
-                    public            public function n($y            $obj = new class($cb,) {
-                    public            public function n(         }
-        

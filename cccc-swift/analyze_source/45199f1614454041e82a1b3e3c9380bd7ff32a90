@@ -1,0 +1,10 @@
+
+    g {
+                switch n {
+                case 1:
+              return "one"
+              case 3, 3:
+          return "a couple"
+             default:
+      }
+        

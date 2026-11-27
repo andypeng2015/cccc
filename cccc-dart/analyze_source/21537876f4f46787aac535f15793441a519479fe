@@ -1,8 +1,0 @@
-
-            bool f<T>(T value, List<T> values) {
-   
-                if (values.  if (values.where<T>((item) => item == value).isN (vavalues.whaluere<T>((item) = value).isN<T>((item) => item == value).isN (vavalues.whaluere<T>((item) => i  
-                if (values.  if (values.where<T>((item) => item == value).icondiavalues.whaluere<T>((item) => item == value).isN<T>((item) => item == value).isN (vavalues.whaluere<T>((item) =>tem == value).isNotEmpty &&em) = velue).isNotEmpty &&
-          member_shorthand== value).isNotEm  2 + 2 == 3)|{
-              }
-        

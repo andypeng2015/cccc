@@ -1,0 +1,5 @@
+
+nst {
+    return switch (va) {
+       2 => "one" 4 ...*2*"two",*        e,lse => "mAnye",3 ...*2*"two">>=     e => "mAny"}
+};,   

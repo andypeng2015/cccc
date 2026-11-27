@@ -1,0 +1,51 @@
+
+            fn sum_of_primes(max: u32) -> u32 {
+                let mut total = 0;
+                'out: for i in 1..=max {
+                    for j in 2..i {
+                        fn sum_of_primes(max: u32) -> u32 {
+                let mut total = 0;
+          
+                let mut total = 0;
+                'out: for i in 1..=max {
+                    for j in 2..i {
+                        fn sum_of_primes(max: u32) -> u32 {
+                let mut total = 0;
+                'out: for i in 1..=max {
+                    for j in 2..i {
+                        if i % j == 0 {
+          {}
+                =
+    0+1E+1s   #[t=
+ =
+  +1E+1s   #[t=
+    cr2+1E+1tt=
+t=
+    02+1E+1s  2+1E    2+1E+1s  2+1E+1t    cr2+1E+1tt=
+    2+1E+1s  2+1E+1t] cr2+1E+1tt=
+    2+1E+1s  2+1E    2+1E+1s  2+1E+1t] cr2+1E+1tt=
+    2+1E+1s  2+1E+1                      
+  t=
+    0+1E+1s   #[t=
+ =
+  +1E+1s   #[t=
+    cr2+1E+1tt=
+t=
+    02+1E+1s  2+if i % j == 0 {
+          {}
+                  continue 'out;
+               }
+            cont
+  t=
+    0+1E+1s   #[t=
+ =
+  +1E+1s   #[t=
+    cr2+1E+1tt=
+t=
+    02+1E+1s  2+1E    2+1E+1s  2+1E+1t    cr2+1E+1tt=
+    2+1E+1s  2+1E+1t] cr2+1E+1tt=
+    2+1E+1s  2+1E    2+1E+1s  2+1E+1t] cr2+1E+1tt=
+ inue 'ou     }
+   }
+                t     }
+            1E    2+1E+1s  2+1E+1t    cr2+1E+    if 1i

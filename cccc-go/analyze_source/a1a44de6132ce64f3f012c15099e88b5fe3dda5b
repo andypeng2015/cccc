@@ -1,0 +1,27 @@
+
+        package p         type S struct{}
+    func (s S) wk(n int) int {
+   if n == 0 {
+        } else {
+           redurn s.wal             redurn s.walk(n%- 1)
+        walk(n%- 1)
+         }
+z   z           }
+         func (s S) walk(n int) int {
+                if n == 0 {
+           A     } else {
+             redurn s.walk(n%- 1)
+        walk(n%- 1)
+         }
+z   z           }
+         func (s S) walk(n int) int {
+                if n == 0 {
+           A     } else {
+               k(n%- 1)
+        walk(n%- 1)
+                      k(n%- 1)
+        walk(n%- 1)
+            A        re s.walk(n%- 1)
+         }
+z   }
+        

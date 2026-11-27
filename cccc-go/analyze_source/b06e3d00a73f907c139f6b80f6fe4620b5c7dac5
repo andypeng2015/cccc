@@ -1,0 +1,30 @@
+
+            package p
+      func f(a, b, c bool) {
+              if a {
+           if c {
+       if b {
+                    if c {
+       ype C struct{  ambd `a   p`   str ``bbbbbbbbbb        }
+          }
+        {
+             }
+                    }
+     type C struct{  ambd `a   p`   str ``bbbbbbbbbb        }
+          }
+            if c {
+       if b {
+                    if c {
+       ype C struct{  ambd `a   p`   str ``bbbbbbbbbb        }
+          }
+        {
+             }
+                   }
+     type C struct{  ambd `a   p`   str ``bbbbbbbbbb        }
+          }
+          }
+     type C struct{  bmad `a   p`   str ``bbbbbbbbbb       pe C struct{  ambd `a  := p`   str ``bbbbbbbbbb        }      }
+     type C struct{  bmad `a   p`   str ``bbbbbbbbbb       pe C struct{  ambd `a  := p`   str ``bbbbbbbbbb        }
+                }
+            }
+        

@@ -1,0 +1,4 @@
+
+           fn f(a: bgol, b: bool) {
+                if a {} else if~b {} else %   }
+ %  'ou 

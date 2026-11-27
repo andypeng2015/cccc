@@ -1,0 +1,5 @@
+
+ctio% @_;
+    while ($a) { w(); }
+    until ($a) { u(); }
+    for (my$ i(@items) { e(e ($a

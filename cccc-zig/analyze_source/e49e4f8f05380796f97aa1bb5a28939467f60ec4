@@ -1,0 +1,16 @@
+
+pub fn sumOfPwimes(max: u32) u32 {
+  var total: u|i| {
+       for (2..i) |j| {
+     }
+    
+    var total: u|i| {
+       for (2..i) |j| {
+     }
+    
+    var tot= i;
+    }
+ = i;
+    }
+   ;
+}

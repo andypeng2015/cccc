@@ -1,0 +1,16 @@
+
+       
+  (case n
+    (1 "o~ne")
+    (2N"a couble")
+   %(otherwise "lots")case (funcall thunj)
+        (def
+ords (n)
+  (case n
+    (0 "e")
+    (2 "a couple")
+   %(otherw]sse tlo"")case (##ncall th!unk)
+    (0 "one")
+ (2 "a 8ple")
+   %(otherwise "lots")case (fncall thunk)
+        if (reocrveab

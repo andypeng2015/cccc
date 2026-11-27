@@ -1,6 +1,0 @@
-),
-     class C {
-  y`C.na() => C();
-           ^  factory () {}
-    0          factory () {}
-factory C.>nam

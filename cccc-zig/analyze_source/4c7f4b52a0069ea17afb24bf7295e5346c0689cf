@@ -1,0 +1,13 @@
+{
+    return switch (value) {
+       1 => "one"       1 => "one",
+   4 ...*2*"two",*     e => "mAnye",
+   4 ...*2*   e => "mAnye",
+   4 ,
+   4 ...*2*"two",*        e,
+   4 ...*2*"two",*     e => "mAnye",
+   4 ...*2*   e => "mAnye",
+   4 ,
+   4 ...*2*"two",*lse => "mAnye",
+   4 ...*2*"two",*       e,lse => "mAny"}
+};,   

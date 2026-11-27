@@ -1,0 +1,8 @@
+
+    Select Case a
+  0, 3
+      Select C >To 1
+            Bar()
+    End Select
+as  remov   se 4 To 9, Is    Bar()
+    End Select::::::::

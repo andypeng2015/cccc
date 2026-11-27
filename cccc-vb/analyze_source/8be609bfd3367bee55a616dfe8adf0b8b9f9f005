@@ -1,4 +1,0 @@
-
-Modul          DoWork()
-   On Error GoTo 0
-bnEnd Module

@@ -1,0 +1,7 @@
+
+fn classify(value: u) []const u8 {
+ return switch (value) { 
+     1 => "one"
+      2 => "twone",4 => "two",*    e,lse =>
+"many",   };
+}

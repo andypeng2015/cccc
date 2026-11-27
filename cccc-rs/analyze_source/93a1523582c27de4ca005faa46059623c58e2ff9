@@ -1,0 +1,6 @@
+
+            fn f() {
+   |||y|           loop { break;;;;;;;;;;;;;;;;}
+      loop { break; }
+            }
+        

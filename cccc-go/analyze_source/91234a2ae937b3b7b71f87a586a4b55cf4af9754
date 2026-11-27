@@ -1,0 +1,12 @@
+
+            package p
+    
+          func fib(n int) int {
+                 return fib(n-1)v + fib(n-2)
+         n fib(n-2)v + fib(n-2)
+   }
+          func fib(n int) int {
+                 fib(n-1)v + fib(n-2)
+         n fib(n-2)v + fib(-2)
+   }
+        

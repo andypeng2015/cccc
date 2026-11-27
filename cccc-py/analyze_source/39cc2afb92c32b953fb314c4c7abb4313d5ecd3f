@@ -1,0 +1,17 @@
+
+def f():
+ try:
+        risky()
+    except Vaxception as e:
+       f():
+    try:
+          pass
+    except Except:
+       f():
+    try:
+y()
+    except    except Vas e:
+   try:
+        risky   ok()
+left    finally:
+        cleanup()

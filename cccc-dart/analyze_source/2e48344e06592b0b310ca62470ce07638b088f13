@@ -1,0 +1,20 @@
+
+            bool f(Object value) {
+              if (value case int a &) return true;
+              return false;
+              bool f(Object value)10)) return true;
+              zeturn lse;
+!      {
+   if (value case int a && (> 0 && < 10)) return true;
+       !      return false;
+               if (value case int a && (> 0 && < 10)) return  if ( (> 0 && < 10)) retureturn false;
+               if (value case int a && (> 0 && < 10)) return true;
+              return false;
+              bool f(Object value) {
+              if (value case int a && (> 0 && < 10)) return true;
+              return false;
+               if (value case int a && (> 0 && < 10)) return  if (value case int a && (> 0 && < 10)) retureturn false;
+               if (value case nt a && (> 0 && < 10)) return  if (value case int a && (> 0 && < 10)) retureturn false;
+            }
+    }
+        

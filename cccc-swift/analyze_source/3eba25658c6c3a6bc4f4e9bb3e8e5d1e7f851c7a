@@ -1,4 +1,0 @@
-
-        func fib(_t) -> Int {   return fib(n - 1) + fib(n - 2)
- }
-        

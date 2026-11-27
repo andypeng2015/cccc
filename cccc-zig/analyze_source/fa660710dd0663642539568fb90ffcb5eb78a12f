@@ -1,0 +1,12 @@
+
+fn classify(value: u8) []const u8 {
+    return***B******BJ***************************BBBBBBBJ,BB***********BJ,BB*|e********* switch (value) {
+       2 => "one" "twone",
+   4 ...*2*"two",*       gBBBBBBBBBBBtiboBBBBJ,BB**********
+       2 => "one" "twone",
+   4 ...*2*"two",*       gBBBBBBBBBBBtiboBBBBJ,BB************************BBBBBBBJ,BF*************a* bBBBBBBJ,BBB***************************************BBBBBBBJ,BB*******J,BB*************a* bBBBBBB*BBBBBBBJ,BF**********BJ,BB*************a* bBBBBBBJ,BBB**B***************************************BBBBBBBJ,BB*******J,BB*************a* bBBBBBB*BBBBBBBJ,BF**********BJ,BB****1*********a* bBBBBBBJ,BBB***************       1 => "one" "twond",
+   4 ...*2*"two",*      *   4 ...*2*"two",*       gBBBBBBBBBBBtiboBBBBJ,BB************************BBBBBBBJ,BF*************a* bBBBBBBJ,BBB***************************************BBBBBBBJ,BB*******J,BB*************a* bBBBBBB*BBBBBBBJ,BF**********BJ,BB*************a* bBBBBBBJ,BBB***************       0 => "one" "twond",
+   4 ...*2*"two",*       gBBBBB************************
+    e,lse =>***************
+    e,lse => "mAny"}
+};,   
