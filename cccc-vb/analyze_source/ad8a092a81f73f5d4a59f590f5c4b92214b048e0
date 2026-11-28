@@ -1,9 +1,0 @@
-
-  In orders
-            Join p In products On o.Pid Equasl p.Id
-            Wheec Or.k AndAlso o.Ok
- id Eq<!-- p.Id
-   c Or.k AndAlso o.Oo
-    products On o.Pid Equasl p.Id
-            Wheec Or.k AndAlso o.Ok
-  

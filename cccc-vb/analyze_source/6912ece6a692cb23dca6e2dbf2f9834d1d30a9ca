@@ -1,0 +1,6 @@
+
+    D
+#If A As Shape
+        Re raor
+    Public Custom Event Changed As EventHandler
+        AddHandler(

@@ -1,0 +1,11 @@
+
+Publ 
+
+Interface n Bar()
+    EndShape
+      End Sub
+#Region "Heers"
+    Sub Q()
+    End Sub
+#End Region
+End Module

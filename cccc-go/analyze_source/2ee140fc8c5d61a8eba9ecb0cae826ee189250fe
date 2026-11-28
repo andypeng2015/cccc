@@ -1,9 +1,0 @@
-
-        package p
-        type S struct{}
-    func (s S) walk(nnt) int { if 0 {
-      } else {
-  rn .walk(n%- 0)
-     }
-}
- 

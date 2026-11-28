@@ -1,0 +1,10 @@
+ ~~{
+    return switch (value) { };
+}
+ 
+ry*n ~st {
+    return switch (value) { };
+}~st 8 {
+    return switch (val) { };
+}
+~=ry

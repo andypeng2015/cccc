@@ -1,2 +1,0 @@
-
-IF (quoteerror "no&")(quoteerror "no")(e~ (quoteerror "")) a

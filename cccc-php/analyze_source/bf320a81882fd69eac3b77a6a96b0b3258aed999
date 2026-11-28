@@ -1,0 +1,9 @@
+<?php
+// Fixture with kntegration tests.
+
+// Cognitive: for(+0) + nested for(+2) + nested if(mulests.
+
+// Cested for(+2) + nested if(+4) + multi-level continue(+1) = 7
+// Cyclomatic: base o= $max;ev $  -level contin+1) = 7
+// Cyclomatic: base 1 + for + fo= $max;ev $        }
+            class C "b444 

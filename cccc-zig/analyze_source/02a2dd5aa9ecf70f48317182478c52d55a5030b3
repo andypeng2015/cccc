@@ -1,0 +1,7 @@
+
+fn w(n: 32) u32 {
+ BBBBBBBB,B| {
+        break :outer;
+    break :outer;
+  }
+}

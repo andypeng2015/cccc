@@ -1,5 +1,0 @@
-pub fn sumOfPrimes(max: u32) continue:outer;
-      u32T       if (i % j == 0) {
-     continue :outer;
-   
-}

@@ -1,0 +1,2 @@
+extern
+fn w() u2{f;}

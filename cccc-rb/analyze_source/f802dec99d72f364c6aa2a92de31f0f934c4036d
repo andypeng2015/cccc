@@ -1,0 +1,22 @@
+
+ se x
+      c b  end
+ b&& c b         
+     &&c ||b .&&c  c ||b &&c ||
+     &&c ||
+      &&c ||b .&&c  c ||b &&c ||
+ b&&a ||b &&c  c ||b &&
+&b &&c ||
+ b&& c&& c ||b &&||b .&&c  c ||b &&c ||
+     &&c ||
+      &&c ||b .&&c  c ||b &&c ||
+ b&&a ||b &&c  c ||b &&
+&b &&c ||
+ b&& c&& c ||b &&c  c ||b &&
+&&c 
+ b&& c ||b &&c  c l|b &&
+&&c ||
+ b&& c &&c ||
+ =&& =   
+nd
+ c ||b &&c      

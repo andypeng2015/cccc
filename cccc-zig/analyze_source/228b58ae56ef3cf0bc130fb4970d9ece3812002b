@@ -1,0 +1,408 @@
+
+comp2i=e
+comp3i=e {
+  
+ BBBBBled()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ-BJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBlBBBBBled()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ-RJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBledRJ,BBBBBBBBleed()
+}{
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ-BJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBlBBBBBled()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  
+ BBBBBled()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ-BJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBlBBBBBled()
+}
+ {
+  RJ,BBBBBBledBBBBledBBled()
+}
+ {
+  RJ-RJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBledRJ,BBBBBBBRJ-RJ,B!=BBBBBled()
+}
+ {
+  RJ,BBBBBBledRJ,BBBBBBBBledBBBBBJ-BJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBlBBBBBled()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  
+ BBBBBled()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ-BJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBlBBBBBled()
+}
+ {
+  RJ,BBBBBBledBBBBledBBled()
+}
+ {
+  RJ-RJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBledRJ,BBBBBBBRJ-RJ,B!=BBBBBled()
+}
+ {
+  RJ,BBBBBBledRJ,BBBBBBBBledBBBBJ,BBBBBBledBBled()
+}
+ {
+  RJ-BJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBlBBBBBled()
+}
+ {
+  RJ,BBBBBBledBBBBledBBled()
+}
+ {
+  RJ-RJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBledRJ,BBBBBBBRJ-RJ,B!=BBBBBled()
+}
+ {
+  RJ,BBBBBBledRJ,BBBBBBBBledBBBBBJ-BJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBlBBBBBled()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  
+ BBBBBled()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ-BJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBlBBBBBled()
+}
+ {
+  RJ,BBBBBBledBBBBledBBled()
+}
+ {
+  RJ-RJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBledRJ,BBBBBBBRJ-RJ,B!=BBBBBled()
+}
+ {
+  RJ,BBBBBBledRJ,BBBBBBBBledBBBBBledBBled()
+}
+ {
+  RJ-BJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBlBBBBBled()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ-RJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBledRJ,BBBBBBBBJ,BBBBBBledBBled()
+}
+ {
+  RJ-RJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBledRJ,BBBBBBBBleed()
+}{
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ-Bleed()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ-BJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBlBBBBBled()
+}
+ {
+  RJ,BBBBBBleBBRJ-RJ,B!=BBBBBled()
+}
+ {
+  RJ,BBBBBBledRJ,BBBBBBBBled()
+{  RJ-RJ,BBBBBBBBBledBBled()
+}
+ {
+  RJ-BJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBlBBBBBled()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ-RJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBledRJ,BBBBBBBBleed()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ-BJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBlBBBBBled()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  
+ BBBBBled()
+}
+}
+ {
+  RJ,BBBBBBlBBBBBled()
+}
+ {
+  R
+}
+ {
+  RJ,BBBBBBledRJ,BBBBBBBRJ-RJ,B!=BBBBBled()
+}
+ {
+  RJ,BBBBBBledRJ,BBBBBBBBledBBBBBJ-BJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBlBBBBBled()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  
+ BBBBBled()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ-BJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBlBBBBBled()
+}
+ {
+  RJ,BBBBBBledBBBBledBBled()
+}
+ {
+  RJ-RJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBledRJ,BBBBBBBRJ-RJ,B!=BBBBBled()
+}
+ {
+  RJ,BBBBBBledRJ,BBBBBBBBledBBBBJ,BBBBBBledBBled()
+}
+ {
+  RJ-BJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBlBBBBBled()
+}
+ {
+  RJ,BBBBBBledBBBBledBBled()
+}
+ {
+  RJ-RJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBledRJ,BBBBBBBRJ-RJ,B!=BBBBBled()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  
+ BBBBBled()
+}
+ {
+  RJ,BBBBBdeed()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ-BJ,BBBBBBBBled()
+}
+ {
+BledBBled()
+}
+ {
+  RJ-BJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBlBBBBBled()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ-RJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBledRJ,BBBBBBBBleed()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ-BJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBlBBBBBled()
+}
+ {
+  RJ,BBBBBBleBBRJ-RJ,B!=BBBBBled()
+}
+ {
+  RJ,BBBBBBledRJ,BBBBBBBBled()
+{  RJ-RJ,BBBBBBBBBledBBled()
+}
+ {
+  RJ-BJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBlBBBBBled()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ-RJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBledRJ,BBBBBBBBleed()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ-BJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBlBBBBBled()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  
+ BBBBBled()
+}
+}
+ {
+  RJ,B**BBBlBBBBBled()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  
+ BBBBBled()
+}
+ {
+  RJ,BBBBBdeed()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ-BJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBlBBBBBled()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ-RJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBled()
+}
+ {
+  RJ,BBBBBBlBBBBBled()
+}
+ {
+  RJ,BBBBBBledBBBBledBBled()
+}
+ {
+  RJ-RJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBledRJ,BBBBBBBRJ-RJ,B!=BBBBBled()
+}
+ {
+  RJ,BBBBBBledRJ,BBBBBBBBled()
+{  RJ-RJ,BBBBBBBBBledBBled()
+}
+ BBBBBBBled()
+{
+R }
+  J-BBBBBled()
+BBBled()
+BBBBBled()
+}

@@ -1,6 +1,0 @@
-
-{uti| {
-       for (2..i) |j|      total += i;
-    }
-  ie u ntrt
-}

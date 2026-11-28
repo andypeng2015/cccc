@@ -1,0 +1,25 @@
+
+          return switch (number) {
+          case 0 ->"one";G
+                e 2                 case 0 -> "one";
+                        case 2 -> "a coupl";  
+     -> "a couple";
+                                case 0 -                case 0 -> "one";
+    -> "lots"1"one";G
+                        case 2              case 0 -> "one";
+                        case 2 -> "a couple";
+       -> "a couple";
+                       0  case 0 -> "one";
+      -> "lots"2
+                   } 
+     ;
+                          case 2 -> "a couple";
+          :          case 1 -> "a deult0 -> "one";
+                        case 4 -> "a couple";
+          :         case 2 -> "uple";
+ {
+        c           #   case 0 -> "one";
+      -> "lots"  }
+   eult -> "lots";
+                          }
+        

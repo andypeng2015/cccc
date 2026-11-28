@@ -1,0 +1,7 @@
+
+   As    Dim xs(If"a"    End Usile .
+#If A
+Module P
+#If A 1Then	fc(, "a", "bing
+    ReDim Preserve xs(If(a, 5, 6))
+    Erase xs, ys

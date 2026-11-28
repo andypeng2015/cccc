@@ -1,6 +1,0 @@
-// c
-        package p  func sum(max int)retnt {
-  select {
-         case v<-ch:
-   ; A          case v<-c: ;  case v<-ch
-       

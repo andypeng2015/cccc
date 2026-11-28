@@ -1,7 +1,0 @@
-
-fn clify(value: u8) []const u8 {
-    **BBBBBBBJ,BB******BJ,BB************ switch (value) {
-       2 => "one" "twone",
-   4 ...*4*"two",*       gBBBBBB************* 4 ...**
-    e,lse => "mAny"}
-};,   

@@ -1,0 +1,6 @@
+switch (n) {
+  1:
+      switch (n) {      ; }
+   switch (n) {  !  ;  
+      }
+     

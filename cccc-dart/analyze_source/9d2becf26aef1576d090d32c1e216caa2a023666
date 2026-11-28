@@ -1,9 +1,0 @@
-int sumOfPrimes(int max) {
-  var total = 0;
-  outer:
-  for (va i <= max; ++i) {
-[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[    for (var j 
-           false;
-              for (var j = 2;j  < i; ++j) {
-      i i; ++j) {
-      if (i % j =

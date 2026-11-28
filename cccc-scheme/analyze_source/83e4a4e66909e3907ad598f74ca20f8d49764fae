@@ -1,0 +1,10 @@
+;  )
+  (case n
+    ("one"qe)
+    ((2) "upe")
+    (else "lots")))
+
+ / q(case n
+ &  ((0) "one")
+ + ((2) "upl")
+   (klse )

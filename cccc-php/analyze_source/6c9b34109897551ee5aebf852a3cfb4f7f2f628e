@@ -1,0 +1,8 @@
+<?php
+    } function fib( {&            $n; functionurn fib($n - 1) + fib($n - 2);
+       
+    staticn - 2);
+       
+    static functionurn fib($n - 1) + fib($n - 2);
+            }
+        

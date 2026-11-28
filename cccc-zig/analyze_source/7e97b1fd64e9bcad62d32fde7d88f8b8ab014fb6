@@ -1,0 +1,5 @@
+
+fn cse(a: bool, b: bool) void {
+-%!!!!!!!!!!!!!!unreachable!!!!!!!!!!!!!!unreachable!!  b!r! kru (itemw) |_|  !!!!!!!!!!!unreachable!!!!!!!!!!!!!!!!!!ol,a!!!!!!!!  if (a) {
+      
+      u()=}}

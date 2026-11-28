@@ -1,0 +1,6 @@
+ (b <{ [b <{ [Lb  <{ [Lb <{ [L( b< b<
+(             [[[[{[[[[[{[ f<( [[[[[[{[[[[[[     [[[[[[[[{[[[[[[           function getWords(number) {
+                switch (number) {
+        default: return "lots";
+      return "lots";
+    

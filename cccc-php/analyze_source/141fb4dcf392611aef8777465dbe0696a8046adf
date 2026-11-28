@@ -1,6 +1,0 @@
-@<?php
-         return match ($x) {
-    $value?->rethod();
-          );
-            }
-        

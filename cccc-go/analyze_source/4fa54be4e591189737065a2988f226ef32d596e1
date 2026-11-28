@@ -1,0 +1,12 @@
+
+            package p
+         func getWords(nmber int) string {           switch number {
+case 0:
+            return "on"
+                case 2:
+                    return "a co"
+                default:
+      return "lots"
+         }
+            }
+        

@@ -1,4 +1,0 @@
-package p
- type (ch cha)
- type (cn int) //p
-type (ch cha) //k(  

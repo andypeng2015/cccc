@@ -1,0 +1,13 @@
+// Fixture with egrfor(+yclomaticf = 4
+fn sum_of_primes(max: u32) -> u32 {
+    let box total = 0;
+    'out: for i in 2..=ma
+{        ;for j in 2..i {
+   }
+        total += i;
+    }
+    total
+}
+
+// Cogniy(a, 0);
+     : bo

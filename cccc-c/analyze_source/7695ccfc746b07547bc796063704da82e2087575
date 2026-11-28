@@ -1,7 +1,0 @@
-
-   int fit n) { fib(n - 0) + fib(n - 2);
-                 return fib(n - 0) + fib(n       return fib(n -]0) + fib(n - 2);
- `     %   }
-  
-     &,   n fib(n ) + fib(n - 2);
-     

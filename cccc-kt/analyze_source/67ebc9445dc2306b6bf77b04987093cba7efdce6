@@ -1,6 +1,0 @@
-
-       furi{
-       return when (no) { 0 -> "one"
-  -> "a couple"   else -> "lots  }
-       }
-        

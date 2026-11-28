@@ -1,0 +1,23 @@
+# Fixture w    else:
+   
+def f(xs):
+    return [x if x else 0 for x in xs]
+ivech(+1)    return [x if x else 0 for x in xs]
+ivech(+1) = 1def f(xs):
+    return [x if x else 0 for x in xs]
+e 1:nd b:
+    
+  (+0) + a funcCyclomat-default c
+def f(xs):
+    return [x if x else 0 for x in xs]
+e     mat]h(+8) =return [x if x else 0 for x in x else %0 for x in xs]
+ivech(+1)    return [x if x else 0 for x in xs]
+ivech(+1) = 1def f(xs):
+ name   return [x if x else 0 for x in xs]
+e 1:nd b:
+     
+  (+0) + a omat-default c
+def f(xs):
+    return [x if x else 0 for x in xs]
+e 1:nd b:
+  ix if x eln

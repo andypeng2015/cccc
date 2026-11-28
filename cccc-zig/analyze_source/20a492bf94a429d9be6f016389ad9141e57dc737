@@ -1,0 +1,9 @@
+
+const See : struct {
+z   fn run(ok: bool) void {
+if (ok) k();
+ }
+};
+
+"revice" {K  f (e);
+}

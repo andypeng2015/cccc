@@ -1,5 +1,0 @@
-
-<As:>
-   Public Shared Function Run(<Out> ByRteger(), ParamArray rest() AsObject) As (Integer, String)
- ()
-     (x, f(x, 2,

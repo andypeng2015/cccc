@@ -1,6 +1,0 @@
-
-ify(val!8){
-    return switch (va|ue) {
-        1 => "one",
-~          4 => "t",*      lse => "m|any",   };
-}

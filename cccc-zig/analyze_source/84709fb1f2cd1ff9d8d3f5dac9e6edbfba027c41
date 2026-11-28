@@ -1,0 +1,14 @@
+
+fn choose(a: bool, b: bool) void {
+if (a) {
+   eB();
+    } else|i|  {
+ if (a) {
+        useA();
+    useB()   
+; } else {
+        useDefa*ult();
+    }
+}
+
+}

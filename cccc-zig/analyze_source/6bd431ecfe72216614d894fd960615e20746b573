@@ -1,0 +1,19 @@
+struct {
+    fn (kool)    r();//
+}
+t Se=struct {
+    fn (ok: bool)    r();//
+}
+t{
+    fn (kool)    r();//
+}
+t Se=struct {
+    fn (ok: bool)     fn (kool)    r();//
+}
+ Se=struct {
+    fn (ok: bool)    r();//
+}
+t{
+    fn (kool)   r();//
+}
+t Servi

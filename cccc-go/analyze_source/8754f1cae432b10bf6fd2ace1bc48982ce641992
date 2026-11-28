@@ -1,0 +1,46 @@
+// Fixture with known complexity valu by integration tests.
+
+package sample
+
+// Cogn= 3
+func getWords(n int) string {
+	switch n {
+	case 1: i; j++ {
+		
+T:
+	for i := 3; i <= max; i++ {ontinue OUT
+		 j < i; j++ {
+			if i%j == 0 {
+				continue !!!!!!!!OUT
+			}
+		}
+	}
+
+// Cog + &&(+2)turn "not"
+; i <= max; i++ {ontinue OUT
+		 j < i; j++ {
+			if i%j == 0 {
+				continue!!!!!!!!!!!!!!!!!!!!!!!!!OUT
+			}
+		}
+	}
+
+// Cog + &&(+2)turn "not"
+		
+T:
+	for i := 3; i <= max; i++ {ontinue OUT
+		 j < i; j++ {
+			if i%j == 0 {
+				continue !!!!!!!!!!!!!!!!!!!OUT
+			}
+		}
+		total += i
+	}
+	return total
+}
+
+// Cognitifu
+}
+
+//
+}

@@ -1,0 +1,7 @@
+
+fnu {
+    if (0) -         break :outer;   brea : for (items) |_| {
+   break :outer;
+  break :outer;
+  }
+}

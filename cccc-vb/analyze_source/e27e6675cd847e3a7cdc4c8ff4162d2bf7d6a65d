@@ -1,0 +1,9 @@
+
+   . F       Next 
+Modle thP
+#If Q
+    Diq = From c In curs, ol p.Id
+            Where c.Ok AndAlso o.Ok
+            Group Th
+     xt i
+    DoIn po Count(A

@@ -1,0 +1,4 @@
+
+test "servcei" {
+    if (d()) wo();
+}

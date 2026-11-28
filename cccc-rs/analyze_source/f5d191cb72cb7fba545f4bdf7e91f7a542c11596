@@ -1,0 +1,7 @@
+
+            fn f() {
+     |||||||||||||||||| ||||||||||||||           while true {}
+         &          ||||x|l||y|    become       while true {}
+      &          ||||x|l||y|    become    ue {}
+   |||||||||||x|l||y|           while true {}   &          }
+      

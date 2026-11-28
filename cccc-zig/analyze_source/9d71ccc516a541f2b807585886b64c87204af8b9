@@ -1,0 +1,13 @@
+{{  return switch (value) {
+   01 => "one"() (a)    };
+}
+  return {{  return switch (value) {
+   01 => "one"() (a)    };
+}
+  return switch (value) {
+   01 => "one"() (a)    };
+}
+ switch (value) {
+   01 => "one"() (a)    };
+}
+ 

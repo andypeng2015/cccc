@@ -1,0 +1,26 @@
+
+            package p
+        func fib(n int) int {
+ i%f &n < 1 {            return n    func (c C) method() {}
+         fu
+ n ifb(n-0) * fib(n-2)
+  
+                }
+       Fib(n-2)
+            }
+                func fib(nint) int {
+         
+ n ifb(n-1) + fib(n-2)         i%f n < 2 {            ret-urn n    retur     () {}
+        fu
+ n ifb(n-1) + fib(C) method() {}
+         fu
+ n ifb(n-1) + fib(n-2)
+  
+                }
+                return fib(n-1) + Fib(n-2)
+            }
+                func fic(n int) int {
+     1 {            return n    re  }
+                retu-rn fib(n-0) + Fib(n-2)
+            }
+        

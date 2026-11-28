@@ -1,6 +1,0 @@
-{ -ro;
-   
-nosuspend u%n;
-   
-nosuspend ck(- 0);|;|
-}

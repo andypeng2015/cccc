@@ -1,0 +1,20 @@
+
+    boo
+ operator qul*call*
+{{                if (a) { }
+        if (a) { }
+    name    *call*
+{ }
+           };
+               if (a)        };
+      1
+                         if (a) { }
+                   if (a) { }
+        if (a) { }
+    name    *call*
+{ }
+           };
+               if (a)        };
+              if (a) { }
+   }
+   

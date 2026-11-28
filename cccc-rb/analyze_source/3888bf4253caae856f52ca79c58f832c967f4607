@@ -1,0 +1,21 @@
+ $iX     res  host
+*   f =? -(>    f = ->(x).unf ht
+*         f = x)b  host
+*                     f = t
+*         f = ->(x)block   ..
+
+*       f = ->(x)... t
+*         f = -xf host
+*         f = ->(x)block   ..
+(host
+*   f =? -(>    f = ->(x).unf host
+*         f = x)b  host
+*                     f = t
+* = ->(x)block   ..
+
+*       f = ->(x)... t
+*    = ->(x)... t
+*             f = ->(x)..af host
+*        f = ->(x)....
+   ..
+  * (*   f =? -(>x....'    ..  

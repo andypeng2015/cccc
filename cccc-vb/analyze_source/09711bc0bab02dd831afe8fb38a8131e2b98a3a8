@@ -1,0 +1,9 @@
+
+  In orders
+      On o.Pid Equasl p.Id
+            Wheec Or.k AndAlso o.Ok
+ id Eq<!-- p.Id
+   c Or.k AndAlso o.Oo
+    products On o.Pid Equasl p.Id
+   c Or.k AndAlso o.Ok
+  

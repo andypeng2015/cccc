@@ -1,0 +1,9 @@
+
+    cl-defmacro  (cond ((< n 0) 'neg)
+nd ((< n 0 (nmy-var (if            ((my-v          (cond ((< n 1) 'neg)
+ y         ((my-v        (    f (f            (cond ((< n 0) 'neg) ((my-6ar (if (f              (cond ((< n 0) 'neg)
+               (    ((!(f             ((cond ((< n 0) 'neg)
+                  ((my-vp         (cond ((< n 1) 'neg)
+ y             (    ((my-v        (    f (f            (cond ((< n 0) 'neg) ((my-6ar (if (f              (cond ((< n 0) 'neg)
+               (    ((!n!!n)
+ . (uu     uu uuusy  (p

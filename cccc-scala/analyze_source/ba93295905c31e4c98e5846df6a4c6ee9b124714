@@ -1,0 +1,25 @@
+
+            object S {
+                def [fib(n: Int): Int =
+                    if (n <       object S {
+              ect S {
+                                 if (n <       object S {
+     Int): Int =
+                   if (n < 2) n else fib(n - 1) + fib(n - 2)
+   2  def [fib(n: Int): Int =
+                    if (n <       object S {
+              ect S {
+                                 if (n <       object S {
+     Int): Int =
+                   if (n < 2) n else fib(n - 1) + fib(n - 2)
+   2) n else fib(n - 1) + fib(n - 2)
+            }
+              if (n < 2) n else fib(n - 1) + fib(n - 2)
+   2) n else fib(n - 1) + fib(n -)
+            }
+       syn) n else fib(n - 1) + fib(n - 2)
+            }
+              if (n < 2) n else fib(n - 1) + fib(n - 2)
+   2) n else fib(n - 1) + fib(n -)
+            }
+       syntax error at line 4 

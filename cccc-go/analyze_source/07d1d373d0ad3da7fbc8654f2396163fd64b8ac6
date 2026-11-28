@@ -1,0 +1,6 @@
+ package p
+   func f(tems []int) {
+     for i := range item {
+  z    J      _ = i
+   pa }
+   += i

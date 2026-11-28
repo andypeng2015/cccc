@@ -1,0 +1,4 @@
+
+M Function( teger)
+Again:  If n > 0 Then Call Retry(nbuf(0 To n) Sub
+End Module

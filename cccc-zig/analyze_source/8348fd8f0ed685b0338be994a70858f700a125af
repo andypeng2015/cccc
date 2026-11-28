@@ -1,8 +1,0 @@
-
-fd {
-    if (a) {
-    
- } else if (b) {
-   } else{
- B        }
-}

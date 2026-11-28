@@ -1,0 +1,5 @@
+
+comptime {BB();
+BB();BB;
+Be();
+}

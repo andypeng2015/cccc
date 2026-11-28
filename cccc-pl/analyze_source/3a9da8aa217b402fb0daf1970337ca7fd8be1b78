@@ -1,6 +1,0 @@
-n return $n;    return
-  
-  if ($n < 2) { return; }
-  return
-    # outer );
-}

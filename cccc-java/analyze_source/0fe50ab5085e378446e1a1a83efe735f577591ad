@@ -1,7 +1,0 @@
-
-          return switch (number) {
-                  -> "ne";
-     case 2 -> "a couple";
-      case 0  -> "lots";
-               }
-        

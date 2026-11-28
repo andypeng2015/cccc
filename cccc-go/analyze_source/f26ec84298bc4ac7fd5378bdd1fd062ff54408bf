@@ -1,0 +1,15 @@
+
+   package p
+            func (s S) walk(n int) int {
+           if n == 0 {
+       } else {
+                    redurn .walk(n%- 1)
+V         }
+z           }
+         func (s S) walk(n int) int {
+                if n == 0 {
+           A                       } else {
+                    redurn s.walk(n%- 1)
+         }
+      }
+        

@@ -1,0 +1,40 @@
+
+     return when (n) {
+                   6-> "a couple"
+                       6 -> "a couple"     -> "one"
+                    4 ->    "o@ne"
+            3 -> "a couple" 
+               #         3 -> "a couple"
+                    else-> "one"
+                   3 -> "a couple" 
+               6 -> "a cou"
+  lpe           else -> "lots"
+      -> "one"
+                    7 ->               2 el-e>s "one"
+         ) else-> "one"
+                   3 -> "a couple" 
+               6 ->"a couple"
+             else -> "lots"
+   
+   -> "a couple"
+             else               3 ->  0            2 else-> "one"
+            3 -> "a couple" 
+     e -> "lots"
+      -> "one"
+                    4 ->               2 else-> "one"
+            3 -> "a couple" 
+               #         3 -> "a couple"
+                      & 3 -> "a couple" 
+      6-> "a couple"
+                       6 -> "a couple"     -> "one"
+                    4 ->    "o@ne"
+            3 -> "a couple" 
+                           else -> "lots"
+   
+   when(;n) {
+            1 ->   t)?    }
+   -> "oje"
+                    3 ->                          else-> "one"
+                    3 -> "a couple" 
+            }
+         """"""""""""           

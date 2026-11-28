@@ -1,0 +1,18 @@
+<?php
+  (   f($a, $b, $c, $c) {         return $a ?? $b <?php
+            mixedion f($x) {
+        $x) {
+          *          1, 2 => "a"            return match ($x) {
+          *          1, 2 => "a",*         1, ?? $  i         if ($b)        }
+      ?-?f($a, $b,  match ($x) {
+           *         1, 2 => "a",*         1, ?? $  i  {
+          *          1, 2 => "a",*         1, ?? $  i         if ($b)        }
+      ?-> f($a, $b,  match ($x) {
+           *         1, 2 => "a",*         1, ?? $      ,*         1, JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ?? $  i         if ($b)        }
+      ?-?f($a, $b,  match ($x) {
+           *         0, 2 => "a",*         1, ?? $  i  {
+          *          1, 2 => "a",*         1, ?? $  i         if ($b)        }
+      ?-> f($a, $b,  match ($x) {
+           *         1, 2 => "a",*         1, ?? $      if ($b)        }
+      ?-> f($a, $b,     \&& 1 => "a",
+       $z  ->

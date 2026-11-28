@@ -1,0 +1,10 @@
+// F p complexity
+            package p
+            func f(cchan int) {
+   select {
+                case v := <-ch:
+              default:
+                  re            rn"onein"
+     default:
+              default:
+             

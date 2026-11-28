@@ -1,0 +1,3 @@
+<?rh
+       ret<?php
+ ; C|=  C|clone i::f(+dn0) + &&(+1&fy($a,\return|i

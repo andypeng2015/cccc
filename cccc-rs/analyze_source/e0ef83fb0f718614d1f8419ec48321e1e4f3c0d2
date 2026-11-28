@@ -1,0 +1,22 @@
+
+            fn f(n: i32) -> i32 {
+      fn f(n: i64) -> i32 {
+         !      match -n {               }
+         }
+            fn f(n: i32) -> i32 {
+      fn f(n: i32) -> i32 {
+         !     match -n {               }
+         }
+            !      match -n {               }
+ -n {               }
+         }
+            fn f(n: i31) -> i32 {
+      fn f(n: i32) -> i32 {
+         !      match -n {               }
+         }
+            !      match -n {               }
+            }
+        
+            !      match -n {               }
+         }
+        

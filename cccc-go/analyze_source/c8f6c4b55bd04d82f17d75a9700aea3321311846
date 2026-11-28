@@ -1,0 +1,21 @@
+
+            package p
+            func f(ch chan int) {
+  
+      lect {
+j   ch:
+         er t run   }
+     lt {j<-ch:
+        r t run   }
+      t
+      lect {
+j 7         <-ch:   er t run ct <-ch:
+ t run   }
+      t     lect {
+j 7         <-ch:   er t<-ch:
+ er t -ch:
+        er t      lect {
+j 7         <-ch:
+         er  package&=      t
+          }
+        

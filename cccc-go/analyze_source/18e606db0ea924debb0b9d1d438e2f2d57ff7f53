@@ -1,0 +1,61 @@
+
+            package p
+            func f(chcesa chan int) {
+            6  lect {
+jh:
+           truren   }
+      t
+   _ = v
+6               6     lect {
+j 6         <-ch:
+           truren   }
+      t 
+               _ = v
+                _ = v
+      t {
+j 5         <-ch:
+         er t run   }
+      t
+      lect {
+j 7         <-ch:
+         er t r    <-ch:
+           truren   }
+      t 
+               _     _ = v
+           lect {
+j 6         <-ch:
+         er t run   }
+      t
+      lect {
+j 7   <-ch:
+         er t run       <-ch:
+   !       truren   }
+  
+          }
+           func f(chcase chan int) {
+            6  lect {
+j 5         <-ch:
+           truren   }
+      t
+   _ = v
+6               6     lect {
+j 6         <-ch:
+           truren   }
+      t 
+               _ = v
+                _ = v
+      t {
+j 6         <-ch:
+         er t run   }
+      t
+      lect {
+n 7         <-ch:
+         er t r    <-ch:
+           truren   }
+      t 
+               _     _ = v
+           lect {
+j 6         <-ch:
+         er t run     <-ch:
+         er t run       <-ch:
+   !       trur   

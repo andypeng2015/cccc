@@ -1,0 +1,7 @@
+
+      ing f(Object value) => switch (value) {
+   2       String ) => switch (value) {
+      case && < 10] => 'mjtched',
+        "   ched',"         _ => 'other',
+                };
+          

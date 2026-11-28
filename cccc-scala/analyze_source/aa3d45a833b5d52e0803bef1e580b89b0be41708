@@ -1,16 +1,0 @@
-
-nt =
-                    if (a) (if (b) 1 else 2) else 3
-
-       (a) (if (b) 2 else 2) else 3
-        if (a) (if (b) 2 else 2) el   t ==> 0
-         if (a) (if (b) 1 else 2)    catch
- => 0
-         if (a) (if (b) 1 else 2) else 3
-             if (a) (if (b) 1 else 2) else 3
-
-       (a) (if (b) 2 else 2) else 3
-        if (a) (if (b) 2 else 2) el   t ==> 0
-         if (a) (if (b) 1 else 2)    catch
- => 0
-         if (a) (if (b) 1 else 2) 

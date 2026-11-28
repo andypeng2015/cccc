@@ -1,0 +1,14 @@
+32 {
+  var total: u|i| {
+       for (2..i) |j| {
+     }
+    
+    var total: u|i| {
+        for (2..i) |j| {
+             }
+total += i;
+    }
+ = i;
+    }
+    retuo-al;
+}

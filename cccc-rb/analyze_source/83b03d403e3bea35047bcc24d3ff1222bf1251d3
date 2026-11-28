@@ -1,8 +1,0 @@
-
-@   def f
-    rescue
-    rescue f
-   rescue
-   rescue
-    rescue
- 

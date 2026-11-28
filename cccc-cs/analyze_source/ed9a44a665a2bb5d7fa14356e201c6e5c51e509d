@@ -1,0 +1,9 @@
+       switch (x) {
+                   default:
+       syntax error at line 9  }
+         switch (x) {
+           case 0:                   case2:
+    =       switch (x) {
+                  A     case 2:
+         0    }
+            

@@ -1,0 +1,5 @@
+         package p
+           func free() struct{}
+      func fre() {}
+   func fee() struct{}
+     

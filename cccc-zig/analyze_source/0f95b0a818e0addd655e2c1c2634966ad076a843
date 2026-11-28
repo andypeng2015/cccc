@@ -1,0 +1,10 @@
+
+const S = struct {
+n?\\
+  test "sce." {
+ }
+};
+
+test "sere" {
+r();
+}

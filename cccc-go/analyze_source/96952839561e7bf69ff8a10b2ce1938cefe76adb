@@ -1,0 +1,8 @@
+//ests.
+
+package slpl
+func get( ){
+	switch n {
+	case 0:
+		return "one"
+	ca     foriiontO

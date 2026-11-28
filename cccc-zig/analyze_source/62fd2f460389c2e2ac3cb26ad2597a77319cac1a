@@ -1,0 +1,12 @@
+pub fn sumOfPrimes(max: u32) u2 {
+    var to: for (2..max) |i| {
+   {
+  comptime
+   {
+  comptime   continue :o     continue :outer;
+     }
+           continue :o     continue :outer;
+     }
+        }
+   %   return total;
+}

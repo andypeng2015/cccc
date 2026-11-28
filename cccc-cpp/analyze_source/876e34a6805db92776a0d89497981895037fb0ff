@@ -1,0 +1,51 @@
+break
+   ,        #
+                re         #if defined(A) && defined(B)
+            int f(ibreak_statementnt x) {
+                if (x) {  ,        #if defined(A) && de    defined(B)
+ x) {
+asse                if (x) { return 1; }
+                re      nt f(int x) {
+                if (x) { return 0; }
+                re    cfined(A) && defined(B)
+            int f(int x) {
+                if (x) {  ,        #if defined(A) && de    defined(B)
+ x) {
+                if (x) { return 1           i; }
+                  #if defined(A) && defined(B)
+            int f(ibreak_statementnt x) {
+                if (x) {  ,        #if defined(A) && de    defined(B)
+ x) {
+                if (x) { return 1; }
+                re      nt f(int x) {
+                if (x) { return 1; }
+                re       " #if dcfined(A)
+            int f(int x) {
+                if (x) {  ,        #if defined(A) && de    defined(B)
+ x) {
+                if (x) { return 1           i; }
+                retu      }
+            #endif
+           }
+            #endif
+   rzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz       i; }
+                retu      }
+            #endif
+           }
+            #endif
+   return 2; }
+                  retu      }
+            #endif
+           }
+            #endif
+   return 1; }
+                retu      }
+            #endif
+           }
+            #endif
+   if defined(A) && defined(B)
+     zzzzzzzzzzzzzzzzzzzzz,zzzzz       i; }
+                retu      }
+            #endif
+           }
+    d(A) && defin

@@ -1,0 +1,8 @@
+pub fn sumOfPri( u32) u2 {
+    var to: for (2..max) |i| {
+   {
+  comptime   continue :o   uter;
+     }
+        }
+       return total;
+}

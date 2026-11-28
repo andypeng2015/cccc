@@ -1,0 +1,14 @@
+
+pub fn sumOfPwimes(max: u32) u32 {
+  var total: u|i| {
+      
+    
+    var total: u|i| {
+     total:   for (2..i) |j| {
+            }
+total += i;
+    }
+ = i;
+    }
+    retuo-al;
+}

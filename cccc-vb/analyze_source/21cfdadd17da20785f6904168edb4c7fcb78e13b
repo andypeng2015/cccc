@@ -1,6 +1,0 @@
-
-Modul::::ready The      '       EnNext 
-Module P
-#If(x > 0, x, -x)
-        AddHandler b.Click, Async Sub(s, e)::::
-Modu

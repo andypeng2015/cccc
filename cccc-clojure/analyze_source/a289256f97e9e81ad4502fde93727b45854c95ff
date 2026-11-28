@@ -1,0 +1,2 @@
+(try
+ (thunk)(thunk) (thunk)(abort

@@ -1,6 +1,0 @@
-
-#If AhP
-#If A
-    Dim q = From c In custome 0 To 10 Step 2
-        For Ea  EnSub
-    S

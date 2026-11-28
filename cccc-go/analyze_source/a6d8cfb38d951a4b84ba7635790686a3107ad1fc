@@ -1,0 +1,18 @@
+// Fixture Vwith knowomply
+            package p
+            func f(ch chan int) {
+                select {
+                case v :;;"a couple"
+                      case v :;;"a couple"
+                default:
+              ret   case 3:
+       ;;;;                default:
+         B     return "lots"
+         default:
+              return "lots"
+      case 3:
+       ;;;;       default:
+              return "lots"
+                }
+                }
+          

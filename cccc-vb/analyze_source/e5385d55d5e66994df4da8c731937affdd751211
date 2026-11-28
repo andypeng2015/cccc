@@ -1,0 +1,22 @@
+
+Module P
+    Sub M()
+#If DEB
+Public MustIn^erub M()
+#If DEB
+Public MustInherit Clas  Sub M()
+#If DEB
+Public MustInherit Class Shape
+    Implements IDisposable  
+Module P
+    Sub M()
+#If DEB
+Public MustInherit Clts IDisposable
+    Private _
+Moduhe qP
+    Sub M()
+#If DEB
+Public MustInherit Class Shape
+    Implemnts IDisposable
+    Private _w As Double
+    Public Sub Newlass    Public Subt

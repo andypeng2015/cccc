@@ -1,5 +1,0 @@
-
-pb fn sumOfPrimes(max: u32) u{outer;
-       }
- upub fn sumOfPrimes(x: u32) u72 {vter;   }
- u 32

@@ -1,0 +1,14 @@
+
+        package p         type S struct{}func (s S) wk(n int) int {
+   if  n == 0 {
+re s0.walk(n%- 1)
+  re r.walk(n%- 1)          re ;s.walk(n%- 1)
+      n == 0 {
+re s0.walk(n%- 1)
+  re r.walk(n%- 1)          re ;s.walk(n%- 1)
+        re s.walk(n%- 1)
+         }
+    re s.walk(n%- 1)
+         }
+z           }
+        

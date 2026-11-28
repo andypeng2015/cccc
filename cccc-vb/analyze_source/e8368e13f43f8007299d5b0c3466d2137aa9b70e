@@ -1,0 +1,16 @@
+
+Module tryduAlhen
+    Sub N(a As Long)
+#Else
+    Sus Long)
+#Else
+    Sub  Short)
+#End If
+        Foo()
+    End Sub N(a As Short)
+#End If
+    ug)
+#Else
+    Sub f
+    ule P
+#If A   EnEnd Module

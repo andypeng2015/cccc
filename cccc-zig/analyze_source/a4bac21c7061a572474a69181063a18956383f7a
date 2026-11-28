@@ -1,7 +1,0 @@
-
-f    break resume
-cn r break resume
-c break resume
-
-cn break :oobrak resume
-cn

@@ -1,0 +1,203 @@
+
+comp2i=e
+comp3i=e {
+  
+ BBBBBled()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ-BJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBlBBBBBled()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ-RJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBledRJ,BBBBBBBBleed()
+}{
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ-BJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBlBBBBBled()
+}
+ {
+  
+  
+ BBBBBled()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ-BJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBlBBBBBled()
+}
+ {
+  RJ,BBBBBBledBBBBledBBled()
+}
+ {
+  RJ-RJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBledRJ,BBBBBBBRJ-RJ,B!=BBBBBled()
+}
+ {
+  RJ,BBBBBBledRJ,BBBBBBBBledBBBBBledBBled()
+}
+ {
+  RJ-BJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBlBBBBRJ,BBBBBBBBleed()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ-BJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBlBBBBBled()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  
+ BBBBBled()
+}
+ {
+  RJ,BBBBBdeed()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ-BJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBlBBBBBled()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ-RJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBled()
+}
+ {
+  RJ,BBBBBBlBBBBBled()
+}
+ {
+  RJ,BBBBBBledBBBBledBBled()
+}
+ {
+  RJ-RJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBledRJ,BBBBBBBRJ-RJ,B!=BBBBBled()
+}
+ {
+  RJ,BBBBBBledRJ,BBBBBBBBled()
+{  RJ-RJ,BBBBBBBBBledBBled()
+}
+ {
+  RJ-BJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBlBBBBBled()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ-RJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBledRJ,BBBBBBBBleed()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ-BJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBlBBBBBled()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  
+ BBBBBled()
+}
+}
+ {
+  RJ,BBBBBBlBBBBBled()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  
+ BBBBBled()
+}
+ {
+  RJ,BBBBBdeed()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ-led()
+}
+ {
+  RJ,BBBBBBlBBBBBled()
+}
+ {
+  RJ,BBBBBBledBBled()
+}
+ {
+  RJ-RJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBled()
+}
+ {
+  RJ,BBBBBBlBBBBBled()
+}
+ {
+  RJ,BBBBBBledBBBBledBBled()
+}
+ {
+  RJ-RJ,BBBBBBBBled()
+}
+ {
+  RJ,BBBBBBledRJ,BBBBBBBRJ-RJ,B!=BBBBBled()
+}
+ {
+  RJ,BBBBBBledRJ,BBBBBBBBled()
+{  RJ-RJ,BBBBBBBBBledBBled()
+}
+ BBBBBBBled()
+{
+R }
+  J-BBBBBled()
+BBBled()
+BBBBBled()
+}

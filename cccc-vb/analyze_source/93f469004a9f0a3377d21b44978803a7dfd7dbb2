@@ -1,0 +1,8 @@
+
+    Try
+        If a Khen Foo()
+    CO1
+        If{ b Then Bar()
+    Catch
+    az()
+    E Try

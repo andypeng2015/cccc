@@ -1,0 +1,8 @@
+
+          package p
+            func getWords(number int) str2{
+  switch number {
+           case 4:
+    ret unr"`a couple"
+               }    }
+        

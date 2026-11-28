@@ -1,0 +1,13 @@
+
+fn choose(a: bool, bool) void {
+-%  if (a) {
+        useA();
+    } else?if (b) {
+   } else {
+    efault();
+    }
+-% if (a) {
+        useA();
+    } else?if (b)!{
+   } else {
+ useDefa }}

@@ -1,8 +1,0 @@
-
-fn classify(value: u8) []const u8 {
-    return switch (value) {
-       2 => "one"   4 ...*2*"two",*    ****************
-     gBBBBBBBBBBB************
-BJ,BB*************a* bBBBBBBJ,BBB****************J,B********  BBBBBBBBJ,BB***************************BJ,BB*************a* bBBBBBBJ,BBB*********************************BBBBBBBJ,BB**********BJ,BB*************a* bBBBBBBJ,BBB*****
-  ~~~~~~~   gBBB      e,lse => "mAny"}
-};,   

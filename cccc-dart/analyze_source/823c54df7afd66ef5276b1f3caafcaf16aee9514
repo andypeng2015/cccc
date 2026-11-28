@@ -1,0 +1,7 @@
+),
+       ),        class C {
+             C();{}
+     factory C.named() => C();
+  ~$   e=  1;
+     {}
+              factory C.           C(

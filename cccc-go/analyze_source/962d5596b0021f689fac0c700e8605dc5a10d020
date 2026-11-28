@@ -1,0 +1,3 @@
+   package p
+ func f(cnt) {       select {    case v := <-ch:       select {
+     case v :   select {             case v : n < 4 { +

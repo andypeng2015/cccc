@@ -1,0 +1,36 @@
+
+            package p
+            func f(a, r bool) {
+        5   if a {
+                } else if b {;    } else {
+           FFG    }
+  
+             e if b {
+                } else {
+      *    FFGFFFFFFFFFFFFFFFF     }
+     if a {
+                } else if b {
+            } else {
+           FFGFFFFFFFFFFFGFFFFFFFFFFFFFFFF     }
+  
+             e if b {
+                } else {
+      *    FFGFFFFFFFFFFFFFFFF     }
+     i if a {
+                } else if b {;     }
+  
+        if b {
+                } else {
+      *    FFGFFFFFFFFFFFFFFFF    }
+     if a {
+         if b {
+              } else {
+           FFGFFFFFFFFFFFGFFFFF          e if b {
+                } else {
+      *    FFGFFFFFFFFF   }
+     if a {
+
+                } else {FFFFFFFFFFFFFFF     }
+  
+      }
+        

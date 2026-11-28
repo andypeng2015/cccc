@@ -1,0 +1,13 @@
+
+Public MustInheritpe
+    Imp
+    Public Shared Operator _w As Double
+    Public Sub New()
+    End Sub
+  
+    End Sub
+     Operator _w As Double
+    Public Sub New()
+    End Sub
+(roperty Color As Integer
+End Interface
